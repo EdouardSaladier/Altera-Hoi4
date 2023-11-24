@@ -1,0 +1,19 @@
+state={
+	id=852
+	name="STATE_852" # Gwelow
+	manpower = 9247260
+	state_category = large_city
+	history={
+		owner = GWL
+		add_core_of = GWL
+		victory_points = { 10229 1 }
+		victory_points = { 10246 10 }
+		victory_points = { 10320 1 }
+		victory_points = { 10326 80 }
+		victory_points = { 10405 1 }
+	}
+	provinces={
+		10229 10246 10320 10326 10405
+	}
+	local_supplies=0.0
+}

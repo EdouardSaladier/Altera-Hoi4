@@ -1,0 +1,19 @@
+state={
+	id=682
+	name="STATE_682" # Ninivia
+	manpower = 8475020
+	state_category = large_city
+	history={
+		owner = NIN
+		add_core_of = NIN
+		victory_points = { 9121 20 }
+		victory_points = { 9146 40 }
+		victory_points = { 9231 1 }
+		victory_points = { 9242 80 }
+		victory_points = { 9251 80 }
+	}
+	provinces={
+		9121 9146 9231 9242 9251
+	}
+	local_supplies=0.0
+}

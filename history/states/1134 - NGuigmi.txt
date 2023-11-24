@@ -1,0 +1,14 @@
+state={
+	id=1134
+	name="STATE_1134" # N'Guigmi
+	manpower = 154100
+	state_category = rural
+	history={
+		owner = GAR
+		add_core_of = GAR
+	}
+	provinces={
+		11982 12070
+	}
+	local_supplies=0.0
+}

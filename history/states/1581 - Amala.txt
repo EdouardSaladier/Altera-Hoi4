@@ -1,0 +1,14 @@
+state={
+	id=1581
+	name="STATE_1581" # Amala
+	manpower = 580
+	state_category = pastoral
+	history={
+		owner = AAL
+		add_core_of = AAL
+	}
+	provinces={
+		14357
+	}
+	local_supplies=0.0
+}

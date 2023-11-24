@@ -1,0 +1,14 @@
+state={
+	id=1921
+	name="STATE_1921" # Belamora
+	manpower = 2480
+	state_category = rural
+	history={
+		owner = BEA
+		add_core_of = BEA
+	}
+	provinces={
+		16104
+	}
+	local_supplies=0.0
+}

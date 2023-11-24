@@ -1,0 +1,17 @@
+state={
+	id=617
+	name="STATE_617" # Azores
+	manpower = 550850
+	state_category = town
+	history={
+		owner = AZO
+		add_core_of = AZO
+		victory_points = { 8814 5 }
+		victory_points = { 8837 2 }
+		victory_points = { 8979 2 }
+	}
+	provinces={
+		8628 8643 8691 8768 8785 8814 8837 8929 8941 8962 8979 9069 9109
+	}
+	local_supplies=0.0
+}

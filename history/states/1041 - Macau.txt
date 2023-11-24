@@ -1,0 +1,14 @@
+state={
+	id=1041
+	name="STATE_1041" # Macau
+	manpower = 90
+	state_category = pastoral
+	history={
+		owner = MCA
+		add_core_of = MCA
+	}
+	provinces={
+		11470
+	}
+	local_supplies=0.0
+}

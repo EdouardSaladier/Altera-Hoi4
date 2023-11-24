@@ -1,0 +1,14 @@
+state={
+	id=1840
+	name="STATE_1840" # Jada
+	manpower = 570
+	state_category = rural
+	history={
+		owner = JAD
+		add_core_of = JAD
+	}
+	provinces={
+		15575
+	}
+	local_supplies=0.0
+}

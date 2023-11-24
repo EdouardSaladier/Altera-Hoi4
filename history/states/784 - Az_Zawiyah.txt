@@ -1,0 +1,19 @@
+state={
+	id=784
+	name="STATE_784" # Az Zawiyah
+	manpower = 2343792
+	state_category = large_town
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 9739 20 }
+		victory_points = { 9770 5 }
+		victory_points = { 9793 80 }
+		victory_points = { 9838 40 }
+		victory_points = { 9839 20 }
+	}
+	provinces={
+		9739 9770 9793 9838 9839 9854
+	}
+	local_supplies=0.0
+}

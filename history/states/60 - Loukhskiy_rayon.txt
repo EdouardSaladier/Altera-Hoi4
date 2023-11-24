@@ -1,0 +1,16 @@
+state={
+	id=60
+	name="STATE_60" # Loukhskiy rayon
+	manpower = 26391
+	state_category = rural
+	history={
+		owner = SKO
+		add_core_of = SKO
+		victory_points = { 2684 2 }
+		victory_points = { 2871 5 }
+	}
+	provinces={
+		2684 2791 2804 2870 2871 2900 2984 3055
+	}
+	local_supplies=0.0
+}

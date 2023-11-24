@@ -1,0 +1,16 @@
+state={
+	id=85
+	name="STATE_85" # Suðurland
+	manpower = 48788
+	state_category = rural
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = { 3143 5 }
+		victory_points = { 3330 2 }
+	}
+	provinces={
+		3143 3144 3330 3370 3398
+	}
+	local_supplies=0.0
+}

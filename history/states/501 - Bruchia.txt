@@ -1,0 +1,15 @@
+state={
+	id=501
+	name="STATE_501" # Bruchia
+	manpower = 544309
+	state_category = large_town
+	history={
+		owner = BRC
+		add_core_of = BRC
+		victory_points = { 7768 40 }
+	}
+	provinces={
+		7768
+	}
+	local_supplies=0.0
+}

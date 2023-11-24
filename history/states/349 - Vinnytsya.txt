@@ -1,0 +1,17 @@
+state={
+	id=349
+	name="STATE_349" # Vinnytsya
+	manpower = 1675439
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6542 40 }
+		victory_points = { 6565 5 }
+		victory_points = { 6759 5 }
+	}
+	provinces={
+		6542 6565 6759
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1804
+	name="STATE_1804" # Kakadu
+	manpower = 4800
+	state_category = rural
+	history={
+		owner = KAK
+		add_core_of = KAK
+		victory_points = { 15378 1 }
+	}
+	provinces={
+		15377 15378
+	}
+	local_supplies=0.0
+}

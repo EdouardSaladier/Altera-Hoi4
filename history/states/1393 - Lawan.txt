@@ -1,0 +1,16 @@
+state={
+	id=1393
+	name="STATE_1393" # Lawan
+	manpower = 310158
+	state_category = town
+	history={
+		owner = LAW
+		add_core_of = LAW
+		victory_points = { 13405 5 }
+		victory_points = { 13491 2 }
+	}
+	provinces={
+		13405 13491
+	}
+	local_supplies=0.0
+}

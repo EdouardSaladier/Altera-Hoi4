@@ -1,0 +1,16 @@
+state={
+	id=113
+	name="STATE_113" # Dalarna
+	manpower = 751901
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 3897 2 }
+		victory_points = { 3911 10 }
+	}
+	provinces={
+		3897 3911
+	}
+	local_supplies=0.0
+}

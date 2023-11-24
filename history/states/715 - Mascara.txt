@@ -1,0 +1,19 @@
+state={
+	id=715
+	name="STATE_715" # Mascara
+	manpower = 7561671
+	state_category = large_city
+	history={
+		owner = ALN
+		add_core_of = ALN
+		victory_points = { 9315 80 }
+		victory_points = { 9332 5 }
+		victory_points = { 9375 20 }
+		victory_points = { 9410 80 }
+		victory_points = { 9471 20 }
+	}
+	provinces={
+		9315 9332 9375 9410 9471
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1329
+	name="STATE_1329" # Mbomou
+	manpower = 686502
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 13458 5 }
+	}
+	provinces={
+		13026 13225 13364 13392 13408 13458
+	}
+	local_supplies=0.0
+}

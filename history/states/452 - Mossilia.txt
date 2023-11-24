@@ -1,0 +1,15 @@
+state={
+	id=452
+	name="STATE_452" # Mossilia
+	manpower = 119450
+	state_category = town
+	history={
+		owner = MOS
+		add_core_of = MOS
+		victory_points = { 7398 5 }
+	}
+	provinces={
+		7398
+	}
+	local_supplies=0.0
+}

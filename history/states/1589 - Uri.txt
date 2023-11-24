@@ -1,0 +1,15 @@
+state={
+	id=1589
+	name="STATE_1589" # Uri
+	manpower = 79108
+	state_category = town
+	history={
+		owner = URI
+		add_core_of = URI
+		victory_points = { 14396 1 }
+	}
+	provinces={
+		14396
+	}
+	local_supplies=0.0
+}

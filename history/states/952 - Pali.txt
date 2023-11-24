@@ -1,0 +1,18 @@
+state={
+	id=952
+	name="STATE_952" # Pali
+	manpower = 15330485
+	state_category = large_city
+	history={
+		owner = MAW
+		add_core_of = MAW
+		victory_points = { 10825 80 }
+		victory_points = { 10897 40 }
+		victory_points = { 10988 10 }
+		victory_points = { 11079 20 }
+	}
+	provinces={
+		10825 10897 10988 11079
+	}
+	local_supplies=0.0
+}

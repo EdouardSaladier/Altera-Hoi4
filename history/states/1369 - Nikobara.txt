@@ -1,0 +1,14 @@
+state={
+	id=1369
+	name="STATE_1369" # Nikobara
+	manpower = 40580
+	state_category = town
+	history={
+		owner = NIK
+		add_core_of = NIK
+	}
+	provinces={
+		13281 13336
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1368
+	name="STATE_1368" # Lacan
+	manpower = 403250
+	state_category = town
+	history={
+		owner = LAC
+		add_core_of = LAC
+		victory_points = { 13249 40 }
+	}
+	provinces={
+		13249
+	}
+	local_supplies=0.0
+}

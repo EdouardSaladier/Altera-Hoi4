@@ -1,0 +1,20 @@
+state={
+	id=1411
+	name="STATE_1411" # Epsumba
+	manpower = 3522692
+	state_category = large_town
+	history={
+		owner = EPS
+		add_core_of = EPS
+		victory_points = { 13503 40 }
+		victory_points = { 13508 2 }
+		victory_points = { 13590 5 }
+		victory_points = { 13596 5 }
+		victory_points = { 13622 20 }
+		victory_points = { 13623 20 }
+	}
+	provinces={
+		13503 13508 13563 13590 13596 13622 13623
+	}
+	local_supplies=0.0
+}

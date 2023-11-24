@@ -1,0 +1,15 @@
+state={
+	id=1721
+	name="STATE_1721" # Bali
+	manpower = 4363320
+	state_category = megalopolis
+	history={
+		owner = BLI
+		add_core_of = BLI
+		victory_points = { 14941 80 }
+	}
+	provinces={
+		14941
+	}
+	local_supplies=0.0
+}

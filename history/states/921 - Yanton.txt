@@ -1,0 +1,22 @@
+state={
+	id=921
+	name="STATE_921" # Yanton
+	manpower = 5148936
+	state_category = city
+	history={
+		owner = YAN
+		add_core_of = YAN
+		victory_points = { 10656 1 }
+		victory_points = { 10668 20 }
+		victory_points = { 10740 10 }
+		victory_points = { 10754 1 }
+		victory_points = { 10800 1 }
+		victory_points = { 10869 80 }
+		victory_points = { 10900 1 }
+		victory_points = { 10901 1 }
+	}
+	provinces={
+		10656 10668 10740 10754 10800 10869 10900 10901
+	}
+	local_supplies=0.0
+}

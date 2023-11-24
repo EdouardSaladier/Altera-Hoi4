@@ -1,0 +1,18 @@
+state={
+	id=1348
+	name="STATE_1348" # Yidah
+	manpower = 1407441
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 13109 1 }
+		victory_points = { 13154 10 }
+		victory_points = { 13162 5 }
+		victory_points = { 13203 20 }
+	}
+	provinces={
+		13109 13154 13162 13203
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=924
+	name="STATE_924" # Sikhim
+	manpower = 610757
+	state_category = large_town
+	history={
+		owner = SIH
+		add_core_of = SIH
+		victory_points = { 10679 20 }
+	}
+	provinces={
+		10679
+	}
+	local_supplies=0.0
+}

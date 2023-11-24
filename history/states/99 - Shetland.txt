@@ -1,0 +1,17 @@
+state={
+	id=99
+	name="STATE_99" # Shetland
+	manpower = 129889
+	state_category = town
+	history={
+		owner = SHE
+		add_core_of = SHE
+		victory_points = { 3746 5 }
+		victory_points = { 3747 1 }
+		victory_points = { 3885 1 }
+	}
+	provinces={
+		3475 3485 3548 3646 3647 3676 3746 3747 3885 3910
+	}
+	local_supplies=0.0
+}

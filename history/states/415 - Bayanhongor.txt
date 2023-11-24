@@ -1,0 +1,19 @@
+state={
+	id=415
+	name="STATE_415" # Bayanhongor
+	manpower = 22380
+	state_category = pastoral
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7111 1 }
+		victory_points = { 7159 5 }
+		victory_points = { 7174 1 }
+		victory_points = { 7462 1 }
+		victory_points = { 7599 1 }
+	}
+	provinces={
+		7111 7159 7174 7462 7599
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1613
+	name="STATE_1613" # Wara
+	manpower = 1670
+	state_category = rural
+	history={
+		owner = WAR
+		add_core_of = WAR
+	}
+	provinces={
+		14490
+	}
+	local_supplies=0.0
+}

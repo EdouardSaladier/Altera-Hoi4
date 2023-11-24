@@ -1,0 +1,16 @@
+state={
+	id=566
+	name="STATE_566" # Apulia
+	manpower = 4211659
+	state_category = city
+	history={
+		owner = ITL
+		add_core_of = ITL
+		victory_points = { 8209 20 }
+		victory_points = { 8280 40 }
+	}
+	provinces={
+		8209 8280
+	}
+	local_supplies=0.0
+}

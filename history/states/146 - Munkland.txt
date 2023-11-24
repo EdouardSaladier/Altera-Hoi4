@@ -1,0 +1,20 @@
+state={
+	id=146
+	name="STATE_146" # Munkland
+	manpower = 1146080
+	state_category = town
+	history={
+		owner = MUK
+		add_core_of = MUK
+		victory_points = { 4398 5 }
+		victory_points = { 4543 5 }
+		victory_points = { 4692 1 }
+		victory_points = { 4794 1 }
+		victory_points = { 5100 2 }
+		victory_points = { 5422 5 }
+	}
+	provinces={
+		4318 4359 4397 4398 4425 4543 4595 4603 4604 4624 4636 4691 4692 4719 4781 4794 4846 4855 4867 4950 4951 4970 5100 5306 5413 5422
+	}
+	local_supplies=0.0
+}

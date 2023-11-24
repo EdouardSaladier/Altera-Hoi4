@@ -1,0 +1,24 @@
+state={
+	id=124
+	name="STATE_124" # Leningrad
+	manpower = 1775778
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4027 2 }
+		victory_points = { 4045 5 }
+		victory_points = { 4193 10 }
+		victory_points = { 4199 10 }
+		victory_points = { 4210 40 }
+		victory_points = { 4248 5 }
+		victory_points = { 4254 10 }
+		victory_points = { 4292 2 }
+		victory_points = { 4353 1 }
+		victory_points = { 4426 10 }
+	}
+	provinces={
+		4027 4045 4164 4193 4199 4210 4211 4248 4254 4292 4353 4426 4458
+	}
+	local_supplies=0.0
+}

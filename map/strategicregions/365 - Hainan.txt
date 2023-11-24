@@ -1,0 +1,9 @@
+strategic_region={
+	id=365
+	name="STRATEGICREGION_365" # Hainan
+	provinces={
+		11746 11747 11904
+	}
+	weather={
+	}
+}

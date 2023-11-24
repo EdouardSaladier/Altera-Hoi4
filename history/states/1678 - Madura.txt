@@ -1,0 +1,15 @@
+state={
+	id=1678
+	name="STATE_1678" # Madura
+	manpower = 4032040
+	state_category = megalopolis
+	history={
+		owner = MDU
+		add_core_of = MDU
+		victory_points = { 14787 10 }
+	}
+	provinces={
+		14787 14802
+	}
+	local_supplies=0.0
+}

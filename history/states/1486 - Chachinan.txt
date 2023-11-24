@@ -1,0 +1,16 @@
+state={
+	id=1486
+	name="STATE_1486" # Chachinan
+	manpower = 8650
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13919 20 }
+		victory_points = { 13961 5 }
+	}
+	provinces={
+		13919 13961 14128
+	}
+	local_supplies=0.0
+}

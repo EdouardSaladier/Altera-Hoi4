@@ -1,0 +1,15 @@
+state={
+	id=477
+	name="STATE_477" # Winnebagee
+	manpower = 133417
+	state_category = town
+	history={
+		owner = WIE
+		add_core_of = WIE
+		victory_points = { 7605 2 }
+	}
+	provinces={
+		7605
+	}
+	local_supplies=0.0
+}

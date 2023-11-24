@@ -1,0 +1,20 @@
+state={
+	id=839
+	name="STATE_839" # Garwal
+	manpower = 10200
+	state_category = pastoral
+	history={
+		owner = GAW
+		add_core_of = GAW
+		victory_points = { 10139 10 }
+		victory_points = { 10175 80 }
+		victory_points = { 10211 20 }
+		victory_points = { 10243 40 }
+		victory_points = { 10244 80 }
+		victory_points = { 10245 5 }
+	}
+	provinces={
+		10139 10175 10211 10243 10244 10245
+	}
+	local_supplies=0.0
+}

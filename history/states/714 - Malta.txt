@@ -1,0 +1,15 @@
+state={
+	id=714
+	name="STATE_714" # Malta
+	manpower = 517038
+	state_category = megalopolis
+	history={
+		owner = MTA
+		add_core_of = MTA
+		victory_points = { 9303 5 }
+	}
+	provinces={
+		9303
+	}
+	local_supplies=0.0
+}

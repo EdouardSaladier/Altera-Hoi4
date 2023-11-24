@@ -1,0 +1,22 @@
+state={
+	id=599
+	name="STATE_599" # Allegheny
+	manpower = 21300
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8490 5 }
+		victory_points = { 8641 5 }
+		victory_points = { 8655 2 }
+		victory_points = { 8656 5 }
+		victory_points = { 8742 10 }
+		victory_points = { 8794 5 }
+		victory_points = { 8795 5 }
+		victory_points = { 8882 5 }
+	}
+	provinces={
+		8490 8641 8655 8656 8742 8794 8795 8882
+	}
+	local_supplies=0.0
+}

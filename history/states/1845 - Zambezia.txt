@@ -1,0 +1,14 @@
+state={
+	id=1845
+	name="STATE_1845" # Zambezia
+	manpower = 1936780
+	state_category = large_town
+	history={
+		owner = ROV
+		add_core_of = ROV
+	}
+	provinces={
+		15602 15631 15747 15766 15787
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1863
+	name="STATE_1863" # Tafahi
+	manpower = 610
+	state_category = rural
+	history={
+		owner = TAF
+		add_core_of = TAF
+	}
+	provinces={
+		15702 15710 15734
+	}
+	local_supplies=0.0
+}

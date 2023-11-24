@@ -1,0 +1,14 @@
+state={
+	id=248
+	name="STATE_248" # Haisla
+	manpower = 5340
+	state_category = pastoral
+	history={
+		owner = HAI
+		add_core_of = HAI
+	}
+	provinces={
+		5487 5709
+	}
+	local_supplies=0.0
+}

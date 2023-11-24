@@ -1,0 +1,15 @@
+state={
+	id=1822
+	name="STATE_1822" # Sava
+	manpower = 1303614
+	state_category = large_town
+	history={
+		owner = MER
+		add_core_of = MER
+		victory_points = { 15464 5 }
+	}
+	provinces={
+		15464 15546
+	}
+	local_supplies=0.0
+}

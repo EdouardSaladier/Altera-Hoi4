@@ -1,0 +1,21 @@
+state={
+	id=374
+	name="STATE_374" # Gyor-Moson-Sopron
+	manpower = 1792255
+	state_category = large_town
+	history={
+		owner = HUN
+		add_core_of = HUN
+		victory_points = { 6770 5 }
+		victory_points = { 6883 80 }
+		victory_points = { 6985 10 }
+		victory_points = { 7023 20 }
+		victory_points = { 7145 10 }
+		victory_points = { 7166 5 }
+		victory_points = { 7203 2 }
+	}
+	provinces={
+		6770 6883 6985 7023 7145 7166 7203
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1547
+	name="STATE_1547" # Yawa
+	manpower = 114569
+	state_category = large_town
+	history={
+		owner = YAA
+		add_core_of = YAA
+		victory_points = { 14224 1 }
+	}
+	provinces={
+		14224
+	}
+	local_supplies=0.0
+}

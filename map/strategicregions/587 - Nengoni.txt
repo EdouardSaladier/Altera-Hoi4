@@ -1,0 +1,9 @@
+strategic_region={
+	id=587
+	name="STRATEGICREGION_587" # Nengoni
+	provinces={
+		16329
+	}
+	weather={
+	}
+}

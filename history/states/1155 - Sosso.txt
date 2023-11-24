@@ -1,0 +1,15 @@
+state={
+	id=1155
+	name="STATE_1155" # Sosso
+	manpower = 57480
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12186 5 }
+	}
+	provinces={
+		12073 12186
+	}
+	local_supplies=0.0
+}

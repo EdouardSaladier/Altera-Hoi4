@@ -1,0 +1,15 @@
+state={
+	id=1525
+	name="STATE_1525" # Japi
+	manpower = 411959
+	state_category = large_town
+	history={
+		owner = JAI
+		add_core_of = JAI
+		victory_points = { 14134 20 }
+	}
+	provinces={
+		14134
+	}
+	local_supplies=0.0
+}

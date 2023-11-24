@@ -1,0 +1,9 @@
+strategic_region={
+	id=54
+	name="STRATEGICREGION_54" # Mammoth Island
+	provinces={
+		1635
+	}
+	weather={
+	}
+}

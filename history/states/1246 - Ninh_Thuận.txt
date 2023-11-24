@@ -1,0 +1,15 @@
+state={
+	id=1246
+	name="STATE_1246" # Ninh Thuận
+	manpower = 3474246
+	state_category = large_city
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 12596 40 }
+	}
+	provinces={
+		12596
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1047
+	name="STATE_1047" # Leipan
+	manpower = 6982305
+	state_category = metropolis
+	history={
+		owner = LEI
+		add_core_of = LEI
+		victory_points = { 11507 80 }
+		victory_points = { 11634 20 }
+	}
+	provinces={
+		11507 11634
+	}
+	local_supplies=0.0
+}

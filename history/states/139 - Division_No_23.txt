@@ -1,0 +1,14 @@
+state={
+	id=139
+	name="STATE_139" # Division No. 23
+	manpower = 60570
+	state_category = rural
+	history={
+		owner = ATH
+		add_core_of = ATH
+	}
+	provinces={
+		4209 4238 4239 4240 4241 4262 4276 4406 4419 4444 4453 4478 4488 4501 4502 4532 4562 4666 4731
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1802
+	name="STATE_1802" # Takananan
+	manpower = 15850
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15446 5 }
+	}
+	provinces={
+		15358 15367 15446
+	}
+	local_supplies=0.0
+}

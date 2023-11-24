@@ -1,0 +1,19 @@
+state={
+	id=1387
+	name="STATE_1387" # Ticar
+	manpower = 4587337
+	state_category = city
+	history={
+		owner = TIC
+		add_core_of = TIC
+		victory_points = { 13371 5 }
+		victory_points = { 13384 20 }
+		victory_points = { 13407 40 }
+		victory_points = { 13420 5 }
+		victory_points = { 13507 10 }
+	}
+	provinces={
+		13371 13384 13407 13420 13507
+	}
+	local_supplies=0.0
+}

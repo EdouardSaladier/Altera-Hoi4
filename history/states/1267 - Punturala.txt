@@ -1,0 +1,15 @@
+state={
+	id=1267
+	name="STATE_1267" # Punturala
+	manpower = 14787199
+	state_category = megalopolis
+	history={
+		owner = PUT
+		add_core_of = PUT
+		victory_points = { 12741 80 }
+	}
+	provinces={
+		12741
+	}
+	local_supplies=0.0
+}

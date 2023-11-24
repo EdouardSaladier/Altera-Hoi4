@@ -1,0 +1,15 @@
+state={
+	id=1556
+	name="STATE_1556" # Oyssinia
+	manpower = 4967616
+	state_category = large_city
+	history={
+		owner = OYS
+		add_core_of = OYS
+		victory_points = { 14254 10 }
+	}
+	provinces={
+		14254 14260
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1664
+	name="STATE_1664" # Betawa
+	manpower = 5637001
+	state_category = megalopolis
+	history={
+		owner = BTW
+		add_core_of = BTW
+		victory_points = { 14715 80 }
+	}
+	provinces={
+		14715
+	}
+	local_supplies=0.0
+}

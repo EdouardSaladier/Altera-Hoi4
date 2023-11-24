@@ -1,0 +1,15 @@
+state={
+	id=1143
+	name="STATE_1143" # Poctlan
+	manpower = 1390
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12016 5 }
+	}
+	provinces={
+		12016
+	}
+	local_supplies=0.0
+}

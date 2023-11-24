@@ -1,0 +1,15 @@
+state={
+	id=813
+	name="STATE_813" # Nalut
+	manpower = 36323
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 9943 5 }
+	}
+	provinces={
+		9943 10050 10069 10070
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1960
+	name="STATE_1960" # Hardap
+	manpower = 30811
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+		victory_points = { 16413 5 }
+	}
+	provinces={
+		16413 16446 16467 16537
+	}
+	local_supplies=0.0
+}

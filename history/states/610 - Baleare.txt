@@ -1,0 +1,17 @@
+state={
+	id=610
+	name="STATE_610" # Baleare
+	manpower = 1585348
+	state_category = city
+	history={
+		owner = BLA
+		add_core_of = BLA
+		victory_points = { 8576 5 }
+		victory_points = { 8589 80 }
+		victory_points = { 8770 5 }
+	}
+	provinces={
+		8576 8589 8744 8770 8838
+	}
+	local_supplies=0.0
+}

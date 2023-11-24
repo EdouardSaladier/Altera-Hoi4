@@ -1,0 +1,16 @@
+state={
+	id=1580
+	name="STATE_1580" # Tolaga
+	manpower = 1883773
+	state_category = city
+	history={
+		owner = TOA
+		add_core_of = TOA
+		victory_points = { 14356 40 }
+		victory_points = { 14374 1 }
+	}
+	provinces={
+		14356 14374 14494
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=611
+	name="STATE_611" # Tunceli
+	manpower = 826053
+	state_category = town
+	history={
+		owner = CAP
+		add_core_of = CAP
+		victory_points = { 8578 5 }
+		victory_points = { 8600 5 }
+		victory_points = { 8612 10 }
+		victory_points = { 8799 5 }
+	}
+	provinces={
+		8578 8600 8612 8799
+	}
+	local_supplies=0.0
+}

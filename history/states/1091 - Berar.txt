@@ -1,0 +1,19 @@
+state={
+	id=1091
+	name="STATE_1091" # Berar
+	manpower = 35003673
+	state_category = megalopolis
+	history={
+		owner = BER
+		add_core_of = BER
+		victory_points = { 11787 20 }
+		victory_points = { 11806 40 }
+		victory_points = { 11931 10 }
+		victory_points = { 12002 40 }
+		victory_points = { 12052 10 }
+	}
+	provinces={
+		11787 11806 11931 12002 12052
+	}
+	local_supplies=0.0
+}

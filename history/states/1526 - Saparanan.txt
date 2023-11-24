@@ -1,0 +1,15 @@
+state={
+	id=1526
+	name="STATE_1526" # Saparanan
+	manpower = 6300
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14194 5 }
+	}
+	provinces={
+		14135 14194
+	}
+	local_supplies=0.0
+}

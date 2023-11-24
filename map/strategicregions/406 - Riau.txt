@@ -1,0 +1,9 @@
+strategic_region={
+	id=406
+	name="STRATEGICREGION_406" # Riau
+	provinces={
+		12455 12592 12727 12816 13035 13396 13466 13779 13832 13972 14275
+	}
+	weather={
+	}
+}

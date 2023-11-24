@@ -1,0 +1,15 @@
+state={
+	id=967
+	name="STATE_967" # Mungprak
+	manpower = 11220
+	state_category = pastoral
+	history={
+		owner = MUN
+		add_core_of = MUN
+		victory_points = { 10936 80 }
+	}
+	provinces={
+		10936
+	}
+	local_supplies=0.0
+}

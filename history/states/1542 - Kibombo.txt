@@ -1,0 +1,14 @@
+state={
+	id=1542
+	name="STATE_1542" # Kibombo
+	manpower = 2540483
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+	}
+	provinces={
+		14207 14477 14575 14699
+	}
+	local_supplies=0.0
+}

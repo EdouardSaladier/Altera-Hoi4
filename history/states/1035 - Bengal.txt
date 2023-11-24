@@ -1,0 +1,15 @@
+state={
+	id=1035
+	name="STATE_1035" # Bengal
+	manpower = 399459
+	state_category = megalopolis
+	history={
+		owner = BEN
+		add_core_of = BEN
+		victory_points = { 11423 10 }
+	}
+	provinces={
+		11423
+	}
+	local_supplies=0.0
+}

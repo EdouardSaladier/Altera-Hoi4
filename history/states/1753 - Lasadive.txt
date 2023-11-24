@@ -1,0 +1,14 @@
+state={
+	id=1753
+	name="STATE_1753" # Lasadive
+	manpower = 1650
+	state_category = rural
+	history={
+		owner = LAS
+		add_core_of = LAS
+	}
+	provinces={
+		15076 15120 15135 15158 15164 15201 15202 15270 15354 15500 15733 15753 15775
+	}
+	local_supplies=0.0
+}

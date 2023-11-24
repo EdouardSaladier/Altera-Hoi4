@@ -1,0 +1,16 @@
+state={
+	id=1756
+	name="STATE_1756" # Chamanan
+	manpower = 15240
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15147 1 }
+		victory_points = { 15162 1 }
+	}
+	provinces={
+		15079 15139 15147 15162
+	}
+	local_supplies=0.0
+}

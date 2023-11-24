@@ -1,0 +1,24 @@
+state={
+	id=1451
+	name="STATE_1451" # Amazonas
+	manpower = 499002
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+		victory_points = { 13732 1 }
+		victory_points = { 14051 5 }
+		victory_points = { 14203 2 }
+		victory_points = { 14220 5 }
+		victory_points = { 14258 10 }
+		victory_points = { 14389 5 }
+		victory_points = { 14531 5 }
+		victory_points = { 14760 5 }
+		victory_points = { 14847 5 }
+		victory_points = { 14872 5 }
+	}
+	provinces={
+		13732 13928 13949 14051 14062 14065 14078 14098 14113 14136 14164 14181 14203 14220 14258 14266 14371 14377 14384 14389 14486 14497 14506 14523 14531 14562 14598 14607 14624 14646 14706 14717 14738 14755 14760 14765 14790 14803 14831 14847 14872 14904 14905
+	}
+	local_supplies=0.0
+}

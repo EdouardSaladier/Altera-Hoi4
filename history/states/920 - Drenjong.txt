@@ -1,0 +1,16 @@
+state={
+	id=920
+	name="STATE_920" # Drenjong
+	manpower = 159342
+	state_category = town
+	history={
+		owner = DRE
+		add_core_of = DRE
+		victory_points = { 10654 5 }
+		victory_points = { 10705 5 }
+	}
+	provinces={
+		10654 10705
+	}
+	local_supplies=0.0
+}

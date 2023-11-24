@@ -1,0 +1,9 @@
+strategic_region={
+	id=554
+	name="STRATEGICREGION_554" # Malekula
+	provinces={
+		15591 15650 15701
+	}
+	weather={
+	}
+}

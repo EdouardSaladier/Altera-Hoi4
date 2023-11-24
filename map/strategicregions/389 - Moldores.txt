@@ -1,0 +1,9 @@
+strategic_region={
+	id=389
+	name="STRATEGICREGION_389" # Moldores
+	provinces={
+		11987 12092 12154 12155 12192 12269 12296 12344
+	}
+	weather={
+	}
+}

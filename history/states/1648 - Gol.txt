@@ -1,0 +1,14 @@
+state={
+	id=1648
+	name="STATE_1648" # Gol
+	manpower = 21790
+	state_category = town
+	history={
+		owner = GGG
+		add_core_of = GGG
+	}
+	provinces={
+		14634
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,28 @@
+state={
+	id=807
+	name="STATE_807" # Szechuan
+	manpower = 44683765
+	state_category = large_city
+	history={
+		owner = SZE
+		add_core_of = SZE
+		victory_points = { 9875 80 }
+		victory_points = { 9891 1 }
+		victory_points = { 9903 10 }
+		victory_points = { 9909 1 }
+		victory_points = { 9999 20 }
+		victory_points = { 10079 10 }
+		victory_points = { 10080 80 }
+		victory_points = { 10104 1 }
+		victory_points = { 10113 80 }
+		victory_points = { 10228 80 }
+		victory_points = { 10335 80 }
+		victory_points = { 10402 80 }
+		victory_points = { 10471 80 }
+		victory_points = { 10566 20 }
+	}
+	provinces={
+		9875 9891 9903 9909 9999 10079 10080 10104 10112 10113 10228 10335 10402 10471 10566
+	}
+	local_supplies=0.0
+}

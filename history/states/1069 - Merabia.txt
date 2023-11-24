@@ -1,0 +1,16 @@
+state={
+	id=1069
+	name="STATE_1069" # Merabia
+	manpower = 1484563
+	state_category = large_town
+	history={
+		owner = MEA
+		add_core_of = MEA
+		victory_points = { 11663 80 }
+		victory_points = { 11792 5 }
+	}
+	provinces={
+		11663 11792 11966 12098
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=836
+	name="STATE_836" # Florida
+	manpower = 26380
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 10116 40 }
+		victory_points = { 10117 80 }
+		victory_points = { 10130 10 }
+		victory_points = { 10131 10 }
+		victory_points = { 10231 5 }
+		victory_points = { 10290 40 }
+	}
+	provinces={
+		10116 10117 10130 10131 10231 10290
+	}
+	local_supplies=0.0
+}

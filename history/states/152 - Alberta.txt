@@ -1,0 +1,32 @@
+state={
+	id=152
+	name="STATE_152" # Alberta
+	manpower = 768116
+	state_category = rural
+	history={
+		owner = SAS
+		add_core_of = SAS
+		victory_points = { 4623 20 }
+		victory_points = { 4930 5 }
+		victory_points = { 5028 2 }
+		victory_points = { 5047 5 }
+		victory_points = { 5107 1 }
+		victory_points = { 5108 2 }
+		victory_points = { 5238 5 }
+		victory_points = { 5252 2 }
+		victory_points = { 5253 5 }
+		victory_points = { 5254 5 }
+		victory_points = { 5299 10 }
+		victory_points = { 5353 2 }
+		victory_points = { 5519 5 }
+		victory_points = { 5565 10 }
+		victory_points = { 5634 2 }
+		victory_points = { 5664 5 }
+		victory_points = { 5778 5 }
+		victory_points = { 5872 2 }
+	}
+	provinces={
+		4396 4465 4477 4499 4518 4550 4593 4608 4623 4674 4675 4680 4715 4853 4884 4920 4930 4939 5007 5028 5047 5096 5107 5108 5238 5252 5253 5254 5274 5299 5353 5506 5519 5565 5595 5634 5664 5778 5872 5911 6071 6170
+	}
+	local_supplies=0.0
+}

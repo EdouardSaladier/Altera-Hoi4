@@ -1,0 +1,14 @@
+state={
+	id=1607
+	name="STATE_1607" # Nasalor
+	manpower = 590
+	state_category = rural
+	history={
+		owner = NAA
+		add_core_of = NAA
+	}
+	provinces={
+		14481
+	}
+	local_supplies=0.0
+}

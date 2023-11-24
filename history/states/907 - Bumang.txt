@@ -1,0 +1,15 @@
+state={
+	id=907
+	name="STATE_907" # Bumang
+	manpower = 49974
+	state_category = town
+	history={
+		owner = BUA
+		add_core_of = BUA
+		victory_points = { 10554 2 }
+	}
+	provinces={
+		10554
+	}
+	local_supplies=0.0
+}

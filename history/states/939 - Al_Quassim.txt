@@ -1,0 +1,17 @@
+state={
+	id=939
+	name="STATE_939" # Al Quassim
+	manpower = 900886
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10760 5 }
+		victory_points = { 10778 80 }
+		victory_points = { 10975 1 }
+	}
+	provinces={
+		10760 10778 10953 10975 10986
+	}
+	local_supplies=0.0
+}

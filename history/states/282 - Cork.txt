@@ -1,0 +1,15 @@
+state={
+	id=282
+	name="STATE_282" # Cork
+	manpower = 1218446
+	state_category = large_town
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 5964 40 }
+	}
+	provinces={
+		5964
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=142
+	name="STATE_142" # Aust-Agder
+	manpower = 351622
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 4301 10 }
+		victory_points = { 4445 5 }
+		victory_points = { 4582 5 }
+	}
+	provinces={
+		4301 4445 4582
+	}
+	local_supplies=0.0
+}

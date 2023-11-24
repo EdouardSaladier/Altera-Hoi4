@@ -1,0 +1,17 @@
+state={
+	id=607
+	name="STATE_607" # Thessaly and Central Greece
+	manpower = 2272567
+	state_category = large_town
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8563 20 }
+		victory_points = { 8618 10 }
+		victory_points = { 8670 20 }
+	}
+	provinces={
+		8563 8618 8670
+	}
+	local_supplies=0.0
+}

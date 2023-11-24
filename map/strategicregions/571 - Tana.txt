@@ -1,0 +1,9 @@
+strategic_region={
+	id=571
+	name="STRATEGICREGION_571" # Tana
+	provinces={
+		15977 16117
+	}
+	weather={
+	}
+}

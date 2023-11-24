@@ -1,0 +1,17 @@
+state={
+	id=238
+	name="STATE_238" # Sakhalin
+	manpower = 1003856
+	state_category = town
+	history={
+		owner = CHK
+		add_core_of = CHK
+		victory_points = { 5406 5 }
+		victory_points = { 6030 5 }
+		victory_points = { 6152 5 }
+	}
+	provinces={
+		5406 5650 6030 6152 6153
+	}
+	local_supplies=0.0
+}

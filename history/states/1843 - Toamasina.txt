@@ -1,0 +1,19 @@
+state={
+	id=1843
+	name="STATE_1843" # Toamasina
+	manpower = 3694241
+	state_category = large_town
+	history={
+		owner = MER
+		add_core_of = MER
+		victory_points = { 15589 5 }
+		victory_points = { 15774 10 }
+		victory_points = { 15796 10 }
+		victory_points = { 15829 5 }
+		victory_points = { 15914 10 }
+	}
+	provinces={
+		15589 15658 15659 15698 15774 15796 15829 15914
+	}
+	local_supplies=0.0
+}

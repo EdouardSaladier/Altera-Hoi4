@@ -1,0 +1,15 @@
+state={
+	id=1601
+	name="STATE_1601" # Komara
+	manpower = 6980
+	state_category = rural
+	history={
+		owner = KOA
+		add_core_of = KOA
+		victory_points = { 14456 1 }
+	}
+	provinces={
+		14456 14515 14548 14778 14793 14927 15018 15051
+	}
+	local_supplies=0.0
+}

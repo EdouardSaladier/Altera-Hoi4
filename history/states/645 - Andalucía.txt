@@ -1,0 +1,26 @@
+state={
+	id=645
+	name="STATE_645" # Andalucía
+	manpower = 7165396
+	state_category = large_town
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = { 8853 5 }
+		victory_points = { 8884 10 }
+		victory_points = { 8894 40 }
+		victory_points = { 8931 10 }
+		victory_points = { 8942 5 }
+		victory_points = { 8952 20 }
+		victory_points = { 8953 5 }
+		victory_points = { 8993 10 }
+		victory_points = { 9029 20 }
+		victory_points = { 9070 10 }
+		victory_points = { 9090 80 }
+		victory_points = { 9213 20 }
+	}
+	provinces={
+		8853 8884 8894 8931 8942 8952 8953 8993 9029 9070 9090 9213
+	}
+	local_supplies=0.0
+}

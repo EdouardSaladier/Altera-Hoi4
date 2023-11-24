@@ -1,0 +1,9 @@
+strategic_region={
+	id=313
+	name="STRATEGICREGION_313" # Gomeria
+	provinces={
+		10396 10416 10462 10572 10573 10629 10647 10684
+	}
+	weather={
+	}
+}

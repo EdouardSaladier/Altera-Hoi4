@@ -1,0 +1,14 @@
+state={
+	id=1672
+	name="STATE_1672" # Rugara
+	manpower = 19719
+	state_category = town
+	history={
+		owner = RUG
+		add_core_of = RUG
+	}
+	provinces={
+		14752
+	}
+	local_supplies=0.0
+}

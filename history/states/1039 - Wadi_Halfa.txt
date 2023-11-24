@@ -1,0 +1,14 @@
+state={
+	id=1039
+	name="STATE_1039" # Wadi Halfa
+	manpower = 12040
+	state_category = pastoral
+	history={
+		owner = EGY
+		add_core_of = EGY
+	}
+	provinces={
+		11467 11511 11512
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=49
+	name="STATE_49" # Nordland
+	manpower = 258316
+	state_category = town
+	history={
+		owner = GWE
+		add_core_of = GWE
+		victory_points = { 2202 1 }
+		victory_points = { 2307 1 }
+		victory_points = { 2493 2 }
+	}
+	provinces={
+		2202 2271 2307 2493
+	}
+	local_supplies=0.0
+}

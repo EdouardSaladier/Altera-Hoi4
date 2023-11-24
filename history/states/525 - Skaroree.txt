@@ -1,0 +1,15 @@
+state={
+	id=525
+	name="STATE_525" # Skaroree
+	manpower = 448088
+	state_category = city
+	history={
+		owner = SKR
+		add_core_of = SKR
+		victory_points = { 7929 40 }
+	}
+	provinces={
+		7929
+	}
+	local_supplies=0.0
+}

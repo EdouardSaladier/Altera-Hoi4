@@ -1,0 +1,14 @@
+state={
+	id=1583
+	name="STATE_1583" # Orona
+	manpower = 780
+	state_category = pastoral
+	history={
+		owner = ORN
+		add_core_of = ORN
+	}
+	provinces={
+		14368 14406 14491 14496 14519 14582 14596
+	}
+	local_supplies=0.0
+}

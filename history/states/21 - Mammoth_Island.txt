@@ -1,0 +1,14 @@
+state={
+	id=21
+	name="STATE_21" # Mammoth Island
+	manpower = 10440
+	state_category = pastoral
+	history={
+		owner = MAT
+		add_core_of = MAT
+	}
+	provinces={
+		1635
+	}
+	local_supplies=0.0
+}

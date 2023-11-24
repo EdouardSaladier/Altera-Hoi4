@@ -1,0 +1,17 @@
+state={
+	id=893
+	name="STATE_893" # Al Bahr al Ahmar
+	manpower = 6604751
+	state_category = city
+	history={
+		owner = EGY
+		add_core_of = EGY
+		victory_points = { 10733 5 }
+		victory_points = { 10770 2 }
+		victory_points = { 10892 5 }
+	}
+	provinces={
+		10488 10649 10733 10770 10892 10942
+	}
+	local_supplies=0.0
+}

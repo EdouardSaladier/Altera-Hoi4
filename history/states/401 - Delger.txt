@@ -1,0 +1,17 @@
+state={
+	id=401
+	name="STATE_401" # Delger
+	manpower = 12410
+	state_category = pastoral
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6953 5 }
+		victory_points = { 7193 1 }
+		victory_points = { 7400 1 }
+	}
+	provinces={
+		6953 7193 7400
+	}
+	local_supplies=0.0
+}

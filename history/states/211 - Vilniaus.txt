@@ -1,0 +1,16 @@
+state={
+	id=211
+	name="STATE_211" # Vilniaus
+	manpower = 493929
+	state_category = town
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = { 5177 10 }
+		victory_points = { 5231 5 }
+	}
+	provinces={
+		5177 5231
+	}
+	local_supplies=0.0
+}

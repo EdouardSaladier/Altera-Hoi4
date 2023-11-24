@@ -1,0 +1,16 @@
+state={
+	id=480
+	name="STATE_480" # Sapicia
+	manpower = 168000
+	state_category = town
+	history={
+		owner = SAP
+		add_core_of = SAP
+		victory_points = { 7611 10 }
+		victory_points = { 7705 2 }
+	}
+	provinces={
+		7611 7705
+	}
+	local_supplies=0.0
+}

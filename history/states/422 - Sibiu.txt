@@ -1,0 +1,16 @@
+state={
+	id=422
+	name="STATE_422" # Sibiu
+	manpower = 2134486
+	state_category = large_town
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = { 7158 20 }
+		victory_points = { 7342 40 }
+	}
+	provinces={
+		7158 7342
+	}
+	local_supplies=0.0
+}

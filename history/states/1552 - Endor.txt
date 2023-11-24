@@ -1,0 +1,14 @@
+state={
+	id=1552
+	name="STATE_1552" # Endor
+	manpower = 300
+	state_category = pastoral
+	history={
+		owner = END
+		add_core_of = END
+	}
+	provinces={
+		14238
+	}
+	local_supplies=0.0
+}

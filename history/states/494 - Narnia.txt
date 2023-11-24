@@ -1,0 +1,26 @@
+state={
+	id=494
+	name="STATE_494" # Narnia
+	manpower = 4832518
+	state_category = large_town
+	history={
+		owner = NAR
+		add_core_of = NAR
+		victory_points = { 7769 10 }
+		victory_points = { 7876 10 }
+		victory_points = { 7899 5 }
+		victory_points = { 7945 5 }
+		victory_points = { 7967 80 }
+		victory_points = { 7998 1 }
+		victory_points = { 8012 10 }
+		victory_points = { 8033 10 }
+		victory_points = { 8087 1 }
+		victory_points = { 8148 2 }
+		victory_points = { 8203 10 }
+		victory_points = { 8228 1 }
+	}
+	provinces={
+		7706 7769 7837 7843 7876 7899 7907 7945 7967 7998 8012 8033 8069 8087 8148 8203 8228
+	}
+	local_supplies=0.0
+}

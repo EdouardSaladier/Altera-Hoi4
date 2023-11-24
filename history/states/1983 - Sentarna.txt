@@ -1,0 +1,21 @@
+state={
+	id=1983
+	name="STATE_1983" # Sentarna
+	manpower = 3650366
+	state_category = town
+	history={
+		owner = SET
+		add_core_of = SET
+		victory_points = { 16650 2 }
+		victory_points = { 16818 1 }
+		victory_points = { 16839 2 }
+		victory_points = { 16888 2 }
+		victory_points = { 16958 1 }
+		victory_points = { 17068 5 }
+		victory_points = { 17127 5 }
+	}
+	provinces={
+		16650 16674 16731 16817 16818 16825 16839 16845 16863 16870 16871 16888 16889 16901 16912 16919 16941 16946 16958 16970 16971 16980 16987 17003 17068 17127
+	}
+	local_supplies=0.0
+}

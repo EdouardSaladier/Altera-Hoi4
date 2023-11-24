@@ -1,0 +1,15 @@
+state={
+	id=627
+	name="STATE_627" # Takharistan
+	manpower = 419199
+	state_category = town
+	history={
+		owner = TKH
+		add_core_of = TKH
+		victory_points = { 8900 1 }
+	}
+	provinces={
+		8725 8900
+	}
+	local_supplies=0.0
+}

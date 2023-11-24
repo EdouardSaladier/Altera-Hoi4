@@ -1,0 +1,9 @@
+strategic_region={
+	id=319
+	name="STRATEGICREGION_319" # Barainia
+	provinces={
+		10619 10908 10919 10943 10981 10998 11076 11113 11141 11178 11195 11202 11225 11248 11256 11344 11384
+	}
+	weather={
+	}
+}

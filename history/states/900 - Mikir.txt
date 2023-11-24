@@ -1,0 +1,16 @@
+state={
+	id=900
+	name="STATE_900" # Mikir
+	manpower = 3730
+	state_category = pastoral
+	history={
+		owner = MIK
+		add_core_of = MIK
+		victory_points = { 10522 1 }
+		victory_points = { 10593 5 }
+	}
+	provinces={
+		10522 10593
+	}
+	local_supplies=0.0
+}

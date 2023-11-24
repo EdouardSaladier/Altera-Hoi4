@@ -1,0 +1,15 @@
+state={
+	id=1924
+	name="STATE_1924" # Boquerón
+	manpower = 134332
+	state_category = rural
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16118 5 }
+	}
+	provinces={
+		16118
+	}
+	local_supplies=0.0
+}

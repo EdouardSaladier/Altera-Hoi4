@@ -1,0 +1,14 @@
+state={
+	id=1602
+	name="STATE_1602" # Tilana
+	manpower = 120
+	state_category = rural
+	history={
+		owner = TIL
+		add_core_of = TIL
+	}
+	provinces={
+		14457
+	}
+	local_supplies=0.0
+}

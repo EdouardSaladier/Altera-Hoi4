@@ -1,0 +1,18 @@
+state={
+	id=264
+	name="STATE_264" # Lipetsk
+	manpower = 1552600
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5669 5 }
+		victory_points = { 5771 10 }
+		victory_points = { 5800 5 }
+		victory_points = { 5927 5 }
+	}
+	provinces={
+		5669 5771 5800 5927
+	}
+	local_supplies=0.0
+}

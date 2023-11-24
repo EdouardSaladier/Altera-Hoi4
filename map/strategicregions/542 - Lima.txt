@@ -1,0 +1,9 @@
+strategic_region={
+	id=542
+	name="STRATEGICREGION_542" # Lima
+	provinces={
+		15300 16231 16386 16690
+	}
+	weather={
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=431
+	name="STATE_431" # Xilin Gol
+	manpower = 1543330
+	state_category = town
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7336 1 }
+		victory_points = { 7739 20 }
+		victory_points = { 7789 1 }
+		victory_points = { 7860 5 }
+		victory_points = { 7947 1 }
+		victory_points = { 8001 1 }
+	}
+	provinces={
+		7226 7336 7496 7616 7617 7678 7738 7739 7789 7860 7947 8001
+	}
+	local_supplies=0.0
+}

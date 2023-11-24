@@ -1,0 +1,14 @@
+state={
+	id=1226
+	name="STATE_1226" # Ewanora
+	manpower = 140
+	state_category = pastoral
+	history={
+		owner = EWA
+		add_core_of = EWA
+	}
+	provinces={
+		12468
+	}
+	local_supplies=0.0
+}

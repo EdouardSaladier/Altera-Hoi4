@@ -1,0 +1,16 @@
+state={
+	id=402
+	name="STATE_402" # Anivskiy rayon
+	manpower = 501164
+	state_category = town
+	history={
+		owner = YEZ
+		add_core_of = YEZ
+		victory_points = { 6955 20 }
+		victory_points = { 7048 5 }
+	}
+	provinces={
+		6955 6979 7048
+	}
+	local_supplies=0.0
+}

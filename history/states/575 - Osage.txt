@@ -1,0 +1,22 @@
+state={
+	id=575
+	name="STATE_575" # Osage
+	manpower = 36810
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8277 5 }
+		victory_points = { 8511 1 }
+		victory_points = { 8534 10 }
+		victory_points = { 8617 5 }
+		victory_points = { 8639 40 }
+		victory_points = { 8689 20 }
+		victory_points = { 8793 5 }
+		victory_points = { 8906 5 }
+	}
+	provinces={
+		8277 8511 8534 8617 8639 8689 8793 8906
+	}
+	local_supplies=0.0
+}

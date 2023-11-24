@@ -1,0 +1,9 @@
+strategic_region={
+	id=120
+	name="STRATEGICREGION_120" # Skeena-Queen Charlotte
+	provinces={
+		4486 4938 5045 5678 5760
+	}
+	weather={
+	}
+}

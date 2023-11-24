@@ -1,0 +1,15 @@
+state={
+	id=1515
+	name="STATE_1515" # Bacen
+	manpower = 113832
+	state_category = large_town
+	history={
+		owner = BCE
+		add_core_of = BCE
+		victory_points = { 14088 1 }
+	}
+	provinces={
+		14088
+	}
+	local_supplies=0.0
+}

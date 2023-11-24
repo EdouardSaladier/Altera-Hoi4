@@ -1,0 +1,15 @@
+state={
+	id=1430
+	name="STATE_1430" # Bidorame
+	manpower = 1240209
+	state_category = town
+	history={
+		owner = BID
+		add_core_of = BID
+		victory_points = { 13967 40 }
+	}
+	provinces={
+		13602 13641 13687 13763 13810 13967 14011 14046 14047
+	}
+	local_supplies=0.0
+}

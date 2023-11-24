@@ -1,0 +1,15 @@
+state={
+	id=1769
+	name="STATE_1769" # Sapusawuni
+	manpower = 57626
+	state_category = town
+	history={
+		owner = SPU
+		add_core_of = SPU
+		victory_points = { 15154 1 }
+	}
+	provinces={
+		15154
+	}
+	local_supplies=0.0
+}

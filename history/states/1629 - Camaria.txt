@@ -1,0 +1,29 @@
+state={
+	id=1629
+	name="STATE_1629" # Camaria
+	manpower = 7849669
+	state_category = large_town
+	history={
+		owner = CAM
+		add_core_of = CAM
+		victory_points = { 14567 5 }
+		victory_points = { 14629 5 }
+		victory_points = { 14683 20 }
+		victory_points = { 14713 5 }
+		victory_points = { 14784 20 }
+		victory_points = { 14785 20 }
+		victory_points = { 14792 5 }
+		victory_points = { 14841 10 }
+		victory_points = { 14907 5 }
+		victory_points = { 14926 20 }
+		victory_points = { 14955 5 }
+		victory_points = { 14978 10 }
+		victory_points = { 15004 5 }
+		victory_points = { 15041 10 }
+		victory_points = { 15069 5 }
+	}
+	provinces={
+		14567 14629 14683 14693 14713 14731 14777 14784 14785 14792 14840 14841 14859 14867 14868 14892 14907 14926 14955 14978 15004 15041 15069
+	}
+	local_supplies=0.0
+}

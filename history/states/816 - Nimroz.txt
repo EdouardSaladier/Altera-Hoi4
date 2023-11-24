@@ -1,0 +1,16 @@
+state={
+	id=816
+	name="STATE_816" # Nimroz
+	manpower = 740932
+	state_category = town
+	history={
+		owner = GED
+		add_core_of = GED
+		victory_points = { 9947 5 }
+		victory_points = { 10102 20 }
+	}
+	provinces={
+		9947 10102 10109 10345 10388
+	}
+	local_supplies=0.0
+}

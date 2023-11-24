@@ -1,0 +1,25 @@
+state={
+	id=996
+	name="STATE_996" # Kanton
+	manpower = 59411495
+	state_category = megalopolis
+	history={
+		owner = KAN
+		add_core_of = KAN
+		victory_points = { 11135 20 }
+		victory_points = { 11156 1 }
+		victory_points = { 11197 20 }
+		victory_points = { 11223 80 }
+		victory_points = { 11276 80 }
+		victory_points = { 11287 80 }
+		victory_points = { 11305 1 }
+		victory_points = { 11335 80 }
+		victory_points = { 11365 80 }
+		victory_points = { 11390 80 }
+		victory_points = { 11464 80 }
+	}
+	provinces={
+		11135 11153 11156 11197 11223 11276 11287 11305 11335 11365 11390 11464
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=241
+	name="STRATEGICREGION_241" # Capadocia
+	provinces={
+		8564 8578 8600 8611 8612 8620 8747 8756 8773 8798 8799 8818 8839 8897 8908
+	}
+	weather={
+	}
+}

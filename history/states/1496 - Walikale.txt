@@ -1,0 +1,14 @@
+state={
+	id=1496
+	name="STATE_1496" # Walikale
+	manpower = 1909640
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+	}
+	provinces={
+		13970
+	}
+	local_supplies=0.0
+}

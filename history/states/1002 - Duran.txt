@@ -1,0 +1,14 @@
+state={
+	id=1002
+	name="STATE_1002" # Duran
+	manpower = 1260
+	state_category = pastoral
+	history={
+		owner = DUA
+		add_core_of = DUA
+	}
+	provinces={
+		11198
+	}
+	local_supplies=0.0
+}

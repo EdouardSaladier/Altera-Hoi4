@@ -1,0 +1,9 @@
+strategic_region={
+	id=200
+	name="STRATEGICREGION_200" # Gasaria
+	provinces={
+		7207 7274 7390 7521 7552 7667 7668 7749 7818 7851 7979 7991 8147
+	}
+	weather={
+	}
+}

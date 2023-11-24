@@ -1,0 +1,14 @@
+state={
+	id=1905
+	name="STATE_1905" # Walpira
+	manpower = 46210
+	state_category = rural
+	history={
+		owner = WAL
+		add_core_of = WAL
+	}
+	provinces={
+		15980 16010 16080 16134 16175 16176 16226 16238 16249 16304 16323
+	}
+	local_supplies=0.0
+}

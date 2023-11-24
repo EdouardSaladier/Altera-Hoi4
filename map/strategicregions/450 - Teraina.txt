@@ -1,0 +1,9 @@
+strategic_region={
+	id=450
+	name="STRATEGICREGION_450" # Teraina
+	provinces={
+		13376 13790 14038
+	}
+	weather={
+	}
+}

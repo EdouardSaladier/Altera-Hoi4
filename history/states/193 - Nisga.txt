@@ -1,0 +1,14 @@
+state={
+	id=193
+	name="STATE_193" # Nisga
+	manpower = 8890
+	state_category = pastoral
+	history={
+		owner = NIS
+		add_core_of = NIS
+	}
+	provinces={
+		4919 4947
+	}
+	local_supplies=0.0
+}

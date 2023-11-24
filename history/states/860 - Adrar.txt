@@ -1,0 +1,18 @@
+state={
+	id=860
+	name="STATE_860" # Adrar
+	manpower = 110408
+	state_category = rural
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 10279 10 }
+		victory_points = { 10495 10 }
+		victory_points = { 10515 5 }
+		victory_points = { 10732 5 }
+	}
+	provinces={
+		10279 10342 10495 10515 10596 10732 10758 10848 10872 10915 10984 11023 11050 11138 11233 11244 11253 11416 11475
+	}
+	local_supplies=0.0
+}

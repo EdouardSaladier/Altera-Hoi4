@@ -1,0 +1,16 @@
+state={
+	id=533
+	name="STATE_533" # Corciny
+	manpower = 640107
+	state_category = large_town
+	history={
+		owner = COC
+		add_core_of = COC
+		victory_points = { 8008 10 }
+		victory_points = { 8030 10 }
+	}
+	provinces={
+		8008 8030
+	}
+	local_supplies=0.0
+}

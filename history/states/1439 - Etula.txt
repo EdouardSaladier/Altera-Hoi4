@@ -1,0 +1,15 @@
+state={
+	id=1439
+	name="STATE_1439" # Etula
+	manpower = 358510
+	state_category = city
+	history={
+		owner = ETL
+		add_core_of = ETL
+		victory_points = { 13657 5 }
+	}
+	provinces={
+		13657
+	}
+	local_supplies=0.0
+}

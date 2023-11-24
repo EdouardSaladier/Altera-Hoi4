@@ -1,0 +1,16 @@
+state={
+	id=772
+	name="STATE_772" # Durgara
+	manpower = 16800
+	state_category = pastoral
+	history={
+		owner = DUR
+		add_core_of = DUR
+		victory_points = { 9655 20 }
+		victory_points = { 9750 80 }
+	}
+	provinces={
+		9655 9750
+	}
+	local_supplies=0.0
+}

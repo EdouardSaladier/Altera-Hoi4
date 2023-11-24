@@ -1,0 +1,24 @@
+state={
+	id=1516
+	name="STATE_1516" # Daha
+	manpower = 4818666
+	state_category = large_town
+	history={
+		owner = DAA
+		add_core_of = DAA
+		victory_points = { 14106 1 }
+		victory_points = { 14161 1 }
+		victory_points = { 14217 1 }
+		victory_points = { 14256 10 }
+		victory_points = { 14284 1 }
+		victory_points = { 14285 20 }
+		victory_points = { 14314 1 }
+		victory_points = { 14354 1 }
+		victory_points = { 14365 1 }
+		victory_points = { 14404 20 }
+	}
+	provinces={
+		14096 14106 14161 14217 14256 14284 14285 14314 14354 14365 14404
+	}
+	local_supplies=0.0
+}

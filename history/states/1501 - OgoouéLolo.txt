@@ -1,0 +1,15 @@
+state={
+	id=1501
+	name="STATE_1501" # Ogooué-Lolo
+	manpower = 103727
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 14014 5 }
+	}
+	provinces={
+		14014
+	}
+	local_supplies=0.0
+}

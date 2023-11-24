@@ -1,0 +1,9 @@
+strategic_region={
+	id=537
+	name="STRATEGICREGION_537" # Nendoa
+	provinces={
+		15195
+	}
+	weather={
+	}
+}

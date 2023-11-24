@@ -1,0 +1,26 @@
+state={
+	id=2007
+	name="STATE_2007" # Falkland
+	manpower = 177371
+	state_category = rural
+	history={
+		owner = TAS
+		add_core_of = TAS
+		victory_points = { 17146 5 }
+		victory_points = { 17150 2 }
+		victory_points = { 17213 10 }
+		victory_points = { 17301 2 }
+		victory_points = { 17302 5 }
+		victory_points = { 17313 2 }
+		victory_points = { 17314 5 }
+		victory_points = { 17324 2 }
+		victory_points = { 17335 5 }
+		victory_points = { 17370 1 }
+		victory_points = { 17375 2 }
+		victory_points = { 17399 5 }
+	}
+	provinces={
+		17040 17091 17092 17128 17146 17150 17213 17222 17238 17269 17283 17301 17302 17313 17314 17324 17335 17370 17375 17399
+	}
+	local_supplies=0.0
+}

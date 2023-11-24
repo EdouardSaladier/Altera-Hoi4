@@ -1,0 +1,16 @@
+state={
+	id=1780
+	name="STATE_1780" # Chunchunan
+	manpower = 18570
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15220 1 }
+		victory_points = { 15319 10 }
+	}
+	provinces={
+		15220 15244 15319
+	}
+	local_supplies=0.0
+}

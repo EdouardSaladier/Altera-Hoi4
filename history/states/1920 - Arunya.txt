@@ -1,0 +1,15 @@
+state={
+	id=1920
+	name="STATE_1920" # Arunya
+	manpower = 6450
+	state_category = rural
+	history={
+		owner = ARY
+		add_core_of = ARY
+		victory_points = { 16099 5 }
+	}
+	provinces={
+		16099
+	}
+	local_supplies=0.0
+}

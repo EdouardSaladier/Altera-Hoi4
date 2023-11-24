@@ -1,0 +1,14 @@
+state={
+	id=971
+	name="STATE_971" # Giran
+	manpower = 2170
+	state_category = pastoral
+	history={
+		owner = GIA
+		add_core_of = GIA
+	}
+	provinces={
+		10949 10968
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=140
+	name="STRATEGICREGION_140" # Ireland
+	provinces={
+		5215 5243 5341 5358 5397 5421 5439 5455 5535 5568 5585 5754 5765 5766 5812 5837 5838 5924 5964
+	}
+	weather={
+	}
+}

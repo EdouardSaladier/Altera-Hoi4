@@ -1,0 +1,19 @@
+state={
+	id=173
+	name="STATE_173" # Nordjylland
+	manpower = 3024484
+	state_category = large_town
+	history={
+		owner = DAN
+		add_core_of = DAN
+		victory_points = { 4707 5 }
+		victory_points = { 4819 20 }
+		victory_points = { 4847 10 }
+		victory_points = { 4952 10 }
+		victory_points = { 4996 5 }
+	}
+	provinces={
+		4707 4819 4847 4869 4952 4996
+	}
+	local_supplies=0.0
+}

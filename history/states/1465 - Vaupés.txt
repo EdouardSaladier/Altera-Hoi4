@@ -1,0 +1,14 @@
+state={
+	id=1465
+	name="STATE_1465" # Vaupés
+	manpower = 10280
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+	}
+	provinces={
+		13809
+	}
+	local_supplies=0.0
+}

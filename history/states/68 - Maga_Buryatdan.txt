@@ -1,0 +1,21 @@
+state={
+	id=68
+	name="STATE_68" # Maga Buryatdan
+	manpower = 567980
+	state_category = rural
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 3310 1 }
+		victory_points = { 3544 5 }
+		victory_points = { 3545 2 }
+		victory_points = { 3610 2 }
+		victory_points = { 3755 2 }
+		victory_points = { 3919 1 }
+		victory_points = { 4083 20 }
+	}
+	provinces={
+		2782 2819 2902 2933 2951 2962 2989 3034 3060 3086 3102 3103 3152 3162 3194 3210 3222 3230 3310 3311 3312 3393 3402 3403 3418 3491 3544 3545 3610 3670 3683 3684 3744 3755 3762 3784 3811 3919 3927 3967 3968 4007 4062 4074 4083 4138
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=241
+	name="STATE_241" # Mahilyow
+	manpower = 1860401
+	state_category = large_town
+	history={
+		owner = BEL
+		add_core_of = BEL
+		victory_points = { 5428 5 }
+		victory_points = { 5459 40 }
+		victory_points = { 5559 5 }
+		victory_points = { 5588 5 }
+		victory_points = { 5625 5 }
+	}
+	provinces={
+		5428 5459 5559 5588 5625
+	}
+	local_supplies=0.0
+}

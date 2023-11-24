@@ -1,0 +1,20 @@
+state={
+	id=1211
+	name="STATE_1211" # Giriu
+	manpower = 281250
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12391 5 }
+		victory_points = { 12483 5 }
+		victory_points = { 12566 5 }
+		victory_points = { 12616 5 }
+		victory_points = { 12680 10 }
+		victory_points = { 12713 5 }
+	}
+	provinces={
+		12391 12483 12524 12566 12616 12680 12713
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=849
+	name="STATE_849" # Gartsen
+	manpower = 2340
+	state_category = pastoral
+	history={
+		owner = GAE
+		add_core_of = GAE
+		victory_points = { 10204 20 }
+	}
+	provinces={
+		10204
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=625
+	name="STATE_625" # Wagalistan
+	manpower = 227489
+	state_category = town
+	history={
+		owner = WAG
+		add_core_of = WAG
+	}
+	provinces={
+		8716 8717
+	}
+	local_supplies=0.0
+}

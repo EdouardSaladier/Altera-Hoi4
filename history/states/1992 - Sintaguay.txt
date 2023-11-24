@@ -1,0 +1,17 @@
+state={
+	id=1992
+	name="STATE_1992" # Sintaguay
+	manpower = 7257762
+	state_category = city
+	history={
+		owner = SIG
+		add_core_of = SIG
+		victory_points = { 16811 40 }
+		victory_points = { 16906 40 }
+		victory_points = { 16974 80 }
+	}
+	provinces={
+		16811 16906 16974 17109
+	}
+	local_supplies=0.0
+}

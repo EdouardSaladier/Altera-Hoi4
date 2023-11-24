@@ -1,0 +1,18 @@
+state={
+	id=203
+	name="STATE_203" # Takhel
+	manpower = 39030
+	state_category = pastoral
+	history={
+		owner = TAK
+		add_core_of = TAK
+		victory_points = { 5250 2 }
+		victory_points = { 5435 2 }
+		victory_points = { 5451 1 }
+		victory_points = { 5452 10 }
+	}
+	provinces={
+		5089 5095 5124 5166 5186 5225 5250 5251 5376 5435 5451 5452 5504 5610 5710 5887
+	}
+	local_supplies=0.0
+}

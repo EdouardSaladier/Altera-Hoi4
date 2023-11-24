@@ -1,0 +1,14 @@
+state={
+	id=1372
+	name="STATE_1372" # Mecuria
+	manpower = 3300
+	state_category = pastoral
+	history={
+		owner = MEC
+		add_core_of = MEC
+	}
+	provinces={
+		13286 13309
+	}
+	local_supplies=0.0
+}

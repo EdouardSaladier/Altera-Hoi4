@@ -1,0 +1,21 @@
+state={
+	id=1305
+	name="STATE_1305" # Oromia
+	manpower = 17454040
+	state_category = large_city
+	history={
+		owner = ORO
+		add_core_of = ORO
+		victory_points = { 12908 5 }
+		victory_points = { 12963 5 }
+		victory_points = { 13007 5 }
+		victory_points = { 13017 80 }
+		victory_points = { 13065 5 }
+		victory_points = { 13100 5 }
+		victory_points = { 13209 5 }
+	}
+	provinces={
+		12908 12963 13007 13017 13065 13070 13074 13079 13100 13174 13209 13271
+	}
+	local_supplies=0.0
+}

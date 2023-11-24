@@ -1,0 +1,9 @@
+strategic_region={
+	id=579
+	name="STRATEGICREGION_579" # Mare
+	provinces={
+		16217
+	}
+	weather={
+	}
+}

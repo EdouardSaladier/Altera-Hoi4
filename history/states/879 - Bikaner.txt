@@ -1,0 +1,19 @@
+state={
+	id=879
+	name="STATE_879" # Bikaner
+	manpower = 12139419
+	state_category = large_city
+	history={
+		owner = MAW
+		add_core_of = MAW
+		victory_points = { 10401 20 }
+		victory_points = { 10451 5 }
+		victory_points = { 10552 20 }
+		victory_points = { 10606 80 }
+		victory_points = { 10640 10 }
+	}
+	provinces={
+		10401 10451 10507 10552 10590 10606 10640
+	}
+	local_supplies=0.0
+}

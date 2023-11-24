@@ -1,0 +1,20 @@
+state={
+	id=328
+	name="STATE_328" # Khakis
+	manpower = 19470
+	state_category = pastoral
+	history={
+		owner = KHK
+		add_core_of = KHK
+		victory_points = { 6363 5 }
+		victory_points = { 6410 2 }
+		victory_points = { 6448 2 }
+		victory_points = { 6463 1 }
+		victory_points = { 6645 1 }
+		victory_points = { 6646 1 }
+	}
+	provinces={
+		6363 6410 6448 6463 6645 6646 6804
+	}
+	local_supplies=0.0
+}

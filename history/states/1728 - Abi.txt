@@ -1,0 +1,15 @@
+state={
+	id=1728
+	name="STATE_1728" # Abi
+	manpower = 1183136
+	state_category = city
+	history={
+		owner = ABI
+		add_core_of = ABI
+		victory_points = { 14965 20 }
+	}
+	provinces={
+		14965
+	}
+	local_supplies=0.0
+}

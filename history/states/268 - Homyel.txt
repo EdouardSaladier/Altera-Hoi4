@@ -1,0 +1,19 @@
+state={
+	id=268
+	name="STATE_268" # Homyel'
+	manpower = 2042982
+	state_category = large_town
+	history={
+		owner = BEL
+		add_core_of = BEL
+		victory_points = { 5731 10 }
+		victory_points = { 5784 5 }
+		victory_points = { 5815 10 }
+		victory_points = { 5826 5 }
+		victory_points = { 5860 80 }
+	}
+	provinces={
+		5731 5784 5815 5826 5860
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=1541
+	name="STATE_1541" # Loango
+	manpower = 1447506
+	state_category = town
+	history={
+		owner = LOA
+		add_core_of = LOA
+		victory_points = { 14206 10 }
+		victory_points = { 14327 20 }
+		victory_points = { 14399 5 }
+		victory_points = { 14465 1 }
+	}
+	provinces={
+		14206 14271 14288 14294 14327 14361 14399 14465 14466
+	}
+	local_supplies=0.0
+}

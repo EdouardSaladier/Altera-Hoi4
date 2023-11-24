@@ -1,0 +1,15 @@
+state={
+	id=1410
+	name="STATE_1410" # Ambozes
+	manpower = 3101504
+	state_category = large_city
+	history={
+		owner = AMB
+		add_core_of = AMB
+		victory_points = { 13502 80 }
+	}
+	provinces={
+		13502
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1152
+	name="STATE_1152" # Kanchanaburi
+	manpower = 6074937
+	state_category = large_city
+	history={
+		owner = RAM
+		add_core_of = RAM
+		victory_points = { 12059 40 }
+		victory_points = { 12314 5 }
+		victory_points = { 12409 20 }
+	}
+	provinces={
+		12059 12314 12409
+	}
+	local_supplies=0.0
+}

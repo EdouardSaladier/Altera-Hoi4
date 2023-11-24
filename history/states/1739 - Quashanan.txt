@@ -1,0 +1,18 @@
+state={
+	id=1739
+	name="STATE_1739" # Quashanan
+	manpower = 10530
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15000 5 }
+		victory_points = { 15071 20 }
+		victory_points = { 15123 1 }
+		victory_points = { 15173 10 }
+	}
+	provinces={
+		15000 15071 15123 15173
+	}
+	local_supplies=0.0
+}

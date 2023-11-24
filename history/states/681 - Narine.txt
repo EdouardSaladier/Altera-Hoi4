@@ -1,0 +1,15 @@
+state={
+	id=681
+	name="STATE_681" # Narine
+	manpower = 1425159
+	state_category = city
+	history={
+		owner = NAI
+		add_core_of = NAI
+		victory_points = { 9112 20 }
+	}
+	provinces={
+		9112
+	}
+	local_supplies=0.0
+}

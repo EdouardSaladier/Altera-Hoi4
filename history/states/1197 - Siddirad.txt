@@ -1,0 +1,15 @@
+state={
+	id=1197
+	name="STATE_1197" # Siddirad
+	manpower = 1437409
+	state_category = city
+	history={
+		owner = SID
+		add_core_of = SID
+		victory_points = { 12312 10 }
+	}
+	provinces={
+		12312
+	}
+	local_supplies=0.0
+}

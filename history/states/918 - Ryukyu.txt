@@ -1,0 +1,15 @@
+state={
+	id=918
+	name="STATE_918" # Ryukyu
+	manpower = 4210
+	state_category = pastoral
+	history={
+		owner = RYU
+		add_core_of = RYU
+		victory_points = { 10773 40 }
+	}
+	provinces={
+		10635 10773
+	}
+	local_supplies=0.0
+}

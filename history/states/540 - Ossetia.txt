@@ -1,0 +1,15 @@
+state={
+	id=540
+	name="STATE_540" # Ossetia
+	manpower = 985999
+	state_category = large_town
+	history={
+		owner = OSS
+		add_core_of = OSS
+		victory_points = { 8043 5 }
+	}
+	provinces={
+		8043
+	}
+	local_supplies=0.0
+}

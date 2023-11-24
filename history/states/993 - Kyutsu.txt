@@ -1,0 +1,14 @@
+state={
+	id=993
+	name="STATE_993" # Kyutsu
+	manpower = 1560
+	state_category = pastoral
+	history={
+		owner = KYU
+		add_core_of = KYU
+	}
+	provinces={
+		11109 11205 11306 11307 11346 11689
+	}
+	local_supplies=0.0
+}

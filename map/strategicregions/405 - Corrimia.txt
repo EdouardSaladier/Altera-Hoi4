@@ -1,0 +1,9 @@
+strategic_region={
+	id=405
+	name="STRATEGICREGION_405" # Corrimia
+	provinces={
+		12454 12584 12651 12698 12699 12717 12758
+	}
+	weather={
+	}
+}

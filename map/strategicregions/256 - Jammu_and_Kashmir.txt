@@ -1,0 +1,9 @@
+strategic_region={
+	id=256
+	name="STRATEGICREGION_256" # Jammu and Kashmir
+	provinces={
+		9072 9103 9133 9181 9221 9319 9320 9338 9350 9429 9440 9491 9518 9551 9564 9655 9750
+	}
+	weather={
+	}
+}

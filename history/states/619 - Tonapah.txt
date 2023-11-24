@@ -1,0 +1,19 @@
+state={
+	id=619
+	name="STATE_619" # Tonapah
+	manpower = 22530
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 8637 40 }
+		victory_points = { 8700 10 }
+		victory_points = { 8701 2 }
+		victory_points = { 8803 5 }
+		victory_points = { 9005 5 }
+	}
+	provinces={
+		8637 8700 8701 8731 8803 9005 9393
+	}
+	local_supplies=0.0
+}

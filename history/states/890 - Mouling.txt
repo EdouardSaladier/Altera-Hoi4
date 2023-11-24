@@ -1,0 +1,15 @@
+state={
+	id=890
+	name="STATE_890" # Mouling
+	manpower = 2830
+	state_category = pastoral
+	history={
+		owner = MOU
+		add_core_of = MOU
+		victory_points = { 10469 5 }
+	}
+	provinces={
+		10469
+	}
+	local_supplies=0.0
+}

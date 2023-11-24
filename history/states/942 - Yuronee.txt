@@ -1,0 +1,16 @@
+state={
+	id=942
+	name="STATE_942" # Yuronee
+	manpower = 1589475
+	state_category = large_city
+	history={
+		owner = YUR
+		add_core_of = YUR
+		victory_points = { 10768 5 }
+		victory_points = { 10791 20 }
+	}
+	provinces={
+		10768 10791
+	}
+	local_supplies=0.0
+}

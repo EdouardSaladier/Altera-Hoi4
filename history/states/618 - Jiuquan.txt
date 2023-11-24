@@ -1,0 +1,14 @@
+state={
+	id=618
+	name="STATE_618" # Jiuquan
+	manpower = 184399
+	state_category = town
+	history={
+		owner = SAL
+		add_core_of = SAL
+	}
+	provinces={
+		8635 8636 8650
+	}
+	local_supplies=0.0
+}

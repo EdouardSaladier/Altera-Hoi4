@@ -1,0 +1,14 @@
+state={
+	id=37
+	name="STATE_37" # Srednekolymskiy rayon
+	manpower = 91650
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		1964 1980 2020 2106 2165 2177 2178 2199 2212 2241 2251 2252 2278 2279 2280 2330 2397 2485 2555 2556 2579 2589 2615
+	}
+	local_supplies=0.0
+}

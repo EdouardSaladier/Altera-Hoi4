@@ -1,0 +1,14 @@
+state={
+	id=1590
+	name="STATE_1590" # Arapesa
+	manpower = 880
+	state_category = rural
+	history={
+		owner = ARP
+		add_core_of = ARP
+	}
+	provinces={
+		14397
+	}
+	local_supplies=0.0
+}

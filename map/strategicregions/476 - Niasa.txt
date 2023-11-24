@@ -1,0 +1,9 @@
+strategic_region={
+	id=476
+	name="STRATEGICREGION_476" # Niasa
+	provinces={
+		13867
+	}
+	weather={
+	}
+}

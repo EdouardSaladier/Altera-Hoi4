@@ -1,0 +1,19 @@
+state={
+	id=522
+	name="STATE_522" # Illyria
+	manpower = 4595298
+	state_category = city
+	history={
+		owner = ILL
+		add_core_of = ILL
+		victory_points = { 7904 10 }
+		victory_points = { 8042 10 }
+		victory_points = { 8115 20 }
+		victory_points = { 8172 10 }
+		victory_points = { 8268 20 }
+	}
+	provinces={
+		7904 8042 8115 8172 8268
+	}
+	local_supplies=0.0
+}

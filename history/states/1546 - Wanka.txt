@@ -1,0 +1,15 @@
+state={
+	id=1546
+	name="STATE_1546" # Wanka
+	manpower = 1147311
+	state_category = city
+	history={
+		owner = WAK
+		add_core_of = WAK
+		victory_points = { 14216 20 }
+	}
+	provinces={
+		14216
+	}
+	local_supplies=0.0
+}

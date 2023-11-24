@@ -1,0 +1,16 @@
+state={
+	id=1538
+	name="STATE_1538" # Shuarnan
+	manpower = 9310
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14187 40 }
+		victory_points = { 14376 20 }
+	}
+	provinces={
+		14187 14333 14376
+	}
+	local_supplies=0.0
+}

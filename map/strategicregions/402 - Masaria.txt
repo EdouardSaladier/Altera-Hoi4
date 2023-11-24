@@ -1,0 +1,9 @@
+strategic_region={
+	id=402
+	name="STRATEGICREGION_402" # Masaria
+	provinces={
+		12427 12567 12602 12611 12656 12815
+	}
+	weather={
+	}
+}

@@ -1,0 +1,17 @@
+state={
+	id=1712
+	name="STATE_1712" # Rondônia
+	manpower = 1110120
+	state_category = town
+	history={
+		owner = XIN
+		add_core_of = XIN
+		victory_points = { 14968 40 }
+		victory_points = { 15046 10 }
+		victory_points = { 15175 20 }
+	}
+	provinces={
+		14919 14968 15046 15175 15185
+	}
+	local_supplies=0.0
+}

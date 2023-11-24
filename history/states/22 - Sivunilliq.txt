@@ -1,0 +1,16 @@
+state={
+	id=22
+	name="STATE_22" # Sivunilliq
+	manpower = 128830
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+		victory_points = { 1656 2 }
+		victory_points = { 1781 2 }
+	}
+	provinces={
+		1656 1702 1710 1714 1723 1739 1781 1802 1810 1819 1841 1842 1852 1862 1863 1869 1876 1889 1897 1898 1949 1955 1983 1989 2004 2022 2023 2024 2035 2040 2052 2053 2060 2110
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,23 @@
+state={
+	id=1671
+	name="STATE_1671" # Java
+	manpower = 73323209
+	state_category = megalopolis
+	history={
+		owner = JAV
+		add_core_of = JAV
+		victory_points = { 14744 80 }
+		victory_points = { 14751 20 }
+		victory_points = { 14786 40 }
+		victory_points = { 14800 10 }
+		victory_points = { 14801 80 }
+		victory_points = { 14822 20 }
+		victory_points = { 14853 80 }
+		victory_points = { 14854 20 }
+		victory_points = { 14893 20 }
+	}
+	provinces={
+		14744 14751 14786 14800 14801 14822 14853 14854 14893
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=161
+	name="STATE_161" # Sekan
+	manpower = 32230
+	state_category = pastoral
+	history={
+		owner = SEK
+		add_core_of = SEK
+	}
+	provinces={
+		4497 4498 4634 4776 4777 4799 4882 4959
+	}
+	local_supplies=0.0
+}

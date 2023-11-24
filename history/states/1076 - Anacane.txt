@@ -1,0 +1,18 @@
+state={
+	id=1076
+	name="STATE_1076" # Anacane
+	manpower = 6459299
+	state_category = large_city
+	history={
+		owner = ANC
+		add_core_of = ANC
+		victory_points = { 11741 80 }
+		victory_points = { 11842 5 }
+		victory_points = { 11846 20 }
+		victory_points = { 11880 10 }
+	}
+	provinces={
+		11692 11741 11842 11846 11880
+	}
+	local_supplies=0.0
+}

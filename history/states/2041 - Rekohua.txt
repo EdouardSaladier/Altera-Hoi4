@@ -1,0 +1,15 @@
+state={
+	id=2041
+	name="STATE_2041" # Rekohua
+	manpower = 4580
+	state_category = rural
+	history={
+		owner = REK
+		add_core_of = REK
+		victory_points = { 17892 1 }
+	}
+	provinces={
+		17835 17892 17907
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=278
+	name="STRATEGICREGION_278" # Altavia
+	provinces={
+		9447 9514 9529 9559 9570 9575 9612 9624 9625 9651 9693 9729 9755 9763 9768 9769 9859
+	}
+	weather={
+	}
+}

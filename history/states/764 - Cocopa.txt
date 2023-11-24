@@ -1,0 +1,15 @@
+state={
+	id=764
+	name="STATE_764" # Cocopa
+	manpower = 5950
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9608 10 }
+	}
+	provinces={
+		9608 10029
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1258
+	name="STATE_1258" # Coorg
+	manpower = 1280
+	state_category = pastoral
+	history={
+		owner = COO
+		add_core_of = COO
+	}
+	provinces={
+		12685 12893
+	}
+	local_supplies=0.0
+}

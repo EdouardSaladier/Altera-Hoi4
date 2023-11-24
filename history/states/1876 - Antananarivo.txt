@@ -1,0 +1,18 @@
+state={
+	id=1876
+	name="STATE_1876" # Antananarivo
+	manpower = 3652532
+	state_category = large_town
+	history={
+		owner = MER
+		add_core_of = MER
+		victory_points = { 15936 5 }
+		victory_points = { 15950 5 }
+		victory_points = { 15954 10 }
+		victory_points = { 15992 80 }
+	}
+	provinces={
+		15816 15875 15936 15950 15954 15992
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1491
+	name="STATE_1491" # Chimpanan
+	manpower = 10690
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13948 80 }
+		victory_points = { 14112 5 }
+	}
+	provinces={
+		13948 14112
+	}
+	local_supplies=0.0
+}

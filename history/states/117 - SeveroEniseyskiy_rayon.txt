@@ -1,0 +1,15 @@
+state={
+	id=117
+	name="STATE_117" # Severo-Eniseyskiy rayon
+	manpower = 23200
+	state_category = pastoral
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 3941 1 }
+	}
+	provinces={
+		3941 4052 4259
+	}
+	local_supplies=0.0
+}

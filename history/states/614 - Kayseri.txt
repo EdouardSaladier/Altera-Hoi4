@@ -1,0 +1,19 @@
+state={
+	id=614
+	name="STATE_614" # Kayseri
+	manpower = 1623419
+	state_category = large_town
+	history={
+		owner = CAP
+		add_core_of = CAP
+		victory_points = { 8611 10 }
+		victory_points = { 8620 80 }
+		victory_points = { 8756 20 }
+		victory_points = { 8839 5 }
+		victory_points = { 8897 10 }
+	}
+	provinces={
+		8611 8620 8756 8839 8897
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1659
+	name="STATE_1659" # Wiru
+	manpower = 2440
+	state_category = rural
+	history={
+		owner = WIR
+		add_core_of = WIR
+		victory_points = { 14688 5 }
+	}
+	provinces={
+		14688 14702
+	}
+	local_supplies=0.0
+}

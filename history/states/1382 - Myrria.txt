@@ -1,0 +1,16 @@
+state={
+	id=1382
+	name="STATE_1382" # Myrria
+	manpower = 3356360
+	state_category = large_town
+	history={
+		owner = MYR
+		add_core_of = MYR
+		victory_points = { 13431 5 }
+		victory_points = { 13480 5 }
+	}
+	provinces={
+		13356 13431 13441 13480
+	}
+	local_supplies=0.0
+}

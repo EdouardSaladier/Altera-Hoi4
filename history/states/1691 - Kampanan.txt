@@ -1,0 +1,18 @@
+state={
+	id=1691
+	name="STATE_1691" # Kampanan
+	manpower = 15250
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14846 40 }
+		victory_points = { 14908 5 }
+		victory_points = { 14961 1 }
+		victory_points = { 15023 1 }
+	}
+	provinces={
+		14846 14908 14961 15023
+	}
+	local_supplies=0.0
+}

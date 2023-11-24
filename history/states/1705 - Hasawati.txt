@@ -1,0 +1,14 @@
+state={
+	id=1705
+	name="STATE_1705" # Hasawati
+	manpower = 150
+	state_category = rural
+	history={
+		owner = HSA
+		add_core_of = HSA
+	}
+	provinces={
+		14886
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=134
+	name="STRATEGICREGION_134" # Takhel
+	provinces={
+		5089 5095 5124 5166 5186 5225 5250 5251 5376 5435 5451 5452 5504 5610 5710 5887
+	}
+	weather={
+	}
+}

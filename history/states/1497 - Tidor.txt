@@ -1,0 +1,14 @@
+state={
+	id=1497
+	name="STATE_1497" # Tidor
+	manpower = 120
+	state_category = pastoral
+	history={
+		owner = TIO
+		add_core_of = TIO
+	}
+	provinces={
+		13980
+	}
+	local_supplies=0.0
+}

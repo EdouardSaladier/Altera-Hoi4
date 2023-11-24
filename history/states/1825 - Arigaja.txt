@@ -1,0 +1,14 @@
+state={
+	id=1825
+	name="STATE_1825" # Arigaja
+	manpower = 1280
+	state_category = rural
+	history={
+		owner = ARJ
+		add_core_of = ARJ
+	}
+	provinces={
+		15476
+	}
+	local_supplies=0.0
+}

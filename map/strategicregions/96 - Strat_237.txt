@@ -1,0 +1,9 @@
+strategic_region={
+	id=96
+	name="STRATEGICREGION_96" # Strat_237
+	provinces={
+		3750 4302 4421 4804 4923
+	}
+	weather={
+	}
+}

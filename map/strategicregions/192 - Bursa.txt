@@ -1,0 +1,9 @@
+strategic_region={
+	id=192
+	name="STRATEGICREGION_192" # Bursa
+	provinces={
+		7000 7190 7596 8433 8645 8995 9184
+	}
+	weather={
+	}
+}

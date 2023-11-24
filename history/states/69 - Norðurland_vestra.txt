@@ -1,0 +1,15 @@
+state={
+	id=69
+	name="STATE_69" # Norðurland vestra
+	manpower = 23985
+	state_category = rural
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = { 2789 2 }
+	}
+	provinces={
+		2789 2971
+	}
+	local_supplies=0.0
+}

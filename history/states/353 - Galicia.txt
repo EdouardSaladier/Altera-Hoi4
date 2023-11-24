@@ -1,0 +1,18 @@
+state={
+	id=353
+	name="STATE_353" # Galicia
+	manpower = 1244475
+	state_category = town
+	history={
+		owner = GAC
+		add_core_of = GAC
+		victory_points = { 6571 20 }
+		victory_points = { 6656 40 }
+		victory_points = { 6746 5 }
+		victory_points = { 6798 20 }
+	}
+	provinces={
+		6571 6656 6746 6798
+	}
+	local_supplies=0.0
+}

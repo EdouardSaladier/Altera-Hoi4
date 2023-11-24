@@ -1,0 +1,15 @@
+state={
+	id=1016
+	name="STATE_1016" # Jarkhand
+	manpower = 2680
+	state_category = pastoral
+	history={
+		owner = JAR
+		add_core_of = JAR
+		victory_points = { 11303 5 }
+	}
+	provinces={
+		11303
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=587
+	name="STATE_587" # Raritane
+	manpower = 4710
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8382 40 }
+		victory_points = { 8455 80 }
+	}
+	provinces={
+		8382 8455
+	}
+	local_supplies=0.0
+}

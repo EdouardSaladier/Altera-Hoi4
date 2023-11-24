@@ -1,0 +1,14 @@
+state={
+	id=1065
+	name="STATE_1065" # Cozumel
+	manpower = 380
+	state_category = pastoral
+	history={
+		owner = COU
+		add_core_of = COU
+	}
+	provinces={
+		11643
+	}
+	local_supplies=0.0
+}

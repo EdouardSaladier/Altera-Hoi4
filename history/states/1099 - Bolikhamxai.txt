@@ -1,0 +1,19 @@
+state={
+	id=1099
+	name="STATE_1099" # Bolikhamxai
+	manpower = 1710363
+	state_category = large_town
+	history={
+		owner = PRA
+		add_core_of = PRA
+		victory_points = { 11826 5 }
+		victory_points = { 11866 2 }
+		victory_points = { 11914 10 }
+		victory_points = { 11939 5 }
+		victory_points = { 12015 20 }
+	}
+	provinces={
+		11826 11866 11914 11939 12015
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1801
+	name="STATE_1801" # Puli
+	manpower = 5520
+	state_category = rural
+	history={
+		owner = PUL
+		add_core_of = PUL
+	}
+	provinces={
+		15357 15521
+	}
+	local_supplies=0.0
+}

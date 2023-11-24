@@ -1,0 +1,18 @@
+state={
+	id=981
+	name="STATE_981" # Minlam
+	manpower = 32792883
+	state_category = megalopolis
+	history={
+		owner = MIN
+		add_core_of = MIN
+		victory_points = { 11042 80 }
+		victory_points = { 11188 40 }
+		victory_points = { 11259 80 }
+		victory_points = { 11341 40 }
+	}
+	provinces={
+		11042 11188 11259 11341
+	}
+	local_supplies=0.0
+}

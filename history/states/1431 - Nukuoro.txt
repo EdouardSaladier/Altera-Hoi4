@@ -1,0 +1,14 @@
+state={
+	id=1431
+	name="STATE_1431" # Nukuoro
+	manpower = 260
+	state_category = pastoral
+	history={
+		owner = NUK
+		add_core_of = NUK
+	}
+	provinces={
+		13609 13627
+	}
+	local_supplies=0.0
+}

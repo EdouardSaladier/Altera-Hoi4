@@ -1,0 +1,9 @@
+strategic_region={
+	id=184
+	name="STRATEGICREGION_184" # Quiliut
+	provinces={
+		6828 6904 6905 7116
+	}
+	weather={
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=1156
+	name="STATE_1156" # Ayocan
+	manpower = 1010
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12089 5 }
+	}
+	provinces={
+		12089
+	}
+	local_supplies=0.0
+}

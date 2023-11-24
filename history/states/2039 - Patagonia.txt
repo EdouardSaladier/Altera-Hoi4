@@ -1,0 +1,18 @@
+state={
+	id=2039
+	name="STATE_2039" # Patagonia
+	manpower = 635027
+	state_category = rural
+	history={
+		owner = PAT
+		add_core_of = PAT
+		victory_points = { 17812 1 }
+		victory_points = { 17827 1 }
+		victory_points = { 17912 10 }
+		victory_points = { 17997 2 }
+	}
+	provinces={
+		17777 17812 17827 17851 17865 17870 17881 17886 17887 17893 17898 17902 17904 17912 17931 17956 17958 17985 17997 18003 18019 18100 18110 18132
+	}
+	local_supplies=0.0
+}

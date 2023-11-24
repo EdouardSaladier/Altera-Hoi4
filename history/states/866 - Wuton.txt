@@ -1,0 +1,22 @@
+state={
+	id=866
+	name="STATE_866" # Wuton
+	manpower = 26528605
+	state_category = metropolis
+	history={
+		owner = WUO
+		add_core_of = WUO
+		victory_points = { 10327 10 }
+		victory_points = { 10364 80 }
+		victory_points = { 10393 80 }
+		victory_points = { 10394 80 }
+		victory_points = { 10453 80 }
+		victory_points = { 10480 80 }
+		victory_points = { 10492 10 }
+		victory_points = { 10580 1 }
+	}
+	provinces={
+		10327 10364 10393 10394 10453 10480 10492 10545 10580
+	}
+	local_supplies=0.0
+}

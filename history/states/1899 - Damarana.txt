@@ -1,0 +1,16 @@
+state={
+	id=1899
+	name="STATE_1899" # Damarana
+	manpower = 71610
+	state_category = rural
+	history={
+		owner = DAM
+		add_core_of = DAM
+		victory_points = { 15985 1 }
+		victory_points = { 16145 1 }
+	}
+	provinces={
+		15960 15970 15985 15997 16004 16019 16065 16108 16124 16145 16174 16188 16194 16230 16243 16261 16266 16303 16321 16322 16340 16351 16397 16403 16415
+	}
+	local_supplies=0.0
+}

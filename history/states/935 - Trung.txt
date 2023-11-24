@@ -1,0 +1,15 @@
+state={
+	id=935
+	name="STATE_935" # Trung
+	manpower = 5750
+	state_category = pastoral
+	history={
+		owner = TRU
+		add_core_of = TRU
+		victory_points = { 10747 5 }
+	}
+	provinces={
+		10738 10747
+	}
+	local_supplies=0.0
+}

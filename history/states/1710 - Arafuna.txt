@@ -1,0 +1,14 @@
+state={
+	id=1710
+	name="STATE_1710" # Arafuna
+	manpower = 124134
+	state_category = town
+	history={
+		owner = ARF
+		add_core_of = ARF
+	}
+	provinces={
+		14916
+	}
+	local_supplies=0.0
+}

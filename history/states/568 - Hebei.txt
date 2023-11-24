@@ -1,0 +1,35 @@
+state={
+	id=568
+	name="STATE_568" # Hebei
+	manpower = 58682160
+	state_category = metropolis
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 8215 1 }
+		victory_points = { 8335 80 }
+		victory_points = { 8378 1 }
+		victory_points = { 8417 40 }
+		victory_points = { 8474 1 }
+		victory_points = { 8475 80 }
+		victory_points = { 8498 10 }
+		victory_points = { 8561 1 }
+		victory_points = { 8592 80 }
+		victory_points = { 8607 10 }
+		victory_points = { 8666 80 }
+		victory_points = { 8686 80 }
+		victory_points = { 8779 5 }
+		victory_points = { 8845 80 }
+		victory_points = { 8888 80 }
+		victory_points = { 8889 80 }
+		victory_points = { 8926 20 }
+		victory_points = { 8989 40 }
+		victory_points = { 9039 80 }
+		victory_points = { 9085 1 }
+		victory_points = { 9153 80 }
+	}
+	provinces={
+		8215 8275 8334 8335 8378 8417 8474 8475 8498 8524 8561 8592 8607 8666 8686 8779 8845 8888 8889 8926 8989 9039 9085 9153
+	}
+	local_supplies=0.0
+}

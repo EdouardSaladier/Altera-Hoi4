@@ -1,0 +1,28 @@
+state={
+	id=148
+	name="STATE_148" # Division No. 18
+	manpower = 462194
+	state_category = rural
+	history={
+		owner = SAS
+		add_core_of = SAS
+		victory_points = { 5197 5 }
+		victory_points = { 5394 5 }
+		victory_points = { 5507 2 }
+		victory_points = { 5550 5 }
+		victory_points = { 5635 5 }
+		victory_points = { 5696 1 }
+		victory_points = { 5793 1 }
+		victory_points = { 5873 2 }
+		victory_points = { 5897 2 }
+		victory_points = { 6018 1 }
+		victory_points = { 6061 1 }
+		victory_points = { 6072 5 }
+		victory_points = { 6142 1 }
+		victory_points = { 6271 1 }
+	}
+	provinces={
+		4351 4352 4373 4417 4418 4443 4500 4561 4567 4568 4609 4687 4688 4703 4716 4729 4829 4841 4842 4854 4940 4983 4984 5021 5048 5059 5090 5097 5148 5157 5197 5209 5284 5285 5286 5318 5337 5394 5409 5453 5474 5507 5550 5635 5696 5793 5873 5897 6018 6061 6072 6142 6171 6271 6282
+	}
+	local_supplies=0.0
+}

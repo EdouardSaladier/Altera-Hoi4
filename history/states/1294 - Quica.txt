@@ -1,0 +1,16 @@
+state={
+	id=1294
+	name="STATE_1294" # Quica
+	manpower = 769584
+	state_category = large_town
+	history={
+		owner = QUC
+		add_core_of = QUC
+		victory_points = { 12841 80 }
+		victory_points = { 12914 10 }
+	}
+	provinces={
+		12841 12914
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=779
+	name="STATE_779" # Amel
+	manpower = 3940020
+	state_category = megalopolis
+	history={
+		owner = AEL
+		add_core_of = AEL
+		victory_points = { 9703 20 }
+	}
+	provinces={
+		9703
+	}
+	local_supplies=0.0
+}

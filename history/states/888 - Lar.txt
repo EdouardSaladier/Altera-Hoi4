@@ -1,0 +1,20 @@
+state={
+	id=888
+	name="STATE_888" # Lar
+	manpower = 1319154
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		victory_points = { 10435 10 }
+		victory_points = { 10466 20 }
+		victory_points = { 10500 10 }
+		victory_points = { 10517 5 }
+		victory_points = { 10550 1 }
+		victory_points = { 10651 5 }
+	}
+	provinces={
+		10435 10448 10466 10500 10517 10550 10651 10673
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1827
+	name="STATE_1827" # Senanga
+	manpower = 1530198
+	state_category = town
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		victory_points = { 15480 10 }
+		victory_points = { 15625 5 }
+	}
+	provinces={
+		15480 15528 15625 15657 15677 15728 15756
+	}
+	local_supplies=0.0
+}

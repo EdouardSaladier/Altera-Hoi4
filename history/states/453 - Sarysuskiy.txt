@@ -1,0 +1,14 @@
+state={
+	id=453
+	name="STATE_453" # Sarysuskiy
+	manpower = 9610
+	state_category = pastoral
+	history={
+		owner = CHE
+		add_core_of = CHE
+	}
+	provinces={
+		7411 7432 7433 7542
+	}
+	local_supplies=0.0
+}

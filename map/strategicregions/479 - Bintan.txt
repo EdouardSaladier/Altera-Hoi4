@@ -1,0 +1,9 @@
+strategic_region={
+	id=479
+	name="STRATEGICREGION_479" # Bintan
+	provinces={
+		13923 13941 13942
+	}
+	weather={
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=1300
+	name="STATE_1300" # Assandia
+	manpower = 1851979
+	state_category = town
+	history={
+		owner = ASS
+		add_core_of = ASS
+		victory_points = { 12966 2 }
+		victory_points = { 13170 20 }
+		victory_points = { 13171 5 }
+		victory_points = { 13415 5 }
+		victory_points = { 13459 5 }
+		victory_points = { 13522 10 }
+	}
+	provinces={
+		12881 12882 12965 12966 13110 13126 13155 13170 13171 13279 13293 13294 13308 13350 13386 13415 13451 13459 13510 13522
+	}
+	local_supplies=0.0
+}

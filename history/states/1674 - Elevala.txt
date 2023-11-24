@@ -1,0 +1,14 @@
+state={
+	id=1674
+	name="STATE_1674" # Elevala
+	manpower = 84849
+	state_category = rural
+	history={
+		owner = ELE
+		add_core_of = ELE
+	}
+	provinces={
+		14758
+	}
+	local_supplies=0.0
+}

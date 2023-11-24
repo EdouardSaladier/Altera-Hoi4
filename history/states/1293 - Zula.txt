@@ -1,0 +1,18 @@
+state={
+	id=1293
+	name="STATE_1293" # Zula
+	manpower = 3801029
+	state_category = city
+	history={
+		owner = ZUL
+		add_core_of = ZUL
+		victory_points = { 12840 20 }
+		victory_points = { 12941 20 }
+		victory_points = { 12999 10 }
+		victory_points = { 13087 20 }
+	}
+	provinces={
+		12840 12906 12941 12999 13087
+	}
+	local_supplies=0.0
+}

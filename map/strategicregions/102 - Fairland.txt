@@ -1,0 +1,9 @@
+strategic_region={
+	id=102
+	name="STRATEGICREGION_102" # Fairland
+	provinces={
+		3871 3979
+	}
+	weather={
+	}
+}

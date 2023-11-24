@@ -1,0 +1,16 @@
+state={
+	id=1558
+	name="STATE_1558" # Luwu
+	manpower = 1174847
+	state_category = large_town
+	history={
+		owner = LUW
+		add_core_of = LUW
+		victory_points = { 14277 10 }
+		victory_points = { 14315 1 }
+	}
+	provinces={
+		14277 14305 14315
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=2
+	name="STATE_2" # Northwest Territories
+	manpower = 1370
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+	}
+	provinces={
+		59 136 2693
+	}
+	local_supplies=0.0
+}

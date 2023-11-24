@@ -1,0 +1,14 @@
+state={
+	id=628
+	name="STATE_628" # Salur
+	manpower = 12110
+	state_category = pastoral
+	history={
+		owner = SAL
+		add_core_of = SAL
+	}
+	provinces={
+		8726
+	}
+	local_supplies=0.0
+}

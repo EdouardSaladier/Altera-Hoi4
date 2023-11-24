@@ -1,0 +1,15 @@
+state={
+	id=740
+	name="STATE_740" # Quecha
+	manpower = 6630
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9537 2 }
+	}
+	provinces={
+		9445 9537
+	}
+	local_supplies=0.0
+}

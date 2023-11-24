@@ -1,0 +1,32 @@
+state={
+	id=1991
+	name="STATE_1991" # Uruguay
+	manpower = 7620815
+	state_category = large_town
+	history={
+		owner = URU
+		add_core_of = URU
+		victory_points = { 16782 5 }
+		victory_points = { 16792 20 }
+		victory_points = { 16816 5 }
+		victory_points = { 16836 5 }
+		victory_points = { 16837 10 }
+		victory_points = { 16848 10 }
+		victory_points = { 16868 10 }
+		victory_points = { 16885 5 }
+		victory_points = { 16895 5 }
+		victory_points = { 16905 20 }
+		victory_points = { 16955 10 }
+		victory_points = { 16961 20 }
+		victory_points = { 16979 20 }
+		victory_points = { 16998 10 }
+		victory_points = { 17005 5 }
+		victory_points = { 17023 10 }
+		victory_points = { 17054 20 }
+		victory_points = { 17072 20 }
+	}
+	provinces={
+		16782 16792 16816 16836 16837 16848 16868 16885 16895 16905 16923 16955 16961 16969 16979 16998 17005 17023 17054 17072
+	}
+	local_supplies=0.0
+}

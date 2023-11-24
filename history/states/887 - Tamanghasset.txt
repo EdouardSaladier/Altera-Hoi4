@@ -1,0 +1,15 @@
+state={
+	id=887
+	name="STATE_887" # Tamanghasset
+	manpower = 361120
+	state_category = rural
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 10503 5 }
+	}
+	provinces={
+		10432 10496 10497 10503 10700 11006 11059 11111 11127 11139 11234 11267 11293 11294 11299 11343 11367 11368 11466 11627 11628
+	}
+	local_supplies=0.0
+}

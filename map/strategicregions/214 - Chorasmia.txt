@@ -1,0 +1,9 @@
+strategic_region={
+	id=214
+	name="STRATEGICREGION_214" # Chorasmia
+	provinces={
+		7858 7889 7906 7942 7943 8052 8061 8067 8256 8292 8318 8342 8343 8411 8493 8520 8556 8557 8613 8694 8708 8709
+	}
+	weather={
+	}
+}

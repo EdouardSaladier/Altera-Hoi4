@@ -1,0 +1,20 @@
+state={
+	id=1954
+	name="STATE_1954" # Paraná
+	manpower = 24980
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 16348 40 }
+		victory_points = { 16360 20 }
+		victory_points = { 16361 80 }
+		victory_points = { 16393 40 }
+		victory_points = { 16477 40 }
+		victory_points = { 16504 5 }
+	}
+	provinces={
+		16348 16360 16361 16393 16477 16504
+	}
+	local_supplies=0.0
+}

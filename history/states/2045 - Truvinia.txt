@@ -1,0 +1,14 @@
+state={
+	id=2045
+	name="STATE_2045" # Truvinia
+	manpower = 3710
+	state_category = rural
+	history={
+		owner = TRV
+		add_core_of = TRV
+	}
+	provinces={
+		17922 17934 17961 17983 17984 18028 18044 18054 18059 18067 18076 18087 18090 18103
+	}
+	local_supplies=0.0
+}

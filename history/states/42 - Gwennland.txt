@@ -1,0 +1,18 @@
+state={
+	id=42
+	name="STATE_42" # Gwennland
+	manpower = 107622
+	state_category = town
+	history={
+		owner = GWE
+		add_core_of = GWE
+		victory_points = { 2066 5 }
+		victory_points = { 2257 2 }
+		victory_points = { 2287 2 }
+		victory_points = { 2349 1 }
+	}
+	provinces={
+		2066 2192 2257 2287 2349 2412
+	}
+	local_supplies=0.0
+}

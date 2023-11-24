@@ -1,0 +1,32 @@
+state={
+	id=922
+	name="STATE_922" # Uttar Pradesh
+	manpower = 104667638
+	state_category = megalopolis
+	history={
+		owner = GAN
+		add_core_of = GAN
+		victory_points = { 10664 20 }
+		victory_points = { 10696 80 }
+		victory_points = { 10753 80 }
+		victory_points = { 10765 20 }
+		victory_points = { 10782 20 }
+		victory_points = { 10796 20 }
+		victory_points = { 10797 20 }
+		victory_points = { 10837 20 }
+		victory_points = { 10853 80 }
+		victory_points = { 10898 20 }
+		victory_points = { 10909 20 }
+		victory_points = { 10910 10 }
+		victory_points = { 10923 5 }
+		victory_points = { 10944 80 }
+		victory_points = { 10955 10 }
+		victory_points = { 10956 40 }
+		victory_points = { 11080 10 }
+		victory_points = { 11133 10 }
+	}
+	provinces={
+		10664 10696 10753 10765 10782 10796 10797 10837 10853 10898 10909 10910 10923 10944 10955 10956 11080 11133
+	}
+	local_supplies=0.0
+}

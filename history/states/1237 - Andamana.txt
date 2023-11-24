@@ -1,0 +1,15 @@
+state={
+	id=1237
+	name="STATE_1237" # Andamana
+	manpower = 343424
+	state_category = city
+	history={
+		owner = ANM
+		add_core_of = ANM
+		victory_points = { 12686 5 }
+	}
+	provinces={
+		12546 12612 12686 12828
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1278
+	name="STATE_1278" # Cape Verde
+	manpower = 3249269
+	state_category = large_city
+	history={
+		owner = CAV
+		add_core_of = CAV
+		victory_points = { 12794 10 }
+		victory_points = { 12888 20 }
+	}
+	provinces={
+		12794 12888
+	}
+	local_supplies=0.0
+}

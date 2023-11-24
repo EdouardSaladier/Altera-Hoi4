@@ -1,0 +1,18 @@
+state={
+	id=410
+	name="STATE_410" # Alba
+	manpower = 2200610
+	state_category = large_town
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = { 7076 10 }
+		victory_points = { 7124 40 }
+		victory_points = { 7319 5 }
+		victory_points = { 7471 10 }
+	}
+	provinces={
+		7076 7124 7319 7471
+	}
+	local_supplies=0.0
+}

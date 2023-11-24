@@ -1,0 +1,9 @@
+strategic_region={
+	id=139
+	name="STRATEGICREGION_139" # Water body
+	provinces={
+		5144 5347 5383 5607 5943
+	}
+	weather={
+	}
+}

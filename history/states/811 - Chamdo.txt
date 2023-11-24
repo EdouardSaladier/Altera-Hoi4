@@ -1,0 +1,19 @@
+state={
+	id=811
+	name="STATE_811" # Chamdo
+	manpower = 24250
+	state_category = pastoral
+	history={
+		owner = KHM
+		add_core_of = KHM
+		victory_points = { 9915 20 }
+		victory_points = { 9950 1 }
+		victory_points = { 9970 1 }
+		victory_points = { 10274 1 }
+		victory_points = { 10543 20 }
+	}
+	provinces={
+		9915 9950 9970 10274 10543
+	}
+	local_supplies=0.0
+}

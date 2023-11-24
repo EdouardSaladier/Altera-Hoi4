@@ -1,0 +1,15 @@
+state={
+	id=1837
+	name="STATE_1837" # Marala
+	manpower = 6430
+	state_category = rural
+	history={
+		owner = MRA
+		add_core_of = MRA
+		victory_points = { 15564 1 }
+	}
+	provinces={
+		15547 15564
+	}
+	local_supplies=0.0
+}

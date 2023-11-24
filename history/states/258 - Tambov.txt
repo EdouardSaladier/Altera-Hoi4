@@ -1,0 +1,23 @@
+state={
+	id=258
+	name="STATE_258" # Tambov
+	manpower = 2032810
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5601 5 }
+		victory_points = { 5602 2 }
+		victory_points = { 5670 5 }
+		victory_points = { 5732 20 }
+		victory_points = { 5756 2 }
+		victory_points = { 5772 2 }
+		victory_points = { 5785 40 }
+		victory_points = { 5882 5 }
+		victory_points = { 6008 5 }
+	}
+	provinces={
+		5601 5602 5670 5732 5756 5772 5785 5882 5974 6008
+	}
+	local_supplies=0.0
+}

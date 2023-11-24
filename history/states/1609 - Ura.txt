@@ -1,0 +1,14 @@
+state={
+	id=1609
+	name="STATE_1609" # Ura
+	manpower = 74264
+	state_category = town
+	history={
+		owner = URA
+		add_core_of = URA
+	}
+	provinces={
+		14483
+	}
+	local_supplies=0.0
+}

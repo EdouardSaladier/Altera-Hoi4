@@ -1,0 +1,15 @@
+state={
+	id=1722
+	name="STATE_1722" # Tambora
+	manpower = 906519
+	state_category = city
+	history={
+		owner = TMB
+		add_core_of = TMB
+		victory_points = { 14942 10 }
+	}
+	provinces={
+		14942
+	}
+	local_supplies=0.0
+}

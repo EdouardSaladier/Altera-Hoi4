@@ -1,0 +1,16 @@
+state={
+	id=704
+	name="STATE_704" # Palmyra
+	manpower = 4738848
+	state_category = city
+	history={
+		owner = SYR
+		add_core_of = SYR
+		victory_points = { 9258 40 }
+		victory_points = { 9304 80 }
+	}
+	provinces={
+		9258 9304 9425 9438
+	}
+	local_supplies=0.0
+}

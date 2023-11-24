@@ -1,0 +1,16 @@
+state={
+	id=862
+	name="STATE_862" # Comica
+	manpower = 8146
+	state_category = rural
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 10287 5 }
+		victory_points = { 10483 5 }
+	}
+	provinces={
+		10287 10375 10440 10483 10611
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=519
+	name="STRATEGICREGION_519" # Ascensions
+	provinces={
+		14873 14906 14936
+	}
+	weather={
+	}
+}

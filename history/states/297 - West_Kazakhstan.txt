@@ -1,0 +1,22 @@
+state={
+	id=297
+	name="STATE_297" # West Kazakhstan
+	manpower = 1981410
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6133 5 }
+		victory_points = { 6134 5 }
+		victory_points = { 6279 5 }
+		victory_points = { 6384 5 }
+		victory_points = { 6432 5 }
+		victory_points = { 6453 5 }
+		victory_points = { 6539 5 }
+		victory_points = { 6660 2 }
+	}
+	provinces={
+		6133 6134 6279 6341 6383 6384 6432 6453 6539 6587 6595 6625 6660 6661 6696
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=842
+	name="STATE_842" # Katesh
+	manpower = 17223050
+	state_category = megalopolis
+	history={
+		owner = KAT
+		add_core_of = KAT
+	}
+	provinces={
+		10163
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=183
+	name="STRATEGICREGION_183" # Crimia
+	provinces={
+		6773 6799 6835 6884 6935 6961 7038 7064 7077
+	}
+	weather={
+	}
+}

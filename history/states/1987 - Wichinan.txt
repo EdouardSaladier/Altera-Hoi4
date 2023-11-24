@@ -1,0 +1,14 @@
+state={
+	id=1987
+	name="STATE_1987" # Wichinan
+	manpower = 13170
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+	}
+	provinces={
+		16734 16735 16769
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=605
+	name="STATE_605" # Cyrevia
+	manpower = 3513570
+	state_category = large_town
+	history={
+		owner = CYR
+		add_core_of = CYR
+		victory_points = { 8540 5 }
+		victory_points = { 8565 10 }
+		victory_points = { 8566 20 }
+		victory_points = { 8579 5 }
+		victory_points = { 8601 5 }
+	}
+	provinces={
+		8540 8565 8566 8579 8601
+	}
+	local_supplies=0.0
+}

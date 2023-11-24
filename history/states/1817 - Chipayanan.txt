@@ -1,0 +1,19 @@
+state={
+	id=1817
+	name="STATE_1817" # Chipayanan
+	manpower = 9330
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15440 5 }
+		victory_points = { 15508 5 }
+		victory_points = { 15539 5 }
+		victory_points = { 15550 40 }
+		victory_points = { 15629 5 }
+	}
+	provinces={
+		15440 15508 15539 15550 15629
+	}
+	local_supplies=0.0
+}

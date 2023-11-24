@@ -1,0 +1,15 @@
+state={
+	id=892
+	name="STATE_892" # Illizi
+	manpower = 94468
+	state_category = rural
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 10677 5 }
+	}
+	provinces={
+		10487 10677 10819 10873 10963 11112 11208
+	}
+	local_supplies=0.0
+}

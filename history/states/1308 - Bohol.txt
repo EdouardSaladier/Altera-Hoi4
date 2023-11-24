@@ -1,0 +1,15 @@
+state={
+	id=1308
+	name="STATE_1308" # Bohol
+	manpower = 1394609
+	state_category = metropolis
+	history={
+		owner = BHO
+		add_core_of = BHO
+		victory_points = { 12917 5 }
+	}
+	provinces={
+		12917
+	}
+	local_supplies=0.0
+}

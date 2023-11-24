@@ -1,0 +1,9 @@
+strategic_region={
+	id=584
+	name="STRATEGICREGION_584" # Botswana
+	provinces={
+		16283 16288 16299 16414 16427 16428 16478 16548 16557 16564
+	}
+	weather={
+	}
+}

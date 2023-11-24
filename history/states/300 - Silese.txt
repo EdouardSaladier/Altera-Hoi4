@@ -1,0 +1,19 @@
+state={
+	id=300
+	name="STATE_300" # Silese
+	manpower = 5084580
+	state_category = city
+	history={
+		owner = SIE
+		add_core_of = SIE
+		victory_points = { 6160 20 }
+		victory_points = { 6247 20 }
+		victory_points = { 6261 40 }
+		victory_points = { 6392 20 }
+		victory_points = { 6522 40 }
+	}
+	provinces={
+		6160 6247 6261 6392 6522
+	}
+	local_supplies=0.0
+}

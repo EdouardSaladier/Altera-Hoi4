@@ -1,0 +1,23 @@
+state={
+	id=1223
+	name="STATE_1223" # Cholnata
+	manpower = 54871549
+	state_category = megalopolis
+	history={
+		owner = CHL
+		add_core_of = CHL
+		victory_points = { 12437 20 }
+		victory_points = { 12498 20 }
+		victory_points = { 12518 40 }
+		victory_points = { 12555 20 }
+		victory_points = { 12604 10 }
+		victory_points = { 12634 80 }
+		victory_points = { 12706 80 }
+		victory_points = { 12718 40 }
+		victory_points = { 12733 80 }
+	}
+	provinces={
+		12437 12498 12518 12555 12604 12634 12706 12718 12733
+	}
+	local_supplies=0.0
+}

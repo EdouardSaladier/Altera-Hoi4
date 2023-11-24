@@ -1,0 +1,19 @@
+state={
+	id=633
+	name="STATE_633" # Malatya
+	manpower = 1403583
+	state_category = large_town
+	history={
+		owner = CAP
+		add_core_of = CAP
+		victory_points = { 8747 5 }
+		victory_points = { 8773 80 }
+		victory_points = { 8798 20 }
+		victory_points = { 8818 5 }
+		victory_points = { 8908 5 }
+	}
+	provinces={
+		8747 8773 8798 8818 8908
+	}
+	local_supplies=0.0
+}

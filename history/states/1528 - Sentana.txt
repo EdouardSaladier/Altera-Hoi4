@@ -1,0 +1,14 @@
+state={
+	id=1528
+	name="STATE_1528" # Sentana
+	manpower = 420
+	state_category = pastoral
+	history={
+		owner = SNT
+		add_core_of = SNT
+	}
+	provinces={
+		14146
+	}
+	local_supplies=0.0
+}

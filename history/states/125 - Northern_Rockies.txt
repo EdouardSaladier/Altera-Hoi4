@@ -1,0 +1,16 @@
+state={
+	id=125
+	name="STATE_125" # Northern Rockies
+	manpower = 67500
+	state_category = rural
+	history={
+		owner = ATH
+		add_core_of = ATH
+		victory_points = { 4487 2 }
+		victory_points = { 4728 5 }
+	}
+	provinces={
+		4032 4152 4207 4224 4225 4226 4227 4260 4275 4328 4329 4372 4395 4487 4531 4728 4749
+	}
+	local_supplies=0.0
+}

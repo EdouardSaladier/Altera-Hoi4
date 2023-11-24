@@ -1,0 +1,14 @@
+state={
+	id=1925
+	name="STATE_1925" # Lifu
+	manpower = 17365
+	state_category = town
+	history={
+		owner = LIF
+		add_core_of = LIF
+	}
+	provinces={
+		16121
+	}
+	local_supplies=0.0
+}

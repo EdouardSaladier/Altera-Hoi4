@@ -1,0 +1,9 @@
+strategic_region={
+	id=676
+	name="STRATEGICREGION_676" # Celadores
+	provinces={
+		18401 18402 18419 18438 18442 18461 18463 18473 18485 18497 18500 18512 18515 18523 18528
+	}
+	weather={
+	}
+}

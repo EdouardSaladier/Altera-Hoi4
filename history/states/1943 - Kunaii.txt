@@ -1,0 +1,14 @@
+state={
+	id=1943
+	name="STATE_1943" # Kunaii
+	manpower = 100663
+	state_category = town
+	history={
+		owner = KUI
+		add_core_of = KUI
+	}
+	provinces={
+		16279
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1612
+	name="STATE_1612" # Gurun
+	manpower = 140
+	state_category = rural
+	history={
+		owner = GRN
+		add_core_of = GRN
+	}
+	provinces={
+		14489
+	}
+	local_supplies=0.0
+}

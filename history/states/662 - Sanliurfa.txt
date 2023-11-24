@@ -1,0 +1,18 @@
+state={
+	id=662
+	name="STATE_662" # Sanliurfa
+	manpower = 4832879
+	state_category = city
+	history={
+		owner = SYR
+		add_core_of = SYR
+		victory_points = { 8986 20 }
+		victory_points = { 9058 80 }
+		victory_points = { 9101 2 }
+		victory_points = { 9230 1 }
+	}
+	provinces={
+		8986 9058 9101 9230
+	}
+	local_supplies=0.0
+}

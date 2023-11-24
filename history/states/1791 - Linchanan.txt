@@ -1,0 +1,15 @@
+state={
+	id=1791
+	name="STATE_1791" # Linchanan
+	manpower = 4530
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15318 80 }
+	}
+	provinces={
+		15296 15318
+	}
+	local_supplies=0.0
+}

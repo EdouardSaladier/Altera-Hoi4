@@ -1,0 +1,15 @@
+state={
+	id=1754
+	name="STATE_1754" # Gilang
+	manpower = 788950
+	state_category = large_town
+	history={
+		owner = GIN
+		add_core_of = GIN
+		victory_points = { 15077 1 }
+	}
+	provinces={
+		15077
+	}
+	local_supplies=0.0
+}

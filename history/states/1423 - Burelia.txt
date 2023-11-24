@@ -1,0 +1,14 @@
+state={
+	id=1423
+	name="STATE_1423" # Burelia
+	manpower = 4510
+	state_category = pastoral
+	history={
+		owner = BUE
+		add_core_of = BUE
+	}
+	provinces={
+		13566 13613
+	}
+	local_supplies=0.0
+}

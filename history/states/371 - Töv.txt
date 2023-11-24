@@ -1,0 +1,18 @@
+state={
+	id=371
+	name="STATE_371" # Töv
+	manpower = 186739
+	state_category = rural
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6751 1 }
+		victory_points = { 6763 80 }
+		victory_points = { 6944 1 }
+		victory_points = { 7046 1 }
+	}
+	provinces={
+		6751 6763 6944 7046
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1220
+	name="STATE_1220" # Ozomatlan
+	manpower = 6890
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12424 5 }
+		victory_points = { 12440 20 }
+		victory_points = { 12481 1 }
+	}
+	provinces={
+		12424 12440 12481
+	}
+	local_supplies=0.0
+}

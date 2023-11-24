@@ -1,0 +1,16 @@
+state={
+	id=801
+	name="STATE_801" # Darnah
+	manpower = 1110982
+	state_category = large_town
+	history={
+		owner = SAC
+		add_core_of = SAC
+		victory_points = { 9856 20 }
+		victory_points = { 9962 5 }
+	}
+	provinces={
+		9856 9921 9962 9976
+	}
+	local_supplies=0.0
+}

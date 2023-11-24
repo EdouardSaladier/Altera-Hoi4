@@ -1,0 +1,9 @@
+strategic_region={
+	id=576
+	name="STRATEGICREGION_576" # Belamora
+	provinces={
+		16104
+	}
+	weather={
+	}
+}

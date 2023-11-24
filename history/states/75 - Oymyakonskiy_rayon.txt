@@ -1,0 +1,14 @@
+state={
+	id=75
+	name="STATE_75" # Oymyakonskiy rayon
+	manpower = 58330
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		2961 3001 3077 3209 3220 3221 3229 3324 3392 3445 3457 3490 3585
+	}
+	local_supplies=0.0
+}

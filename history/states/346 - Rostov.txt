@@ -1,0 +1,21 @@
+state={
+	id=346
+	name="STATE_346" # Rostov
+	manpower = 2983588
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6492 2 }
+		victory_points = { 6579 5 }
+		victory_points = { 6594 2 }
+		victory_points = { 6707 10 }
+		victory_points = { 6792 5 }
+		victory_points = { 6800 40 }
+		victory_points = { 6962 5 }
+	}
+	provinces={
+		6492 6579 6586 6594 6707 6792 6800 6962
+	}
+	local_supplies=0.0
+}

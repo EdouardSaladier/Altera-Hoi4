@@ -1,0 +1,16 @@
+state={
+	id=491
+	name="STATE_491" # Mordia
+	manpower = 1197129
+	state_category = large_town
+	history={
+		owner = MOR
+		add_core_of = MOR
+		victory_points = { 7694 2 }
+		victory_points = { 7796 5 }
+	}
+	provinces={
+		7694 7796
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1860
+	name="STATE_1860" # Wisteria
+	manpower = 169940
+	state_category = large_town
+	history={
+		owner = WIS
+		add_core_of = WIS
+	}
+	provinces={
+		15685
+	}
+	local_supplies=0.0
+}

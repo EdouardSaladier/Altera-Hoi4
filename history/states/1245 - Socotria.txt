@@ -1,0 +1,15 @@
+state={
+	id=1245
+	name="STATE_1245" # Socotria
+	manpower = 85970
+	state_category = town
+	history={
+		owner = SOC
+		add_core_of = SOC
+		victory_points = { 12591 2 }
+	}
+	provinces={
+		12591
+	}
+	local_supplies=0.0
+}

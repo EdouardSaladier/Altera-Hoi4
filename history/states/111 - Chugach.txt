@@ -1,0 +1,17 @@
+state={
+	id=111
+	name="STATE_111" # Chugach
+	manpower = 70128
+	state_category = rural
+	history={
+		owner = CHG
+		add_core_of = CHG
+		victory_points = { 3904 2 }
+		victory_points = { 3946 1 }
+		victory_points = { 4566 5 }
+	}
+	provinces={
+		3867 3904 3946 3947 4056 4161 4191 4206 4312 4348 4349 4371 4566 4581 4619 4748 4790 4827 4863 4928 4929
+	}
+	local_supplies=0.0
+}

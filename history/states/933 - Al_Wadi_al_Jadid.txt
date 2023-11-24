@@ -1,0 +1,16 @@
+state={
+	id=933
+	name="STATE_933" # Al Wadi al Jadid
+	manpower = 488216
+	state_category = rural
+	history={
+		owner = EGY
+		add_core_of = EGY
+		victory_points = { 10725 2 }
+		victory_points = { 10918 10 }
+	}
+	provinces={
+		10723 10724 10725 10866 10918 10979 11037 11128 11176 11245 11268 11350 11371
+	}
+	local_supplies=0.0
+}

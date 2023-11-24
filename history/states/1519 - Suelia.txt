@@ -1,0 +1,25 @@
+state={
+	id=1519
+	name="STATE_1519" # Suelia
+	manpower = 25634771
+	state_category = large_city
+	history={
+		owner = SUE
+		add_core_of = SUE
+		victory_points = { 14116 2 }
+		victory_points = { 14143 5 }
+		victory_points = { 14245 2 }
+		victory_points = { 14274 2 }
+		victory_points = { 14339 10 }
+		victory_points = { 14394 80 }
+		victory_points = { 14455 40 }
+		victory_points = { 14577 5 }
+		victory_points = { 14594 5 }
+		victory_points = { 14684 5 }
+		victory_points = { 14815 5 }
+	}
+	provinces={
+		14116 14143 14173 14182 14245 14273 14274 14339 14394 14455 14577 14594 14684 14732 14815 14914
+	}
+	local_supplies=0.0
+}

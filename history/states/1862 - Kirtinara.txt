@@ -1,0 +1,14 @@
+state={
+	id=1862
+	name="STATE_1862" # Kirtinara
+	manpower = 15410
+	state_category = rural
+	history={
+		owner = KIT
+		add_core_of = KIT
+	}
+	provinces={
+		15692 15700 15720 15810 15823
+	}
+	local_supplies=0.0
+}

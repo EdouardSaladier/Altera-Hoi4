@@ -1,0 +1,16 @@
+state={
+	id=1985
+	name="STATE_1985" # Siyanda
+	manpower = 143598
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+		victory_points = { 16772 5 }
+		victory_points = { 16790 10 }
+	}
+	provinces={
+		16666 16772 16790
+	}
+	local_supplies=0.0
+}

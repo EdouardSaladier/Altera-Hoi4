@@ -1,0 +1,17 @@
+state={
+	id=1271
+	name="STATE_1271" # Awdal
+	manpower = 2931637
+	state_category = city
+	history={
+		owner = SOM
+		add_core_of = SOM
+		victory_points = { 12751 1 }
+		victory_points = { 12826 5 }
+		victory_points = { 12827 80 }
+	}
+	provinces={
+		12751 12826 12827 12838
+	}
+	local_supplies=0.0
+}

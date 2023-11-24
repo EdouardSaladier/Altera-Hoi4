@@ -1,0 +1,20 @@
+state={
+	id=405
+	name="STATE_405" # Anishinabee
+	manpower = 1307933
+	state_category = town
+	history={
+		owner = ANI
+		add_core_of = ANI
+		victory_points = { 7029 5 }
+		victory_points = { 7216 5 }
+		victory_points = { 7253 5 }
+		victory_points = { 7288 10 }
+		victory_points = { 7510 2 }
+		victory_points = { 7652 5 }
+	}
+	provinces={
+		7029 7153 7176 7216 7253 7288 7402 7510 7652 7720
+	}
+	local_supplies=0.0
+}

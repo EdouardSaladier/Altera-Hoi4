@@ -1,0 +1,17 @@
+state={
+	id=2047
+	name="STATE_2047" # Alaclufia
+	manpower = 352973
+	state_category = rural
+	history={
+		owner = ALC
+		add_core_of = ALC
+		victory_points = { 18160 5 }
+		victory_points = { 18294 5 }
+		victory_points = { 18354 20 }
+	}
+	provinces={
+		18085 18099 18131 18160 18171 18215 18244 18266 18294 18316 18320 18332 18350 18354
+	}
+	local_supplies=0.0
+}

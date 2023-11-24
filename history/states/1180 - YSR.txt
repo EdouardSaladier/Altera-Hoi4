@@ -1,0 +1,18 @@
+state={
+	id=1180
+	name="STATE_1180" # Y.S.R.
+	manpower = 10864268
+	state_category = metropolis
+	history={
+		owner = TEL
+		add_core_of = TEL
+		victory_points = { 12223 80 }
+		victory_points = { 12300 20 }
+		victory_points = { 12356 20 }
+		victory_points = { 12357 80 }
+	}
+	provinces={
+		12223 12300 12356 12357
+	}
+	local_supplies=0.0
+}

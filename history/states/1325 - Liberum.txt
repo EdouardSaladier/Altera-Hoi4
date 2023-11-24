@@ -1,0 +1,15 @@
+state={
+	id=1325
+	name="STATE_1325" # Liberum
+	manpower = 8537418
+	state_category = megalopolis
+	history={
+		owner = LIE
+		add_core_of = LIE
+		victory_points = { 12997 5 }
+	}
+	provinces={
+		12997
+	}
+	local_supplies=0.0
+}

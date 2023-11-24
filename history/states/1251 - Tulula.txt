@@ -1,0 +1,15 @@
+state={
+	id=1251
+	name="STATE_1251" # Tulula
+	manpower = 4006559
+	state_category = megalopolis
+	history={
+		owner = TUL
+		add_core_of = TUL
+		victory_points = { 12633 20 }
+	}
+	provinces={
+		12633
+	}
+	local_supplies=0.0
+}

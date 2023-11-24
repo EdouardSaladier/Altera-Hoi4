@@ -1,0 +1,21 @@
+state={
+	id=44
+	name="STATE_44" # Norrbotten
+	manpower = 290008
+	state_category = rural
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = { 2114 5 }
+		victory_points = { 2193 1 }
+		victory_points = { 2472 2 }
+		victory_points = { 2596 10 }
+		victory_points = { 2779 1 }
+		victory_points = { 2790 2 }
+		victory_points = { 2823 5 }
+	}
+	provinces={
+		2114 2193 2223 2325 2404 2464 2472 2494 2596 2619 2620 2719 2779 2790 2823
+	}
+	local_supplies=0.0
+}

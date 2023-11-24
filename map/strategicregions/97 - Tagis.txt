@@ -1,0 +1,9 @@
+strategic_region={
+	id=97
+	name="STRATEGICREGION_97" # Tagis
+	provinces={
+		3758 3860 3878 3906 3978 3997 4042 4047 4140 4245 4251
+	}
+	weather={
+	}
+}

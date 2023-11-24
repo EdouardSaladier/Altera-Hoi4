@@ -1,0 +1,15 @@
+state={
+	id=964
+	name="STATE_964" # Ras Al-Khaimah
+	manpower = 171393
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		victory_points = { 10919 40 }
+	}
+	provinces={
+		10919
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=24
+	name="STATE_24" # Austurland
+	manpower = 77290
+	state_category = rural
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = { 2752 1 }
+		victory_points = { 3112 1 }
+	}
+	provinces={
+		1712 1756 2270 2315 2418 2463 2751 2752 3092 3112 3299
+	}
+	local_supplies=0.0
+}

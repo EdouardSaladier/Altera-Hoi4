@@ -1,0 +1,18 @@
+state={
+	id=1077
+	name="STATE_1077" # Karan
+	manpower = 1860750
+	state_category = large_town
+	history={
+		owner = KAA
+		add_core_of = KAA
+		victory_points = { 11698 5 }
+		victory_points = { 11807 1 }
+		victory_points = { 11956 1 }
+		victory_points = { 12060 10 }
+	}
+	provinces={
+		11698 11807 11955 11956 12060
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1800
+	name="STATE_1800" # Copperbelt
+	manpower = 973668
+	state_category = large_town
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		victory_points = { 15345 80 }
+		victory_points = { 15394 80 }
+	}
+	provinces={
+		15345 15351 15394
+	}
+	local_supplies=0.0
+}

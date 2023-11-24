@@ -1,0 +1,16 @@
+state={
+	id=562
+	name="STATE_562" # Long Island
+	manpower = 4960
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8184 20 }
+		victory_points = { 8315 40 }
+	}
+	provinces={
+		8184 8315
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=165
+	name="STATE_165" # Gutland
+	manpower = 104599
+	state_category = town
+	history={
+		owner = GUT
+		add_core_of = GUT
+		victory_points = { 4596 5 }
+	}
+	provinces={
+		4596
+	}
+	local_supplies=0.0
+}

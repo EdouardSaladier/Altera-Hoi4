@@ -1,0 +1,17 @@
+state={
+	id=435
+	name="STATE_435" # Dundgovi
+	manpower = 21330
+	state_category = pastoral
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7250 5 }
+		victory_points = { 7275 1 }
+		victory_points = { 7525 1 }
+	}
+	provinces={
+		7250 7275 7525
+	}
+	local_supplies=0.0
+}

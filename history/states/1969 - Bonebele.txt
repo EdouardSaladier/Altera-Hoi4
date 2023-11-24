@@ -1,0 +1,18 @@
+state={
+	id=1969
+	name="STATE_1969" # Bonebele
+	manpower = 2998223
+	state_category = large_town
+	history={
+		owner = BON
+		add_core_of = BON
+		victory_points = { 16506 1 }
+		victory_points = { 16529 5 }
+		victory_points = { 16530 5 }
+		victory_points = { 16604 20 }
+	}
+	provinces={
+		16506 16529 16530 16590 16604
+	}
+	local_supplies=0.0
+}

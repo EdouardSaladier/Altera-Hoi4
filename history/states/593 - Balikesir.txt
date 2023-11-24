@@ -1,0 +1,20 @@
+state={
+	id=593
+	name="STATE_593" # Balikesir
+	manpower = 5876779
+	state_category = city
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = { 8432 5 }
+		victory_points = { 8530 40 }
+		victory_points = { 8537 5 }
+		victory_points = { 8646 10 }
+		victory_points = { 8683 20 }
+		victory_points = { 8704 20 }
+	}
+	provinces={
+		8432 8530 8537 8646 8683 8704
+	}
+	local_supplies=0.0
+}

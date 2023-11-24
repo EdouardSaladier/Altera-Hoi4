@@ -1,0 +1,20 @@
+state={
+	id=1122
+	name="STATE_1122" # Ruson
+	manpower = 5552871
+	state_category = city
+	history={
+		owner = RUO
+		add_core_of = RUO
+		victory_points = { 11905 40 }
+		victory_points = { 11906 5 }
+		victory_points = { 11977 20 }
+		victory_points = { 12053 5 }
+		victory_points = { 12062 10 }
+		victory_points = { 12197 10 }
+	}
+	provinces={
+		11905 11906 11977 12053 12062 12197
+	}
+	local_supplies=0.0
+}

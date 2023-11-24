@@ -1,0 +1,15 @@
+state={
+	id=1523
+	name="STATE_1523" # Mahisa
+	manpower = 48916
+	state_category = town
+	history={
+		owner = MHI
+		add_core_of = MHI
+		victory_points = { 14125 1 }
+	}
+	provinces={
+		14125
+	}
+	local_supplies=0.0
+}

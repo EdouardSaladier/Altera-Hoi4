@@ -1,0 +1,20 @@
+state={
+	id=2021
+	name="STATE_2021" # Cuyo
+	manpower = 36460
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17279 1 }
+		victory_points = { 17372 1 }
+		victory_points = { 17410 1 }
+		victory_points = { 17487 5 }
+		victory_points = { 17514 5 }
+		victory_points = { 17561 2 }
+	}
+	provinces={
+		17279 17348 17372 17410 17432 17487 17514 17561
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=698
+	name="STATE_698" # Samangan
+	manpower = 2086408
+	state_category = large_town
+	history={
+		owner = BAC
+		add_core_of = BAC
+		victory_points = { 9234 20 }
+		victory_points = { 9268 10 }
+		victory_points = { 9306 1 }
+		victory_points = { 9318 1 }
+	}
+	provinces={
+		9234 9268 9306 9318
+	}
+	local_supplies=0.0
+}

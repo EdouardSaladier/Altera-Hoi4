@@ -1,0 +1,14 @@
+state={
+	id=1676
+	name="STATE_1676" # Kolu
+	manpower = 210
+	state_category = rural
+	history={
+		owner = KOU
+		add_core_of = KOU
+	}
+	provinces={
+		14780
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=1022
+	name="STATE_1022" # Odiras
+	manpower = 25830
+	state_category = pastoral
+	history={
+		owner = ODI
+		add_core_of = ODI
+		victory_points = { 11331 80 }
+		victory_points = { 11378 10 }
+		victory_points = { 11542 40 }
+		victory_points = { 11574 5 }
+		victory_points = { 11585 5 }
+		victory_points = { 11593 80 }
+		victory_points = { 11676 10 }
+	}
+	provinces={
+		11331 11378 11542 11574 11585 11593 11676
+	}
+	local_supplies=0.0
+}

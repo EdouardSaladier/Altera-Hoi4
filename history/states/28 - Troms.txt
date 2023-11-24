@@ -1,0 +1,20 @@
+state={
+	id=28
+	name="STATE_28" # Troms
+	manpower = 264685
+	state_category = rural
+	history={
+		owner = GWE
+		add_core_of = GWE
+		victory_points = { 1872 10 }
+		victory_points = { 1873 2 }
+		victory_points = { 1924 1 }
+		victory_points = { 1925 1 }
+		victory_points = { 1992 2 }
+		victory_points = { 2093 2 }
+	}
+	provinces={
+		1872 1873 1924 1925 1992 2088 2093 2100
+	}
+	local_supplies=0.0
+}

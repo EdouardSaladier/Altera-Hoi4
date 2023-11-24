@@ -1,0 +1,15 @@
+state={
+	id=107
+	name="STATE_107" # Ayano-Mayskiy rayon
+	manpower = 124530
+	state_category = pastoral
+	history={
+		owner = SAK
+		add_core_of = SAK
+		victory_points = { 4310 2 }
+	}
+	provinces={
+		3754 3851 3901 3984 4006 4018 4097 4105 4112 4119 4159 4167 4205 4216 4272 4309 4310 4333 4347 4404 4413 4442 4451 4462 4517 4546 4580 4632 4644 4657 4658 4726 4773 4815 4824 4876 4908 4946 5042
+	}
+	local_supplies=0.0
+}

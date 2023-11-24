@@ -1,0 +1,15 @@
+state={
+	id=833
+	name="STATE_833" # Kandahar
+	manpower = 505062
+	state_category = town
+	history={
+		owner = GED
+		add_core_of = GED
+		victory_points = { 10110 1 }
+	}
+	provinces={
+		10078 10110 10138 10258 10318 10370
+	}
+	local_supplies=0.0
+}

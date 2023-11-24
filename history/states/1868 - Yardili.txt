@@ -1,0 +1,14 @@
+state={
+	id=1868
+	name="STATE_1868" # Yardili
+	manpower = 1230
+	state_category = rural
+	history={
+		owner = YAR
+		add_core_of = YAR
+	}
+	provinces={
+		15738
+	}
+	local_supplies=0.0
+}

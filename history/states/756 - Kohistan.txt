@@ -1,0 +1,15 @@
+state={
+	id=756
+	name="STATE_756" # Kohistan
+	manpower = 833999
+	state_category = large_town
+	history={
+		owner = KOH
+		add_core_of = KOH
+		victory_points = { 9564 80 }
+	}
+	provinces={
+		9564
+	}
+	local_supplies=0.0
+}

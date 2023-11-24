@@ -1,0 +1,16 @@
+state={
+	id=1841
+	name="STATE_1841" # Vanuatu
+	manpower = 72100
+	state_category = town
+	history={
+		owner = VAN
+		add_core_of = VAN
+		victory_points = { 15578 1 }
+		victory_points = { 15682 2 }
+	}
+	provinces={
+		15578 15682
+	}
+	local_supplies=0.0
+}

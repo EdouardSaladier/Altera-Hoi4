@@ -1,0 +1,18 @@
+state={
+	id=1265
+	name="STATE_1265" # Dagbon
+	manpower = 4001206
+	state_category = city
+	history={
+		owner = DAG
+		add_core_of = DAG
+		victory_points = { 12729 10 }
+		victory_points = { 12770 5 }
+		victory_points = { 12821 20 }
+		victory_points = { 12932 1 }
+	}
+	provinces={
+		12729 12770 12800 12821 12932 12944
+	}
+	local_supplies=0.0
+}

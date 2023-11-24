@@ -1,0 +1,18 @@
+state={
+	id=800
+	name="STATE_800" # Garzê Tibetan
+	manpower = 24130
+	state_category = pastoral
+	history={
+		owner = KHM
+		add_core_of = KHM
+		victory_points = { 9843 1 }
+		victory_points = { 9931 1 }
+		victory_points = { 10034 1 }
+		victory_points = { 10334 5 }
+	}
+	provinces={
+		9843 9931 10034 10058 10140 10227 10334
+	}
+	local_supplies=0.0
+}

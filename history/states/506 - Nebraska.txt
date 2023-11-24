@@ -1,0 +1,23 @@
+state={
+	id=506
+	name="STATE_506" # Nebraska
+	manpower = 40760
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 7803 20 }
+		victory_points = { 7811 1 }
+		victory_points = { 7812 2 }
+		victory_points = { 7827 1 }
+		victory_points = { 7913 2 }
+		victory_points = { 7972 80 }
+		victory_points = { 8004 10 }
+		victory_points = { 8037 2 }
+		victory_points = { 8142 5 }
+	}
+	provinces={
+		7803 7810 7811 7812 7827 7913 7972 8004 8037 8142
+	}
+	local_supplies=0.0
+}

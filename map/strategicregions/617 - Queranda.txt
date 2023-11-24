@@ -1,0 +1,9 @@
+strategic_region={
+	id=617
+	name="STRATEGICREGION_617" # Queranda
+	provinces={
+		17007 17046 17047
+	}
+	weather={
+	}
+}

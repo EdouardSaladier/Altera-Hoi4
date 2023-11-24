@@ -1,0 +1,19 @@
+state={
+	id=766
+	name="STATE_766" # Tadla - Azilal
+	manpower = 6042027
+	state_category = city
+	history={
+		owner = MAU
+		add_core_of = MAU
+		victory_points = { 9623 80 }
+		victory_points = { 9837 1 }
+		victory_points = { 9882 20 }
+		victory_points = { 9896 20 }
+		victory_points = { 10015 5 }
+	}
+	provinces={
+		9623 9837 9882 9896 10015
+	}
+	local_supplies=0.0
+}

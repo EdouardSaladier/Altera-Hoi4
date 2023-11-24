@@ -1,0 +1,22 @@
+state={
+	id=218
+	name="STATE_218" # Ryazan'
+	manpower = 2363293
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5232 5 }
+		victory_points = { 5292 2 }
+		victory_points = { 5368 5 }
+		victory_points = { 5369 5 }
+		victory_points = { 5391 5 }
+		victory_points = { 5461 5 }
+		victory_points = { 5523 5 }
+		victory_points = { 5538 2 }
+	}
+	provinces={
+		5232 5292 5368 5369 5391 5461 5523 5538
+	}
+	local_supplies=0.0
+}

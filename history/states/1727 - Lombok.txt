@@ -1,0 +1,15 @@
+state={
+	id=1727
+	name="STATE_1727" # Lombok
+	manpower = 3809419
+	state_category = megalopolis
+	history={
+		owner = LOB
+		add_core_of = LOB
+		victory_points = { 14964 40 }
+	}
+	provinces={
+		14964
+	}
+	local_supplies=0.0
+}

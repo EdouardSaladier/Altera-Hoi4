@@ -1,0 +1,22 @@
+state={
+	id=227
+	name="STATE_227" # Ul'yanovsk
+	manpower = 1869184
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5324 20 }
+		victory_points = { 5359 80 }
+		victory_points = { 5360 5 }
+		victory_points = { 5370 5 }
+		victory_points = { 5429 5 }
+		victory_points = { 5496 5 }
+		victory_points = { 5719 5 }
+		victory_points = { 5733 5 }
+	}
+	provinces={
+		5324 5359 5360 5370 5429 5496 5719 5733
+	}
+	local_supplies=0.0
+}

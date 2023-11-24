@@ -1,0 +1,14 @@
+state={
+	id=1230
+	name="STATE_1230" # Ceibal
+	manpower = 250
+	state_category = pastoral
+	history={
+		owner = CEI
+		add_core_of = CEI
+	}
+	provinces={
+		12500
+	}
+	local_supplies=0.0
+}

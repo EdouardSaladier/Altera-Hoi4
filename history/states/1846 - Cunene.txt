@@ -1,0 +1,14 @@
+state={
+	id=1846
+	name="STATE_1846" # Cunene
+	manpower = 1965823
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+	}
+	provinces={
+		15611 15638 15639 15689 15727
+	}
+	local_supplies=0.0
+}

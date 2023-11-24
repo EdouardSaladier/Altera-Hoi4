@@ -1,0 +1,16 @@
+state={
+	id=736
+	name="STATE_736" # Cypria
+	manpower = 1245848
+	state_category = city
+	history={
+		owner = CYP
+		add_core_of = CYP
+		victory_points = { 9412 10 }
+		victory_points = { 9448 40 }
+	}
+	provinces={
+		9412 9448
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=705
+	name="STATE_705" # Acoma
+	manpower = 2650
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9265 2 }
+	}
+	provinces={
+		9265
+	}
+	local_supplies=0.0
+}

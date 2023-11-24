@@ -1,0 +1,9 @@
+strategic_region={
+	id=284
+	name="STRATEGICREGION_284" # Fusan
+	provinces={
+		9686 9804 9877 9932 10008 10158 10214
+	}
+	weather={
+	}
+}

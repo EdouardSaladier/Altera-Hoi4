@@ -1,0 +1,40 @@
+state={
+	id=824
+	name="STATE_824" # Chihuahua
+	manpower = 5745502
+	state_category = town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10021 1 }
+		victory_points = { 10037 1 }
+		victory_points = { 10038 80 }
+		victory_points = { 10106 2 }
+		victory_points = { 10128 5 }
+		victory_points = { 10207 10 }
+		victory_points = { 10277 5 }
+		victory_points = { 10288 5 }
+		victory_points = { 10311 5 }
+		victory_points = { 10321 5 }
+		victory_points = { 10338 1 }
+		victory_points = { 10351 1 }
+		victory_points = { 10441 1 }
+		victory_points = { 10484 5 }
+		victory_points = { 10502 5 }
+		victory_points = { 10557 20 }
+		victory_points = { 10558 10 }
+		victory_points = { 10570 5 }
+		victory_points = { 10598 2 }
+		victory_points = { 10599 5 }
+		victory_points = { 10627 1 }
+		victory_points = { 10698 2 }
+		victory_points = { 10716 5 }
+		victory_points = { 10731 5 }
+		victory_points = { 10742 1 }
+		victory_points = { 10863 5 }
+	}
+	provinces={
+		10021 10037 10038 10106 10115 10128 10207 10242 10277 10288 10311 10312 10321 10338 10351 10430 10441 10484 10502 10557 10558 10559 10570 10598 10599 10627 10698 10716 10731 10742 10863
+	}
+	local_supplies=0.0
+}

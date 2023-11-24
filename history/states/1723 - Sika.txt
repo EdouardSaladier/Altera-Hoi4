@@ -1,0 +1,15 @@
+state={
+	id=1723
+	name="STATE_1723" # Sika
+	manpower = 715634
+	state_category = large_city
+	history={
+		owner = IKA
+		add_core_of = IKA
+		victory_points = { 14943 20 }
+	}
+	provinces={
+		14943
+	}
+	local_supplies=0.0
+}

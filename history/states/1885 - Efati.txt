@@ -1,0 +1,14 @@
+state={
+	id=1885
+	name="STATE_1885" # Efati
+	manpower = 66220
+	state_category = large_town
+	history={
+		owner = EFA
+		add_core_of = EFA
+	}
+	provinces={
+		15855
+	}
+	local_supplies=0.0
+}

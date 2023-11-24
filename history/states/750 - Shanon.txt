@@ -1,0 +1,18 @@
+state={
+	id=750
+	name="STATE_750" # Shanon
+	manpower = 5123000
+	state_category = city
+	history={
+		owner = SHN
+		add_core_of = SHN
+		victory_points = { 9499 1 }
+		victory_points = { 9515 10 }
+		victory_points = { 9560 10 }
+		victory_points = { 9677 80 }
+	}
+	provinces={
+		9499 9515 9560 9571 9677 9715
+	}
+	local_supplies=0.0
+}

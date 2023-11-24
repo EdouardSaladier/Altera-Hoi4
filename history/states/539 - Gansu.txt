@@ -1,0 +1,22 @@
+state={
+	id=539
+	name="STATE_539" # Gansu
+	manpower = 1949466
+	state_category = town
+	history={
+		owner = TAG
+		add_core_of = TAG
+		victory_points = { 8363 1 }
+		victory_points = { 8377 1 }
+		victory_points = { 8440 1 }
+		victory_points = { 8472 20 }
+		victory_points = { 8672 20 }
+		victory_points = { 8759 1 }
+		victory_points = { 8844 20 }
+		victory_points = { 8887 1 }
+	}
+	provinces={
+		8034 8151 8204 8230 8322 8363 8377 8439 8440 8441 8472 8672 8710 8759 8844 8887
+	}
+	local_supplies=0.0
+}

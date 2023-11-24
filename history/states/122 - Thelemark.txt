@@ -1,0 +1,16 @@
+state={
+	id=122
+	name="STATE_122" # Thelemark
+	manpower = 404465
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 4014 40 }
+		victory_points = { 4126 5 }
+	}
+	provinces={
+		4014 4126 4143
+	}
+	local_supplies=0.0
+}

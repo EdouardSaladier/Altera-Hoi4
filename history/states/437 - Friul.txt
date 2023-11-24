@@ -1,0 +1,16 @@
+state={
+	id=437
+	name="STATE_437" # Friul
+	manpower = 432262
+	state_category = town
+	history={
+		owner = HEL
+		add_core_of = HEL
+		victory_points = { 7268 10 }
+		victory_points = { 7269 20 }
+	}
+	provinces={
+		7268 7269
+	}
+	local_supplies=0.0
+}

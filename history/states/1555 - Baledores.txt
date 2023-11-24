@@ -1,0 +1,15 @@
+state={
+	id=1555
+	name="STATE_1555" # Baledores
+	manpower = 256680
+	state_category = large_town
+	history={
+		owner = BAO
+		add_core_of = BAO
+		victory_points = { 14434 2 }
+	}
+	provinces={
+		14252 14302 14426 14434 14435 14453
+	}
+	local_supplies=0.0
+}

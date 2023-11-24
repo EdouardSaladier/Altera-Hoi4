@@ -1,0 +1,15 @@
+state={
+	id=34
+	name="STATE_34" # Verkhoyanskiy rayon
+	manpower = 79360
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 2198 2 }
+	}
+	provinces={
+		1929 1979 2071 2105 2186 2198 2248 2263 2354 2498 2517 2518 2540 2588 2646 2686 2756 2806 2975 3022
+	}
+	local_supplies=0.0
+}

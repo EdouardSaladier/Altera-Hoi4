@@ -1,0 +1,14 @@
+state={
+	id=1871
+	name="STATE_1871" # Gurunji
+	manpower = 9710
+	state_category = rural
+	history={
+		owner = GUU
+		add_core_of = GUU
+	}
+	provinces={
+		15792 15838 15943
+	}
+	local_supplies=0.0
+}

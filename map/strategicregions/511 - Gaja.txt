@@ -1,0 +1,9 @@
+strategic_region={
+	id=511
+	name="STRATEGICREGION_511" # Gaja
+	provinces={
+		14639 14668
+	}
+	weather={
+	}
+}

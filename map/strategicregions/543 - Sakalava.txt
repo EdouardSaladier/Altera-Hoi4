@@ -1,0 +1,9 @@
+strategic_region={
+	id=543
+	name="STRATEGICREGION_543" # Sakalava
+	provinces={
+		15341 15363 15494 15563 15642 15672 15691 15718 15737 15941 16049 16056
+	}
+	weather={
+	}
+}

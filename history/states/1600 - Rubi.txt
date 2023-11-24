@@ -1,0 +1,14 @@
+state={
+	id=1600
+	name="STATE_1600" # Rubi
+	manpower = 80
+	state_category = rural
+	history={
+		owner = RUB
+		add_core_of = RUB
+	}
+	provinces={
+		14442
+	}
+	local_supplies=0.0
+}

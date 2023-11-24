@@ -1,0 +1,17 @@
+state={
+	id=1400
+	name="STATE_1400" # Galinne
+	manpower = 607076
+	state_category = town
+	history={
+		owner = GAI
+		add_core_of = GAI
+		victory_points = { 13448 10 }
+		victory_points = { 13562 1 }
+		victory_points = { 13581 2 }
+	}
+	provinces={
+		13448 13562 13581 13631
+	}
+	local_supplies=0.0
+}

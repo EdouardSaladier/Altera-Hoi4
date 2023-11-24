@@ -1,0 +1,15 @@
+state={
+	id=1198
+	name="STATE_1198" # Cacaocan
+	manpower = 2300
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12318 10 }
+	}
+	provinces={
+		12318
+	}
+	local_supplies=0.0
+}

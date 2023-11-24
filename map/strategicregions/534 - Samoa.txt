@@ -1,0 +1,9 @@
+strategic_region={
+	id=534
+	name="STRATEGICREGION_534" # Samoa
+	provinces={
+		15099 15122 15172 15213 15223 15249 15256 15281 15477 15486 15506 15910 15981
+	}
+	weather={
+	}
+}

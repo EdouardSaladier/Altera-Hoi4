@@ -1,0 +1,15 @@
+state={
+	id=83
+	name="STATE_83" # Kivalliq
+	manpower = 94250
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+		victory_points = { 3591 2 }
+	}
+	provinces={
+		3107 3108 3109 3159 3181 3290 3316 3317 3318 3319 3341 3367 3368 3409 3496 3497 3538 3590 3591 3691 3692 3693 3699 3700 3708 3775 3838 3843 3869
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=980
+	name="STATE_980" # Samsok
+	manpower = 1410
+	state_category = pastoral
+	history={
+		owner = SMS
+		add_core_of = SMS
+		victory_points = { 11029 1 }
+	}
+	provinces={
+		11029
+	}
+	local_supplies=0.0
+}

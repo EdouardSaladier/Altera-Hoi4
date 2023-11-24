@@ -1,0 +1,17 @@
+state={
+	id=909
+	name="STATE_909" # Yunnan
+	manpower = 14720
+	state_category = pastoral
+	history={
+		owner = YUN
+		add_core_of = YUN
+		victory_points = { 10565 10 }
+		victory_points = { 10623 5 }
+		victory_points = { 10785 10 }
+	}
+	provinces={
+		10565 10594 10623 10634 10785
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=982
+	name="STATE_982" # Shosan
+	manpower = 240
+	state_category = pastoral
+	history={
+		owner = SHS
+		add_core_of = SHS
+	}
+	provinces={
+		11043
+	}
+	local_supplies=0.0
+}

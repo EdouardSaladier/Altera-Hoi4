@@ -1,0 +1,9 @@
+strategic_region={
+	id=551
+	name="STRATEGICREGION_551" # Diamantina
+	provinces={
+		15576 16449 16549 16651
+	}
+	weather={
+	}
+}

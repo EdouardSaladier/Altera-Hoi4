@@ -1,0 +1,16 @@
+state={
+	id=2051
+	name="STATE_2051" # Fogaria
+	manpower = 277285
+	state_category = rural
+	history={
+		owner = JOS
+		add_core_of = JOS
+		victory_points = { 18441 10 }
+		victory_points = { 18454 10 }
+	}
+	provinces={
+		18423 18437 18441 18451 18454 18483 18484 18518 18521 18522 18541 18542 18548 18551 18560 18564 18594
+	}
+	local_supplies=0.0
+}

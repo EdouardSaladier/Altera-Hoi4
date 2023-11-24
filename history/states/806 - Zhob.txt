@@ -1,0 +1,16 @@
+state={
+	id=806
+	name="STATE_806" # Zhob
+	manpower = 16618417
+	state_category = metropolis
+	history={
+		owner = PUN
+		add_core_of = PUN
+		victory_points = { 9871 20 }
+		victory_points = { 10183 10 }
+	}
+	provinces={
+		9871 10183
+	}
+	local_supplies=0.0
+}

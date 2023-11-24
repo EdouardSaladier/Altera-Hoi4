@@ -1,0 +1,14 @@
+state={
+	id=1662
+	name="STATE_1662" # Rotoka
+	manpower = 82305
+	state_category = town
+	history={
+		owner = ROT
+		add_core_of = ROT
+	}
+	provinces={
+		14703
+	}
+	local_supplies=0.0
+}

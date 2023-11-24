@@ -1,0 +1,15 @@
+state={
+	id=1121
+	name="STATE_1121" # Champa
+	manpower = 2137888
+	state_category = large_city
+	history={
+		owner = CHM
+		add_core_of = CHM
+		victory_points = { 11904 80 }
+	}
+	provinces={
+		11904
+	}
+	local_supplies=0.0
+}

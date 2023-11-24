@@ -1,0 +1,9 @@
+strategic_region={
+	id=271
+	name="STRATEGICREGION_271" # Mauretania
+	provinces={
+		9349 9384 9460 9461 9462 9546 9623 9634 9635 9662 9836 9837 9869 9882 9896 10005 10013 10014 10015 10024
+	}
+	weather={
+	}
+}

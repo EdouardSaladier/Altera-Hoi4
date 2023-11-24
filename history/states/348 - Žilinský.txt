@@ -1,0 +1,19 @@
+state={
+	id=348
+	name="STATE_348" # Žilinský
+	manpower = 2278058
+	state_category = large_town
+	history={
+		owner = SLO
+		add_core_of = SLO
+		victory_points = { 6523 20 }
+		victory_points = { 6552 5 }
+		victory_points = { 6578 20 }
+		victory_points = { 6617 10 }
+		victory_points = { 6813 20 }
+	}
+	provinces={
+		6523 6552 6578 6617 6813
+	}
+	local_supplies=0.0
+}

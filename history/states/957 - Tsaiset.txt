@@ -1,0 +1,15 @@
+state={
+	id=957
+	name="STATE_957" # Tsaiset
+	manpower = 8040
+	state_category = pastoral
+	history={
+		owner = TSA
+		add_core_of = TSA
+		victory_points = { 10861 40 }
+	}
+	provinces={
+		10861
+	}
+	local_supplies=0.0
+}

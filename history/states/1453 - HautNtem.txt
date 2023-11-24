@@ -1,0 +1,14 @@
+state={
+	id=1453
+	name="STATE_1453" # Haut-Ntem
+	manpower = 135870
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+	}
+	provinces={
+		13740
+	}
+	local_supplies=0.0
+}

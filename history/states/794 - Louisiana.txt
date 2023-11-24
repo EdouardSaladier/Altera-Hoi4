@@ -1,0 +1,17 @@
+state={
+	id=794
+	name="STATE_794" # Louisiana
+	manpower = 30410
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9812 40 }
+		victory_points = { 9813 5 }
+		victory_points = { 10146 80 }
+	}
+	provinces={
+		9812 9813 10146
+	}
+	local_supplies=0.0
+}

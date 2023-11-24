@@ -1,0 +1,14 @@
+state={
+	id=1001
+	name="STATE_1001" # Doze Island (USA)
+	manpower = 90
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+	}
+	provinces={
+		11182
+	}
+	local_supplies=0.0
+}

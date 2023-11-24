@@ -1,0 +1,15 @@
+state={
+	id=1000
+	name="STATE_1000" # Blemysia
+	manpower = 15040
+	state_category = pastoral
+	history={
+		owner = BLE
+		add_core_of = BLE
+		victory_points = { 11428 5 }
+	}
+	provinces={
+		11177 11372 11428
+	}
+	local_supplies=0.0
+}

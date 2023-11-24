@@ -1,0 +1,14 @@
+state={
+	id=334
+	name="STATE_334" # Tsehestano Range
+	manpower = 8150
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+	}
+	provinces={
+		6404 6517 6533
+	}
+	local_supplies=0.0
+}

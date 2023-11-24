@@ -1,0 +1,17 @@
+state={
+	id=224
+	name="STATE_224" # Frisse
+	manpower = 2897390
+	state_category = city
+	history={
+		owner = FRI
+		add_core_of = FRI
+		victory_points = { 5596 10 }
+		victory_points = { 5684 10 }
+		victory_points = { 5685 5 }
+	}
+	provinces={
+		5307 5596 5684 5685
+	}
+	local_supplies=0.0
+}

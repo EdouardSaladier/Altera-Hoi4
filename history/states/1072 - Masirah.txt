@@ -1,0 +1,14 @@
+state={
+	id=1072
+	name="STATE_1072" # Masirah
+	manpower = 8250
+	state_category = town
+	history={
+		owner = MAG
+		add_core_of = MAG
+	}
+	provinces={
+		11671
+	}
+	local_supplies=0.0
+}

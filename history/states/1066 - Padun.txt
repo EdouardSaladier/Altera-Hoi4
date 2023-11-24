@@ -1,0 +1,23 @@
+state={
+	id=1066
+	name="STATE_1066" # Padun
+	manpower = 5419169
+	state_category = large_town
+	history={
+		owner = PAD
+		add_core_of = PAD
+		victory_points = { 11649 10 }
+		victory_points = { 11719 5 }
+		victory_points = { 11752 40 }
+		victory_points = { 11816 5 }
+		victory_points = { 11892 20 }
+		victory_points = { 11902 1 }
+		victory_points = { 11903 10 }
+		victory_points = { 11974 1 }
+		victory_points = { 12030 5 }
+	}
+	provinces={
+		11649 11719 11752 11816 11892 11902 11903 11974 12030
+	}
+	local_supplies=0.0
+}

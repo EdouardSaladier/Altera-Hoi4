@@ -1,0 +1,16 @@
+state={
+	id=1782
+	name="STATE_1782" # Magaya
+	manpower = 5310
+	state_category = rural
+	history={
+		owner = MAY
+		add_core_of = MAY
+		victory_points = { 15293 2 }
+		victory_points = { 15323 2 }
+	}
+	provinces={
+		15237 15293 15309 15323 15332 15355
+	}
+	local_supplies=0.0
+}

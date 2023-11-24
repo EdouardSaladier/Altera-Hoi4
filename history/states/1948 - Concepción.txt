@@ -1,0 +1,17 @@
+state={
+	id=1948
+	name="STATE_1948" # Concepción
+	manpower = 1062651
+	state_category = town
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16315 10 }
+		victory_points = { 16316 10 }
+		victory_points = { 16457 5 }
+	}
+	provinces={
+		16314 16315 16316 16457
+	}
+	local_supplies=0.0
+}

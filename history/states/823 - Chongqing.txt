@@ -1,0 +1,20 @@
+state={
+	id=823
+	name="STATE_823" # Chongqing
+	manpower = 18978381
+	state_category = large_city
+	history={
+		owner = SZE
+		add_core_of = SZE
+		victory_points = { 9985 20 }
+		victory_points = { 10081 10 }
+		victory_points = { 10197 1 }
+		victory_points = { 10283 20 }
+		victory_points = { 10349 80 }
+		victory_points = { 10412 2 }
+	}
+	provinces={
+		9985 10007 10081 10197 10283 10349 10412
+	}
+	local_supplies=0.0
+}

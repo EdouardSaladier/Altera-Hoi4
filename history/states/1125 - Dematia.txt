@@ -1,0 +1,17 @@
+state={
+	id=1125
+	name="STATE_1125" # Dematia
+	manpower = 8482617
+	state_category = large_town
+	history={
+		owner = DEM
+		add_core_of = DEM
+		victory_points = { 12044 5 }
+		victory_points = { 12264 1 }
+		victory_points = { 12307 5 }
+	}
+	provinces={
+		11925 11963 12036 12044 12071 12074 12096 12134 12176 12188 12207 12252 12264 12307 12308 12340 12426
+	}
+	local_supplies=0.0
+}

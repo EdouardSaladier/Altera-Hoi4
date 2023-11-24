@@ -1,0 +1,16 @@
+state={
+	id=412
+	name="STATE_412" # Övörhangay
+	manpower = 18320
+	state_category = pastoral
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7095 5 }
+		victory_points = { 7506 5 }
+	}
+	provinces={
+		7095 7506
+	}
+	local_supplies=0.0
+}

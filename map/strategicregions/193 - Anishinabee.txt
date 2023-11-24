@@ -1,0 +1,9 @@
+strategic_region={
+	id=193
+	name="STRATEGICREGION_193" # Anishinabee
+	provinces={
+		7029 7153 7176 7216 7253 7288 7426 7563
+	}
+	weather={
+	}
+}

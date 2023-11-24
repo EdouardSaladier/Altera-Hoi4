@@ -1,0 +1,17 @@
+state={
+	id=331
+	name="STATE_331" # Jihočeský
+	manpower = 3538854
+	state_category = city
+	history={
+		owner = BOH
+		add_core_of = BOH
+		victory_points = { 6391 80 }
+		victory_points = { 6474 10 }
+		victory_points = { 6538 10 }
+	}
+	provinces={
+		6391 6474 6538
+	}
+	local_supplies=0.0
+}

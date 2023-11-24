@@ -1,0 +1,9 @@
+strategic_region={
+	id=446
+	name="STRATEGICREGION_446" # Nikobara
+	provinces={
+		13281 13336
+	}
+	weather={
+	}
+}

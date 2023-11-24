@@ -1,0 +1,18 @@
+state={
+	id=1929
+	name="STATE_1929" # Yurasarnan
+	manpower = 13320
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16185 20 }
+		victory_points = { 16219 5 }
+		victory_points = { 16269 20 }
+		victory_points = { 16274 1 }
+	}
+	provinces={
+		16185 16219 16269 16274
+	}
+	local_supplies=0.0
+}

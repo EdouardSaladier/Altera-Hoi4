@@ -1,0 +1,14 @@
+state={
+	id=145
+	name="STATE_145" # Tahltan
+	manpower = 27750
+	state_category = pastoral
+	history={
+		owner = TAL
+		add_core_of = TAL
+	}
+	provinces={
+		4314 4326 4405 4541 4791
+	}
+	local_supplies=0.0
+}

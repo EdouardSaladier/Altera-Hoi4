@@ -1,0 +1,17 @@
+state={
+	id=583
+	name="STATE_583" # Sardiny
+	manpower = 3629973
+	state_category = city
+	history={
+		owner = SAN
+		add_core_of = SAN
+		victory_points = { 8356 20 }
+		victory_points = { 8501 10 }
+		victory_points = { 8682 20 }
+	}
+	provinces={
+		8356 8501 8682
+	}
+	local_supplies=0.0
+}

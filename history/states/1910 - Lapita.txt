@@ -1,0 +1,14 @@
+state={
+	id=1910
+	name="STATE_1910" # Lapita
+	manpower = 700
+	state_category = rural
+	history={
+		owner = LAI
+		add_core_of = LAI
+	}
+	provinces={
+		16006 16051
+	}
+	local_supplies=0.0
+}

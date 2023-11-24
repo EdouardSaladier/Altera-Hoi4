@@ -1,0 +1,32 @@
+state={
+	id=51
+	name="STATE_51" # Komi
+	manpower = 1730910
+	state_category = rural
+	history={
+		owner = BIA
+		add_core_of = BIA
+		victory_points = { 2259 2 }
+		victory_points = { 2668 1 }
+		victory_points = { 2708 1 }
+		victory_points = { 2918 2 }
+		victory_points = { 2957 2 }
+		victory_points = { 3044 10 }
+		victory_points = { 3217 5 }
+		victory_points = { 3237 5 }
+		victory_points = { 3251 2 }
+		victory_points = { 3430 2 }
+		victory_points = { 3501 1 }
+		victory_points = { 3525 2 }
+		victory_points = { 3577 5 }
+		victory_points = { 3626 5 }
+		victory_points = { 3760 2 }
+		victory_points = { 3769 2 }
+		victory_points = { 3887 1 }
+		victory_points = { 3991 2 }
+	}
+	provinces={
+		2259 2496 2565 2566 2586 2597 2598 2610 2611 2668 2708 2709 2753 2767 2768 2792 2833 2834 2852 2907 2908 2918 2957 2998 3009 3044 3057 3075 3115 3136 3146 3147 3148 3201 3207 3216 3217 3237 3251 3259 3260 3333 3345 3430 3501 3502 3525 3563 3577 3615 3626 3760 3769 3854 3874 3887 3922 3991 4115
+	}
+	local_supplies=0.0
+}

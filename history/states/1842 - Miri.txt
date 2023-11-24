@@ -1,0 +1,15 @@
+state={
+	id=1842
+	name="STATE_1842" # Miri
+	manpower = 4770
+	state_category = rural
+	history={
+		owner = MIR
+		add_core_of = MIR
+		victory_points = { 15582 5 }
+	}
+	provinces={
+		15582
+	}
+	local_supplies=0.0
+}

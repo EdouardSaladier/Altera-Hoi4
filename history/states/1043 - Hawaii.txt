@@ -1,0 +1,21 @@
+state={
+	id=1043
+	name="STATE_1043" # Hawaii
+	manpower = 1457990
+	state_category = large_town
+	history={
+		owner = HAW
+		add_core_of = HAW
+		victory_points = { 11558 10 }
+		victory_points = { 11590 1 }
+		victory_points = { 11607 5 }
+		victory_points = { 11625 2 }
+		victory_points = { 11680 5 }
+		victory_points = { 11699 10 }
+		victory_points = { 11818 1 }
+	}
+	provinces={
+		11472 11558 11590 11607 11625 11660 11680 11699 11818
+	}
+	local_supplies=0.0
+}

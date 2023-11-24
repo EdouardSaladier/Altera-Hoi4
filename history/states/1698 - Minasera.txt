@@ -1,0 +1,15 @@
+state={
+	id=1698
+	name="STATE_1698" # Minasera
+	manpower = 2420
+	state_category = rural
+	history={
+		owner = MIS
+		add_core_of = MIS
+		victory_points = { 14875 5 }
+	}
+	provinces={
+		14875
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1592
+	name="STATE_1592" # Ekara
+	manpower = 442490
+	state_category = large_town
+	history={
+		owner = EKA
+		add_core_of = EKA
+		victory_points = { 14417 1 }
+		victory_points = { 14461 1 }
+	}
+	provinces={
+		14417 14461
+	}
+	local_supplies=0.0
+}

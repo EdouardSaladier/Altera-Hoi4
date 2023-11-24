@@ -1,0 +1,9 @@
+strategic_region={
+	id=582
+	name="STRATEGICREGION_582" # Tupuaii
+	provinces={
+		16267 16337 16342 16346 16409 16435 16502 16546 16585 16652 16658 16698 16750 16777 16840 16846
+	}
+	weather={
+	}
+}

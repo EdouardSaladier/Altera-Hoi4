@@ -1,0 +1,15 @@
+state={
+	id=207
+	name="STATE_207" # Myadzyel
+	manpower = 1034458
+	state_category = town
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = { 5109 20 }
+	}
+	provinces={
+		5109
+	}
+	local_supplies=0.0
+}

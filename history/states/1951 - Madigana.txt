@@ -1,0 +1,15 @@
+state={
+	id=1951
+	name="STATE_1951" # Madigana
+	manpower = 28220
+	state_category = rural
+	history={
+		owner = MAD
+		add_core_of = MAD
+		victory_points = { 16454 2 }
+	}
+	provinces={
+		16341 16365 16366 16385 16394 16398 16408 16434 16444 16448 16454 16483 16515
+	}
+	local_supplies=0.0
+}

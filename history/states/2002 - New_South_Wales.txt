@@ -1,0 +1,26 @@
+state={
+	id=2002
+	name="STATE_2002" # New South Wales
+	manpower = 280981
+	state_category = rural
+	history={
+		owner = TAS
+		add_core_of = TAS
+		victory_points = { 17012 2 }
+		victory_points = { 17025 5 }
+		victory_points = { 17097 2 }
+		victory_points = { 17106 5 }
+		victory_points = { 17184 1 }
+		victory_points = { 17185 2 }
+		victory_points = { 17205 5 }
+		victory_points = { 17211 1 }
+		victory_points = { 17263 5 }
+		victory_points = { 17294 10 }
+		victory_points = { 17295 5 }
+		victory_points = { 17378 5 }
+	}
+	provinces={
+		17012 17013 17025 17041 17042 17097 17105 17106 17184 17185 17190 17205 17211 17263 17294 17295 17378
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1839
+	name="STATE_1839" # Futuna
+	manpower = 460
+	state_category = rural
+	history={
+		owner = FUT
+		add_core_of = FUT
+	}
+	provinces={
+		15556 15585 15604
+	}
+	local_supplies=0.0
+}

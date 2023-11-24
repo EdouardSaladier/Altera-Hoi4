@@ -1,0 +1,14 @@
+state={
+	id=1707
+	name="STATE_1707" # Ranpu
+	manpower = 148910
+	state_category = town
+	history={
+		owner = RAP
+		add_core_of = RAP
+	}
+	provinces={
+		14894
+	}
+	local_supplies=0.0
+}

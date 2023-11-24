@@ -1,0 +1,15 @@
+state={
+	id=1321
+	name="STATE_1321" # Malayala
+	manpower = 8161371
+	state_category = megalopolis
+	history={
+		owner = MLA
+		add_core_of = MLA
+		victory_points = { 12974 80 }
+	}
+	provinces={
+		12974
+	}
+	local_supplies=0.0
+}

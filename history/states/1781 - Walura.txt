@@ -1,0 +1,14 @@
+state={
+	id=1781
+	name="STATE_1781" # Walura
+	manpower = 300
+	state_category = rural
+	history={
+		owner = WAU
+		add_core_of = WAU
+	}
+	provinces={
+		15227
+	}
+	local_supplies=0.0
+}

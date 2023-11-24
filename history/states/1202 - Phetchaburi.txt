@@ -1,0 +1,20 @@
+state={
+	id=1202
+	name="STATE_1202" # Phetchaburi
+	manpower = 6140531
+	state_category = city
+	history={
+		owner = SIA
+		add_core_of = SIA
+		victory_points = { 12343 10 }
+		victory_points = { 12456 20 }
+		victory_points = { 12499 10 }
+		victory_points = { 12605 10 }
+		victory_points = { 12693 5 }
+		victory_points = { 12776 10 }
+	}
+	provinces={
+		12343 12456 12499 12605 12693 12776
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1424
+	name="STATE_1424" # Elia
+	manpower = 1025468
+	state_category = town
+	history={
+		owner = ELI
+		add_core_of = ELI
+		victory_points = { 13576 5 }
+		victory_points = { 13583 5 }
+		victory_points = { 13674 5 }
+	}
+	provinces={
+		13567 13576 13583 13659 13674
+	}
+	local_supplies=0.0
+}

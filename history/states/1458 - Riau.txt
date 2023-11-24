@@ -1,0 +1,25 @@
+state={
+	id=1458
+	name="STATE_1458" # Riau
+	manpower = 8204283
+	state_category = city
+	history={
+		owner = SIV
+		add_core_of = SIV
+		victory_points = { 13765 5 }
+		victory_points = { 13787 1 }
+		victory_points = { 13819 1 }
+		victory_points = { 13849 10 }
+		victory_points = { 13856 1 }
+		victory_points = { 13857 1 }
+		victory_points = { 13914 80 }
+		victory_points = { 13915 1 }
+		victory_points = { 13977 1 }
+		victory_points = { 13978 1 }
+		victory_points = { 14029 1 }
+	}
+	provinces={
+		13765 13787 13819 13849 13856 13857 13914 13915 13977 13978 14029
+	}
+	local_supplies=0.0
+}

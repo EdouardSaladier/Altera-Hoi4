@@ -1,0 +1,15 @@
+state={
+	id=1773
+	name="STATE_1773" # Savu
+	manpower = 80937
+	state_category = town
+	history={
+		owner = SAV
+		add_core_of = SAV
+		victory_points = { 15181 1 }
+	}
+	provinces={
+		15181
+	}
+	local_supplies=0.0
+}

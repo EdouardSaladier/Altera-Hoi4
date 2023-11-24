@@ -1,0 +1,15 @@
+state={
+	id=1748
+	name="STATE_1748" # Yoyowat
+	manpower = 331612
+	state_category = large_town
+	history={
+		owner = YOY
+		add_core_of = YOY
+		victory_points = { 15044 5 }
+	}
+	provinces={
+		15044
+	}
+	local_supplies=0.0
+}

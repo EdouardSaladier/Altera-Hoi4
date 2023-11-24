@@ -1,0 +1,17 @@
+state={
+	id=1624
+	name="STATE_1624" # Goyo
+	manpower = 824333
+	state_category = large_town
+	history={
+		owner = GOY
+		add_core_of = GOY
+		victory_points = { 14544 10 }
+		victory_points = { 14564 10 }
+		victory_points = { 14647 20 }
+	}
+	provinces={
+		14544 14564 14647
+	}
+	local_supplies=0.0
+}

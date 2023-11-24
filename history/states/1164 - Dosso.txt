@@ -1,0 +1,17 @@
+state={
+	id=1164
+	name="STATE_1164" # Dosso
+	manpower = 4793429
+	state_category = city
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12142 5 }
+		victory_points = { 12557 10 }
+		victory_points = { 12599 20 }
+	}
+	provinces={
+		12142 12557 12599
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1810
+	name="STATE_1810" # Tharanja
+	manpower = 1110
+	state_category = rural
+	history={
+		owner = THN
+		add_core_of = THN
+	}
+	provinces={
+		15419
+	}
+	local_supplies=0.0
+}

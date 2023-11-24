@@ -1,0 +1,15 @@
+state={
+	id=1477
+	name="STATE_1477" # Kapingamarangi
+	manpower = 320
+	state_category = pastoral
+	history={
+		owner = KAG
+		add_core_of = KAG
+		victory_points = { 13898 1 }
+	}
+	provinces={
+		13869 13898
+	}
+	local_supplies=0.0
+}

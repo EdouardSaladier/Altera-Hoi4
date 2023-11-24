@@ -1,0 +1,15 @@
+state={
+	id=1193
+	name="STATE_1193" # Cuauhpan
+	manpower = 3300
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12302 10 }
+	}
+	provinces={
+		12302
+	}
+	local_supplies=0.0
+}

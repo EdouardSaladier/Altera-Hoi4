@@ -1,0 +1,15 @@
+state={
+	id=897
+	name="STATE_897" # Sumar
+	manpower = 2060
+	state_category = pastoral
+	history={
+		owner = SMA
+		add_core_of = SMA
+		victory_points = { 10501 1 }
+	}
+	provinces={
+		10501
+	}
+	local_supplies=0.0
+}

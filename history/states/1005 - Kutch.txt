@@ -1,0 +1,17 @@
+state={
+	id=1005
+	name="STATE_1005" # Kutch
+	manpower = 2634759
+	state_category = city
+	history={
+		owner = KUC
+		add_core_of = KUC
+		victory_points = { 11218 20 }
+		victory_points = { 11282 10 }
+		victory_points = { 11283 20 }
+	}
+	provinces={
+		11218 11282 11283
+	}
+	local_supplies=0.0
+}

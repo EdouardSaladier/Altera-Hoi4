@@ -1,0 +1,9 @@
+strategic_region={
+	id=250
+	name="STRATEGICREGION_250" # Sicily
+	provinces={
+		8932 8943 8954 9044 9144 9303 9397
+	}
+	weather={
+	}
+}

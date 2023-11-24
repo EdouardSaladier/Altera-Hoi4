@@ -1,0 +1,24 @@
+state={
+	id=237
+	name="STATE_237" # Aigun
+	manpower = 887283
+	state_category = rural
+	history={
+		owner = AIG
+		add_core_of = AIG
+		victory_points = { 5405 2 }
+		victory_points = { 5499 5 }
+		victory_points = { 5516 2 }
+		victory_points = { 5592 5 }
+		victory_points = { 5646 5 }
+		victory_points = { 5695 1 }
+		victory_points = { 5819 5 }
+		victory_points = { 5851 10 }
+		victory_points = { 6067 2 }
+		victory_points = { 6280 10 }
+	}
+	provinces={
+		5405 5499 5516 5592 5646 5647 5695 5804 5819 5831 5851 5852 5894 5907 6067 6151 6280
+	}
+	local_supplies=0.0
+}

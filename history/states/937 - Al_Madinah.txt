@@ -1,0 +1,16 @@
+state={
+	id=937
+	name="STATE_937" # Al Madinah
+	manpower = 1930684
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10748 5 }
+		victory_points = { 11051 80 }
+	}
+	provinces={
+		10748 10821 10849 10934 11025 11051 11061 11163 11194 11254 11296
+	}
+	local_supplies=0.0
+}

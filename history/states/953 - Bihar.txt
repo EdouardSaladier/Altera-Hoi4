@@ -1,0 +1,24 @@
+state={
+	id=953
+	name="STATE_953" # Bihar
+	manpower = 78927738
+	state_category = megalopolis
+	history={
+		owner = GAN
+		add_core_of = GAN
+		victory_points = { 10826 40 }
+		victory_points = { 10868 40 }
+		victory_points = { 10878 80 }
+		victory_points = { 10886 10 }
+		victory_points = { 11000 40 }
+		victory_points = { 11001 20 }
+		victory_points = { 11009 20 }
+		victory_points = { 11064 10 }
+		victory_points = { 11072 80 }
+		victory_points = { 11155 20 }
+	}
+	provinces={
+		10826 10868 10878 10886 11000 11001 11009 11064 11072 11155
+	}
+	local_supplies=0.0
+}

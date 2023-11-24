@@ -1,0 +1,15 @@
+state={
+	id=1036
+	name="STATE_1036" # Hongkong
+	manpower = 7413280
+	state_category = megalopolis
+	history={
+		owner = HON
+		add_core_of = HON
+		victory_points = { 11439 80 }
+	}
+	provinces={
+		11439
+	}
+	local_supplies=0.0
+}

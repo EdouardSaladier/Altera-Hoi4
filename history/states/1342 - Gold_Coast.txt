@@ -1,0 +1,26 @@
+state={
+	id=1342
+	name="STATE_1342" # Gold Coast
+	manpower = 20484954
+	state_category = large_city
+	history={
+		owner = GOL
+		add_core_of = GOL
+		victory_points = { 13117 10 }
+		victory_points = { 13152 10 }
+		victory_points = { 13161 20 }
+		victory_points = { 13223 10 }
+		victory_points = { 13258 80 }
+		victory_points = { 13300 1 }
+		victory_points = { 13331 20 }
+		victory_points = { 13349 80 }
+		victory_points = { 13355 20 }
+		victory_points = { 13362 20 }
+		victory_points = { 13369 10 }
+		victory_points = { 13515 5 }
+	}
+	provinces={
+		13077 13117 13146 13152 13161 13223 13258 13300 13331 13349 13355 13362 13369 13515
+	}
+	local_supplies=0.0
+}

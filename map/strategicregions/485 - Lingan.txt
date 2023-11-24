@@ -1,0 +1,9 @@
+strategic_region={
+	id=485
+	name="STRATEGICREGION_485" # Lingan
+	provinces={
+		14049 14087
+	}
+	weather={
+	}
+}

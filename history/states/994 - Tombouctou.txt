@@ -1,0 +1,15 @@
+state={
+	id=994
+	name="STATE_994" # Tombouctou
+	manpower = 43050
+	state_category = pastoral
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 11149 2 }
+	}
+	provinces={
+		11110 11149 11358 11566
+	}
+	local_supplies=0.0
+}

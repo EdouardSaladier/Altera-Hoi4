@@ -1,0 +1,20 @@
+state={
+	id=509
+	name="STATE_509" # Marche
+	manpower = 7091360
+	state_category = city
+	history={
+		owner = ITL
+		add_core_of = ITL
+		victory_points = { 7831 20 }
+		victory_points = { 7897 10 }
+		victory_points = { 7931 5 }
+		victory_points = { 7964 10 }
+		victory_points = { 8041 20 }
+		victory_points = { 8125 5 }
+	}
+	provinces={
+		7831 7897 7931 7964 8041 8125
+	}
+	local_supplies=0.0
+}

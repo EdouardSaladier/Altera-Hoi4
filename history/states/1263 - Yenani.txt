@@ -1,0 +1,14 @@
+state={
+	id=1263
+	name="STATE_1263" # Yenani
+	manpower = 2720
+	state_category = pastoral
+	history={
+		owner = YEN
+		add_core_of = YEN
+	}
+	provinces={
+		12721 12763 12862 12970 12995 13009 13037 13060 13103 13132 13177 13232 13353 13443 13453 13533
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=938
+	name="STATE_938" # Hokkien
+	manpower = 14324877
+	state_category = metropolis
+	history={
+		owner = HOK
+		add_core_of = HOK
+		victory_points = { 10755 5 }
+		victory_points = { 10814 2 }
+		victory_points = { 10829 80 }
+		victory_points = { 10939 80 }
+	}
+	provinces={
+		10755 10814 10829 10939
+	}
+	local_supplies=0.0
+}

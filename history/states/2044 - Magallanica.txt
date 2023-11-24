@@ -1,0 +1,24 @@
+state={
+	id=2044
+	name="STATE_2044" # Magallanica
+	manpower = 93990
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17882 2 }
+		victory_points = { 17905 5 }
+		victory_points = { 17975 20 }
+		victory_points = { 17980 10 }
+		victory_points = { 17990 5 }
+		victory_points = { 18004 2 }
+		victory_points = { 18052 5 }
+		victory_points = { 18089 1 }
+		victory_points = { 18105 2 }
+		victory_points = { 18192 2 }
+	}
+	provinces={
+		17882 17905 17946 17975 17980 17990 18004 18040 18052 18062 18089 18095 18105 18129 18139 18153 18157 18192 18235 18245 18263 18287 18388 18389
+	}
+	local_supplies=0.0
+}

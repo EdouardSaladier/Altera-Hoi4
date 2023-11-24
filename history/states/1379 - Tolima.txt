@@ -1,0 +1,30 @@
+state={
+	id=1379
+	name="STATE_1379" # Tolima
+	manpower = 13276587
+	state_category = city
+	history={
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 13339 5 }
+		victory_points = { 13426 20 }
+		victory_points = { 13446 80 }
+		victory_points = { 13463 5 }
+		victory_points = { 13475 20 }
+		victory_points = { 13496 20 }
+		victory_points = { 13497 80 }
+		victory_points = { 13543 40 }
+		victory_points = { 13554 80 }
+		victory_points = { 13571 5 }
+		victory_points = { 13604 5 }
+		victory_points = { 13654 10 }
+		victory_points = { 13655 5 }
+		victory_points = { 13699 40 }
+		victory_points = { 13731 40 }
+		victory_points = { 13756 10 }
+	}
+	provinces={
+		13339 13426 13446 13463 13475 13496 13497 13543 13554 13571 13604 13654 13655 13699 13731 13756
+	}
+	local_supplies=0.0
+}

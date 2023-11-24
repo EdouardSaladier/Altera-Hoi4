@@ -1,0 +1,19 @@
+state={
+	id=690
+	name="STATE_690" # Tapuria
+	manpower = 3078418
+	state_category = city
+	history={
+		owner = TAP
+		add_core_of = TAP
+		victory_points = { 9166 40 }
+		victory_points = { 9185 40 }
+		victory_points = { 9195 1 }
+		victory_points = { 9201 1 }
+		victory_points = { 9244 1 }
+	}
+	provinces={
+		9166 9185 9195 9201 9244
+	}
+	local_supplies=0.0
+}

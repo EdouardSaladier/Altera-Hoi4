@@ -1,0 +1,14 @@
+state={
+	id=1872
+	name="STATE_1872" # Garawara
+	manpower = 13100
+	state_category = rural
+	history={
+		owner = GAA
+		add_core_of = GAA
+	}
+	provinces={
+		15793 15822 15853 15854
+	}
+	local_supplies=0.0
+}

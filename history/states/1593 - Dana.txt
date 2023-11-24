@@ -1,0 +1,15 @@
+state={
+	id=1593
+	name="STATE_1593" # Dana
+	manpower = 573374
+	state_category = large_town
+	history={
+		owner = DNA
+		add_core_of = DNA
+		victory_points = { 14422 1 }
+	}
+	provinces={
+		14422
+	}
+	local_supplies=0.0
+}

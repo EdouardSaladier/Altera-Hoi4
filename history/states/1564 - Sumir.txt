@@ -1,0 +1,16 @@
+state={
+	id=1564
+	name="STATE_1564" # Sumir
+	manpower = 88093
+	state_category = town
+	history={
+		owner = SUM
+		add_core_of = SUM
+		victory_points = { 14306 1 }
+		victory_points = { 14316 1 }
+	}
+	provinces={
+		14306 14316
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=470
+	name="STRATEGICREGION_470" # Galela
+	provinces={
+		13767 13820 13882 13946 13957 13980 14003 14030 14088 14117 14145 14213 14237 14352 14382 14457 14489
+	}
+	weather={
+	}
+}

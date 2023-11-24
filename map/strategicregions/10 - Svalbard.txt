@@ -1,0 +1,9 @@
+strategic_region={
+	id=10
+	name="STRATEGICREGION_10" # Svalbard
+	provinces={
+		69 70 71 72 73 125 169 170 217 368 424 582 618 619 778
+	}
+	weather={
+	}
+}

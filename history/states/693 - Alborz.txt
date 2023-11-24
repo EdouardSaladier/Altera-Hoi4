@@ -1,0 +1,17 @@
+state={
+	id=693
+	name="STATE_693" # Alborz
+	manpower = 3250890
+	state_category = city
+	history={
+		owner = MED
+		add_core_of = MED
+		victory_points = { 9200 40 }
+		victory_points = { 9259 80 }
+		victory_points = { 9343 80 }
+	}
+	provinces={
+		9200 9259 9343
+	}
+	local_supplies=0.0
+}

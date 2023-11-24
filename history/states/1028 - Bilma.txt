@@ -1,0 +1,14 @@
+state={
+	id=1028
+	name="STATE_1028" # Bilma
+	manpower = 4849500
+	state_category = town
+	history={
+		owner = GAR
+		add_core_of = GAR
+	}
+	provinces={
+		11369 11395 11425 11455 11476 11490 11491 11580 11602 11610 11644 11645 11646 11657 11673 11712 11738 11743 11758 11784 11811 11829 11843 11962 12021
+	}
+	local_supplies=0.0
+}

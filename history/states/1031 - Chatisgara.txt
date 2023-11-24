@@ -1,0 +1,17 @@
+state={
+	id=1031
+	name="STATE_1031" # Chatisgara
+	manpower = 14420
+	state_category = pastoral
+	history={
+		owner = CHA
+		add_core_of = CHA
+		victory_points = { 11405 80 }
+		victory_points = { 11506 80 }
+		victory_points = { 11672 5 }
+	}
+	provinces={
+		11405 11506 11672
+	}
+	local_supplies=0.0
+}

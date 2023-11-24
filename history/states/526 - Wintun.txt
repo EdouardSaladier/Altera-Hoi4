@@ -1,0 +1,16 @@
+state={
+	id=526
+	name="STATE_526" # Wintun
+	manpower = 31510
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 8235 5 }
+		victory_points = { 8419 5 }
+	}
+	provinces={
+		7935 8235 8297 8312 8380 8395 8419 8583 8594 8677
+	}
+	local_supplies=0.0
+}

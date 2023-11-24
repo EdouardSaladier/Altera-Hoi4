@@ -1,0 +1,14 @@
+state={
+	id=67
+	name="STATE_67" # Vilhelmina
+	manpower = 12060
+	state_category = rural
+	history={
+		owner = GWE
+		add_core_of = GWE
+	}
+	provinces={
+		2778 3042 3170
+	}
+	local_supplies=0.0
+}

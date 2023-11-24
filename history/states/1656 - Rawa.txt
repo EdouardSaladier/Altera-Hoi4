@@ -1,0 +1,14 @@
+state={
+	id=1656
+	name="STATE_1656" # Rawa
+	manpower = 1290
+	state_category = rural
+	history={
+		owner = RAW
+		add_core_of = RAW
+	}
+	provinces={
+		14671
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=943
+	name="STATE_943" # Bahama
+	manpower = 458779
+	state_category = town
+	history={
+		owner = BAH
+		add_core_of = BAH
+		victory_points = { 10801 2 }
+		victory_points = { 10830 10 }
+		victory_points = { 11075 5 }
+		victory_points = { 11092 40 }
+		victory_points = { 11291 1 }
+		victory_points = { 11404 1 }
+		victory_points = { 11442 1 }
+	}
+	provinces={
+		10801 10830 11035 11075 11092 11172 11280 11291 11404 11442 11523 11579
+	}
+	local_supplies=0.0
+}

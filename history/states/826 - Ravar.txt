@@ -1,0 +1,18 @@
+state={
+	id=826
+	name="STATE_826" # Ravar
+	manpower = 4247599
+	state_category = city
+	history={
+		owner = PES
+		add_core_of = PES
+		victory_points = { 10041 1 }
+		victory_points = { 10054 10 }
+		victory_points = { 10101 80 }
+		victory_points = { 10201 10 }
+	}
+	provinces={
+		10041 10054 10101 10201 10256 10269
+	}
+	local_supplies=0.0
+}

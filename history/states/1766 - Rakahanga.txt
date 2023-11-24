@@ -1,0 +1,14 @@
+state={
+	id=1766
+	name="STATE_1766" # Rakahanga
+	manpower = 90
+	state_category = rural
+	history={
+		owner = RAG
+		add_core_of = RAG
+	}
+	provinces={
+		15122
+	}
+	local_supplies=0.0
+}

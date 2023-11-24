@@ -1,0 +1,15 @@
+state={
+	id=1111
+	name="STATE_1111" # Mazatlan
+	manpower = 2900
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11869 20 }
+	}
+	provinces={
+		11869
+	}
+	local_supplies=0.0
+}

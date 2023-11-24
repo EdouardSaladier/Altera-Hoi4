@@ -1,0 +1,14 @@
+state={
+	id=43
+	name="STATE_43" # Priural' rayon
+	manpower = 14820
+	state_category = rural
+	history={
+		owner = BIA
+		add_core_of = BIA
+	}
+	provinces={
+		2069
+	}
+	local_supplies=0.0
+}

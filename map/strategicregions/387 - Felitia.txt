@@ -1,0 +1,9 @@
+strategic_region={
+	id=387
+	name="STRATEGICREGION_387" # Felitia
+	provinces={
+		11936 11967 11968 12012 12045 12121 12122 12123 12137 12138 12166 12180 12194 12266 12286 12311 12365 12415
+	}
+	weather={
+	}
+}

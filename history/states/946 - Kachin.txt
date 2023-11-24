@@ -1,0 +1,16 @@
+state={
+	id=946
+	name="STATE_946" # Kachin
+	manpower = 1692131
+	state_category = town
+	history={
+		owner = KAC
+		add_core_of = KAC
+		victory_points = { 10966 20 }
+		victory_points = { 11221 20 }
+	}
+	provinces={
+		10806 10966 11030 11124 11145 11220 11221 11275
+	}
+	local_supplies=0.0
+}

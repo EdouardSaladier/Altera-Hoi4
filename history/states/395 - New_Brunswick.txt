@@ -1,0 +1,24 @@
+state={
+	id=395
+	name="STATE_395" # New Brunswick
+	manpower = 2225103
+	state_category = town
+	history={
+		owner = ALB
+		add_core_of = ALB
+		victory_points = { 6916 5 }
+		victory_points = { 6928 2 }
+		victory_points = { 7031 5 }
+		victory_points = { 7073 5 }
+		victory_points = { 7164 10 }
+		victory_points = { 7330 20 }
+		victory_points = { 7350 20 }
+		victory_points = { 7384 10 }
+		victory_points = { 7403 5 }
+		victory_points = { 7469 20 }
+	}
+	provinces={
+		6916 6928 7031 7032 7073 7104 7154 7164 7233 7330 7350 7384 7403 7469
+	}
+	local_supplies=0.0
+}

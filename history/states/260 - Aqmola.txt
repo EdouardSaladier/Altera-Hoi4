@@ -1,0 +1,25 @@
+state={
+	id=260
+	name="STATE_260" # Aqmola
+	manpower = 1898941
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 5628 5 }
+		victory_points = { 5690 5 }
+		victory_points = { 5817 5 }
+		victory_points = { 5828 5 }
+		victory_points = { 5902 5 }
+		victory_points = { 5915 5 }
+		victory_points = { 5931 5 }
+		victory_points = { 5980 5 }
+		victory_points = { 5981 2 }
+		victory_points = { 6057 2 }
+		victory_points = { 6121 5 }
+	}
+	provinces={
+		5628 5690 5817 5828 5902 5915 5931 5980 5981 6057 6121 6249 6294 6385 6445
+	}
+	local_supplies=0.0
+}

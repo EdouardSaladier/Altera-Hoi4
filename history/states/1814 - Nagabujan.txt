@@ -1,0 +1,14 @@
+state={
+	id=1814
+	name="STATE_1814" # Nagabujan
+	manpower = 7400
+	state_category = rural
+	history={
+		owner = NAG
+		add_core_of = NAG
+	}
+	provinces={
+		15436
+	}
+	local_supplies=0.0
+}

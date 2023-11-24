@@ -1,0 +1,16 @@
+state={
+	id=1361
+	name="STATE_1361" # Daharo
+	manpower = 1183439
+	state_category = town
+	history={
+		owner = DAH
+		add_core_of = DAH
+		victory_points = { 13194 1 }
+		victory_points = { 13640 1 }
+	}
+	provinces={
+		13194 13212 13299 13321 13381 13427 13428 13514 13524 13545 13617 13640 13700 13722 13782
+	}
+	local_supplies=0.0
+}

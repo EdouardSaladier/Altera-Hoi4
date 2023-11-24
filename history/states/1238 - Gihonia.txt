@@ -1,0 +1,16 @@
+state={
+	id=1238
+	name="STATE_1238" # Gihonia
+	manpower = 1124991
+	state_category = town
+	history={
+		owner = GIH
+		add_core_of = GIH
+		victory_points = { 12553 20 }
+		victory_points = { 12665 20 }
+	}
+	provinces={
+		12553 12569 12631 12645 12657 12665 12740
+	}
+	local_supplies=0.0
+}

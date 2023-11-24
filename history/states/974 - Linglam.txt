@@ -1,0 +1,23 @@
+state={
+	id=974
+	name="STATE_974" # Linglam
+	manpower = 12125680
+	state_category = city
+	history={
+		owner = LIN
+		add_core_of = LIN
+		victory_points = { 10976 10 }
+		victory_points = { 11019 1 }
+		victory_points = { 11020 80 }
+		victory_points = { 11031 80 }
+		victory_points = { 11065 1 }
+		victory_points = { 11114 20 }
+		victory_points = { 11126 40 }
+		victory_points = { 11204 80 }
+		victory_points = { 11277 20 }
+	}
+	provinces={
+		10976 11019 11020 11031 11065 11114 11126 11204 11277
+	}
+	local_supplies=0.0
+}

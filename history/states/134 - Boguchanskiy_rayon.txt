@@ -1,0 +1,16 @@
+state={
+	id=134
+	name="STATE_134" # Boguchanskiy rayon
+	manpower = 42078
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4322 2 }
+		victory_points = { 4679 2 }
+	}
+	provinces={
+		4203 4322 4323 4475 4537 4578 4679
+	}
+	local_supplies=0.0
+}

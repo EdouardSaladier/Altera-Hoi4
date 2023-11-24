@@ -1,0 +1,15 @@
+state={
+	id=558
+	name="STATE_558" # Samuria
+	manpower = 777630
+	state_category = large_town
+	history={
+		owner = SAU
+		add_core_of = SAU
+		victory_points = { 8166 10 }
+	}
+	provinces={
+		8166
+	}
+	local_supplies=0.0
+}

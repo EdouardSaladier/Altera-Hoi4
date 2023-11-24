@@ -1,0 +1,9 @@
+strategic_region={
+	id=321
+	name="STRATEGICREGION_321" # Ryukyu
+	provinces={
+		10635 10773 10982 11043 11044
+	}
+	weather={
+	}
+}

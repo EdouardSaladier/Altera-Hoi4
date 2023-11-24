@@ -1,0 +1,9 @@
+strategic_region={
+	id=352
+	name="STRATEGICREGION_352" # Northern Samar
+	provinces={
+		11391 11543 11578 11748 11851 11976 12079 12088 12315 12494 12527 12548 12754 12875 13008 13114 13231 13304 13411
+	}
+	weather={
+	}
+}

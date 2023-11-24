@@ -1,0 +1,9 @@
+strategic_region={
+	id=52
+	name="STRATEGICREGION_52" # Yamal-Nenets
+	provinces={
+		1516 1539 2081 2327 2386 2572 2770 2771 2853 2892 3084 3218 3306 3638
+	}
+	weather={
+	}
+}

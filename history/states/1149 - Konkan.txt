@@ -1,0 +1,15 @@
+state={
+	id=1149
+	name="STATE_1149" # Konkan
+	manpower = 2465089
+	state_category = city
+	history={
+		owner = KON
+		add_core_of = KON
+		victory_points = { 12051 20 }
+	}
+	provinces={
+		12051
+	}
+	local_supplies=0.0
+}

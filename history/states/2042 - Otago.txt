@@ -1,0 +1,16 @@
+state={
+	id=2042
+	name="STATE_2042" # Otago
+	manpower = 791026
+	state_category = town
+	history={
+		owner = HUM
+		add_core_of = HUM
+		victory_points = { 17864 2 }
+		victory_points = { 17903 20 }
+	}
+	provinces={
+		17864 17903
+	}
+	local_supplies=0.0
+}

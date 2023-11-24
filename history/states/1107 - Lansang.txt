@@ -1,0 +1,24 @@
+state={
+	id=1107
+	name="STATE_1107" # Lansang
+	manpower = 15818832
+	state_category = large_city
+	history={
+		owner = LAN
+		add_core_of = LAN
+		victory_points = { 11857 5 }
+		victory_points = { 11983 20 }
+		victory_points = { 11991 40 }
+		victory_points = { 12005 5 }
+		victory_points = { 12031 10 }
+		victory_points = { 12061 20 }
+		victory_points = { 12078 10 }
+		victory_points = { 12128 5 }
+		victory_points = { 12203 5 }
+		victory_points = { 12204 5 }
+	}
+	provinces={
+		11857 11983 11991 12005 12031 12061 12078 12128 12203 12204
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1147
+	name="STATE_1147" # Liamuiga
+	manpower = 54240
+	state_category = large_town
+	history={
+		owner = LII
+		add_core_of = LII
+		victory_points = { 12043 1 }
+	}
+	provinces={
+		12043
+	}
+	local_supplies=0.0
+}

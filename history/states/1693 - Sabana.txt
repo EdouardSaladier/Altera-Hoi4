@@ -1,0 +1,15 @@
+state={
+	id=1693
+	name="STATE_1693" # Sabana
+	manpower = 28375
+	state_category = town
+	history={
+		owner = SBN
+		add_core_of = SBN
+		victory_points = { 14861 2 }
+	}
+	provinces={
+		14861
+	}
+	local_supplies=0.0
+}

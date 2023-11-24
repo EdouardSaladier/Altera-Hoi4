@@ -1,0 +1,15 @@
+state={
+	id=675
+	name="STATE_675" # Gilania
+	manpower = 2091941
+	state_category = city
+	history={
+		owner = GIL
+		add_core_of = GIL
+		victory_points = { 9071 80 }
+	}
+	provinces={
+		9071
+	}
+	local_supplies=0.0
+}

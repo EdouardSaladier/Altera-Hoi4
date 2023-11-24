@@ -1,0 +1,24 @@
+state={
+	id=554
+	name="STATE_554" # Illinois
+	manpower = 35040
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8154 20 }
+		victory_points = { 8155 40 }
+		victory_points = { 8182 20 }
+		victory_points = { 8247 20 }
+		victory_points = { 8339 5 }
+		victory_points = { 8371 5 }
+		victory_points = { 8398 20 }
+		victory_points = { 8512 2 }
+		victory_points = { 8526 10 }
+		victory_points = { 8679 5 }
+	}
+	provinces={
+		8154 8155 8182 8247 8339 8371 8398 8512 8526 8679
+	}
+	local_supplies=0.0
+}

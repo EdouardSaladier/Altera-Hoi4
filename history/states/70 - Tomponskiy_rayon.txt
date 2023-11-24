@@ -1,0 +1,14 @@
+state={
+	id=70
+	name="STATE_70" # Tomponskiy rayon
+	manpower = 46950
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		2818 2854 2921 2960 3033 3067 3117 3127 3138 3254 3264 3309 3355
+	}
+	local_supplies=0.0
+}

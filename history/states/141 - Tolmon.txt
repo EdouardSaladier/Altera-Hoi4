@@ -1,0 +1,22 @@
+state={
+	id=141
+	name="STATE_141" # Tolmon
+	manpower = 1364591
+	state_category = rural
+	history={
+		owner = TOL
+		add_core_of = TOL
+		victory_points = { 4297 2 }
+		victory_points = { 4590 1 }
+		victory_points = { 4992 5 }
+		victory_points = { 5260 10 }
+		victory_points = { 5280 5 }
+		victory_points = { 5789 5 }
+		victory_points = { 6123 2 }
+		victory_points = { 6334 2 }
+	}
+	provinces={
+		4297 4496 4590 4702 4774 4825 4862 4891 4892 4893 4918 4991 4992 5055 5056 5184 5248 5249 5260 5280 5352 5549 5789 5853 5919 6123 6296 6334 6335 6545 6546 6730
+	}
+	local_supplies=0.0
+}

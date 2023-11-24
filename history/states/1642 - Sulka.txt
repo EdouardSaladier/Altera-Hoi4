@@ -1,0 +1,14 @@
+state={
+	id=1642
+	name="STATE_1642" # Sulka
+	manpower = 7313
+	state_category = town
+	history={
+		owner = SUK
+		add_core_of = SUK
+	}
+	provinces={
+		14620
+	}
+	local_supplies=0.0
+}

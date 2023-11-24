@@ -1,0 +1,24 @@
+state={
+	id=955
+	name="STATE_955" # Durango
+	manpower = 3584878
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10856 5 }
+		victory_points = { 10880 5 }
+		victory_points = { 10951 5 }
+		victory_points = { 10960 5 }
+		victory_points = { 11014 5 }
+		victory_points = { 11015 2 }
+		victory_points = { 11046 5 }
+		victory_points = { 11090 2 }
+		victory_points = { 11100 5 }
+		victory_points = { 11207 80 }
+	}
+	provinces={
+		10841 10842 10856 10880 10951 10960 11014 11015 11046 11090 11100 11207 11279
+	}
+	local_supplies=0.0
+}

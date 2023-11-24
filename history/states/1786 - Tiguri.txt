@@ -1,0 +1,14 @@
+state={
+	id=1786
+	name="STATE_1786" # Tiguri
+	manpower = 2240
+	state_category = rural
+	history={
+		owner = TIU
+		add_core_of = TIU
+	}
+	provinces={
+		15255 15262 15292
+	}
+	local_supplies=0.0
+}

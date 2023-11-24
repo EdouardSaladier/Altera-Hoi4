@@ -1,0 +1,15 @@
+state={
+	id=1476
+	name="STATE_1476" # Niasa
+	manpower = 881029
+	state_category = large_city
+	history={
+		owner = NIA
+		add_core_of = NIA
+		victory_points = { 13867 1 }
+	}
+	provinces={
+		13867
+	}
+	local_supplies=0.0
+}

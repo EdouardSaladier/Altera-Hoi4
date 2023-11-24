@@ -1,0 +1,15 @@
+state={
+	id=424
+	name="STATE_424" # Silistria
+	manpower = 3369277
+	state_category = city
+	history={
+		owner = SII
+		add_core_of = SII
+		victory_points = { 7168 80 }
+	}
+	provinces={
+		7168
+	}
+	local_supplies=0.0
+}

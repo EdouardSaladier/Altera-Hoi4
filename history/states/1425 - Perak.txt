@@ -1,0 +1,15 @@
+state={
+	id=1425
+	name="STATE_1425" # Perak
+	manpower = 2005829
+	state_category = large_city
+	history={
+		owner = PEA
+		add_core_of = PEA
+		victory_points = { 13586 10 }
+	}
+	provinces={
+		13586
+	}
+	local_supplies=0.0
+}

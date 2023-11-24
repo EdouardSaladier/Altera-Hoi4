@@ -1,0 +1,14 @@
+state={
+	id=898
+	name="STATE_898" # Spinrong
+	manpower = 3230
+	state_category = pastoral
+	history={
+		owner = SPN
+		add_core_of = SPN
+	}
+	provinces={
+		10509
+	}
+	local_supplies=0.0
+}

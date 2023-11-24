@@ -1,0 +1,18 @@
+state={
+	id=694
+	name="STATE_694" # Ladakh
+	manpower = 245669
+	state_category = rural
+	history={
+		owner = LAD
+		add_core_of = LAD
+		victory_points = { 9441 10 }
+		victory_points = { 9684 1 }
+		victory_points = { 9872 1 }
+		victory_points = { 9948 1 }
+	}
+	provinces={
+		9202 9203 9235 9321 9344 9441 9504 9684 9697 9857 9872 9948 9949 9968 10090
+	}
+	local_supplies=0.0
+}

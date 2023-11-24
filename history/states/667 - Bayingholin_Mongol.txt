@@ -1,0 +1,14 @@
+state={
+	id=667
+	name="STATE_667" # Bayin'gholin Mongol
+	manpower = 20020
+	state_category = pastoral
+	history={
+		owner = WUT
+		add_core_of = WUT
+	}
+	provinces={
+		9019 9033 9050 9135 9168 9187
+	}
+	local_supplies=0.0
+}

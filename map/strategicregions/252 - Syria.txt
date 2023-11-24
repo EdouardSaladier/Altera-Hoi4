@@ -1,0 +1,9 @@
+strategic_region={
+	id=252
+	name="STRATEGICREGION_252" # Syria
+	provinces={
+		8985 8986 9058 9084 9101 9177 9199 9230 9258 9304 9425 9438
+	}
+	weather={
+	}
+}

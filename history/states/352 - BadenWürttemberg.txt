@@ -1,0 +1,21 @@
+state={
+	id=352
+	name="STATE_352" # Baden-Württemberg
+	manpower = 10449924
+	state_category = large_city
+	history={
+		owner = ALM
+		add_core_of = ALM
+		victory_points = { 6563 10 }
+		victory_points = { 6592 40 }
+		victory_points = { 6616 10 }
+		victory_points = { 6745 80 }
+		victory_points = { 6788 10 }
+		victory_points = { 6859 5 }
+		victory_points = { 6867 5 }
+	}
+	provinces={
+		6563 6592 6616 6745 6788 6859 6867
+	}
+	local_supplies=0.0
+}

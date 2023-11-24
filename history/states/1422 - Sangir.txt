@@ -1,0 +1,14 @@
+state={
+	id=1422
+	name="STATE_1422" # Sangir
+	manpower = 250
+	state_category = pastoral
+	history={
+		owner = SNG
+		add_core_of = SNG
+	}
+	provinces={
+		13551 13676
+	}
+	local_supplies=0.0
+}

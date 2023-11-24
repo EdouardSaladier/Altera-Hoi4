@@ -1,0 +1,15 @@
+state={
+	id=919
+	name="STATE_919" # Sherpa
+	manpower = 1200
+	state_category = pastoral
+	history={
+		owner = SHR
+		add_core_of = SHR
+		victory_points = { 10643 5 }
+	}
+	provinces={
+		10643
+	}
+	local_supplies=0.0
+}

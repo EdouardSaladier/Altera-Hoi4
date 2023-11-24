@@ -1,0 +1,15 @@
+state={
+	id=916
+	name="STATE_916" # Euchee
+	manpower = 1217434
+	state_category = large_city
+	history={
+		owner = EUC
+		add_core_of = EUC
+		victory_points = { 10628 40 }
+	}
+	provinces={
+		10628
+	}
+	local_supplies=0.0
+}

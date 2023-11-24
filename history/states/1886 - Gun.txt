@@ -1,0 +1,15 @@
+state={
+	id=1886
+	name="STATE_1886" # Gun
+	manpower = 6250
+	state_category = rural
+	history={
+		owner = UNN
+		add_core_of = UNN
+		victory_points = { 15864 1 }
+	}
+	provinces={
+		15864 15881 15882
+	}
+	local_supplies=0.0
+}

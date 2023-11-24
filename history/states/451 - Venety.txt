@@ -1,0 +1,16 @@
+state={
+	id=451
+	name="STATE_451" # Venety
+	manpower = 4676169
+	state_category = large_city
+	history={
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 7395 20 }
+		victory_points = { 7477 20 }
+	}
+	provinces={
+		7395 7477
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1020
+	name="STATE_1020" # Tazrouk
+	manpower = 8060
+	state_category = pastoral
+	history={
+		owner = GAR
+		add_core_of = GAR
+	}
+	provinces={
+		11319 11381 11394
+	}
+	local_supplies=0.0
+}

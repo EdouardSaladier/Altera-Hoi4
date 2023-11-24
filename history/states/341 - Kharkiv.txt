@@ -1,0 +1,21 @@
+state={
+	id=341
+	name="STATE_341" # Kharkiv
+	manpower = 2287026
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6443 80 }
+		victory_points = { 6479 5 }
+		victory_points = { 6602 10 }
+		victory_points = { 6657 5 }
+		victory_points = { 6694 20 }
+		victory_points = { 6747 40 }
+		victory_points = { 6814 80 }
+	}
+	provinces={
+		6443 6479 6602 6657 6694 6747 6814
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=1008
+	name="STATE_1008" # Makkah
+	manpower = 2554073
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 11313 10 }
+		victory_points = { 11360 5 }
+		victory_points = { 11417 5 }
+		victory_points = { 11444 80 }
+		victory_points = { 11479 80 }
+	}
+	provinces={
+		11236 11313 11360 11417 11444 11479 11513 11518 11630
+	}
+	local_supplies=0.0
+}

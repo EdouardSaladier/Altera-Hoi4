@@ -1,0 +1,15 @@
+state={
+	id=1838
+	name="STATE_1838" # Lumala
+	manpower = 2710
+	state_category = rural
+	history={
+		owner = LUM
+		add_core_of = LUM
+		victory_points = { 15555 2 }
+	}
+	provinces={
+		15555
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1854
+	name="STATE_1854" # Urmanan
+	manpower = 10040
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15636 80 }
+		victory_points = { 15646 2 }
+		victory_points = { 15693 5 }
+	}
+	provinces={
+		15636 15646 15693
+	}
+	local_supplies=0.0
+}

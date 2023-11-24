@@ -1,0 +1,16 @@
+state={
+	id=391
+	name="STATE_391" # Matad
+	manpower = 26898
+	state_category = rural
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6902 1 }
+		victory_points = { 6954 1 }
+	}
+	provinces={
+		6902 6954 6967 7054 7097
+	}
+	local_supplies=0.0
+}

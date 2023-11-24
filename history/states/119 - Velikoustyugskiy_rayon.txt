@@ -1,0 +1,16 @@
+state={
+	id=119
+	name="STATE_119" # Velikoustyugskiy rayon
+	manpower = 336461
+	state_category = town
+	history={
+		owner = BIA
+		add_core_of = BIA
+		victory_points = { 3973 5 }
+		victory_points = { 4004 5 }
+	}
+	provinces={
+		3973 4004
+	}
+	local_supplies=0.0
+}

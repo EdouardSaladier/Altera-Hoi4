@@ -1,0 +1,15 @@
+state={
+	id=802
+	name="STATE_802" # Remada
+	manpower = 118932
+	state_category = town
+	history={
+		owner = GET
+		add_core_of = GET
+		victory_points = { 9860 2 }
+	}
+	provinces={
+		9860 9961 10064
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1744
+	name="STATE_1744" # Lawukalawa
+	manpower = 220
+	state_category = rural
+	history={
+		owner = LWU
+		add_core_of = LWU
+	}
+	provinces={
+		15033
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,22 @@
+state={
+	id=277
+	name="STATE_277" # Tuvan
+	manpower = 818255
+	state_category = rural
+	history={
+		owner = TUV
+		add_core_of = TUV
+		victory_points = { 5932 5 }
+		victory_points = { 6045 2 }
+		victory_points = { 6083 5 }
+		victory_points = { 6098 20 }
+		victory_points = { 6186 2 }
+		victory_points = { 6321 1 }
+		victory_points = { 6332 5 }
+		victory_points = { 6347 2 }
+	}
+	provinces={
+		5932 6045 6083 6098 6138 6186 6321 6332 6347
+	}
+	local_supplies=0.0
+}

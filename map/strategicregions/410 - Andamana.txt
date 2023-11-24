@@ -1,0 +1,9 @@
+strategic_region={
+	id=410
+	name="STRATEGICREGION_410" # Andamana
+	provinces={
+		12546 12612 12686 12828
+	}
+	weather={
+	}
+}

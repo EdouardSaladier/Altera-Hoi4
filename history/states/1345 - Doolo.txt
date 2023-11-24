@@ -1,0 +1,14 @@
+state={
+	id=1345
+	name="STATE_1345" # Doolo
+	manpower = 4464356
+	state_category = large_town
+	history={
+		owner = SOM
+		add_core_of = SOM
+	}
+	provinces={
+		13101 13140 13164 13216 13228 13272 13302 13315
+	}
+	local_supplies=0.0
+}

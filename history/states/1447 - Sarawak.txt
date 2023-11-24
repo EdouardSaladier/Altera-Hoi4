@@ -1,0 +1,17 @@
+state={
+	id=1447
+	name="STATE_1447" # Sarawak
+	manpower = 1160550
+	state_category = town
+	history={
+		owner = SAR
+		add_core_of = SAR
+		victory_points = { 13721 40 }
+		victory_points = { 13745 5 }
+		victory_points = { 13754 5 }
+	}
+	provinces={
+		13721 13745 13754 13788
+	}
+	local_supplies=0.0
+}

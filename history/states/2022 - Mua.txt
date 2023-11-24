@@ -1,0 +1,14 @@
+state={
+	id=2022
+	name="STATE_2022" # Mua
+	manpower = 1070
+	state_category = rural
+	history={
+		owner = UAU
+		add_core_of = UAU
+	}
+	provinces={
+		17311 17312 17340 17341
+	}
+	local_supplies=0.0
+}

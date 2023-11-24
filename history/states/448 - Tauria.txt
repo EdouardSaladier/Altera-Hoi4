@@ -1,0 +1,19 @@
+state={
+	id=448
+	name="STATE_448" # Tauria
+	manpower = 1617547
+	state_category = large_town
+	history={
+		owner = TAU
+		add_core_of = TAU
+		victory_points = { 7373 5 }
+		victory_points = { 7396 5 }
+		victory_points = { 7397 20 }
+		victory_points = { 7406 40 }
+		victory_points = { 7472 5 }
+	}
+	provinces={
+		7373 7396 7397 7406 7472
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=58
+	name="STRATEGICREGION_58" # Höfuðborgarsvæði
+	provinces={
+		1755 1823 2132 2234 2298 2334 2666 2704 2878 3187 3276 3384 3426 3438 3733 3863 3934 4134 4278
+	}
+	weather={
+	}
+}

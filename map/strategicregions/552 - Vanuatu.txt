@@ -1,0 +1,9 @@
+strategic_region={
+	id=552
+	name="STRATEGICREGION_552" # Vanuatu
+	provinces={
+		15578 15682
+	}
+	weather={
+	}
+}

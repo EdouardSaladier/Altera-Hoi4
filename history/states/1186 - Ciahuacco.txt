@@ -1,0 +1,15 @@
+state={
+	id=1186
+	name="STATE_1186" # Ciahuacco
+	manpower = 2420
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12240 5 }
+	}
+	provinces={
+		12240
+	}
+	local_supplies=0.0
+}

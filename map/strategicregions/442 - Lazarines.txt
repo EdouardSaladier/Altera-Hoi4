@@ -1,0 +1,9 @@
+strategic_region={
+	id=442
+	name="STRATEGICREGION_442" # Lazarines
+	provinces={
+		13190 13390 13452
+	}
+	weather={
+	}
+}

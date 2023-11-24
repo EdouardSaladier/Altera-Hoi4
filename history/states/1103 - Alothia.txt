@@ -1,0 +1,19 @@
+state={
+	id=1103
+	name="STATE_1103" # Alothia
+	manpower = 8596638
+	state_category = large_town
+	history={
+		owner = ALO
+		add_core_of = ALO
+		victory_points = { 12112 5 }
+		victory_points = { 12210 80 }
+		victory_points = { 12310 40 }
+		victory_points = { 12342 20 }
+		victory_points = { 12399 20 }
+	}
+	provinces={
+		11848 11862 11965 12011 12023 12024 12038 12084 12085 12112 12136 12157 12165 12179 12200 12210 12211 12243 12289 12310 12342 12399
+	}
+	local_supplies=0.0
+}

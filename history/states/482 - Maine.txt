@@ -1,0 +1,16 @@
+state={
+	id=482
+	name="STATE_482" # Maine
+	manpower = 3760
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 7625 5 }
+		victory_points = { 7690 10 }
+	}
+	provinces={
+		7625 7690
+	}
+	local_supplies=0.0
+}

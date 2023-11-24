@@ -1,0 +1,20 @@
+state={
+	id=523
+	name="STATE_523" # Tlamath
+	manpower = 24620
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 7911 5 }
+		victory_points = { 7996 10 }
+		victory_points = { 8074 5 }
+		victory_points = { 8121 2 }
+		victory_points = { 8153 2 }
+		victory_points = { 8337 5 }
+	}
+	provinces={
+		7911 7996 8074 8121 8153 8337
+	}
+	local_supplies=0.0
+}

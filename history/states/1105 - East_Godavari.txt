@@ -1,0 +1,19 @@
+state={
+	id=1105
+	name="STATE_1105" # East Godavari
+	manpower = 11180061
+	state_category = large_city
+	history={
+		owner = TEL
+		add_core_of = TEL
+		victory_points = { 11850 20 }
+		victory_points = { 11946 40 }
+		victory_points = { 12003 10 }
+		victory_points = { 12039 40 }
+		victory_points = { 12104 80 }
+	}
+	provinces={
+		11850 11946 12003 12039 12104
+	}
+	local_supplies=0.0
+}

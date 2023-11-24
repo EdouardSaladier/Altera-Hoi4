@@ -1,0 +1,15 @@
+state={
+	id=340
+	name="STATE_340" # Theyonia
+	manpower = 896743
+	state_category = large_town
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 6439 5 }
+	}
+	provinces={
+		6439
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=38
+	name="STATE_38" # Bilibinskiy rayon
+	manpower = 150900
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 2340 5 }
+	}
+	provinces={
+		1988 2033 2253 2265 2266 2292 2301 2340 2356 2374 2375 2425 2455 2456 2457 2470 2486 2487 2519 2547 2590 2600 2616 2625 2648 2662 2688 2713 2722 2775 2835 2836 2875 2963 2976 2977 3061 3195
+	}
+	local_supplies=0.0
+}

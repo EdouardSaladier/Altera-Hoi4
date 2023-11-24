@@ -1,0 +1,16 @@
+state={
+	id=1070
+	name="STATE_1070" # Nghệ An
+	manpower = 10692822
+	state_category = metropolis
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 11667 20 }
+		victory_points = { 11782 5 }
+	}
+	provinces={
+		11667 11782
+	}
+	local_supplies=0.0
+}

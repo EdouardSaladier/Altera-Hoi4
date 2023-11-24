@@ -1,0 +1,23 @@
+state={
+	id=874
+	name="STATE_874" # Poyan
+	manpower = 35281292
+	state_category = metropolis
+	history={
+		owner = POY
+		add_core_of = POY
+		victory_points = { 10374 80 }
+		victory_points = { 10510 80 }
+		victory_points = { 10544 10 }
+		victory_points = { 10556 80 }
+		victory_points = { 10655 80 }
+		victory_points = { 10681 80 }
+		victory_points = { 10714 1 }
+		victory_points = { 10739 20 }
+		victory_points = { 10807 80 }
+	}
+	provinces={
+		10374 10460 10510 10544 10556 10655 10681 10714 10739 10807
+	}
+	local_supplies=0.0
+}

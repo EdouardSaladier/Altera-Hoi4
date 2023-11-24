@@ -1,0 +1,14 @@
+state={
+	id=1333
+	name="STATE_1333" # Nugaal
+	manpower = 1563793
+	state_category = large_town
+	history={
+		owner = SOM
+		add_core_of = SOM
+	}
+	provinces={
+		13034 13111 13128
+	}
+	local_supplies=0.0
+}

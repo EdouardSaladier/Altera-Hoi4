@@ -1,0 +1,15 @@
+state={
+	id=1675
+	name="STATE_1675" # Wampar
+	manpower = 860
+	state_category = rural
+	history={
+		owner = WAP
+		add_core_of = WAP
+		victory_points = { 14764 20 }
+	}
+	provinces={
+		14764
+	}
+	local_supplies=0.0
+}

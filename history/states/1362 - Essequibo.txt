@@ -1,0 +1,16 @@
+state={
+	id=1362
+	name="STATE_1362" # Essequibo
+	manpower = 737470
+	state_category = rural
+	history={
+		owner = ESS
+		add_core_of = ESS
+		victory_points = { 13340 10 }
+		victory_points = { 13621 1 }
+	}
+	provinces={
+		13200 13247 13322 13340 13399 13469 13521 13573 13621 13710 13739 13816 13866 13973
+	}
+	local_supplies=0.0
+}

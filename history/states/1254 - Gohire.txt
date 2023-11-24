@@ -1,0 +1,17 @@
+state={
+	id=1254
+	name="STATE_1254" # Gohire
+	manpower = 4032379
+	state_category = city
+	history={
+		owner = GOH
+		add_core_of = GOH
+		victory_points = { 12660 80 }
+		victory_points = { 12712 20 }
+		victory_points = { 12786 5 }
+	}
+	provinces={
+		12647 12660 12712 12786
+	}
+	local_supplies=0.0
+}

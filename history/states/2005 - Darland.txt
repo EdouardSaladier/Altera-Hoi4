@@ -1,0 +1,23 @@
+state={
+	id=2005
+	name="STATE_2005" # Darland
+	manpower = 162507
+	state_category = rural
+	history={
+		owner = TAS
+		add_core_of = TAS
+		victory_points = { 17060 2 }
+		victory_points = { 17090 2 }
+		victory_points = { 17095 2 }
+		victory_points = { 17178 5 }
+		victory_points = { 17195 5 }
+		victory_points = { 17256 5 }
+		victory_points = { 17292 2 }
+		victory_points = { 17322 2 }
+		victory_points = { 17323 5 }
+	}
+	provinces={
+		17029 17030 17031 17032 17033 17034 17060 17090 17095 17122 17138 17145 17159 17160 17178 17183 17189 17195 17236 17239 17256 17292 17293 17299 17300 17322 17323 17409
+	}
+	local_supplies=0.0
+}

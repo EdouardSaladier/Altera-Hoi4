@@ -1,0 +1,15 @@
+state={
+	id=1881
+	name="STATE_1881" # Giringun
+	manpower = 711340
+	state_category = city
+	history={
+		owner = GII
+		add_core_of = GII
+		victory_points = { 15843 2 }
+	}
+	provinces={
+		15843
+	}
+	local_supplies=0.0
+}

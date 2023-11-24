@@ -1,0 +1,16 @@
+state={
+	id=1376
+	name="STATE_1376" # Langasuka
+	manpower = 2774295
+	state_category = city
+	history={
+		owner = LAG
+		add_core_of = LAG
+		victory_points = { 13311 40 }
+		victory_points = { 13388 40 }
+	}
+	provinces={
+		13311 13388
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=904
+	name="STATE_904" # Pekow
+	manpower = 11660
+	state_category = pastoral
+	history={
+		owner = PEK
+		add_core_of = PEK
+		victory_points = { 10530 80 }
+	}
+	provinces={
+		10530
+	}
+	local_supplies=0.0
+}

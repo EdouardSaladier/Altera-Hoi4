@@ -1,0 +1,16 @@
+state={
+	id=1302
+	name="STATE_1302" # Tarire
+	manpower = 2940130
+	state_category = large_city
+	history={
+		owner = TRR
+		add_core_of = TRR
+		victory_points = { 12887 80 }
+		victory_points = { 12907 10 }
+	}
+	provinces={
+		12887 12907
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=338
+	name="STATE_338" # Belacoola
+	manpower = 25630
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 6427 5 }
+		victory_points = { 6532 80 }
+		victory_points = { 6634 20 }
+		victory_points = { 6732 5 }
+		victory_points = { 6905 10 }
+		victory_points = { 7006 20 }
+		victory_points = { 7017 1 }
+	}
+	provinces={
+		6427 6532 6634 6680 6732 6905 7006 7017
+	}
+	local_supplies=0.0
+}

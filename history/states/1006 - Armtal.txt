@@ -1,0 +1,15 @@
+state={
+	id=1006
+	name="STATE_1006" # Armtal
+	manpower = 2000
+	state_category = pastoral
+	history={
+		owner = ART
+		add_core_of = ART
+		victory_points = { 11226 80 }
+	}
+	provinces={
+		11226
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=724
+	name="STATE_724" # Garmsar
+	manpower = 2868488
+	state_category = city
+	history={
+		owner = MED
+		add_core_of = MED
+		victory_points = { 9363 80 }
+	}
+	provinces={
+		9363
+	}
+	local_supplies=0.0
+}

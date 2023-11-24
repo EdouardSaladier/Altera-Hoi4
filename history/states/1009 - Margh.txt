@@ -1,0 +1,17 @@
+state={
+	id=1009
+	name="STATE_1009" # Margh
+	manpower = 5470
+	state_category = pastoral
+	history={
+		owner = MRG
+		add_core_of = MRG
+		victory_points = { 11257 5 }
+		victory_points = { 11326 10 }
+		victory_points = { 11482 10 }
+	}
+	provinces={
+		11257 11326 11482
+	}
+	local_supplies=0.0
+}

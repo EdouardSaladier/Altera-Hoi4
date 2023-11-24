@@ -1,0 +1,17 @@
+state={
+	id=820
+	name="STATE_820" # Gyalrong
+	manpower = 5720
+	state_category = pastoral
+	history={
+		owner = GYA
+		add_core_of = GYA
+		victory_points = { 9979 1 }
+		victory_points = { 10059 1 }
+		victory_points = { 10103 1 }
+	}
+	provinces={
+		9979 10059 10103
+	}
+	local_supplies=0.0
+}

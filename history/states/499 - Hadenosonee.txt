@@ -1,0 +1,19 @@
+state={
+	id=499
+	name="STATE_499" # Hadenosonee
+	manpower = 3065805
+	state_category = large_town
+	history={
+		owner = HAD
+		add_core_of = HAD
+		victory_points = { 7756 5 }
+		victory_points = { 7784 5 }
+		victory_points = { 7839 80 }
+		victory_points = { 7901 40 }
+		victory_points = { 7937 20 }
+	}
+	provinces={
+		7756 7784 7839 7901 7937
+	}
+	local_supplies=0.0
+}

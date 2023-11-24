@@ -1,0 +1,15 @@
+state={
+	id=721
+	name="STATE_721" # Patica
+	manpower = 1720
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9340 20 }
+	}
+	provinces={
+		9340
+	}
+	local_supplies=0.0
+}

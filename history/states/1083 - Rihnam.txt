@@ -1,0 +1,16 @@
+state={
+	id=1083
+	name="STATE_1083" # Rihnam
+	manpower = 7943109
+	state_category = large_city
+	history={
+		owner = RIH
+		add_core_of = RIH
+		victory_points = { 11746 40 }
+		victory_points = { 11747 80 }
+	}
+	provinces={
+		11746 11747
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1170
+	name="STATE_1170" # Xochitlan
+	manpower = 4050
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12172 20 }
+	}
+	provinces={
+		12172
+	}
+	local_supplies=0.0
+}

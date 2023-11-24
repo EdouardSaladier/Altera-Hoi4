@@ -1,0 +1,14 @@
+state={
+	id=2004
+	name="STATE_2004" # Arkaru
+	manpower = 950
+	state_category = rural
+	history={
+		owner = ARK
+		add_core_of = ARK
+	}
+	provinces={
+		17024
+	}
+	local_supplies=0.0
+}

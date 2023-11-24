@@ -1,0 +1,17 @@
+state={
+	id=819
+	name="STATE_819" # Hilmand
+	manpower = 918039
+	state_category = town
+	history={
+		owner = GED
+		add_core_of = GED
+		victory_points = { 9984 10 }
+		victory_points = { 10152 5 }
+		victory_points = { 10257 1 }
+	}
+	provinces={
+		9978 9984 10152 10174 10257 10282 10359
+	}
+	local_supplies=0.0
+}

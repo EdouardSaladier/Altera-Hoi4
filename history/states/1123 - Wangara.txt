@@ -1,0 +1,20 @@
+state={
+	id=1123
+	name="STATE_1123" # Wangara
+	manpower = 342594
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 11951 10 }
+		victory_points = { 12093 10 }
+		victory_points = { 12111 5 }
+		victory_points = { 12198 1 }
+		victory_points = { 12260 1 }
+		victory_points = { 12352 1 }
+	}
+	provinces={
+		11910 11951 11961 11980 12093 12111 12115 12198 12260 12297 12352
+	}
+	local_supplies=0.0
+}

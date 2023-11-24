@@ -1,0 +1,17 @@
+state={
+	id=1159
+	name="STATE_1159" # Astaboria
+	manpower = 1171127
+	state_category = town
+	history={
+		owner = ASB
+		add_core_of = ASB
+		victory_points = { 12120 10 }
+		victory_points = { 12220 5 }
+		victory_points = { 12234 80 }
+	}
+	provinces={
+		12097 12120 12220 12234
+	}
+	local_supplies=0.0
+}

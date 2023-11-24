@@ -1,0 +1,16 @@
+state={
+	id=803
+	name="STATE_803" # Pima
+	manpower = 14723
+	state_category = rural
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9867 40 }
+		victory_points = { 10045 10 }
+	}
+	provinces={
+		9867 9911 10045
+	}
+	local_supplies=0.0
+}

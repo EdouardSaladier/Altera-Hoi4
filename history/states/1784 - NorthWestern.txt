@@ -1,0 +1,17 @@
+state={
+	id=1784
+	name="STATE_1784" # North-Western
+	manpower = 2312326
+	state_category = town
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		victory_points = { 15321 2 }
+		victory_points = { 15344 5 }
+		victory_points = { 15422 5 }
+	}
+	provinces={
+		15245 15260 15267 15321 15326 15344 15372 15422 15462 15469
+	}
+	local_supplies=0.0
+}

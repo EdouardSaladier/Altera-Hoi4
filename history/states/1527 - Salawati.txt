@@ -1,0 +1,14 @@
+state={
+	id=1527
+	name="STATE_1527" # Salawati
+	manpower = 6494
+	state_category = rural
+	history={
+		owner = SAW
+		add_core_of = SAW
+	}
+	provinces={
+		14145
+	}
+	local_supplies=0.0
+}

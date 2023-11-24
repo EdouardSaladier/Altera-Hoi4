@@ -1,0 +1,14 @@
+state={
+	id=1586
+	name="STATE_1586" # Marija
+	manpower = 52661
+	state_category = town
+	history={
+		owner = MRI
+		add_core_of = MRI
+	}
+	provinces={
+		14383
+	}
+	local_supplies=0.0
+}

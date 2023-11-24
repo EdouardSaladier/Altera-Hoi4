@@ -1,0 +1,19 @@
+state={
+	id=404
+	name="STATE_404" # Sühbaatar
+	manpower = 27291
+	state_category = rural
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7096 1 }
+		victory_points = { 7194 5 }
+		victory_points = { 7283 1 }
+		victory_points = { 7308 1 }
+		victory_points = { 7309 1 }
+	}
+	provinces={
+		7004 7047 7096 7194 7262 7283 7308 7309
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,26 @@
+state={
+	id=488
+	name="STATE_488" # Iowa
+	manpower = 44800
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 7673 10 }
+		victory_points = { 7731 20 }
+		victory_points = { 7773 10 }
+		victory_points = { 7790 5 }
+		victory_points = { 7853 5 }
+		victory_points = { 7866 5 }
+		victory_points = { 7936 5 }
+		victory_points = { 7973 20 }
+		victory_points = { 8095 40 }
+		victory_points = { 8112 20 }
+		victory_points = { 8246 5 }
+		victory_points = { 8266 5 }
+	}
+	provinces={
+		7673 7731 7773 7790 7853 7866 7936 7973 8095 8112 8246 8266
+	}
+	local_supplies=0.0
+}

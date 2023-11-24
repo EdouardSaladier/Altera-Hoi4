@@ -1,0 +1,15 @@
+state={
+	id=1391
+	name="STATE_1391" # Gelilia
+	manpower = 349611
+	state_category = town
+	history={
+		owner = GEI
+		add_core_of = GEI
+		victory_points = { 13401 5 }
+	}
+	provinces={
+		13401 13582
+	}
+	local_supplies=0.0
+}

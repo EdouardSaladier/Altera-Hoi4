@@ -1,0 +1,24 @@
+state={
+	id=252
+	name="STATE_252" # Penza
+	manpower = 2562983
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5546 5 }
+		victory_points = { 5547 5 }
+		victory_points = { 5560 5 }
+		victory_points = { 5603 5 }
+		victory_points = { 5689 20 }
+		victory_points = { 5704 2 }
+		victory_points = { 5718 5 }
+		victory_points = { 5743 80 }
+		victory_points = { 5844 5 }
+		victory_points = { 5861 10 }
+	}
+	provinces={
+		5546 5547 5560 5603 5689 5704 5718 5743 5844 5861
+	}
+	local_supplies=0.0
+}

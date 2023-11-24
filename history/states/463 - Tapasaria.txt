@@ -1,0 +1,15 @@
+state={
+	id=463
+	name="STATE_463" # Tapasaria
+	manpower = 317359
+	state_category = town
+	history={
+		owner = TPA
+		add_core_of = TPA
+		victory_points = { 7519 2 }
+	}
+	provinces={
+		7493 7519
+	}
+	local_supplies=0.0
+}

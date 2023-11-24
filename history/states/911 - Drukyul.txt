@@ -1,0 +1,16 @@
+state={
+	id=911
+	name="STATE_911" # Drukyul
+	manpower = 363054
+	state_category = town
+	history={
+		owner = DRU
+		add_core_of = DRU
+		victory_points = { 10607 5 }
+		victory_points = { 10644 20 }
+	}
+	provinces={
+		10607 10644
+	}
+	local_supplies=0.0
+}

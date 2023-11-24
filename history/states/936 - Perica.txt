@@ -1,0 +1,16 @@
+state={
+	id=936
+	name="STATE_936" # Perica
+	manpower = 9900
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 10788 10 }
+		victory_points = { 11137 40 }
+	}
+	provinces={
+		10741 10788 11137
+	}
+	local_supplies=0.0
+}

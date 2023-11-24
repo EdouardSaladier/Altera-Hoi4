@@ -1,0 +1,16 @@
+state={
+	id=570
+	name="STATE_570" # Guria
+	manpower = 723019
+	state_category = large_town
+	history={
+		owner = GUI
+		add_core_of = GUI
+		victory_points = { 8226 20 }
+		victory_points = { 8288 5 }
+	}
+	provinces={
+		8226 8288
+	}
+	local_supplies=0.0
+}

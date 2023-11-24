@@ -1,0 +1,14 @@
+state={
+	id=46
+	name="STATE_46" # Yukon-Koyukuk
+	manpower = 106350
+	state_category = pastoral
+	history={
+		owner = TAN
+		add_core_of = TAN
+	}
+	provinces={
+		2143 2166 2207 2227 2294 2359 2366 2409 2415 2480 2531 2581 2605 2606 2632 2633 2673 2682 2715 2735 2797 2841 2862 3004 3020
+	}
+	local_supplies=0.0
+}

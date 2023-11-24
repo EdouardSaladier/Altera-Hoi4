@@ -1,0 +1,9 @@
+strategic_region={
+	id=287
+	name="STRATEGICREGION_287" # Liangshan Yi
+	provinces={
+		9720 9971 9979 10059 10103 10204 10348 10470
+	}
+	weather={
+	}
+}

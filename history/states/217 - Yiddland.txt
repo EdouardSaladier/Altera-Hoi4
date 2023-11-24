@@ -1,0 +1,18 @@
+state={
+	id=217
+	name="STATE_217" # Yiddland
+	manpower = 2453185
+	state_category = large_town
+	history={
+		owner = YID
+		add_core_of = YID
+		victory_points = { 5230 10 }
+		victory_points = { 5398 5 }
+		victory_points = { 5427 20 }
+		victory_points = { 5471 5 }
+	}
+	provinces={
+		5230 5398 5427 5471
+	}
+	local_supplies=0.0
+}

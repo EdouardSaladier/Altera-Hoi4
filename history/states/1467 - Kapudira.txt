@@ -1,0 +1,21 @@
+state={
+	id=1467
+	name="STATE_1467" # Kapudira
+	manpower = 4003672
+	state_category = large_town
+	history={
+		owner = KAP
+		add_core_of = KAP
+		victory_points = { 13815 5 }
+		victory_points = { 13868 1 }
+		victory_points = { 13979 1 }
+		victory_points = { 13995 1 }
+		victory_points = { 14033 1 }
+		victory_points = { 14034 1 }
+		victory_points = { 14071 1 }
+	}
+	provinces={
+		13815 13868 13908 13924 13944 13979 13995 14002 14033 14034 14035 14071
+	}
+	local_supplies=0.0
+}

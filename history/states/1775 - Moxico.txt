@@ -1,0 +1,17 @@
+state={
+	id=1775
+	name="STATE_1775" # Moxico
+	manpower = 2864673
+	state_category = town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15192 5 }
+		victory_points = { 15252 2 }
+		victory_points = { 15259 5 }
+	}
+	provinces={
+		15192 15225 15242 15252 15253 15259 15301 15312 15325 15371 15393 15416 15479 15511 15552
+	}
+	local_supplies=0.0
+}

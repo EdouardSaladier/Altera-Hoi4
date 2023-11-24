@@ -1,0 +1,15 @@
+state={
+	id=1887
+	name="STATE_1887" # Yawan
+	manpower = 7820
+	state_category = rural
+	history={
+		owner = YAW
+		add_core_of = YAW
+		victory_points = { 15876 2 }
+	}
+	provinces={
+		15876
+	}
+	local_supplies=0.0
+}

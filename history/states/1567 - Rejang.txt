@@ -1,0 +1,15 @@
+state={
+	id=1567
+	name="STATE_1567" # Rejang
+	manpower = 2030484
+	state_category = city
+	history={
+		owner = REJ
+		add_core_of = REJ
+		victory_points = { 14313 40 }
+	}
+	provinces={
+		14313
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1504
+	name="STATE_1504" # Rajampat
+	manpower = 43486
+	state_category = town
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		victory_points = { 14030 1 }
+	}
+	provinces={
+		14030
+	}
+	local_supplies=0.0
+}

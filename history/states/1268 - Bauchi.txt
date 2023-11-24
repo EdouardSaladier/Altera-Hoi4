@@ -1,0 +1,19 @@
+state={
+	id=1268
+	name="STATE_1268" # Bauchi
+	manpower = 2607641
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12744 5 }
+		victory_points = { 12855 40 }
+		victory_points = { 12891 20 }
+		victory_points = { 12896 5 }
+		victory_points = { 13014 5 }
+	}
+	provinces={
+		12744 12855 12891 12896 13014
+	}
+	local_supplies=0.0
+}

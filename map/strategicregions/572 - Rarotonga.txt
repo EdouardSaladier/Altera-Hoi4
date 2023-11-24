@@ -1,0 +1,9 @@
+strategic_region={
+	id=572
+	name="STRATEGICREGION_572" # Rarotonga
+	provinces={
+		15994 16072 16109 16195
+	}
+	weather={
+	}
+}

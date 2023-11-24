@@ -1,0 +1,19 @@
+state={
+	id=1297
+	name="STATE_1297" # Pandala
+	manpower = 18338394
+	state_category = metropolis
+	history={
+		owner = PND
+		add_core_of = PND
+		victory_points = { 12861 20 }
+		victory_points = { 12874 10 }
+		victory_points = { 12957 20 }
+		victory_points = { 12975 80 }
+		victory_points = { 13019 20 }
+	}
+	provinces={
+		12861 12874 12957 12975 13019
+	}
+	local_supplies=0.0
+}

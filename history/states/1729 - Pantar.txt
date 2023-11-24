@@ -1,0 +1,15 @@
+state={
+	id=1729
+	name="STATE_1729" # Pantar
+	manpower = 43415
+	state_category = large_town
+	history={
+		owner = PNR
+		add_core_of = PNR
+		victory_points = { 14966 1 }
+	}
+	provinces={
+		14966
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1503
+	name="STATE_1503" # Tanabala
+	manpower = 33753
+	state_category = town
+	history={
+		owner = TNB
+		add_core_of = TNB
+	}
+	provinces={
+		14028
+	}
+	local_supplies=0.0
+}

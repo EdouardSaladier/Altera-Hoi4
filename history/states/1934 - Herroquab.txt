@@ -1,0 +1,15 @@
+state={
+	id=1934
+	name="STATE_1934" # Herroquab
+	manpower = 48576
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+		victory_points = { 16265 40 }
+	}
+	provinces={
+		16212 16265 16298 16335 16370
+	}
+	local_supplies=0.0
+}

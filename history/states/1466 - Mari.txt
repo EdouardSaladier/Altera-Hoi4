@@ -1,0 +1,14 @@
+state={
+	id=1466
+	name="STATE_1466" # Mari
+	manpower = 23080
+	state_category = town
+	history={
+		owner = ARM
+		add_core_of = ARM
+	}
+	provinces={
+		13814
+	}
+	local_supplies=0.0
+}

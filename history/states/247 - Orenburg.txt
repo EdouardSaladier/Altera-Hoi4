@@ -1,0 +1,27 @@
+state={
+	id=247
+	name="STATE_247" # Orenburg
+	manpower = 3925867
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5462 10 }
+		victory_points = { 5561 2 }
+		victory_points = { 5720 20 }
+		victory_points = { 5744 5 }
+		victory_points = { 5816 2 }
+		victory_points = { 5892 5 }
+		victory_points = { 5901 5 }
+		victory_points = { 5929 2 }
+		victory_points = { 5930 5 }
+		victory_points = { 5978 5 }
+		victory_points = { 5995 5 }
+		victory_points = { 5996 2 }
+		victory_points = { 6176 5 }
+	}
+	provinces={
+		5462 5561 5720 5721 5744 5816 5892 5901 5929 5930 5977 5978 5995 5996 6176 6199
+	}
+	local_supplies=0.0
+}

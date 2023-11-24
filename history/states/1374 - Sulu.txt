@@ -1,0 +1,16 @@
+state={
+	id=1374
+	name="STATE_1374" # Sulu
+	manpower = 7134808
+	state_category = metropolis
+	history={
+		owner = SUL
+		add_core_of = SUL
+		victory_points = { 13303 20 }
+		victory_points = { 13505 5 }
+	}
+	provinces={
+		13303 13505
+	}
+	local_supplies=0.0
+}

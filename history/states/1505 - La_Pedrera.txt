@@ -1,0 +1,16 @@
+state={
+	id=1505
+	name="STATE_1505" # La Pedrera
+	manpower = 76193
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+		victory_points = { 14032 5 }
+		victory_points = { 14085 2 }
+	}
+	provinces={
+		14032 14085
+	}
+	local_supplies=0.0
+}

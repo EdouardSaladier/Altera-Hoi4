@@ -1,0 +1,14 @@
+state={
+	id=1014
+	name="STATE_1014" # Agadez
+	manpower = 7550
+	state_category = pastoral
+	history={
+		owner = PHA
+		add_core_of = PHA
+	}
+	provinces={
+		11300 11320
+	}
+	local_supplies=0.0
+}

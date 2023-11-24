@@ -1,0 +1,21 @@
+state={
+	id=461
+	name="STATE_461" # Moyynkumskiy
+	manpower = 2077221
+	state_category = town
+	history={
+		owner = ITY
+		add_core_of = ITY
+		victory_points = { 7482 2 }
+		victory_points = { 7505 1 }
+		victory_points = { 7646 2 }
+		victory_points = { 7779 1 }
+		victory_points = { 7808 5 }
+		victory_points = { 7875 10 }
+		victory_points = { 7890 40 }
+	}
+	provinces={
+		7482 7505 7631 7646 7670 7671 7763 7779 7807 7808 7875 7890
+	}
+	local_supplies=0.0
+}

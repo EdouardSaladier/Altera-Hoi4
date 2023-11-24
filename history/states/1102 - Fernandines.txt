@@ -1,0 +1,16 @@
+state={
+	id=1102
+	name="STATE_1102" # Fernandines
+	manpower = 219581
+	state_category = town
+	history={
+		owner = FER
+		add_core_of = FER
+		victory_points = { 12316 5 }
+		victory_points = { 12514 10 }
+	}
+	provinces={
+		11845 12032 12064 12225 12316 12458 12514
+	}
+	local_supplies=0.0
+}

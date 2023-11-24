@@ -1,0 +1,14 @@
+state={
+	id=1394
+	name="STATE_1394" # Labrellia
+	manpower = 964378
+	state_category = town
+	history={
+		owner = LAB
+		add_core_of = LAB
+	}
+	provinces={
+		13416 13488 13511
+	}
+	local_supplies=0.0
+}

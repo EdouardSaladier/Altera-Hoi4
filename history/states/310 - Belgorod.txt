@@ -1,0 +1,19 @@
+state={
+	id=310
+	name="STATE_310" # Belgorod
+	manpower = 1904720
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6226 40 }
+		victory_points = { 6227 40 }
+		victory_points = { 6264 5 }
+		victory_points = { 6329 10 }
+		victory_points = { 6421 10 }
+	}
+	provinces={
+		6226 6227 6264 6329 6421
+	}
+	local_supplies=0.0
+}

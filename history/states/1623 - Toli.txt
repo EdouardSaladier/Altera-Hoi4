@@ -1,0 +1,14 @@
+state={
+	id=1623
+	name="STATE_1623" # Toli
+	manpower = 300
+	state_category = rural
+	history={
+		owner = TOI
+		add_core_of = TOI
+	}
+	provinces={
+		14541
+	}
+	local_supplies=0.0
+}

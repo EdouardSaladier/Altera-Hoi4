@@ -1,0 +1,20 @@
+state={
+	id=723
+	name="STATE_723" # Markazi
+	manpower = 4320721
+	state_category = city
+	history={
+		owner = MED
+		add_core_of = MED
+		victory_points = { 9362 2 }
+		victory_points = { 9386 5 }
+		victory_points = { 9387 20 }
+		victory_points = { 9466 80 }
+		victory_points = { 9517 1 }
+		victory_points = { 9548 80 }
+	}
+	provinces={
+		9362 9386 9387 9466 9517 9548
+	}
+	local_supplies=0.0
+}

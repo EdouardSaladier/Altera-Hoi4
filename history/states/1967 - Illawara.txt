@@ -1,0 +1,15 @@
+state={
+	id=1967
+	name="STATE_1967" # Illawara
+	manpower = 934490
+	state_category = city
+	history={
+		owner = ILA
+		add_core_of = ILA
+		victory_points = { 16484 2 }
+	}
+	provinces={
+		16484
+	}
+	local_supplies=0.0
+}

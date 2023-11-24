@@ -1,0 +1,16 @@
+state={
+	id=1915
+	name="STATE_1915" # Amludive
+	manpower = 2135281
+	state_category = large_city
+	history={
+		owner = AML
+		add_core_of = AML
+		victory_points = { 16091 20 }
+		victory_points = { 16192 20 }
+	}
+	provinces={
+		16063 16091 16192
+	}
+	local_supplies=0.0
+}

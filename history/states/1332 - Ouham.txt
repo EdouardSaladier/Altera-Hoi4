@@ -1,0 +1,16 @@
+state={
+	id=1332
+	name="STATE_1332" # Ouham
+	manpower = 1457252
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 13148 5 }
+		victory_points = { 13204 10 }
+	}
+	provinces={
+		13032 13148 13204 13278 13325
+	}
+	local_supplies=0.0
+}

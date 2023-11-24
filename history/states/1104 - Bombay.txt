@@ -1,0 +1,14 @@
+state={
+	id=1104
+	name="STATE_1104" # Bombay
+	manpower = 100
+	state_category = pastoral
+	history={
+		owner = BOB
+		add_core_of = BOB
+	}
+	provinces={
+		11849
+	}
+	local_supplies=0.0
+}

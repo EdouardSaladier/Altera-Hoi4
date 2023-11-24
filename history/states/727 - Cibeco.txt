@@ -1,0 +1,18 @@
+state={
+	id=727
+	name="STATE_727" # Cibeco
+	manpower = 6860
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9374 1 }
+		victory_points = { 9394 5 }
+		victory_points = { 9406 1 }
+		victory_points = { 9457 5 }
+	}
+	provinces={
+		9374 9394 9406 9457
+	}
+	local_supplies=0.0
+}

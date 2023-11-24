@@ -1,0 +1,16 @@
+state={
+	id=373
+	name="STATE_373" # Hentiy
+	manpower = 48290
+	state_category = rural
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6764 1 }
+		victory_points = { 7112 5 }
+	}
+	provinces={
+		6764 7112
+	}
+	local_supplies=0.0
+}

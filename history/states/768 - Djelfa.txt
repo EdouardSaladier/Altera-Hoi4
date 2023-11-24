@@ -1,0 +1,14 @@
+state={
+	id=768
+	name="STATE_768" # Djelfa
+	manpower = 279861
+	state_category = town
+	history={
+		owner = GET
+		add_core_of = GET
+	}
+	provinces={
+		9636 9663
+	}
+	local_supplies=0.0
+}

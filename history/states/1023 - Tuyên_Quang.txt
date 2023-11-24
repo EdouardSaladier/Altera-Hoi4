@@ -1,0 +1,16 @@
+state={
+	id=1023
+	name="STATE_1023" # Tuyên Quang
+	manpower = 9325119
+	state_category = metropolis
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 11333 10 }
+		victory_points = { 11432 10 }
+	}
+	provinces={
+		11333 11432
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=609
+	name="STATE_609" # District of Columbia
+	manpower = 260
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8572 80 }
+	}
+	provinces={
+		8572
+	}
+	local_supplies=0.0
+}

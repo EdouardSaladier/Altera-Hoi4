@@ -1,0 +1,15 @@
+state={
+	id=442
+	name="STATE_442" # Bjelovarska-Bilogorska
+	manpower = 726848
+	state_category = large_town
+	history={
+		owner = CRO
+		add_core_of = CRO
+		victory_points = { 7317 10 }
+	}
+	provinces={
+		7317
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=45
+	name="STATE_45" # Nadymskiy rayon
+	manpower = 163187
+	state_category = rural
+	history={
+		owner = NES
+		add_core_of = NES
+		victory_points = { 2678 5 }
+		victory_points = { 2721 20 }
+	}
+	provinces={
+		2126 2371 2474 2545 2678 2710 2721 3100
+	}
+	local_supplies=0.0
+}

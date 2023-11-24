@@ -1,0 +1,14 @@
+state={
+	id=1821
+	name="STATE_1821" # Cuando Cubango
+	manpower = 156487
+	state_category = rural
+	history={
+		owner = ANG
+		add_core_of = ANG
+	}
+	provinces={
+		15457 15519 15580 15612 15716 15717 15764 15813
+	}
+	local_supplies=0.0
+}

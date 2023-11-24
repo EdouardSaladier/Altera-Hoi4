@@ -1,0 +1,14 @@
+state={
+	id=1908
+	name="STATE_1908" # Rarotonga
+	manpower = 620
+	state_category = rural
+	history={
+		owner = RAO
+		add_core_of = RAO
+	}
+	provinces={
+		15994 16072 16109 16195
+	}
+	local_supplies=0.0
+}

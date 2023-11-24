@@ -1,0 +1,15 @@
+state={
+	id=1595
+	name="STATE_1595" # Yawanan
+	manpower = 8610
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14424 5 }
+	}
+	provinces={
+		14424
+	}
+	local_supplies=0.0
+}

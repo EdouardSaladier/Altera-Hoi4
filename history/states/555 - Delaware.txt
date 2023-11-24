@@ -1,0 +1,22 @@
+state={
+	id=555
+	name="STATE_555" # Delaware
+	manpower = 23380
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8162 10 }
+		victory_points = { 8197 2 }
+		victory_points = { 8198 10 }
+		victory_points = { 8278 5 }
+		victory_points = { 8313 20 }
+		victory_points = { 8314 10 }
+		victory_points = { 8328 5 }
+		victory_points = { 8329 5 }
+	}
+	provinces={
+		8162 8197 8198 8278 8313 8314 8328 8329
+	}
+	local_supplies=0.0
+}

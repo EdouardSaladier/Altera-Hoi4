@@ -1,0 +1,15 @@
+state={
+	id=1549
+	name="STATE_1549" # Sankuru
+	manpower = 4046198
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 14500 10 }
+	}
+	provinces={
+		14231 14243 14259 14298 14322 14392 14393 14410 14469 14500 14574
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,33 @@
+state={
+	id=725
+	name="STATE_725" # Avania
+	manpower = 5809437
+	state_category = town
+	history={
+		owner = AVN
+		add_core_of = AVN
+		victory_points = { 9365 5 }
+		victory_points = { 9427 5 }
+		victory_points = { 9467 5 }
+		victory_points = { 9476 1 }
+		victory_points = { 9562 1 }
+		victory_points = { 9578 1 }
+		victory_points = { 9628 1 }
+		victory_points = { 9706 20 }
+		victory_points = { 9718 1 }
+		victory_points = { 9731 20 }
+		victory_points = { 9738 1 }
+		victory_points = { 9765 5 }
+		victory_points = { 9766 1 }
+		victory_points = { 9773 5 }
+		victory_points = { 9827 5 }
+		victory_points = { 9928 10 }
+		victory_points = { 9965 5 }
+		victory_points = { 9966 20 }
+		victory_points = { 9997 80 }
+	}
+	provinces={
+		9365 9415 9427 9467 9476 9562 9578 9628 9640 9667 9706 9718 9731 9738 9765 9766 9773 9827 9901 9928 9965 9966 9997
+	}
+	local_supplies=0.0
+}

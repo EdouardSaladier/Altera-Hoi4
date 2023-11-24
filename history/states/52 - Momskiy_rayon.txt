@@ -1,0 +1,14 @@
+state={
+	id=52
+	name="STATE_52" # Momskiy rayon
+	manpower = 69020
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		2413 2434 2454 2499 2552 2553 2554 2624 2698 2733 2761 2794 2827 2855 2861 2950 2988 3023
+	}
+	local_supplies=0.0
+}

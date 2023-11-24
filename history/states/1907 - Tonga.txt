@@ -1,0 +1,15 @@
+state={
+	id=1907
+	name="STATE_1907" # Tonga
+	manpower = 102388
+	state_category = town
+	history={
+		owner = TNG
+		add_core_of = TNG
+		victory_points = { 15988 2 }
+	}
+	provinces={
+		15988 16125 16136
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=535
+	name="STATE_535" # Phyrnia
+	manpower = 14351000
+	state_category = city
+	history={
+		owner = PHY
+		add_core_of = PHY
+		victory_points = { 8011 10 }
+		victory_points = { 8032 5 }
+		victory_points = { 8159 5 }
+		victory_points = { 8304 80 }
+		victory_points = { 8362 10 }
+		victory_points = { 8376 40 }
+		victory_points = { 8416 5 }
+		victory_points = { 8468 10 }
+		victory_points = { 8522 20 }
+		victory_points = { 8552 10 }
+	}
+	provinces={
+		8011 8032 8159 8304 8362 8376 8416 8468 8522 8552 8623
+	}
+	local_supplies=0.0
+}

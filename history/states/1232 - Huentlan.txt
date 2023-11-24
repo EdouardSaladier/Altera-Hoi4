@@ -1,0 +1,15 @@
+state={
+	id=1232
+	name="STATE_1232" # Huentlan
+	manpower = 3050
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12508 20 }
+	}
+	provinces={
+		12508 12598
+	}
+	local_supplies=0.0
+}

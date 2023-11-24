@@ -1,0 +1,16 @@
+state={
+	id=239
+	name="STATE_239" # Mayo
+	manpower = 1437626
+	state_category = large_town
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 5421 1 }
+		victory_points = { 5455 10 }
+	}
+	provinces={
+		5421 5455 5585
+	}
+	local_supplies=0.0
+}

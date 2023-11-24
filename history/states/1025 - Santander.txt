@@ -1,0 +1,22 @@
+state={
+	id=1025
+	name="STATE_1025" # Santander
+	manpower = 8649145
+	state_category = city
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 11354 5 }
+		victory_points = { 11434 2 }
+		victory_points = { 11454 80 }
+		victory_points = { 11485 20 }
+		victory_points = { 13086 20 }
+		victory_points = { 13254 5 }
+		victory_points = { 13266 80 }
+		victory_points = { 13359 20 }
+	}
+	provinces={
+		11354 11434 11454 11485 11530 13086 13254 13266 13359
+	}
+	local_supplies=0.0
+}

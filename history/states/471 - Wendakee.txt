@@ -1,0 +1,24 @@
+state={
+	id=471
+	name="STATE_471" # Wendakee
+	manpower = 4240473
+	state_category = large_town
+	history={
+		owner = WEN
+		add_core_of = WEN
+		victory_points = { 7527 2 }
+		victory_points = { 7585 5 }
+		victory_points = { 7586 5 }
+		victory_points = { 7682 2 }
+		victory_points = { 7683 10 }
+		victory_points = { 7700 1 }
+		victory_points = { 7745 5 }
+		victory_points = { 7765 2 }
+		victory_points = { 7854 20 }
+		victory_points = { 7974 20 }
+	}
+	provinces={
+		7527 7585 7586 7682 7683 7700 7745 7765 7854 7974 8096
+	}
+	local_supplies=0.0
+}

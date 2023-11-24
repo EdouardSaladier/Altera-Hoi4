@@ -1,0 +1,9 @@
+strategic_region={
+	id=257
+	name="STRATEGICREGION_257" # Punice
+	provinces={
+		9079 9091 9132 9142 9143 9157 9176 9214 9215 9294 9295 9333 9360 9376 9424 9472 9531 9613 9614 9664 9676 9714
+	}
+	weather={
+	}
+}

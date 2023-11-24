@@ -1,0 +1,17 @@
+state={
+	id=1256
+	name="STATE_1256" # Zacire
+	manpower = 2818045
+	state_category = city
+	history={
+		owner = ZAC
+		add_core_of = ZAC
+		victory_points = { 12670 40 }
+		victory_points = { 12765 1 }
+		victory_points = { 12766 10 }
+	}
+	provinces={
+		12670 12765 12766
+	}
+	local_supplies=0.0
+}

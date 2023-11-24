@@ -1,0 +1,18 @@
+state={
+	id=393
+	name="STATE_393" # Urdzharskiy
+	manpower = 1841043
+	state_category = town
+	history={
+		owner = ITY
+		add_core_of = ITY
+		victory_points = { 6911 5 }
+		victory_points = { 7151 5 }
+		victory_points = { 7172 1 }
+		victory_points = { 7209 1 }
+	}
+	provinces={
+		6911 7024 7082 7151 7172 7209 7225 7247 7260 7335 7379
+	}
+	local_supplies=0.0
+}

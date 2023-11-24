@@ -1,0 +1,19 @@
+state={
+	id=664
+	name="STATE_664" # Cilicia
+	manpower = 7402360
+	state_category = city
+	history={
+		owner = CIL
+		add_core_of = CIL
+		victory_points = { 8996 40 }
+		victory_points = { 9013 20 }
+		victory_points = { 9057 80 }
+		victory_points = { 9111 20 }
+		victory_points = { 9165 10 }
+	}
+	provinces={
+		8996 9013 9057 9111 9165
+	}
+	local_supplies=0.0
+}

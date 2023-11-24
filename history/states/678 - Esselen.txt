@@ -1,0 +1,16 @@
+state={
+	id=678
+	name="STATE_678" # Esselen
+	manpower = 7240
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 9087 20 }
+		victory_points = { 9206 20 }
+	}
+	provinces={
+		9087 9206
+	}
+	local_supplies=0.0
+}

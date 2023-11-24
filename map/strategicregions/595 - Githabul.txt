@@ -1,0 +1,9 @@
+strategic_region={
+	id=595
+	name="STRATEGICREGION_595" # Githabul
+	provinces={
+		16569
+	}
+	weather={
+	}
+}

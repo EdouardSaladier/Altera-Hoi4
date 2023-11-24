@@ -1,0 +1,19 @@
+state={
+	id=426
+	name="STATE_426" # Sadagia
+	manpower = 1396508
+	state_category = large_town
+	history={
+		owner = SAD
+		add_core_of = SAD
+		victory_points = { 7191 5 }
+		victory_points = { 7239 5 }
+		victory_points = { 7272 20 }
+		victory_points = { 7290 5 }
+		victory_points = { 7344 5 }
+	}
+	provinces={
+		7191 7239 7272 7290 7291 7344
+	}
+	local_supplies=0.0
+}

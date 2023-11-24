@@ -1,0 +1,16 @@
+state={
+	id=78
+	name="STATE_78" # Vesturland
+	manpower = 196157
+	state_category = town
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = { 3040 1 }
+		victory_points = { 3168 5 }
+	}
+	provinces={
+		2994 3040 3124 3168
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=831
+	name="STATE_831" # Matrouh
+	manpower = 778393
+	state_category = town
+	history={
+		owner = MAR
+		add_core_of = MAR
+		victory_points = { 10074 10 }
+		victory_points = { 10446 5 }
+	}
+	provinces={
+		10073 10074 10219 10419 10446
+	}
+	local_supplies=0.0
+}

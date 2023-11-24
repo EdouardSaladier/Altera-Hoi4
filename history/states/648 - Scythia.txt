@@ -1,0 +1,27 @@
+state={
+	id=648
+	name="STATE_648" # Scythia
+	manpower = 4438107
+	state_category = town
+	history={
+		owner = SCY
+		add_core_of = SCY
+		victory_points = { 8910 80 }
+		victory_points = { 8921 10 }
+		victory_points = { 8922 5 }
+		victory_points = { 8934 20 }
+		victory_points = { 8999 5 }
+		victory_points = { 9037 10 }
+		victory_points = { 9180 20 }
+		victory_points = { 9218 1 }
+		victory_points = { 9233 2 }
+		victory_points = { 9289 5 }
+		victory_points = { 9336 5 }
+		victory_points = { 9337 5 }
+		victory_points = { 9426 1 }
+	}
+	provinces={
+		8870 8910 8921 8922 8934 8935 8946 8999 9037 9115 9116 9147 9180 9218 9232 9233 9245 9289 9336 9337 9426
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=790
+	name="STATE_790" # Ar-Ruwayshid
+	manpower = 732126
+	state_category = town
+	history={
+		owner = ACA
+		add_core_of = ACA
+		victory_points = { 9795 1 }
+		victory_points = { 9938 10 }
+	}
+	provinces={
+		9771 9795 9884 9938
+	}
+	local_supplies=0.0
+}

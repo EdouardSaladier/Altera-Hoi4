@@ -1,0 +1,17 @@
+state={
+	id=342
+	name="STATE_342" # Bulgan
+	manpower = 36549
+	state_category = rural
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6464 1 }
+		victory_points = { 6628 5 }
+		victory_points = { 6666 1 }
+	}
+	provinces={
+		6464 6628 6666
+	}
+	local_supplies=0.0
+}

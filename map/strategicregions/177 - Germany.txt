@@ -1,0 +1,9 @@
+strategic_region={
+	id=177
+	name="STRATEGICREGION_177" # Germany
+	provinces={
+		6551 6564 6601 6693 6726 6727 6735 6811 6812 6868 6869 6895 6932 6974
+	}
+	weather={
+	}
+}

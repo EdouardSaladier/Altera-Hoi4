@@ -1,0 +1,20 @@
+state={
+	id=429
+	name="STATE_429" # Almaty
+	manpower = 2947823
+	state_category = town
+	history={
+		owner = ITY
+		add_core_of = ITY
+		victory_points = { 7280 2 }
+		victory_points = { 7307 2 }
+		victory_points = { 7324 2 }
+		victory_points = { 7391 20 }
+		victory_points = { 7543 20 }
+		victory_points = { 7576 5 }
+	}
+	provinces={
+		7208 7224 7259 7280 7295 7306 7307 7323 7324 7347 7391 7412 7444 7458 7523 7543 7555 7576 7577 7656
+	}
+	local_supplies=0.0
+}

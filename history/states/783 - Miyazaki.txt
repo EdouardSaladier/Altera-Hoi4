@@ -1,0 +1,16 @@
+state={
+	id=783
+	name="STATE_783" # Miyazaki
+	manpower = 7390738
+	state_category = large_city
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9734 40 }
+		victory_points = { 9981 80 }
+	}
+	provinces={
+		9734 9981
+	}
+	local_supplies=0.0
+}

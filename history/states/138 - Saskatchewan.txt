@@ -1,0 +1,14 @@
+state={
+	id=138
+	name="STATE_138" # Saskatchewan
+	manpower = 32707
+	state_category = rural
+	history={
+		owner = ATH
+		add_core_of = ATH
+	}
+	provinces={
+		4208 4234 4235 4236 4237 4300 4334 4343 4432 4505
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1594
+	name="STATE_1594" # Abelam
+	manpower = 400
+	state_category = rural
+	history={
+		owner = ABL
+		add_core_of = ABL
+		victory_points = { 14423 5 }
+	}
+	provinces={
+		14423
+	}
+	local_supplies=0.0
+}

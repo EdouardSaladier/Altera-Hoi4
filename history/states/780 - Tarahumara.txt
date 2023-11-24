@@ -1,0 +1,16 @@
+state={
+	id=780
+	name="STATE_780" # Tarahumara
+	manpower = 15933
+	state_category = rural
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9711 5 }
+		victory_points = { 9879 20 }
+	}
+	provinces={
+		9711 9879
+	}
+	local_supplies=0.0
+}

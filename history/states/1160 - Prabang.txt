@@ -1,0 +1,21 @@
+state={
+	id=1160
+	name="STATE_1160" # Prabang
+	manpower = 2174835
+	state_category = large_town
+	history={
+		owner = PRA
+		add_core_of = PRA
+		victory_points = { 12105 1 }
+		victory_points = { 12106 1 }
+		victory_points = { 12107 1 }
+		victory_points = { 12196 2 }
+		victory_points = { 12246 1 }
+		victory_points = { 12247 5 }
+		victory_points = { 12291 1 }
+	}
+	provinces={
+		12105 12106 12107 12196 12246 12247 12291
+	}
+	local_supplies=0.0
+}

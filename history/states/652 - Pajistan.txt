@@ -1,0 +1,15 @@
+state={
+	id=652
+	name="STATE_652" # Pajistan
+	manpower = 1027199
+	state_category = large_town
+	history={
+		owner = PAJ
+		add_core_of = PAJ
+		victory_points = { 8988 1 }
+	}
+	provinces={
+		8911 8988
+	}
+	local_supplies=0.0
+}

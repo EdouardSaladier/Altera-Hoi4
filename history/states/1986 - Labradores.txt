@@ -1,0 +1,15 @@
+state={
+	id=1986
+	name="STATE_1986" # Labradores
+	manpower = 5130
+	state_category = rural
+	history={
+		owner = LAR
+		add_core_of = LAR
+		victory_points = { 17494 1 }
+	}
+	provinces={
+		16723 17008 17027 17085 17381 17439 17494
+	}
+	local_supplies=0.0
+}

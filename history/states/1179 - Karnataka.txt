@@ -1,0 +1,29 @@
+state={
+	id=1179
+	name="STATE_1179" # Karnataka
+	manpower = 48478491
+	state_category = metropolis
+	history={
+		owner = KAR
+		add_core_of = KAR
+		victory_points = { 12222 40 }
+		victory_points = { 12271 10 }
+		victory_points = { 12313 40 }
+		victory_points = { 12325 40 }
+		victory_points = { 12350 80 }
+		victory_points = { 12374 20 }
+		victory_points = { 12393 20 }
+		victory_points = { 12448 40 }
+		victory_points = { 12464 40 }
+		victory_points = { 12473 5 }
+		victory_points = { 12479 80 }
+		victory_points = { 12506 20 }
+		victory_points = { 12577 80 }
+		victory_points = { 12585 5 }
+		victory_points = { 12622 20 }
+	}
+	provinces={
+		12222 12271 12313 12325 12350 12374 12393 12448 12464 12473 12479 12506 12577 12585 12622
+	}
+	local_supplies=0.0
+}

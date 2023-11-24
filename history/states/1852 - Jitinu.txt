@@ -1,0 +1,14 @@
+state={
+	id=1852
+	name="STATE_1852" # Jitinu
+	manpower = 1600
+	state_category = rural
+	history={
+		owner = JIT
+		add_core_of = JIT
+	}
+	provinces={
+		15632
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=1255
+	name="STATE_1255" # Borgu
+	manpower = 9448292
+	state_category = city
+	history={
+		owner = BOR
+		add_core_of = BOR
+		victory_points = { 12672 5 }
+		victory_points = { 12688 20 }
+		victory_points = { 12814 5 }
+		victory_points = { 12933 20 }
+		victory_points = { 13124 20 }
+	}
+	provinces={
+		12663 12672 12688 12814 12822 12845 12933 13124
+	}
+	local_supplies=0.0
+}

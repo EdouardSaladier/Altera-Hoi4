@@ -1,0 +1,15 @@
+state={
+	id=1961
+	name="STATE_1961" # Yallinga
+	manpower = 9040
+	state_category = rural
+	history={
+		owner = YAL
+		add_core_of = YAL
+		victory_points = { 16418 5 }
+	}
+	provinces={
+		16418 16431
+	}
+	local_supplies=0.0
+}

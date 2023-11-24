@@ -1,0 +1,14 @@
+state={
+	id=1404
+	name="STATE_1404" # Penang
+	manpower = 160
+	state_category = pastoral
+	history={
+		owner = PEN
+		add_core_of = PEN
+	}
+	provinces={
+		13471
+	}
+	local_supplies=0.0
+}

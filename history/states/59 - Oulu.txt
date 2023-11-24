@@ -1,0 +1,23 @@
+state={
+	id=59
+	name="STATE_59" # Oulu
+	manpower = 799790
+	state_category = town
+	history={
+		owner = FIN
+		add_core_of = FIN
+		victory_points = { 2667 5 }
+		victory_points = { 2880 5 }
+		victory_points = { 2905 5 }
+		victory_points = { 2946 5 }
+		victory_points = { 2997 5 }
+		victory_points = { 3134 5 }
+		victory_points = { 3200 5 }
+		victory_points = { 3226 5 }
+		victory_points = { 3235 5 }
+	}
+	provinces={
+		2667 2766 2880 2899 2905 2946 2997 3074 3134 3200 3215 3226 3235
+	}
+	local_supplies=0.0
+}

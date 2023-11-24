@@ -1,0 +1,23 @@
+state={
+	id=1484
+	name="STATE_1484" # Gabon
+	manpower = 2372530
+	state_category = town
+	history={
+		owner = GAB
+		add_core_of = GAB
+		victory_points = { 13904 80 }
+		victory_points = { 13920 5 }
+		victory_points = { 14021 2 }
+		victory_points = { 14073 5 }
+		victory_points = { 14091 1 }
+		victory_points = { 14120 5 }
+		victory_points = { 14140 5 }
+		victory_points = { 14157 5 }
+		victory_points = { 14205 5 }
+	}
+	provinces={
+		13904 13920 13950 13974 14005 14021 14073 14091 14114 14120 14129 14140 14157 14205 14241
+	}
+	local_supplies=0.0
+}

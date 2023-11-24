@@ -1,0 +1,17 @@
+state={
+	id=270
+	name="STATE_270" # Kerry
+	manpower = 1587998
+	state_category = large_town
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 5754 5 }
+		victory_points = { 5812 20 }
+		victory_points = { 5924 5 }
+	}
+	provinces={
+		5754 5812 5837 5924
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1473
+	name="STATE_1473" # Équateur
+	manpower = 2834479
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 13911 20 }
+	}
+	provinces={
+		13851 13852 13911 13921 13930 13952 14023 14102
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1563
+	name="STATE_1563" # Kasaï
+	manpower = 4188272
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 14446 20 }
+		victory_points = { 14676 40 }
+	}
+	provinces={
+		14297 14336 14391 14446 14468 14514 14545 14610 14676 14680
+	}
+	local_supplies=0.0
+}

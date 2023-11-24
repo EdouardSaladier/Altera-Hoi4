@@ -1,0 +1,14 @@
+state={
+	id=1241
+	name="STATE_1241" # Bequiya
+	manpower = 90
+	state_category = pastoral
+	history={
+		owner = BEQ
+		add_core_of = BEQ
+	}
+	provinces={
+		12572
+	}
+	local_supplies=0.0
+}

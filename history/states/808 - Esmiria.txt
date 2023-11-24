@@ -1,0 +1,23 @@
+state={
+	id=808
+	name="STATE_808" # Esmiria
+	manpower = 2424200
+	state_category = town
+	history={
+		owner = ESM
+		add_core_of = ESM
+		victory_points = { 9973 5 }
+		victory_points = { 10049 10 }
+		victory_points = { 10095 10 }
+		victory_points = { 10096 5 }
+		victory_points = { 10132 10 }
+		victory_points = { 10209 1 }
+		victory_points = { 10271 20 }
+		victory_points = { 10278 2 }
+		victory_points = { 10302 5 }
+	}
+	provinces={
+		9897 9973 10049 10095 10096 10132 10209 10271 10278 10302
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1381
+	name="STATE_1381" # Dusun
+	manpower = 2405975
+	state_category = city
+	history={
+		owner = DUS
+		add_core_of = DUS
+		victory_points = { 13352 5 }
+		victory_points = { 13397 20 }
+	}
+	provinces={
+		13352 13397
+	}
+	local_supplies=0.0
+}

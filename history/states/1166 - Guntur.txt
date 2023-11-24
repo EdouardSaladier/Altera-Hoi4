@@ -1,0 +1,18 @@
+state={
+	id=1166
+	name="STATE_1166" # Guntur
+	manpower = 7358442
+	state_category = metropolis
+	history={
+		owner = TEL
+		add_core_of = TEL
+		victory_points = { 12158 20 }
+		victory_points = { 12168 10 }
+		victory_points = { 12244 20 }
+		victory_points = { 12281 10 }
+	}
+	provinces={
+		12158 12168 12244 12281
+	}
+	local_supplies=0.0
+}

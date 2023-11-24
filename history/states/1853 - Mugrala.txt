@@ -1,0 +1,14 @@
+state={
+	id=1853
+	name="STATE_1853" # Mugrala
+	manpower = 5580
+	state_category = rural
+	history={
+		owner = MUG
+		add_core_of = MUG
+	}
+	provinces={
+		15634 15673 15699 15709
+	}
+	local_supplies=0.0
+}

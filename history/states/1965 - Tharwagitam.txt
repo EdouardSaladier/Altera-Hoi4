@@ -1,0 +1,18 @@
+state={
+	id=1965
+	name="STATE_1965" # Tharwagitam
+	manpower = 1352190
+	state_category = town
+	history={
+		owner = THA
+		add_core_of = THA
+		victory_points = { 16463 1 }
+		victory_points = { 16592 2 }
+		victory_points = { 16632 1 }
+		victory_points = { 16749 2 }
+	}
+	provinces={
+		16463 16473 16526 16545 16582 16591 16592 16632 16661 16682 16696 16726 16740 16749 16854
+	}
+	local_supplies=0.0
+}

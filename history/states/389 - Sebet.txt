@@ -1,0 +1,21 @@
+state={
+	id=389
+	name="STATE_389" # Sebet
+	manpower = 574910
+	state_category = rural
+	history={
+		owner = SEB
+		add_core_of = SEB
+		victory_points = { 7127 5 }
+		victory_points = { 7556 20 }
+		victory_points = { 7798 1 }
+		victory_points = { 7820 1 }
+		victory_points = { 7859 1 }
+		victory_points = { 7891 2 }
+		victory_points = { 8137 1 }
+	}
+	provinces={
+		6889 7127 7413 7414 7556 7632 7707 7787 7798 7820 7859 7891 7920 7980 7999 8137
+	}
+	local_supplies=0.0
+}

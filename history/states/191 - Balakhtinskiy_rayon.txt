@@ -1,0 +1,17 @@
+state={
+	id=191
+	name="STATE_191" # Balakhtinskiy rayon
+	manpower = 639120
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4903 5 }
+		victory_points = { 5205 2 }
+		victory_points = { 5481 5 }
+	}
+	provinces={
+		4903 5205 5392 5481
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1003
+	name="STATE_1003" # Serong
+	manpower = 5370
+	state_category = pastoral
+	history={
+		owner = SEO
+		add_core_of = SEO
+		victory_points = { 11213 10 }
+	}
+	provinces={
+		11213
+	}
+	local_supplies=0.0
+}

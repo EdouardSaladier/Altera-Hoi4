@@ -1,0 +1,21 @@
+state={
+	id=1365
+	name="STATE_1365" # Ivory Coast
+	manpower = 8568786
+	state_category = city
+	history={
+		owner = IVO
+		add_core_of = IVO
+		victory_points = { 13220 10 }
+		victory_points = { 13239 40 }
+		victory_points = { 13276 1 }
+		victory_points = { 13330 20 }
+		victory_points = { 13348 10 }
+		victory_points = { 13449 40 }
+		victory_points = { 13487 5 }
+	}
+	provinces={
+		13220 13221 13239 13276 13330 13348 13414 13449 13487
+	}
+	local_supplies=0.0
+}

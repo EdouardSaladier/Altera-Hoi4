@@ -1,0 +1,18 @@
+state={
+	id=1316
+	name="STATE_1316" # Querchira
+	manpower = 1890029
+	state_category = large_town
+	history={
+		owner = QUE
+		add_core_of = QUE
+		victory_points = { 12949 40 }
+		victory_points = { 13010 40 }
+		victory_points = { 13048 5 }
+		victory_points = { 13061 40 }
+	}
+	provinces={
+		12949 13010 13048 13061
+	}
+	local_supplies=0.0
+}

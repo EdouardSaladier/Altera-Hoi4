@@ -1,0 +1,9 @@
+strategic_region={
+	id=156
+	name="STRATEGICREGION_156" # Flanders
+	provinces={
+		5596 5684 5685 5739 5825 5840 5877 5990 6005 6089 6157 6193 6210 6260 6340 6390 6439
+	}
+	weather={
+	}
+}

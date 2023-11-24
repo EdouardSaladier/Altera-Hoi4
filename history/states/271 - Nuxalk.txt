@@ -1,0 +1,14 @@
+state={
+	id=271
+	name="STATE_271" # Nuxalk
+	manpower = 6690
+	state_category = pastoral
+	history={
+		owner = NUX
+		add_core_of = NUX
+	}
+	provinces={
+		5762 5791 5946
+	}
+	local_supplies=0.0
+}

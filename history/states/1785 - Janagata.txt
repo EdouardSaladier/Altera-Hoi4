@@ -1,0 +1,14 @@
+state={
+	id=1785
+	name="STATE_1785" # Janagata
+	manpower = 19240
+	state_category = rural
+	history={
+		owner = JAN
+		add_core_of = JAN
+	}
+	provinces={
+		15248
+	}
+	local_supplies=0.0
+}

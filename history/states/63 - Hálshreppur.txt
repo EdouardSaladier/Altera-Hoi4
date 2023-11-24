@@ -1,0 +1,15 @@
+state={
+	id=63
+	name="STATE_63" # Hálshreppur
+	manpower = 101747
+	state_category = rural
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = { 2801 5 }
+	}
+	provinces={
+		2706 2801 2802 2879 2930 2995 3008
+	}
+	local_supplies=0.0
+}

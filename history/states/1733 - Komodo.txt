@@ -1,0 +1,15 @@
+state={
+	id=1733
+	name="STATE_1733" # Komodo
+	manpower = 4556
+	state_category = town
+	history={
+		owner = KOO
+		add_core_of = KOO
+		victory_points = { 14979 1 }
+	}
+	provinces={
+		14979
+	}
+	local_supplies=0.0
+}

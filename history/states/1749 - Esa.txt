@@ -1,0 +1,14 @@
+state={
+	id=1749
+	name="STATE_1749" # Esa
+	manpower = 2020
+	state_category = rural
+	history={
+		owner = ESA
+		add_core_of = ESA
+	}
+	provinces={
+		15045
+	}
+	local_supplies=0.0
+}

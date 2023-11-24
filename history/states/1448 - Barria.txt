@@ -1,0 +1,15 @@
+state={
+	id=1448
+	name="STATE_1448" # Barria
+	manpower = 2358070
+	state_category = town
+	history={
+		owner = BAI
+		add_core_of = BAI
+		victory_points = { 14042 10 }
+	}
+	provinces={
+		13723 13742 13760 13777 13785 13804 13873 13881 13905 13935 13985 13986 14042 14057
+	}
+	local_supplies=0.0
+}

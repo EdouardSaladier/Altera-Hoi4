@@ -1,0 +1,17 @@
+state={
+	id=739
+	name="STATE_739" # Kasmiristan
+	manpower = 6888139
+	state_category = large_city
+	history={
+		owner = KAS
+		add_core_of = KAS
+		victory_points = { 9440 1 }
+		victory_points = { 9491 80 }
+		victory_points = { 9518 5 }
+	}
+	provinces={
+		9440 9491 9518
+	}
+	local_supplies=0.0
+}

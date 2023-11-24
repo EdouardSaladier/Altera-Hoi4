@@ -1,0 +1,14 @@
+state={
+	id=1997
+	name="STATE_1997" # Brigantia
+	manpower = 1820
+	state_category = rural
+	history={
+		owner = BRI
+		add_core_of = BRI
+	}
+	provinces={
+		16930 17071 17081 17120 17121 17163 17172 17204
+	}
+	local_supplies=0.0
+}

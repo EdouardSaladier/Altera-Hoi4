@@ -1,0 +1,19 @@
+state={
+	id=1045
+	name="STATE_1045" # Magway
+	manpower = 4009381
+	state_category = city
+	history={
+		owner = BUM
+		add_core_of = BUM
+		victory_points = { 11495 20 }
+		victory_points = { 11575 20 }
+		victory_points = { 11653 10 }
+		victory_points = { 11665 20 }
+		victory_points = { 11781 20 }
+	}
+	provinces={
+		11495 11575 11653 11665 11781
+	}
+	local_supplies=0.0
+}

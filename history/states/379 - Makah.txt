@@ -1,0 +1,14 @@
+state={
+	id=379
+	name="STATE_379" # Makah
+	manpower = 78114
+	state_category = town
+	history={
+		owner = MKA
+		add_core_of = MKA
+	}
+	provinces={
+		6828
+	}
+	local_supplies=0.0
+}

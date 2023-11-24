@@ -1,0 +1,14 @@
+state={
+	id=1013
+	name="STATE_1013" # Kharichet
+	manpower = 280
+	state_category = pastoral
+	history={
+		owner = KHR
+		add_core_of = KHR
+	}
+	provinces={
+		11285
+	}
+	local_supplies=0.0
+}

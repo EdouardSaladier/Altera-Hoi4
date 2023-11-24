@@ -1,0 +1,14 @@
+state={
+	id=1328
+	name="STATE_1328" # Kamorta
+	manpower = 369150
+	state_category = city
+	history={
+		owner = KAO
+		add_core_of = KAO
+	}
+	provinces={
+		13020 13028 13113 13130 13184
+	}
+	local_supplies=0.0
+}

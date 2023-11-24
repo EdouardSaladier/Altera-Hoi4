@@ -1,0 +1,16 @@
+state={
+	id=1234
+	name="STATE_1234" # Kâmpóng Thum
+	manpower = 4542911
+	state_category = city
+	history={
+		owner = KHU
+		add_core_of = KHU
+		victory_points = { 12534 1 }
+		victory_points = { 12659 5 }
+	}
+	provinces={
+		12534 12659
+	}
+	local_supplies=0.0
+}

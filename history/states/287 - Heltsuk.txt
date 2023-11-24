@@ -1,0 +1,14 @@
+state={
+	id=287
+	name="STATE_287" # Heltsuk
+	manpower = 2880
+	state_category = pastoral
+	history={
+		owner = HET
+		add_core_of = HET
+	}
+	provinces={
+		5999 6047
+	}
+	local_supplies=0.0
+}

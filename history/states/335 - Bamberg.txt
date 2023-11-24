@@ -1,0 +1,16 @@
+state={
+	id=335
+	name="STATE_335" # Bamberg
+	manpower = 6592759
+	state_category = large_city
+	history={
+		owner = ALM
+		add_core_of = ALM
+		victory_points = { 6409 20 }
+		victory_points = { 6550 80 }
+	}
+	provinces={
+		6409 6550
+	}
+	local_supplies=0.0
+}

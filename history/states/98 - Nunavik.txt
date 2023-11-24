@@ -1,0 +1,15 @@
+state={
+	id=98
+	name="STATE_98" # Nunavik
+	manpower = 76370
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+		victory_points = { 3674 1 }
+	}
+	provinces={
+		3410 3464 3653 3674 3701 3710 3723 3759 3813 3883 3896 3971 4001 4023 4024 4048 4058 4068 4107 4133 4141 4155 4162 4263 4289 4317 4466
+	}
+	local_supplies=0.0
+}

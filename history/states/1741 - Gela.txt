@@ -1,0 +1,15 @@
+state={
+	id=1741
+	name="STATE_1741" # Gela
+	manpower = 18525
+	state_category = town
+	history={
+		owner = GEA
+		add_core_of = GEA
+		victory_points = { 15008 1 }
+	}
+	provinces={
+		15008
+	}
+	local_supplies=0.0
+}

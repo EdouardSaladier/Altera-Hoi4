@@ -1,0 +1,14 @@
+state={
+	id=2000
+	name="STATE_2000" # Queranda
+	manpower = 330
+	state_category = rural
+	history={
+		owner = QUN
+		add_core_of = QUN
+	}
+	provinces={
+		17007 17046 17047
+	}
+	local_supplies=0.0
+}

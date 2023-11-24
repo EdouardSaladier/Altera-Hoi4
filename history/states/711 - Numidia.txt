@@ -1,0 +1,23 @@
+state={
+	id=711
+	name="STATE_711" # Numidia
+	manpower = 3691313
+	state_category = large_town
+	history={
+		owner = NUM
+		add_core_of = NUM
+		victory_points = { 9286 10 }
+		victory_points = { 9287 20 }
+		victory_points = { 9342 40 }
+		victory_points = { 9411 20 }
+		victory_points = { 9422 10 }
+		victory_points = { 9423 5 }
+		victory_points = { 9522 10 }
+		victory_points = { 9530 5 }
+		victory_points = { 9547 20 }
+	}
+	provinces={
+		9286 9287 9342 9411 9422 9423 9522 9530 9547 9583
+	}
+	local_supplies=0.0
+}

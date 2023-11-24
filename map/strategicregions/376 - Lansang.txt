@@ -1,0 +1,9 @@
+strategic_region={
+	id=376
+	name="STRATEGICREGION_376" # Lansang
+	provinces={
+		11857 11983 11991 12005 12031 12061 12078 12128 12203 12204
+	}
+	weather={
+	}
+}

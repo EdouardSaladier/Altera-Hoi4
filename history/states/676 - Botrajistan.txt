@@ -1,0 +1,16 @@
+state={
+	id=676
+	name="STATE_676" # Botrajistan
+	manpower = 487530
+	state_category = town
+	history={
+		owner = BOA
+		add_core_of = BOA
+		victory_points = { 9221 1 }
+		victory_points = { 9338 2 }
+	}
+	provinces={
+		9072 9221 9338
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=413
+	name="STRATEGICREGION_413" # Socotria
+	provinces={
+		12591
+	}
+	weather={
+	}
+}

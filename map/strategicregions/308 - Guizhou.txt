@@ -1,0 +1,9 @@
+strategic_region={
+	id=308
+	name="STRATEGICREGION_308" # Guizhou
+	provinces={
+		10234 10263 10491 10530 10608 10730 10855 10912 10937 10947 10967 11087 11088 11089 11168 11316 11353
+	}
+	weather={
+	}
+}

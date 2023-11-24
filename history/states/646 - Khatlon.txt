@@ -1,0 +1,22 @@
+state={
+	id=646
+	name="STATE_646" # Khatlon
+	manpower = 3072731
+	state_category = large_town
+	history={
+		owner = BAC
+		add_core_of = BAC
+		victory_points = { 8858 20 }
+		victory_points = { 8899 5 }
+		victory_points = { 8957 10 }
+		victory_points = { 9000 5 }
+		victory_points = { 9017 5 }
+		victory_points = { 9061 10 }
+		victory_points = { 9118 20 }
+		victory_points = { 9220 5 }
+	}
+	provinces={
+		8858 8899 8957 9000 9017 9061 9118 9220
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,34 @@
+state={
+	id=995
+	name="STATE_995" # Gujarat
+	manpower = 48586243
+	state_category = metropolis
+	history={
+		owner = GUJ
+		add_core_of = GUJ
+		victory_points = { 11130 10 }
+		victory_points = { 11142 5 }
+		victory_points = { 11150 20 }
+		victory_points = { 11166 5 }
+		victory_points = { 11209 10 }
+		victory_points = { 11210 20 }
+		victory_points = { 11238 80 }
+		victory_points = { 11263 20 }
+		victory_points = { 11302 40 }
+		victory_points = { 11315 20 }
+		victory_points = { 11375 20 }
+		victory_points = { 11386 20 }
+		victory_points = { 11387 20 }
+		victory_points = { 11396 80 }
+		victory_points = { 11436 20 }
+		victory_points = { 11448 20 }
+		victory_points = { 11449 20 }
+		victory_points = { 11504 20 }
+		victory_points = { 11550 10 }
+		victory_points = { 11554 20 }
+	}
+	provinces={
+		11130 11142 11150 11166 11209 11210 11238 11263 11302 11315 11375 11386 11387 11396 11436 11448 11449 11504 11550 11554
+	}
+	local_supplies=0.0
+}

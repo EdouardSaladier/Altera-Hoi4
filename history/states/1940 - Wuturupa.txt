@@ -1,0 +1,15 @@
+state={
+	id=1940
+	name="STATE_1940" # Wuturupa
+	manpower = 281689
+	state_category = town
+	history={
+		owner = WUU
+		add_core_of = WUU
+		victory_points = { 16375 2 }
+	}
+	provinces={
+		16250 16277 16286 16310 16375
+	}
+	local_supplies=0.0
+}

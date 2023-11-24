@@ -1,0 +1,9 @@
+strategic_region={
+	id=404
+	name="STRATEGICREGION_404" # Tamil Nadu
+	provinces={
+		12437 12498 12518 12555 12604 12633 12634 12706 12718 12733 12741 12860 12861 12874 12897 12974 12975 13019
+	}
+	weather={
+	}
+}

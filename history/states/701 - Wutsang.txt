@@ -1,0 +1,26 @@
+state={
+	id=701
+	name="STATE_701" # Wutsang
+	manpower = 2827317
+	state_category = rural
+	history={
+		owner = WUT
+		add_core_of = WUT
+		victory_points = { 9751 1 }
+		victory_points = { 9775 5 }
+		victory_points = { 9828 1 }
+		victory_points = { 9902 1 }
+		victory_points = { 9929 1 }
+		victory_points = { 9930 1 }
+		victory_points = { 10176 20 }
+		victory_points = { 10177 1 }
+		victory_points = { 10212 1 }
+		victory_points = { 10299 1 }
+		victory_points = { 10373 20 }
+		victory_points = { 10452 5 }
+	}
+	provinces={
+		9254 9322 9402 9416 9533 9541 9552 9599 9629 9641 9719 9751 9774 9775 9785 9828 9873 9890 9902 9929 9930 9969 10016 10033 10043 10111 10124 10154 10176 10177 10186 10187 10196 10203 10212 10299 10373 10392 10452
+	}
+	local_supplies=0.0
+}

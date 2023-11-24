@@ -1,0 +1,14 @@
+state={
+	id=1901
+	name="STATE_1901" # Maskardive
+	manpower = 400
+	state_category = rural
+	history={
+		owner = MSK
+		add_core_of = MSK
+	}
+	provinces={
+		15968 16044 16078 16144
+	}
+	local_supplies=0.0
+}

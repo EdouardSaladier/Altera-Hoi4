@@ -1,0 +1,16 @@
+state={
+	id=1352
+	name="STATE_1352" # Injoya
+	manpower = 606174
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 13125 5 }
+		victory_points = { 13285 10 }
+	}
+	provinces={
+		13125 13285
+	}
+	local_supplies=0.0
+}

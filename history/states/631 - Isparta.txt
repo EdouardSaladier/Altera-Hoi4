@@ -1,0 +1,20 @@
+state={
+	id=631
+	name="STATE_631" # Isparta
+	manpower = 4763424
+	state_category = city
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = { 8735 20 }
+		victory_points = { 8797 5 }
+		victory_points = { 8896 10 }
+		victory_points = { 8955 20 }
+		victory_points = { 9046 5 }
+		victory_points = { 9082 10 }
+	}
+	provinces={
+		8735 8797 8896 8955 9046 9082
+	}
+	local_supplies=0.0
+}

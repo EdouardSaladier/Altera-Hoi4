@@ -1,0 +1,16 @@
+state={
+	id=883
+	name="STATE_883" # Nashtee
+	manpower = 949983
+	state_category = city
+	history={
+		owner = NAS
+		add_core_of = NAS
+		victory_points = { 10414 10 }
+		victory_points = { 10475 10 }
+	}
+	provinces={
+		10414 10475
+	}
+	local_supplies=0.0
+}

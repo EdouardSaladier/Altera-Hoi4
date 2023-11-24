@@ -1,0 +1,15 @@
+state={
+	id=336
+	name="STATE_336" # Sechelt
+	manpower = 3470
+	state_category = pastoral
+	history={
+		owner = SEC
+		add_core_of = SEC
+		victory_points = { 6413 5 }
+	}
+	provinces={
+		6413
+	}
+	local_supplies=0.0
+}

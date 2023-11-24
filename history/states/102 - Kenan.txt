@@ -1,0 +1,16 @@
+state={
+	id=102
+	name="STATE_102" # Kenan
+	manpower = 88806
+	state_category = rural
+	history={
+		owner = KEN
+		add_core_of = KEN
+		victory_points = { 3598 2 }
+		victory_points = { 3757 5 }
+	}
+	provinces={
+		3598 3757 3826 3987 4274
+	}
+	local_supplies=0.0
+}

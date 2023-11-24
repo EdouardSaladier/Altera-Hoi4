@@ -1,0 +1,19 @@
+state={
+	id=1175
+	name="STATE_1175" # Gouré
+	manpower = 7637505
+	state_category = large_town
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12347 5 }
+		victory_points = { 12353 5 }
+		victory_points = { 12406 5 }
+		victory_points = { 12452 5 }
+		victory_points = { 12490 5 }
+	}
+	provinces={
+		12193 12233 12262 12275 12288 12299 12322 12347 12353 12406 12452 12490
+	}
+	local_supplies=0.0
+}

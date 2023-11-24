@@ -1,0 +1,18 @@
+state={
+	id=444
+	name="STATE_444" # Hasinai Range
+	manpower = 13590
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 7339 2 }
+		victory_points = { 7501 1 }
+		victory_points = { 7526 1 }
+		victory_points = { 7689 5 }
+	}
+	provinces={
+		7339 7382 7501 7526 7621 7622 7689
+	}
+	local_supplies=0.0
+}

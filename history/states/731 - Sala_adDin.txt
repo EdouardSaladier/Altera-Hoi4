@@ -1,0 +1,18 @@
+state={
+	id=731
+	name="STATE_731" # Sala ad-Din
+	manpower = 2469171
+	state_category = city
+	history={
+		owner = ACA
+		add_core_of = ACA
+		victory_points = { 9385 1 }
+		victory_points = { 9487 10 }
+		victory_points = { 9500 20 }
+		victory_points = { 9626 10 }
+	}
+	provinces={
+		9385 9486 9487 9500 9626
+	}
+	local_supplies=0.0
+}

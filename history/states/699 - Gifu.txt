@@ -1,0 +1,19 @@
+state={
+	id=699
+	name="STATE_699" # Gifu
+	manpower = 12138741
+	state_category = metropolis
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9238 40 }
+		victory_points = { 9328 40 }
+		victory_points = { 9372 80 }
+		victory_points = { 9403 80 }
+		victory_points = { 9433 40 }
+	}
+	provinces={
+		9238 9328 9372 9403 9433
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1724
+	name="STATE_1724" # Motu
+	manpower = 6050
+	state_category = rural
+	history={
+		owner = MOT
+		add_core_of = MOT
+		victory_points = { 14944 40 }
+		victory_points = { 15092 1 }
+	}
+	provinces={
+		14944 15092
+	}
+	local_supplies=0.0
+}

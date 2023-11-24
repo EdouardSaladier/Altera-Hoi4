@@ -1,0 +1,15 @@
+state={
+	id=1731
+	name="STATE_1731" # Timor
+	manpower = 511290
+	state_category = large_town
+	history={
+		owner = TIM
+		add_core_of = TIM
+		victory_points = { 14972 5 }
+	}
+	provinces={
+		14972
+	}
+	local_supplies=0.0
+}

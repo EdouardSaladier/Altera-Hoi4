@@ -1,0 +1,15 @@
+state={
+	id=1704
+	name="STATE_1704" # Oro
+	manpower = 2570
+	state_category = rural
+	history={
+		owner = ORR
+		add_core_of = ORR
+		victory_points = { 14885 5 }
+	}
+	provinces={
+		14885
+	}
+	local_supplies=0.0
+}

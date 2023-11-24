@@ -1,0 +1,14 @@
+state={
+	id=197
+	name="STATE_197" # Tongas
+	manpower = 11450
+	state_category = pastoral
+	history={
+		owner = TON
+		add_core_of = TON
+	}
+	provinces={
+		4981 4982 5044 5083 5114 5222 5223 5237 5282
+	}
+	local_supplies=0.0
+}

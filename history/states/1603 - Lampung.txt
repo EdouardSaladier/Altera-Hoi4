@@ -1,0 +1,19 @@
+state={
+	id=1603
+	name="STATE_1603" # Lampung
+	manpower = 9083320
+	state_category = large_city
+	history={
+		owner = LAU
+		add_core_of = LAU
+		victory_points = { 14459 20 }
+		victory_points = { 14460 1 }
+		victory_points = { 14539 1 }
+		victory_points = { 14549 80 }
+		victory_points = { 14578 20 }
+	}
+	provinces={
+		14459 14460 14539 14549 14578
+	}
+	local_supplies=0.0
+}

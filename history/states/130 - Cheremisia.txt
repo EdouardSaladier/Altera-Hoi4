@@ -1,0 +1,28 @@
+state={
+	id=130
+	name="STATE_130" # Cheremisia
+	manpower = 2884874
+	state_category = town
+	history={
+		owner = CHR
+		add_core_of = CHR
+		victory_points = { 4172 1 }
+		victory_points = { 4173 5 }
+		victory_points = { 4243 2 }
+		victory_points = { 4293 5 }
+		victory_points = { 4402 80 }
+		victory_points = { 4409 5 }
+		victory_points = { 4437 5 }
+		victory_points = { 4470 2 }
+		victory_points = { 4555 5 }
+		victory_points = { 4597 2 }
+		victory_points = { 4598 5 }
+		victory_points = { 4642 2 }
+		victory_points = { 4651 5 }
+		victory_points = { 4683 5 }
+	}
+	provinces={
+		4157 4172 4173 4243 4293 4345 4402 4409 4437 4470 4555 4597 4598 4642 4651 4683
+	}
+	local_supplies=0.0
+}

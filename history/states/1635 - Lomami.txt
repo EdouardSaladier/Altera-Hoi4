@@ -1,0 +1,17 @@
+state={
+	id=1635
+	name="STATE_1635" # Lomami
+	manpower = 3286935
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 14589 10 }
+		victory_points = { 14635 80 }
+		victory_points = { 14665 10 }
+	}
+	provinces={
+		14589 14635 14636 14648 14665 14741
+	}
+	local_supplies=0.0
+}

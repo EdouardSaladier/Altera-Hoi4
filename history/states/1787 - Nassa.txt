@@ -1,0 +1,14 @@
+state={
+	id=1787
+	name="STATE_1787" # Nassa
+	manpower = 1485769
+	state_category = town
+	history={
+		owner = ROV
+		add_core_of = ROV
+	}
+	provinces={
+		15261 15315 15322 15340 15492 15545
+	}
+	local_supplies=0.0
+}

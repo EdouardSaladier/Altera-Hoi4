@@ -1,0 +1,18 @@
+state={
+	id=1358
+	name="STATE_1358" # Damutia
+	manpower = 5228808
+	state_category = city
+	history={
+		owner = DAU
+		add_core_of = DAU
+		victory_points = { 13183 20 }
+		victory_points = { 13208 20 }
+		victory_points = { 13214 5 }
+		victory_points = { 13344 10 }
+	}
+	provinces={
+		13183 13208 13214 13335 13344
+	}
+	local_supplies=0.0
+}

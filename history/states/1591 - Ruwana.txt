@@ -1,0 +1,14 @@
+state={
+	id=1591
+	name="STATE_1591" # Ruwana
+	manpower = 5160
+	state_category = rural
+	history={
+		owner = RUW
+		add_core_of = RUW
+	}
+	provinces={
+		14405 14433
+	}
+	local_supplies=0.0
+}

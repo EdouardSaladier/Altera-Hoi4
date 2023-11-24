@@ -1,0 +1,15 @@
+state={
+	id=306
+	name="STATE_306" # Kwakiut
+	manpower = 5030
+	state_category = pastoral
+	history={
+		owner = KWA
+		add_core_of = KWA
+		victory_points = { 6343 2 }
+	}
+	provinces={
+		6189 6204 6343
+	}
+	local_supplies=0.0
+}

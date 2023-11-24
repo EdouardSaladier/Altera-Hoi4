@@ -1,0 +1,29 @@
+state={
+	id=550
+	name="STATE_550" # Sita
+	manpower = 6317697
+	state_category = town
+	history={
+		owner = SIT
+		add_core_of = SIT
+		victory_points = { 8088 10 }
+		victory_points = { 8089 20 }
+		victory_points = { 8099 1 }
+		victory_points = { 8135 1 }
+		victory_points = { 8136 1 }
+		victory_points = { 8272 1 }
+		victory_points = { 8321 40 }
+		victory_points = { 8437 1 }
+		victory_points = { 8459 1 }
+		victory_points = { 8685 20 }
+		victory_points = { 8912 20 }
+		victory_points = { 8915 1 }
+		victory_points = { 8969 1 }
+		victory_points = { 9001 1 }
+		victory_points = { 9073 5 }
+	}
+	provinces={
+		8088 8089 8099 8135 8136 8229 8243 8260 8261 8272 8308 8321 8332 8436 8437 8438 8459 8470 8482 8496 8497 8505 8506 8523 8614 8634 8649 8663 8664 8665 8685 8698 8738 8751 8752 8843 8871 8912 8913 8914 8915 8968 8969 8970 9001 9073 9104 9134
+	}
+	local_supplies=0.0
+}

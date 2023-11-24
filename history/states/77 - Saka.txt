@@ -1,0 +1,27 @@
+state={
+	id=77
+	name="STATE_77" # Saka
+	manpower = 835600
+	state_category = rural
+	history={
+		owner = SAK
+		add_core_of = SAK
+		victory_points = { 3208 2 }
+		victory_points = { 3337 5 }
+		victory_points = { 3417 5 }
+		victory_points = { 3482 2 }
+		victory_points = { 3535 5 }
+		victory_points = { 3597 5 }
+		victory_points = { 3627 5 }
+		victory_points = { 3695 40 }
+		victory_points = { 3729 5 }
+		victory_points = { 3858 5 }
+		victory_points = { 3926 5 }
+		victory_points = { 4073 1 }
+		victory_points = { 4355 5 }
+	}
+	provinces={
+		2974 3116 3175 3208 3294 3295 3307 3308 3337 3354 3364 3401 3417 3433 3434 3473 3481 3482 3535 3536 3570 3584 3597 3620 3627 3642 3657 3695 3729 3730 3742 3743 3789 3796 3797 3841 3850 3858 3926 3931 3943 3952 3966 3975 3993 4055 4073 4082 4093 4094 4095 4096 4104 4111 4118 4147 4148 4166 4187 4204 4215 4244 4271 4286 4325 4340 4355 4356 4390 4391 4412 4441 4516 4540 4545 4685 4725 4814 4937
+	}
+	local_supplies=0.0
+}

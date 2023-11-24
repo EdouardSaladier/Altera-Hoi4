@@ -1,0 +1,17 @@
+state={
+	id=131
+	name="STATE_131" # Verkhnekamskiy rayon
+	manpower = 457809
+	state_category = town
+	history={
+		owner = BIA
+		add_core_of = BIA
+		victory_points = { 4158 5 }
+		victory_points = { 4174 5 }
+		victory_points = { 4282 5 }
+	}
+	provinces={
+		4158 4174 4175 4282
+	}
+	local_supplies=0.0
+}

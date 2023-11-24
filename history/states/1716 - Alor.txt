@@ -1,0 +1,15 @@
+state={
+	id=1716
+	name="STATE_1716" # Alor
+	manpower = 165464
+	state_category = large_town
+	history={
+		owner = ALR
+		add_core_of = ALR
+		victory_points = { 14928 1 }
+	}
+	provinces={
+		14928
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=54
+	name="STATE_54" # Verkhnekolymskiy rayon
+	manpower = 44060
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		2447 2568 2647 2655 2671 2687 2699 2807 2882 2932 2943 3014
+	}
+	local_supplies=0.0
+}

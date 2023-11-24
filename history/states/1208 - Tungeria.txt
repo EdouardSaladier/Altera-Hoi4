@@ -1,0 +1,24 @@
+state={
+	id=1208
+	name="STATE_1208" # Tungeria
+	manpower = 7823218
+	state_category = large_town
+	history={
+		owner = TUN
+		add_core_of = TUN
+		victory_points = { 12435 5 }
+		victory_points = { 12485 5 }
+		victory_points = { 12509 40 }
+		victory_points = { 12560 5 }
+		victory_points = { 12576 20 }
+		victory_points = { 12582 10 }
+		victory_points = { 12684 5 }
+		victory_points = { 12726 20 }
+		victory_points = { 12739 5 }
+		victory_points = { 12773 5 }
+	}
+	provinces={
+		12379 12429 12435 12485 12492 12497 12509 12530 12545 12552 12559 12560 12576 12581 12582 12643 12644 12674 12675 12684 12697 12716 12726 12739 12773 12774 12836
+	}
+	local_supplies=0.0
+}

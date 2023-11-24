@@ -1,0 +1,20 @@
+state={
+	id=702
+	name="STATE_702" # Hiroshima
+	manpower = 15099488
+	state_category = metropolis
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9291 2 }
+		victory_points = { 9370 20 }
+		victory_points = { 9378 20 }
+		victory_points = { 9419 80 }
+		victory_points = { 9455 80 }
+		victory_points = { 9535 10 }
+	}
+	provinces={
+		9255 9291 9370 9378 9419 9455 9535
+	}
+	local_supplies=0.0
+}

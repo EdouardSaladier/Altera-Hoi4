@@ -1,0 +1,20 @@
+state={
+	id=1207
+	name="STATE_1207" # Saigon
+	manpower = 23156464
+	state_category = metropolis
+	history={
+		owner = SAG
+		add_core_of = SAG
+		victory_points = { 12375 20 }
+		victory_points = { 12535 20 }
+		victory_points = { 12563 20 }
+		victory_points = { 12636 10 }
+		victory_points = { 12676 40 }
+		victory_points = { 12719 80 }
+	}
+	provinces={
+		12375 12535 12563 12636 12676 12719
+	}
+	local_supplies=0.0
+}

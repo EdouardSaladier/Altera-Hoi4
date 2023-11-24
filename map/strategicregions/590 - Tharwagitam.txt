@@ -1,0 +1,9 @@
+strategic_region={
+	id=590
+	name="STRATEGICREGION_590" # Tharwagitam
+	provinces={
+		16463 16473 16526 16545 16582 16591 16592 16632 16661 16682 16696 16726 16740 16749 16854
+	}
+	weather={
+	}
+}

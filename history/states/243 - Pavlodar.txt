@@ -1,0 +1,18 @@
+state={
+	id=243
+	name="STATE_243" # Pavlodar
+	manpower = 1063227
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 5514 5 }
+		victory_points = { 5847 40 }
+		victory_points = { 6058 2 }
+		victory_points = { 6082 5 }
+	}
+	provinces={
+		5444 5514 5605 5641 5672 5723 5787 5847 5883 5997 6058 6066 6081 6082
+	}
+	local_supplies=0.0
+}

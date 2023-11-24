@@ -1,0 +1,14 @@
+state={
+	id=1652
+	name="STATE_1652" # Barima
+	manpower = 112111
+	state_category = large_town
+	history={
+		owner = BRM
+		add_core_of = BRM
+	}
+	provinces={
+		14655
+	}
+	local_supplies=0.0
+}

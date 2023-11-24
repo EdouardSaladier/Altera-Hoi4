@@ -1,0 +1,16 @@
+state={
+	id=200
+	name="STATE_200" # Kauno
+	manpower = 1322925
+	state_category = town
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = { 5016 40 }
+		victory_points = { 5035 5 }
+	}
+	provinces={
+		5016 5035
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1050
+	name="STATE_1050" # Tessalit
+	manpower = 7550
+	state_category = pastoral
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 11526 1 }
+	}
+	provinces={
+		11526
+	}
+	local_supplies=0.0
+}

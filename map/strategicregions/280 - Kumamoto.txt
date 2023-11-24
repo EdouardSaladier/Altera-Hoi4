@@ -1,0 +1,9 @@
+strategic_region={
+	id=280
+	name="STRATEGICREGION_280" # Kumamoto
+	provinces={
+		9581 9657 9671 9734 9778 9847 9981 10060 10237
+	}
+	weather={
+	}
+}

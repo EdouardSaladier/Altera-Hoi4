@@ -1,0 +1,15 @@
+state={
+	id=855
+	name="STATE_855" # Mukyu
+	manpower = 1530
+	state_category = pastoral
+	history={
+		owner = MUY
+		add_core_of = MUY
+		victory_points = { 10237 5 }
+	}
+	provinces={
+		10237
+	}
+	local_supplies=0.0
+}

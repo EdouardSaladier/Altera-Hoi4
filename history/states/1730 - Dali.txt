@@ -1,0 +1,14 @@
+state={
+	id=1730
+	name="STATE_1730" # Dali
+	manpower = 180
+	state_category = rural
+	history={
+		owner = DAI
+		add_core_of = DAI
+	}
+	provinces={
+		14967
+	}
+	local_supplies=0.0
+}

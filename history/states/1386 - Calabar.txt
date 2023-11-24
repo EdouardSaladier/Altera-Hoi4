@@ -1,0 +1,16 @@
+state={
+	id=1386
+	name="STATE_1386" # Calabar
+	manpower = 1008814
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 13370 20 }
+		victory_points = { 13439 5 }
+	}
+	provinces={
+		13370 13439
+	}
+	local_supplies=0.0
+}

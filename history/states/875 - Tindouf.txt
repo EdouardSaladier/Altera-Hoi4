@@ -1,0 +1,14 @@
+state={
+	id=875
+	name="STATE_875" # Tindouf
+	manpower = 32160
+	state_category = pastoral
+	history={
+		owner = TAR
+		add_core_of = TAR
+	}
+	provinces={
+		10384 10397 10444 10456 10582 10600 10648 10661 10662 10865
+	}
+	local_supplies=0.0
+}

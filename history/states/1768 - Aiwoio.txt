@@ -1,0 +1,14 @@
+state={
+	id=1768
+	name="STATE_1768" # Aiwoio
+	manpower = 80
+	state_category = rural
+	history={
+		owner = AIW
+		add_core_of = AIW
+	}
+	provinces={
+		15137
+	}
+	local_supplies=0.0
+}

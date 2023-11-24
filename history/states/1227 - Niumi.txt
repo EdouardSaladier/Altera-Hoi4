@@ -1,0 +1,15 @@
+state={
+	id=1227
+	name="STATE_1227" # Niumi
+	manpower = 66955
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12469 20 }
+	}
+	provinces={
+		12469
+	}
+	local_supplies=0.0
+}

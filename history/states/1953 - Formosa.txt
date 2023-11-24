@@ -1,0 +1,17 @@
+state={
+	id=1953
+	name="STATE_1953" # Formosa
+	manpower = 682164
+	state_category = town
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16347 5 }
+		victory_points = { 16481 5 }
+		victory_points = { 16555 80 }
+	}
+	provinces={
+		16347 16481 16555
+	}
+	local_supplies=0.0
+}

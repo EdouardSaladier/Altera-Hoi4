@@ -1,0 +1,17 @@
+state={
+	id=899
+	name="STATE_899" # Hormozgan
+	manpower = 864439
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		victory_points = { 10586 1 }
+		victory_points = { 10631 40 }
+		victory_points = { 10735 1 }
+	}
+	provinces={
+		10518 10586 10631 10703 10735 10771 10822
+	}
+	local_supplies=0.0
+}

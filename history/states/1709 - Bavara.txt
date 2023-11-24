@@ -1,0 +1,14 @@
+state={
+	id=1709
+	name="STATE_1709" # Bavara
+	manpower = 17575
+	state_category = town
+	history={
+		owner = BAV
+		add_core_of = BAV
+	}
+	provinces={
+		14915
+	}
+	local_supplies=0.0
+}

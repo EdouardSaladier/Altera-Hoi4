@@ -1,0 +1,24 @@
+state={
+	id=620
+	name="STATE_620" # Cordia
+	manpower = 4566887
+	state_category = large_town
+	history={
+		owner = COR
+		add_core_of = COR
+		victory_points = { 8660 20 }
+		victory_points = { 8706 20 }
+		victory_points = { 8736 10 }
+		victory_points = { 8800 20 }
+		victory_points = { 8826 10 }
+		victory_points = { 8898 10 }
+		victory_points = { 8909 80 }
+		victory_points = { 8945 5 }
+		victory_points = { 8956 80 }
+		victory_points = { 8987 10 }
+	}
+	provinces={
+		8660 8706 8736 8800 8826 8886 8898 8909 8945 8956 8987 9014
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=62
+	name="STATE_62" # Vestfirðir
+	manpower = 21959
+	state_category = rural
+	history={
+		owner = RHI
+		add_core_of = RHI
+	}
+	provinces={
+		2705 2831
+	}
+	local_supplies=0.0
+}

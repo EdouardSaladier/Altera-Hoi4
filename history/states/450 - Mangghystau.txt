@@ -1,0 +1,18 @@
+state={
+	id=450
+	name="STATE_450" # Mangghystau
+	manpower = 796349
+	state_category = town
+	history={
+		owner = GAS
+		add_core_of = GAS
+		victory_points = { 7390 1 }
+		victory_points = { 7667 20 }
+		victory_points = { 7749 20 }
+		victory_points = { 7818 5 }
+	}
+	provinces={
+		7390 7552 7667 7668 7749 7818 7979 8147
+	}
+	local_supplies=0.0
+}

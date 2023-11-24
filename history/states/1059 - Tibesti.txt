@@ -1,0 +1,14 @@
+state={
+	id=1059
+	name="STATE_1059" # Tibesti
+	manpower = 2891418
+	state_category = large_town
+	history={
+		owner = GAR
+		add_core_of = GAR
+	}
+	provinces={
+		11581 11629 11661 11693 11744 11821 11830 11989 11998 12010 12095 12103 12175
+	}
+	local_supplies=0.0
+}

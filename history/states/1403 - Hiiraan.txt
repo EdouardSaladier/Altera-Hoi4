@@ -1,0 +1,16 @@
+state={
+	id=1403
+	name="STATE_1403" # Hiiraan
+	manpower = 1653294
+	state_category = large_town
+	history={
+		owner = AGU
+		add_core_of = AGU
+		victory_points = { 13518 10 }
+		victory_points = { 13614 5 }
+	}
+	provinces={
+		13470 13518 13549 13614
+	}
+	local_supplies=0.0
+}

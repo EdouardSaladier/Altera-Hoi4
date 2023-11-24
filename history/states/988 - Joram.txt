@@ -1,0 +1,15 @@
+state={
+	id=988
+	name="STATE_988" # Joram
+	manpower = 1091013
+	state_category = large_town
+	history={
+		owner = JOA
+		add_core_of = JOA
+		victory_points = { 11084 40 }
+	}
+	provinces={
+		11084
+	}
+	local_supplies=0.0
+}

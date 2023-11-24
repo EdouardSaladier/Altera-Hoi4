@@ -1,0 +1,14 @@
+state={
+	id=1145
+	name="STATE_1145" # Barbuda
+	manpower = 100
+	state_category = pastoral
+	history={
+		owner = BBU
+		add_core_of = BBU
+	}
+	provinces={
+		12018
+	}
+	local_supplies=0.0
+}

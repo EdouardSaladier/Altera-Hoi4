@@ -1,0 +1,20 @@
+state={
+	id=263
+	name="STATE_263" # Berlin
+	manpower = 5760350
+	state_category = city
+	history={
+		owner = SAX
+		add_core_of = SAX
+		victory_points = { 5668 10 }
+		victory_points = { 5729 20 }
+		victory_points = { 5878 10 }
+		victory_points = { 5879 5 }
+		victory_points = { 5950 10 }
+		victory_points = { 5992 5 }
+	}
+	provinces={
+		5668 5729 5878 5879 5950 5992
+	}
+	local_supplies=0.0
+}

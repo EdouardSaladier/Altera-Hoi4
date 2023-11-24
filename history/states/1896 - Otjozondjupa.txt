@@ -1,0 +1,16 @@
+state={
+	id=1896
+	name="STATE_1896" # Otjozondjupa
+	manpower = 142538
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+		victory_points = { 15934 2 }
+		victory_points = { 16062 5 }
+	}
+	provinces={
+		15934 16062
+	}
+	local_supplies=0.0
+}

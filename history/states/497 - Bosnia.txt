@@ -1,0 +1,19 @@
+state={
+	id=497
+	name="STATE_497" # Bosnia
+	manpower = 1967188
+	state_category = large_town
+	history={
+		owner = BOS
+		add_core_of = BOS
+		victory_points = { 7747 5 }
+		victory_points = { 7817 5 }
+		victory_points = { 7888 5 }
+		victory_points = { 7955 10 }
+		victory_points = { 7956 5 }
+	}
+	provinces={
+		7747 7817 7888 7955 7956
+	}
+	local_supplies=0.0
+}

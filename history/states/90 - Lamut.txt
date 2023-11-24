@@ -1,0 +1,17 @@
+state={
+	id=90
+	name="STATE_90" # Lamut
+	manpower = 180750
+	state_category = pastoral
+	history={
+		owner = LAM
+		add_core_of = LAM
+		victory_points = { 3785 1 }
+		victory_points = { 4009 1 }
+		victory_points = { 4188 5 }
+	}
+	provinces={
+		3280 3288 3374 3394 3435 3492 3571 3611 3658 3685 3686 3717 3763 3764 3785 3790 3791 3798 3824 3944 3953 3976 4008 4009 4019 4098 4188 4189 4287 4369 4393 4452
+	}
+	local_supplies=0.0
+}

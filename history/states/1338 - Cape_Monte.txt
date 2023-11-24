@@ -1,0 +1,17 @@
+state={
+	id=1338
+	name="STATE_1338" # Cape Monte
+	manpower = 3080213
+	state_category = city
+	history={
+		owner = CPE
+		add_core_of = CPE
+		victory_points = { 13063 20 }
+		victory_points = { 13134 5 }
+		victory_points = { 13135 20 }
+	}
+	provinces={
+		13063 13134 13135
+	}
+	local_supplies=0.0
+}

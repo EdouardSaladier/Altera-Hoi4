@@ -1,0 +1,15 @@
+state={
+	id=1657
+	name="STATE_1657" # Garu
+	manpower = 2210
+	state_category = rural
+	history={
+		owner = GRU
+		add_core_of = GRU
+		victory_points = { 14685 5 }
+	}
+	provinces={
+		14685
+	}
+	local_supplies=0.0
+}

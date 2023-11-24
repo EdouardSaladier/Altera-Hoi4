@@ -1,0 +1,16 @@
+state={
+	id=689
+	name="STATE_689" # Saitama
+	manpower = 10467928
+	state_category = metropolis
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9164 40 }
+		victory_points = { 9311 80 }
+	}
+	provinces={
+		9164 9311
+	}
+	local_supplies=0.0
+}

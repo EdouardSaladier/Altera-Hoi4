@@ -1,0 +1,15 @@
+state={
+	id=1599
+	name="STATE_1599" # Kamasa
+	manpower = 390
+	state_category = rural
+	history={
+		owner = KMS
+		add_core_of = KMS
+		victory_points = { 14441 1 }
+	}
+	provinces={
+		14441
+	}
+	local_supplies=0.0
+}

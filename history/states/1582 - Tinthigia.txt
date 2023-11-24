@@ -1,0 +1,29 @@
+state={
+	id=1582
+	name="STATE_1582" # Tinthigia
+	manpower = 9273112
+	state_category = large_town
+	history={
+		owner = TIN
+		add_core_of = TIN
+		victory_points = { 14373 20 }
+		victory_points = { 14401 20 }
+		victory_points = { 14402 5 }
+		victory_points = { 14411 5 }
+		victory_points = { 14412 5 }
+		victory_points = { 14429 10 }
+		victory_points = { 14430 5 }
+		victory_points = { 14503 20 }
+		victory_points = { 14504 10 }
+		victory_points = { 14546 20 }
+		victory_points = { 14566 5 }
+		victory_points = { 14576 5 }
+		victory_points = { 14637 5 }
+		victory_points = { 14654 10 }
+		victory_points = { 14720 5 }
+	}
+	provinces={
+		14373 14401 14402 14411 14412 14429 14430 14437 14454 14503 14504 14546 14547 14555 14566 14576 14637 14644 14654 14720
+	}
+	local_supplies=0.0
+}

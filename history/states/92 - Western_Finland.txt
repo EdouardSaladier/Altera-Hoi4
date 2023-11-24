@@ -1,0 +1,35 @@
+state={
+	id=92
+	name="STATE_92" # Western Finland
+	manpower = 2530896
+	state_category = town
+	history={
+		owner = FIN
+		add_core_of = FIN
+		victory_points = { 3302 5 }
+		victory_points = { 3413 2 }
+		victory_points = { 3454 20 }
+		victory_points = { 3478 5 }
+		victory_points = { 3498 2 }
+		victory_points = { 3530 5 }
+		victory_points = { 3560 5 }
+		victory_points = { 3561 2 }
+		victory_points = { 3602 2 }
+		victory_points = { 3636 5 }
+		victory_points = { 3667 2 }
+		victory_points = { 3677 5 }
+		victory_points = { 3712 2 }
+		victory_points = { 3751 5 }
+		victory_points = { 3752 5 }
+		victory_points = { 3807 5 }
+		victory_points = { 3815 20 }
+		victory_points = { 3831 10 }
+		victory_points = { 3872 40 }
+		victory_points = { 3898 5 }
+		victory_points = { 4026 5 }
+	}
+	provinces={
+		3302 3413 3454 3478 3498 3530 3560 3561 3562 3602 3636 3667 3677 3712 3751 3752 3807 3815 3831 3872 3898 3949 4026
+	}
+	local_supplies=0.0
+}

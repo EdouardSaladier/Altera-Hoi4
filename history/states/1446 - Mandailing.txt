@@ -1,0 +1,18 @@
+state={
+	id=1446
+	name="STATE_1446" # Mandailing
+	manpower = 3632790
+	state_category = city
+	history={
+		owner = MND
+		add_core_of = MND
+		victory_points = { 13703 10 }
+		victory_points = { 13713 20 }
+		victory_points = { 13720 1 }
+		victory_points = { 13743 1 }
+	}
+	provinces={
+		13703 13713 13720 13743
+	}
+	local_supplies=0.0
+}

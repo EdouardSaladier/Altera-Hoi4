@@ -1,0 +1,15 @@
+state={
+	id=810
+	name="STATE_810" # Palestine
+	manpower = 5290000
+	state_category = megalopolis
+	history={
+		owner = PAE
+		add_core_of = PAE
+		victory_points = { 9905 80 }
+	}
+	provinces={
+		9905
+	}
+	local_supplies=0.0
+}

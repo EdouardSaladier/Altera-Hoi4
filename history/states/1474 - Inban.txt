@@ -1,0 +1,15 @@
+state={
+	id=1474
+	name="STATE_1474" # Inban
+	manpower = 402738
+	state_category = city
+	history={
+		owner = INB
+		add_core_of = INB
+		victory_points = { 13864 80 }
+	}
+	provinces={
+		13864
+	}
+	local_supplies=0.0
+}

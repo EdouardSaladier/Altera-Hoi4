@@ -1,0 +1,24 @@
+state={
+	id=1261
+	name="STATE_1261" # Kadara
+	manpower = 4995077
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12703 5 }
+		victory_points = { 12723 5 }
+		victory_points = { 12730 5 }
+		victory_points = { 12750 5 }
+		victory_points = { 12787 80 }
+		victory_points = { 12834 40 }
+		victory_points = { 12835 20 }
+		victory_points = { 12854 80 }
+		victory_points = { 12870 1 }
+		victory_points = { 12955 80 }
+	}
+	provinces={
+		12703 12723 12730 12750 12787 12834 12835 12854 12870 12955
+	}
+	local_supplies=0.0
+}

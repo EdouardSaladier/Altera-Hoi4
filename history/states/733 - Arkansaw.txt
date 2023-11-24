@@ -1,0 +1,19 @@
+state={
+	id=733
+	name="STATE_733" # Arkansaw
+	manpower = 22300
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9395 5 }
+		victory_points = { 9420 5 }
+		victory_points = { 9437 10 }
+		victory_points = { 9481 5 }
+		victory_points = { 9610 10 }
+	}
+	provinces={
+		9395 9420 9437 9481 9610
+	}
+	local_supplies=0.0
+}

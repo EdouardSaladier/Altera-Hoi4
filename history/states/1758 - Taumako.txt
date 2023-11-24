@@ -1,0 +1,14 @@
+state={
+	id=1758
+	name="STATE_1758" # Taumako
+	manpower = 100
+	state_category = rural
+	history={
+		owner = TUK
+		add_core_of = TUK
+	}
+	provinces={
+		15086
+	}
+	local_supplies=0.0
+}

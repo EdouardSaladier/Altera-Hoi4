@@ -1,0 +1,21 @@
+state={
+	id=1685
+	name="STATE_1685" # Yeke
+	manpower = 7205976
+	state_category = large_town
+	history={
+		owner = YEK
+		add_core_of = YEK
+		victory_points = { 14937 2 }
+		victory_points = { 15017 5 }
+		victory_points = { 15031 2 }
+		victory_points = { 15074 80 }
+		victory_points = { 15110 80 }
+		victory_points = { 15111 2 }
+		victory_points = { 15133 80 }
+	}
+	provinces={
+		14814 14839 14866 14881 14937 14938 14984 14994 15017 15029 15030 15031 15074 15088 15110 15111 15133 15193 15222
+	}
+	local_supplies=0.0
+}

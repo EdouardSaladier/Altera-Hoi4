@@ -1,0 +1,15 @@
+state={
+	id=978
+	name="STATE_978" # Miamee
+	manpower = 970392
+	state_category = metropolis
+	history={
+		owner = MIM
+		add_core_of = MIM
+		victory_points = { 11016 2 }
+	}
+	provinces={
+		11016
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1783
+	name="STATE_1783" # Dipal
+	manpower = 736780
+	state_category = large_town
+	history={
+		owner = DIP
+		add_core_of = DIP
+		victory_points = { 15347 2 }
+		victory_points = { 15356 1 }
+	}
+	provinces={
+		15238 15347 15356
+	}
+	local_supplies=0.0
+}

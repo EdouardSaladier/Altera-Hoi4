@@ -1,0 +1,15 @@
+state={
+	id=513
+	name="STATE_513" # Gelgia
+	manpower = 609019
+	state_category = large_town
+	history={
+		owner = GEG
+		add_core_of = GEG
+		victory_points = { 7850 40 }
+	}
+	provinces={
+		7850
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1292
+	name="STATE_1292" # Lire
+	manpower = 1767635
+	state_category = metropolis
+	history={
+		owner = LIR
+		add_core_of = LIR
+		victory_points = { 12833 10 }
+	}
+	provinces={
+		12833
+	}
+	local_supplies=0.0
+}

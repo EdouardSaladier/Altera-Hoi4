@@ -1,0 +1,16 @@
+state={
+	id=1560
+	name="STATE_1560" # Uranan
+	manpower = 8600
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14279 1 }
+		victory_points = { 14347 1 }
+	}
+	provinces={
+		14279 14347
+	}
+	local_supplies=0.0
+}

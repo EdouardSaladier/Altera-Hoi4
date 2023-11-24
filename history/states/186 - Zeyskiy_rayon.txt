@@ -1,0 +1,15 @@
+state={
+	id=186
+	name="STATE_186" # Zeyskiy rayon
+	manpower = 78740
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 5165 10 }
+	}
+	provinces={
+		4875 4958 5073 5113 5130 5146 5165 5271 5279 5335 5350 5374 5432 5447 5448 5500 5501 5539 5648
+	}
+	local_supplies=0.0
+}

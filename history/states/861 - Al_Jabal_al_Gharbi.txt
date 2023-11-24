@@ -1,0 +1,14 @@
+state={
+	id=861
+	name="STATE_861" # Al Jabal al Gharbi
+	manpower = 287993
+	state_category = town
+	history={
+		owner = PHA
+		add_core_of = PHA
+	}
+	provinces={
+		10280
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1931
+	name="STATE_1931" # Gurama
+	manpower = 4930
+	state_category = rural
+	history={
+		owner = GUA
+		add_core_of = GUA
+		victory_points = { 16187 1 }
+	}
+	provinces={
+		16187 16291
+	}
+	local_supplies=0.0
+}

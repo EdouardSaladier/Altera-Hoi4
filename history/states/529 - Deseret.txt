@@ -1,0 +1,31 @@
+state={
+	id=529
+	name="STATE_529" # Deseret
+	manpower = 3310186
+	state_category = town
+	history={
+		owner = DES
+		add_core_of = DES
+		victory_points = { 7961 1 }
+		victory_points = { 8036 2 }
+		victory_points = { 8102 20 }
+		victory_points = { 8171 2 }
+		victory_points = { 8206 5 }
+		victory_points = { 8237 1 }
+		victory_points = { 8285 5 }
+		victory_points = { 8369 5 }
+		victory_points = { 8396 5 }
+		victory_points = { 8445 5 }
+		victory_points = { 8476 5 }
+		victory_points = { 8510 5 }
+		victory_points = { 8562 2 }
+		victory_points = { 8625 5 }
+		victory_points = { 8653 5 }
+		victory_points = { 8783 5 }
+		victory_points = { 8792 5 }
+	}
+	provinces={
+		7961 8026 8036 8046 8102 8122 8141 8171 8206 8217 8237 8285 8369 8396 8445 8476 8510 8562 8625 8653 8783 8792
+	}
+	local_supplies=0.0
+}

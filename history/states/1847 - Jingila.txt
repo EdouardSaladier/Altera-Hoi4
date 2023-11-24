@@ -1,0 +1,14 @@
+state={
+	id=1847
+	name="STATE_1847" # Jingila
+	manpower = 14820
+	state_category = rural
+	history={
+		owner = JIN
+		add_core_of = JIN
+	}
+	provinces={
+		15613 15666 15730
+	}
+	local_supplies=0.0
+}

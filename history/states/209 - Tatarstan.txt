@@ -1,0 +1,20 @@
+state={
+	id=209
+	name="STATE_209" # Tatarstan
+	manpower = 2682439
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5127 5 }
+		victory_points = { 5128 5 }
+		victory_points = { 5162 20 }
+		victory_points = { 5178 10 }
+		victory_points = { 5179 5 }
+		victory_points = { 5255 20 }
+	}
+	provinces={
+		5127 5128 5162 5178 5179 5255
+	}
+	local_supplies=0.0
+}

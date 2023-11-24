@@ -1,0 +1,9 @@
+strategic_region={
+	id=533
+	name="STRATEGICREGION_533" # Taumako
+	provinces={
+		15086
+	}
+	weather={
+	}
+}

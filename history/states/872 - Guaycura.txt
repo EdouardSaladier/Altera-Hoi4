@@ -1,0 +1,15 @@
+state={
+	id=872
+	name="STATE_872" # Guaycura
+	manpower = 8390
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 10610 5 }
+	}
+	provinces={
+		10365 10428 10472 10610 10626 10658 10689 10690
+	}
+	local_supplies=0.0
+}

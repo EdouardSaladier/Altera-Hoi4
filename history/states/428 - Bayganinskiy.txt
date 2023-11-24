@@ -1,0 +1,14 @@
+state={
+	id=428
+	name="STATE_428" # Bayganinskiy
+	manpower = 46194
+	state_category = rural
+	history={
+		owner = GAS
+		add_core_of = GAS
+	}
+	provinces={
+		7207 7274
+	}
+	local_supplies=0.0
+}

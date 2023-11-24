@@ -1,0 +1,15 @@
+state={
+	id=1355
+	name="STATE_1355" # Gellia
+	manpower = 6765000
+	state_category = large_town
+	history={
+		owner = GEL
+		add_core_of = GEL
+		victory_points = { 13394 5 }
+	}
+	provinces={
+		13175 13215 13262 13280 13287 13327 13357 13393 13394 13417 13432
+	}
+	local_supplies=0.0
+}

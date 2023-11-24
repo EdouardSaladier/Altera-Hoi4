@@ -1,0 +1,15 @@
+state={
+	id=1493
+	name="STATE_1493" # Sahu
+	manpower = 7590
+	state_category = town
+	history={
+		owner = SAH
+		add_core_of = SAH
+		victory_points = { 13957 20 }
+	}
+	provinces={
+		13957
+	}
+	local_supplies=0.0
+}

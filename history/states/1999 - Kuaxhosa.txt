@@ -1,0 +1,20 @@
+state={
+	id=1999
+	name="STATE_1999" # Kuaxhosa
+	manpower = 3340905
+	state_category = large_town
+	history={
+		owner = KUX
+		add_core_of = KUX
+		victory_points = { 16994 1 }
+		victory_points = { 17011 10 }
+		victory_points = { 17059 1 }
+		victory_points = { 17066 20 }
+		victory_points = { 17067 5 }
+		victory_points = { 17149 5 }
+	}
+	provinces={
+		16994 17011 17059 17066 17067 17134 17149 17171
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=357
+	name="STATE_357" # Teton
+	manpower = 24910
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 6652 1 }
+		victory_points = { 6681 2 }
+		victory_points = { 6704 5 }
+		victory_points = { 6712 2 }
+		victory_points = { 6829 5 }
+	}
+	provinces={
+		6609 6652 6681 6704 6712 6829
+	}
+	local_supplies=0.0
+}

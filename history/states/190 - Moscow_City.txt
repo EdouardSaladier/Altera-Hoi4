@@ -1,0 +1,21 @@
+state={
+	id=190
+	name="STATE_190" # Moscow City
+	manpower = 4038875
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4899 40 }
+		victory_points = { 4999 40 }
+		victory_points = { 5024 5 }
+		victory_points = { 5025 80 }
+		victory_points = { 5110 40 }
+		victory_points = { 5119 5 }
+		victory_points = { 5172 20 }
+	}
+	provinces={
+		4899 4999 5024 5025 5110 5119 5172
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1771
+	name="STATE_1771" # Cabo Delgado
+	manpower = 2226646
+	state_category = large_town
+	history={
+		owner = ROV
+		add_core_of = ROV
+		victory_points = { 15236 5 }
+		victory_points = { 15328 10 }
+		victory_points = { 15389 20 }
+	}
+	provinces={
+		15169 15226 15235 15236 15279 15328 15352 15388 15389
+	}
+	local_supplies=0.0
+}

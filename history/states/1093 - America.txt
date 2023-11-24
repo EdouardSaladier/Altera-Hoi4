@@ -1,0 +1,14 @@
+state={
+	id=1093
+	name="STATE_1093" # America
+	manpower = 1470
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+	}
+	provinces={
+		11789 11799 11809 11852 11916 11958 11985 12041
+	}
+	local_supplies=0.0
+}

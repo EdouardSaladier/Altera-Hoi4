@@ -1,0 +1,16 @@
+state={
+	id=1037
+	name="STATE_1037" # Bắc Giang
+	manpower = 10566556
+	state_category = metropolis
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 11451 10 }
+		victory_points = { 11497 80 }
+	}
+	provinces={
+		11451 11497
+	}
+	local_supplies=0.0
+}

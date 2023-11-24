@@ -1,0 +1,15 @@
+state={
+	id=1892
+	name="STATE_1892" # Niwui
+	manpower = 2567
+	state_category = rural
+	history={
+		owner = NIW
+		add_core_of = NIW
+		victory_points = { 15981 1 }
+	}
+	provinces={
+		15910 15981
+	}
+	local_supplies=0.0
+}

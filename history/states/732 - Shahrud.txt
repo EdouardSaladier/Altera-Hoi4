@@ -1,0 +1,14 @@
+state={
+	id=732
+	name="STATE_732" # Shahrud
+	manpower = 1924485
+	state_category = large_town
+	history={
+		owner = PES
+		add_core_of = PES
+	}
+	provinces={
+		9388 9389 9488 9501
+	}
+	local_supplies=0.0
+}

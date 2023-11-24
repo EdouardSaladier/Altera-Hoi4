@@ -1,0 +1,15 @@
+state={
+	id=1540
+	name="STATE_1540" # Satripu
+	manpower = 97921
+	state_category = town
+	history={
+		owner = STR
+		add_core_of = STR
+		victory_points = { 14199 1 }
+	}
+	provinces={
+		14199
+	}
+	local_supplies=0.0
+}

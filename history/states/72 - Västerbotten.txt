@@ -1,0 +1,18 @@
+state={
+	id=72
+	name="STATE_72" # Västerbotten
+	manpower = 257911
+	state_category = rural
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = { 2849 2 }
+		victory_points = { 3029 5 }
+		victory_points = { 3052 5 }
+		victory_points = { 3301 20 }
+	}
+	provinces={
+		2849 3029 3052 3155 3301
+	}
+	local_supplies=0.0
+}

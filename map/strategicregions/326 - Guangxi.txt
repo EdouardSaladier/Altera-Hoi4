@@ -1,0 +1,9 @@
+strategic_region={
+	id=326
+	name="STRATEGICREGION_326" # Guangxi
+	provinces={
+		10861 10913 10938 10948 10990 10991 11003 11011 11012 11040 11041 11106 11107 11108 11125 11152 11169 11196
+	}
+	weather={
+	}
+}

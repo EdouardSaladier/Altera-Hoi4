@@ -1,0 +1,29 @@
+state={
+	id=178
+	name="STATE_178" # Vallania
+	manpower = 2882190
+	state_category = town
+	history={
+		owner = VAL
+		add_core_of = VAL
+		victory_points = { 4743 5 }
+		victory_points = { 4859 5 }
+		victory_points = { 4871 5 }
+		victory_points = { 4880 40 }
+		victory_points = { 4888 20 }
+		victory_points = { 4889 5 }
+		victory_points = { 4944 10 }
+		victory_points = { 4955 5 }
+		victory_points = { 4964 20 }
+		victory_points = { 5003 2 }
+		victory_points = { 5004 5 }
+		victory_points = { 5052 40 }
+		victory_points = { 5053 5 }
+		victory_points = { 5065 80 }
+		victory_points = { 5087 5 }
+	}
+	provinces={
+		4743 4859 4871 4880 4888 4889 4944 4955 4964 5003 5004 5052 5053 5065 5087
+	}
+	local_supplies=0.0
+}

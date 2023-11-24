@@ -1,0 +1,16 @@
+state={
+	id=1968
+	name="STATE_1968" # General Güemes
+	manpower = 319366
+	state_category = town
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16559 5 }
+		victory_points = { 16601 5 }
+	}
+	provinces={
+		16503 16536 16559 16587 16601 16602
+	}
+	local_supplies=0.0
+}

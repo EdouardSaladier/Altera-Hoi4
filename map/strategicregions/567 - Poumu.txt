@@ -1,0 +1,9 @@
+strategic_region={
+	id=567
+	name="STRATEGICREGION_567" # Poumu
+	provinces={
+		15927
+	}
+	weather={
+	}
+}

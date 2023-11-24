@@ -1,0 +1,18 @@
+state={
+	id=116
+	name="STATE_116" # Southern Finland
+	manpower = 646066
+	state_category = town
+	history={
+		owner = FIN
+		add_core_of = FIN
+		victory_points = { 3940 10 }
+		victory_points = { 3981 5 }
+		victory_points = { 4037 40 }
+		victory_points = { 4128 10 }
+	}
+	provinces={
+		3921 3940 3958 3981 4037 4128
+	}
+	local_supplies=0.0
+}

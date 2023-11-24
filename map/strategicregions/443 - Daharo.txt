@@ -1,0 +1,9 @@
+strategic_region={
+	id=443
+	name="STRATEGICREGION_443" # Daharo
+	provinces={
+		13194 13212 13299 13321 13381 13427 13428 13514 13524 13545 13617 13640 13700 13722 13782
+	}
+	weather={
+	}
+}

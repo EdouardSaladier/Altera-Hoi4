@@ -1,0 +1,15 @@
+state={
+	id=154
+	name="STATE_154" # Osland
+	manpower = 142722
+	state_category = town
+	history={
+		owner = OSL
+		add_core_of = OSL
+		victory_points = { 4407 5 }
+	}
+	provinces={
+		4407
+	}
+	local_supplies=0.0
+}

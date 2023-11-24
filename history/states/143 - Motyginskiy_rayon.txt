@@ -1,0 +1,19 @@
+state={
+	id=143
+	name="STATE_143" # Motyginskiy rayon
+	manpower = 300706
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4307 2 }
+		victory_points = { 4461 5 }
+		victory_points = { 4643 2 }
+		victory_points = { 4664 2 }
+		victory_points = { 4722 5 }
+	}
+	provinces={
+		4307 4461 4643 4664 4700 4722 4770 4836
+	}
+	local_supplies=0.0
+}

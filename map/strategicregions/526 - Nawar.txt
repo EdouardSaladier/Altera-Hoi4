@@ -1,0 +1,9 @@
+strategic_region={
+	id=526
+	name="STRATEGICREGION_526" # Nawar
+	provinces={
+		
+	}
+	weather={
+	}
+}

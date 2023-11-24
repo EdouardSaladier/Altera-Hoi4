@@ -1,0 +1,9 @@
+strategic_region={
+	id=366
+	name="STRATEGICREGION_366" # Batan
+	provinces={
+		11766 11798 11858
+	}
+	weather={
+	}
+}

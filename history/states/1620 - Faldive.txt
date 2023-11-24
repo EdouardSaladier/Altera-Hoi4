@@ -1,0 +1,14 @@
+state={
+	id=1620
+	name="STATE_1620" # Faldive
+	manpower = 820
+	state_category = rural
+	history={
+		owner = FAD
+		add_core_of = FAD
+	}
+	provinces={
+		14530 14603 14694 14714 14749 14816 14842
+	}
+	local_supplies=0.0
+}

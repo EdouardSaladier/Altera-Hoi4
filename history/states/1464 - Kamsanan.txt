@@ -1,0 +1,16 @@
+state={
+	id=1464
+	name="STATE_1464" # Kamsanan
+	manpower = 4770
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13826 20 }
+		victory_points = { 13891 20 }
+	}
+	provinces={
+		13807 13826 13891
+	}
+	local_supplies=0.0
+}

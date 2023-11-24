@@ -1,0 +1,15 @@
+state={
+	id=110
+	name="STATE_110" # Vel'skiy rayon
+	manpower = 634537
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 3914 5 }
+	}
+	provinces={
+		3832 3914
+	}
+	local_supplies=0.0
+}

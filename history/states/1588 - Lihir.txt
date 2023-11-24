@@ -1,0 +1,14 @@
+state={
+	id=1588
+	name="STATE_1588" # Lihir
+	manpower = 180
+	state_category = rural
+	history={
+		owner = LIH
+		add_core_of = LIH
+	}
+	provinces={
+		14388
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,27 @@
+state={
+	id=881
+	name="STATE_881" # Nepal
+	manpower = 29192479
+	state_category = large_city
+	history={
+		owner = NEP
+		add_core_of = NEP
+		victory_points = { 10436 10 }
+		victory_points = { 10468 10 }
+		victory_points = { 10490 10 }
+		victory_points = { 10578 5 }
+		victory_points = { 10579 10 }
+		victory_points = { 10622 20 }
+		victory_points = { 10632 20 }
+		victory_points = { 10678 20 }
+		victory_points = { 10711 10 }
+		victory_points = { 10729 10 }
+		victory_points = { 10736 20 }
+		victory_points = { 10737 10 }
+		victory_points = { 10783 80 }
+	}
+	provinces={
+		10410 10436 10468 10490 10578 10579 10622 10632 10678 10711 10729 10736 10737 10783
+	}
+	local_supplies=0.0
+}

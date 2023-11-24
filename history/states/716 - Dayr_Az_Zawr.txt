@@ -1,0 +1,17 @@
+state={
+	id=716
+	name="STATE_716" # Dayr Az Zawr
+	manpower = 3603488
+	state_category = city
+	history={
+		owner = ACA
+		add_core_of = ACA
+		victory_points = { 9316 1 }
+		victory_points = { 9473 10 }
+		victory_points = { 9737 20 }
+	}
+	provinces={
+		9316 9473 9524 9561 9595 9737
+	}
+	local_supplies=0.0
+}

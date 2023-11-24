@@ -1,0 +1,14 @@
+state={
+	id=1038
+	name="STATE_1038" # Mudan
+	manpower = 1720
+	state_category = pastoral
+	history={
+		owner = MDA
+		add_core_of = MDA
+	}
+	provinces={
+		11452
+	}
+	local_supplies=0.0
+}

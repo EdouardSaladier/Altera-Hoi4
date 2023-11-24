@@ -1,0 +1,16 @@
+state={
+	id=1390
+	name="STATE_1390" # Bakool
+	manpower = 1599566
+	state_category = large_town
+	history={
+		owner = AGU
+		add_core_of = AGU
+		victory_points = { 13517 2 }
+		victory_points = { 13538 5 }
+	}
+	provinces={
+		13387 13517 13538
+	}
+	local_supplies=0.0
+}

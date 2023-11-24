@@ -1,0 +1,21 @@
+state={
+	id=1938
+	name="STATE_1938" # Andira
+	manpower = 3209273
+	state_category = large_town
+	history={
+		owner = ANR
+		add_core_of = ANR
+		victory_points = { 16241 5 }
+		victory_points = { 16319 5 }
+		victory_points = { 16354 5 }
+		victory_points = { 16372 5 }
+		victory_points = { 16497 5 }
+		victory_points = { 16498 10 }
+		victory_points = { 16553 5 }
+	}
+	provinces={
+		16241 16319 16354 16372 16453 16497 16498 16544 16553 16637 16692 16700 16709
+	}
+	local_supplies=0.0
+}

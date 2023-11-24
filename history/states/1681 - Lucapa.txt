@@ -1,0 +1,15 @@
+state={
+	id=1681
+	name="STATE_1681" # Lucapa
+	manpower = 907894
+	state_category = town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 14837 1 }
+	}
+	provinces={
+		14798 14837 14838
+	}
+	local_supplies=0.0
+}

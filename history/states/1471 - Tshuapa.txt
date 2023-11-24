@@ -1,0 +1,14 @@
+state={
+	id=1471
+	name="STATE_1471" # Tshuapa
+	manpower = 4158035
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+	}
+	provinces={
+		13845 13894 13931 13940 14015 14024 14048 14054 14141 14142 14150 14151 14190
+	}
+	local_supplies=0.0
+}

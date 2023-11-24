@@ -1,0 +1,14 @@
+state={
+	id=2014
+	name="STATE_2014" # Aotearoa
+	manpower = 11782559
+	state_category = large_town
+	history={
+		owner = AOT
+		add_core_of = AOT
+	}
+	provinces={
+		17075 17196 17214 17309 17344 17429 17480 17503 17508 17550 17553 17574 17601 17603 17615 17620 17647 17655 17687
+	}
+	local_supplies=0.0
+}

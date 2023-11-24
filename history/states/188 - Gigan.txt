@@ -1,0 +1,15 @@
+state={
+	id=188
+	name="STATE_188" # Gigan
+	manpower = 14080
+	state_category = pastoral
+	history={
+		owner = GIG
+		add_core_of = GIG
+		victory_points = { 5224 2 }
+	}
+	provinces={
+		4881 4896 4967 5046 5070 5115 5208 5224
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1950
+	name="STATE_1950" # Nengoni
+	manpower = 980
+	state_category = rural
+	history={
+		owner = NEN
+		add_core_of = NEN
+	}
+	provinces={
+		16329
+	}
+	local_supplies=0.0
+}

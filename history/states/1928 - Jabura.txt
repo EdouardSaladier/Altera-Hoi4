@@ -1,0 +1,15 @@
+state={
+	id=1928
+	name="STATE_1928" # Jabura
+	manpower = 850
+	state_category = rural
+	history={
+		owner = JAB
+		add_core_of = JAB
+		victory_points = { 16166 5 }
+	}
+	provinces={
+		16166
+	}
+	local_supplies=0.0
+}

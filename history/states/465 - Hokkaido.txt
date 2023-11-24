@@ -1,0 +1,25 @@
+state={
+	id=465
+	name="STATE_465" # Hokkaido
+	manpower = 4831084
+	state_category = large_town
+	history={
+		owner = YEZ
+		add_core_of = YEZ
+		victory_points = { 7500 10 }
+		victory_points = { 7648 40 }
+		victory_points = { 7719 5 }
+		victory_points = { 7729 10 }
+		victory_points = { 7742 5 }
+		victory_points = { 7782 5 }
+		victory_points = { 7863 5 }
+		victory_points = { 7925 5 }
+		victory_points = { 7926 80 }
+		victory_points = { 7960 20 }
+		victory_points = { 8093 5 }
+	}
+	provinces={
+		7500 7648 7719 7729 7742 7782 7863 7925 7926 7960 8093 8128
+	}
+	local_supplies=0.0
+}

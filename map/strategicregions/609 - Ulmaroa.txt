@@ -1,0 +1,9 @@
+strategic_region={
+	id=609
+	name="STRATEGICREGION_609" # Ulmaroa
+	provinces={
+		16876 16931 16981
+	}
+	weather={
+	}
+}

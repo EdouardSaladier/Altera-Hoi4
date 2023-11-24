@@ -1,0 +1,18 @@
+state={
+	id=253
+	name="STATE_253" # Laoighis
+	manpower = 2535513
+	state_category = city
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 5568 10 }
+		victory_points = { 5765 5 }
+		victory_points = { 5766 5 }
+		victory_points = { 5838 10 }
+	}
+	provinces={
+		5568 5765 5766 5838
+	}
+	local_supplies=0.0
+}

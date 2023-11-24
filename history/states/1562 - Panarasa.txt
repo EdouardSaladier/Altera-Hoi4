@@ -1,0 +1,14 @@
+state={
+	id=1562
+	name="STATE_1562" # Panarasa
+	manpower = 17720
+	state_category = town
+	history={
+		owner = PNA
+		add_core_of = PNA
+	}
+	provinces={
+		14287
+	}
+	local_supplies=0.0
+}

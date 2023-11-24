@@ -1,0 +1,29 @@
+state={
+	id=1053
+	name="STATE_1053" # Maharath
+	manpower = 55872462
+	state_category = metropolis
+	history={
+		owner = MAH
+		add_core_of = MAH
+		victory_points = { 11539 20 }
+		victory_points = { 11540 20 }
+		victory_points = { 11568 80 }
+		victory_points = { 11583 5 }
+		victory_points = { 11584 10 }
+		victory_points = { 11622 10 }
+		victory_points = { 11638 80 }
+		victory_points = { 11697 10 }
+		victory_points = { 11709 80 }
+		victory_points = { 11717 80 }
+		victory_points = { 11750 40 }
+		victory_points = { 11751 80 }
+		victory_points = { 11786 80 }
+		victory_points = { 11864 20 }
+		victory_points = { 11884 80 }
+	}
+	provinces={
+		11539 11540 11568 11583 11584 11622 11638 11697 11709 11717 11750 11751 11786 11864 11884
+	}
+	local_supplies=0.0
+}

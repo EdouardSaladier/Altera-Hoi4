@@ -1,0 +1,14 @@
+state={
+	id=1873
+	name="STATE_1873" # Banuba
+	manpower = 3570
+	state_category = rural
+	history={
+		owner = BAU
+		add_core_of = BAU
+	}
+	provinces={
+		15797 15831
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1857
+	name="STATE_1857" # Keja
+	manpower = 12710
+	state_category = rural
+	history={
+		owner = KEJ
+		add_core_of = KEJ
+	}
+	provinces={
+		15665 15708 15749 15750
+	}
+	local_supplies=0.0
+}

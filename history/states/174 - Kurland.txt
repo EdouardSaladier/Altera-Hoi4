@@ -1,0 +1,16 @@
+state={
+	id=174
+	name="STATE_174" # Kurland
+	manpower = 614545
+	state_category = town
+	history={
+		owner = KUR
+		add_core_of = KUR
+		victory_points = { 4720 5 }
+		victory_points = { 4765 40 }
+	}
+	provinces={
+		4720 4765
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=516
+	name="STATE_516" # Navarre
+	manpower = 3000714
+	state_category = large_town
+	history={
+		owner = NAV
+		add_core_of = NAV
+		victory_points = { 7870 5 }
+		victory_points = { 7871 40 }
+		victory_points = { 7887 5 }
+		victory_points = { 7915 10 }
+		victory_points = { 7916 40 }
+		victory_points = { 7930 10 }
+		victory_points = { 8040 20 }
+	}
+	provinces={
+		7870 7871 7887 7915 7916 7930 8040
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1720
+	name="STATE_1720" # Mahaga
+	manpower = 7111
+	state_category = town
+	history={
+		owner = MHA
+		add_core_of = MHA
+	}
+	provinces={
+		14933
+	}
+	local_supplies=0.0
+}

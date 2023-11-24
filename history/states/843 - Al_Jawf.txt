@@ -1,0 +1,15 @@
+state={
+	id=843
+	name="STATE_843" # Al Jawf
+	manpower = 756978
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10281 20 }
+	}
+	provinces={
+		10164 10194 10220 10268 10281 10356 10386 10489
+	}
+	local_supplies=0.0
+}

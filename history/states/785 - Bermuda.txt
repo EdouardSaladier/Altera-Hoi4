@@ -1,0 +1,14 @@
+state={
+	id=785
+	name="STATE_785" # Bermuda
+	manpower = 1100
+	state_category = pastoral
+	history={
+		owner = BEM
+		add_core_of = BEM
+	}
+	provinces={
+		9748 9815 9881
+	}
+	local_supplies=0.0
+}

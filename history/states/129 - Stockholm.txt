@@ -1,0 +1,19 @@
+state={
+	id=129
+	name="STATE_129" # Stockholm
+	manpower = 702643
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4127 1 }
+		victory_points = { 4180 10 }
+		victory_points = { 4266 10 }
+		victory_points = { 4344 10 }
+		victory_points = { 4362 5 }
+	}
+	provinces={
+		4127 4180 4266 4344 4362 4384
+	}
+	local_supplies=0.0
+}

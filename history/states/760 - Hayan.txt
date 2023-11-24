@@ -1,0 +1,15 @@
+state={
+	id=760
+	name="STATE_760" # Hayan
+	manpower = 429777
+	state_category = metropolis
+	history={
+		owner = HAY
+		add_core_of = HAY
+		victory_points = { 9581 1 }
+	}
+	provinces={
+		9581 9657
+	}
+	local_supplies=0.0
+}

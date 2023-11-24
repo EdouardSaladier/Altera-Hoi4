@@ -1,0 +1,18 @@
+state={
+	id=527
+	name="STATE_527" # Baotou
+	manpower = 1168698
+	state_category = town
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7946 1 }
+		victory_points = { 8118 1 }
+		victory_points = { 8169 1 }
+		victory_points = { 8214 1 }
+	}
+	provinces={
+		7946 8108 8117 8118 8169 8214
+	}
+	local_supplies=0.0
+}

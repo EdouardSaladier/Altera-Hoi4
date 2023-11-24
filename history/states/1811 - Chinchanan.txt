@@ -1,0 +1,17 @@
+state={
+	id=1811
+	name="STATE_1811" # Chinchanan
+	manpower = 11550
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15420 40 }
+		victory_points = { 15507 5 }
+		victory_points = { 15579 5 }
+	}
+	provinces={
+		15420 15507 15579
+	}
+	local_supplies=0.0
+}

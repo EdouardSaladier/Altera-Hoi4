@@ -1,0 +1,16 @@
+state={
+	id=1604
+	name="STATE_1604" # Yamipiqnan
+	manpower = 6490
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14462 20 }
+		victory_points = { 14463 10 }
+	}
+	provinces={
+		14462 14463
+	}
+	local_supplies=0.0
+}

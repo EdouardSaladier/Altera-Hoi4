@@ -1,0 +1,14 @@
+state={
+	id=9
+	name="STATE_9" # Khatangskiy rayon
+	manpower = 188890
+	state_category = pastoral
+	history={
+		owner = NES
+		add_core_of = NES
+	}
+	provinces={
+		806 812 872 890 901 902 918 919 923 942 967 977 991 1002 1008 1016 1037 1038 1057 1070 1106 1124 1137 1146 1168 1169 1180 1187 1200 1212 1216 1227 1246 1248 1274 1275 1276 1290 1297 1331 1336 1346 1353 1365 1366 1369 1388 1395 1442 1474
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1726
+	name="STATE_1726" # Malata
+	manpower = 162182
+	state_category = large_town
+	history={
+		owner = MLT
+		add_core_of = MLT
+	}
+	provinces={
+		14959
+	}
+	local_supplies=0.0
+}

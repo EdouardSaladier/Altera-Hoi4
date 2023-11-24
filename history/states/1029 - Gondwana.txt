@@ -1,0 +1,22 @@
+state={
+	id=1029
+	name="STATE_1029" # Gondwana
+	manpower = 10665939
+	state_category = city
+	history={
+		owner = GON
+		add_core_of = GON
+		victory_points = { 11377 5 }
+		victory_points = { 11505 20 }
+		victory_points = { 11541 80 }
+		victory_points = { 11605 80 }
+		victory_points = { 11614 40 }
+		victory_points = { 11632 20 }
+		victory_points = { 11688 10 }
+		victory_points = { 11702 5 }
+	}
+	provinces={
+		11377 11505 11541 11605 11614 11632 11639 11664 11688 11702
+	}
+	local_supplies=0.0
+}

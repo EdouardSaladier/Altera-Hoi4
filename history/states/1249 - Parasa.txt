@@ -1,0 +1,15 @@
+state={
+	id=1249
+	name="STATE_1249" # Parasa
+	manpower = 2786650
+	state_category = city
+	history={
+		owner = PRS
+		add_core_of = PRS
+		victory_points = { 12623 10 }
+	}
+	provinces={
+		12623 13157
+	}
+	local_supplies=0.0
+}

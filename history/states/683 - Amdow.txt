@@ -1,0 +1,24 @@
+state={
+	id=683
+	name="STATE_683" # Amdow
+	manpower = 72203
+	state_category = rural
+	history={
+		owner = AMD
+		add_core_of = AMD
+		victory_points = { 9174 80 }
+		victory_points = { 9307 1 }
+		victory_points = { 9352 1 }
+		victory_points = { 9431 1 }
+		victory_points = { 9493 1 }
+		victory_points = { 9534 1 }
+		victory_points = { 9565 1 }
+		victory_points = { 9600 1 }
+		victory_points = { 9619 1 }
+		victory_points = { 9752 1 }
+	}
+	provinces={
+		9124 9151 9172 9174 9307 9352 9367 9431 9451 9493 9519 9534 9565 9600 9618 9619 9642 9752
+	}
+	local_supplies=0.0
+}

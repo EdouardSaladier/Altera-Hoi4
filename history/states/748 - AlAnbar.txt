@@ -1,0 +1,19 @@
+state={
+	id=748
+	name="STATE_748" # Al-Anbar
+	manpower = 8160720
+	state_category = large_town
+	history={
+		owner = ACA
+		add_core_of = ACA
+		victory_points = { 9485 5 }
+		victory_points = { 9584 5 }
+		victory_points = { 9678 5 }
+		victory_points = { 9679 5 }
+		victory_points = { 9704 80 }
+	}
+	provinces={
+		9485 9584 9678 9679 9704 9716 9758 9780 9781 9796 9861 9885 9906 9913 9922 9977 10006
+	}
+	local_supplies=0.0
+}

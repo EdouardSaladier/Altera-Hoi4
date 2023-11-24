@@ -1,0 +1,14 @@
+state={
+	id=686
+	name="STATE_686" # Pantallera
+	manpower = 200
+	state_category = pastoral
+	history={
+		owner = PNT
+		add_core_of = PNT
+	}
+	provinces={
+		9144
+	}
+	local_supplies=0.0
+}

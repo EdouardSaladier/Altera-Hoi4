@@ -1,0 +1,17 @@
+state={
+	id=1334
+	name="STATE_1334" # Beya
+	manpower = 827572
+	state_category = town
+	history={
+		owner = BEY
+		add_core_of = BEY
+		victory_points = { 13041 5 }
+		victory_points = { 13224 5 }
+		victory_points = { 13241 20 }
+	}
+	provinces={
+		13041 13054 13224 13241
+	}
+	local_supplies=0.0
+}

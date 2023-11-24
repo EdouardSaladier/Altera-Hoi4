@@ -1,0 +1,23 @@
+state={
+	id=969
+	name="STATE_969" # Tamaulipas
+	manpower = 2900388
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10940 20 }
+		victory_points = { 10978 2 }
+		victory_points = { 11091 5 }
+		victory_points = { 11147 2 }
+		victory_points = { 11199 40 }
+		victory_points = { 11232 5 }
+		victory_points = { 11242 20 }
+		victory_points = { 11261 40 }
+		victory_points = { 11290 5 }
+	}
+	provinces={
+		10940 10978 11091 11147 11199 11232 11242 11261 11290
+	}
+	local_supplies=0.0
+}

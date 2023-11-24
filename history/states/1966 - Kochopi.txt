@@ -1,0 +1,17 @@
+state={
+	id=1966
+	name="STATE_1966" # Kochopi
+	manpower = 2303957
+	state_category = large_town
+	history={
+		owner = KOC
+		add_core_of = KOC
+		victory_points = { 16479 10 }
+		victory_points = { 16507 1 }
+		victory_points = { 16565 80 }
+	}
+	provinces={
+		16479 16486 16507 16552 16565 16606
+	}
+	local_supplies=0.0
+}

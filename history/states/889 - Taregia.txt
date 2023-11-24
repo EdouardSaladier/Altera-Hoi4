@@ -1,0 +1,15 @@
+state={
+	id=889
+	name="STATE_889" # Taregia
+	manpower = 521506
+	state_category = town
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 10463 5 }
+	}
+	provinces={
+		10463 10670 10777
+	}
+	local_supplies=0.0
+}

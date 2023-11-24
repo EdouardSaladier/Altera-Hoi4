@@ -1,0 +1,18 @@
+state={
+	id=1492
+	name="STATE_1492" # Samura
+	manpower = 4579863
+	state_category = city
+	history={
+		owner = SAM
+		add_core_of = SAM
+		victory_points = { 13956 80 }
+		victory_points = { 14008 5 }
+		victory_points = { 14132 10 }
+		victory_points = { 14235 1 }
+	}
+	provinces={
+		13956 14008 14132 14235
+	}
+	local_supplies=0.0
+}

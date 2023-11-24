@@ -1,0 +1,15 @@
+state={
+	id=1725
+	name="STATE_1725" # Labala
+	manpower = 302642
+	state_category = large_city
+	history={
+		owner = LAL
+		add_core_of = LAL
+		victory_points = { 14956 1 }
+	}
+	provinces={
+		14956
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=48
+	name="STATE_48" # Mezenskiy rayon
+	manpower = 40920
+	state_category = pastoral
+	history={
+		owner = VEP
+		add_core_of = VEP
+		victory_points = { 2641 2 }
+		victory_points = { 2832 2 }
+		victory_points = { 2955 2 }
+		victory_points = { 3161 2 }
+		victory_points = { 3173 2 }
+	}
+	provinces={
+		2185 2218 2288 2420 2641 2832 2947 2955 2956 3056 3161 3173
+	}
+	local_supplies=0.0
+}

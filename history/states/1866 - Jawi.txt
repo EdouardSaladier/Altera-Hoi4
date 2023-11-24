@@ -1,0 +1,15 @@
+state={
+	id=1866
+	name="STATE_1866" # Jawi
+	manpower = 5960
+	state_category = rural
+	history={
+		owner = JAW
+		add_core_of = JAW
+		victory_points = { 15767 2 }
+	}
+	provinces={
+		15729 15767
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=552
+	name="STATE_552" # Munsee
+	manpower = 503979
+	state_category = large_town
+	history={
+		owner = MUE
+		add_core_of = MUE
+		victory_points = { 8097 10 }
+	}
+	provinces={
+		8097
+	}
+	local_supplies=0.0
+}

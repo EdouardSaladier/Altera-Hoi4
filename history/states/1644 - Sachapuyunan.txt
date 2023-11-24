@@ -1,0 +1,15 @@
+state={
+	id=1644
+	name="STATE_1644" # Sachapuyunan
+	manpower = 4960
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14623 10 }
+	}
+	provinces={
+		14623
+	}
+	local_supplies=0.0
+}

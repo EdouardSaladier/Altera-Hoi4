@@ -1,0 +1,19 @@
+state={
+	id=425
+	name="STATE_425" # Cimmeria
+	manpower = 764249
+	state_category = town
+	history={
+		owner = CIM
+		add_core_of = CIM
+		victory_points = { 7183 2 }
+		victory_points = { 7219 10 }
+		victory_points = { 7374 10 }
+		victory_points = { 7386 10 }
+		victory_points = { 7479 10 }
+	}
+	provinces={
+		7183 7219 7374 7386 7479
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1884
+	name="STATE_1884" # Wambaya
+	manpower = 22620
+	state_category = rural
+	history={
+		owner = WAM
+		add_core_of = WAM
+	}
+	provinces={
+		15852 15865 15869 15870 15895 15944 15951 15961 15986 15987 16025
+	}
+	local_supplies=0.0
+}

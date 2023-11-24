@@ -1,0 +1,15 @@
+state={
+	id=1235
+	name="STATE_1235" # Barbados
+	manpower = 296370
+	state_category = city
+	history={
+		owner = BRB
+		add_core_of = BRB
+		victory_points = { 12538 1 }
+	}
+	provinces={
+		12538
+	}
+	local_supplies=0.0
+}

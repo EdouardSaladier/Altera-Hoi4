@@ -1,0 +1,19 @@
+state={
+	id=804
+	name="STATE_804" # Marrakech - Tensift - Al Haouz
+	manpower = 5384566
+	state_category = city
+	history={
+		owner = MAU
+		add_core_of = MAU
+		victory_points = { 9869 1 }
+		victory_points = { 10005 80 }
+		victory_points = { 10013 1 }
+		victory_points = { 10014 5 }
+		victory_points = { 10024 1 }
+	}
+	provinces={
+		9869 10005 10013 10014 10024
+	}
+	local_supplies=0.0
+}

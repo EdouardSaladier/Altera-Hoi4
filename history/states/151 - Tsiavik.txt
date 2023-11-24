@@ -1,0 +1,14 @@
+state={
+	id=151
+	name="STATE_151" # Tsiavik
+	manpower = 100490
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+	}
+	provinces={
+		4382 4479 4519 4533 4542 4570 4571 4594 4602 4611 4661 4717 4733 4739 4750 4818 4844 4878 4886 4941 4949 4986 5013 5014 5060 5071 5117 5159 5239 5289 5303
+	}
+	local_supplies=0.0
+}

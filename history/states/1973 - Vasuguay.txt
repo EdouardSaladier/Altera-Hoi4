@@ -1,0 +1,28 @@
+state={
+	id=1973
+	name="STATE_1973" # Vasuguay
+	manpower = 7733676
+	state_category = large_town
+	history={
+		owner = VAS
+		add_core_of = VAS
+		victory_points = { 16551 10 }
+		victory_points = { 16576 80 }
+		victory_points = { 16589 20 }
+		victory_points = { 16596 5 }
+		victory_points = { 16597 20 }
+		victory_points = { 16609 5 }
+		victory_points = { 16615 10 }
+		victory_points = { 16622 5 }
+		victory_points = { 16664 10 }
+		victory_points = { 16673 10 }
+		victory_points = { 16705 20 }
+		victory_points = { 16722 40 }
+		victory_points = { 16783 5 }
+		victory_points = { 16810 5 }
+	}
+	provinces={
+		16551 16576 16589 16596 16597 16609 16615 16622 16645 16653 16664 16673 16705 16722 16783 16810 16866
+	}
+	local_supplies=0.0
+}

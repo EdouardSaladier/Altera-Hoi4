@@ -1,0 +1,14 @@
+state={
+	id=1551
+	name="STATE_1551" # Baginda
+	manpower = 14413
+	state_category = town
+	history={
+		owner = BGI
+		add_core_of = BGI
+	}
+	provinces={
+		14237
+	}
+	local_supplies=0.0
+}

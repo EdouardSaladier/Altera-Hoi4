@@ -1,0 +1,16 @@
+state={
+	id=1510
+	name="STATE_1510" # Maynas
+	manpower = 52347
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+		victory_points = { 14072 1 }
+		victory_points = { 14310 1 }
+	}
+	provinces={
+		14072 14280 14310
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=791
+	name="STATE_791" # Maysan
+	manpower = 2370710
+	state_category = city
+	history={
+		owner = ACA
+		add_core_of = ACA
+		victory_points = { 9782 10 }
+		victory_points = { 9924 1 }
+	}
+	provinces={
+		9782 9924 9925
+	}
+	local_supplies=0.0
+}

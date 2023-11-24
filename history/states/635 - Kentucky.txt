@@ -1,0 +1,24 @@
+state={
+	id=635
+	name="STATE_635" # Kentucky
+	manpower = 25180
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8764 5 }
+		victory_points = { 8836 5 }
+		victory_points = { 8851 5 }
+		victory_points = { 8861 10 }
+		victory_points = { 8920 5 }
+		victory_points = { 8978 10 }
+		victory_points = { 9022 5 }
+		victory_points = { 9067 5 }
+		victory_points = { 9068 5 }
+		victory_points = { 9078 5 }
+	}
+	provinces={
+		8764 8836 8851 8861 8920 8978 9022 9067 9068 9078
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=913
+	name="STATE_913" # Barainia
+	manpower = 3808320
+	state_category = town
+	history={
+		owner = BAR
+		add_core_of = BAR
+		victory_points = { 10619 20 }
+		victory_points = { 10908 20 }
+		victory_points = { 10943 40 }
+		victory_points = { 10981 40 }
+		victory_points = { 10998 80 }
+		victory_points = { 11076 5 }
+		victory_points = { 11141 20 }
+		victory_points = { 11178 20 }
+		victory_points = { 11202 10 }
+		victory_points = { 11256 5 }
+	}
+	provinces={
+		10619 10908 10943 10981 10998 11076 11113 11141 11178 11195 11202 11225 11248 11256 11344 11384
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,42 @@
+state={
+	id=195
+	name="STATE_195" # Nord-du-Québec
+	manpower = 9921933
+	state_category = town
+	history={
+		owner = CAN
+		add_core_of = CAN
+		victory_points = { 5681 2 }
+		victory_points = { 6103 5 }
+		victory_points = { 6300 5 }
+		victory_points = { 6357 5 }
+		victory_points = { 6416 2 }
+		victory_points = { 6486 1 }
+		victory_points = { 6598 5 }
+		victory_points = { 6612 5 }
+		victory_points = { 6638 20 }
+		victory_points = { 6639 2 }
+		victory_points = { 6641 5 }
+		victory_points = { 6713 5 }
+		victory_points = { 6755 1 }
+		victory_points = { 6784 1 }
+		victory_points = { 6785 5 }
+		victory_points = { 6786 1 }
+		victory_points = { 6809 5 }
+		victory_points = { 6820 10 }
+		victory_points = { 6865 80 }
+		victory_points = { 6982 2 }
+		victory_points = { 7020 20 }
+		victory_points = { 7030 5 }
+		victory_points = { 7122 5 }
+		victory_points = { 7189 1 }
+		victory_points = { 7266 10 }
+		victory_points = { 7303 5 }
+		victory_points = { 7315 80 }
+		victory_points = { 7371 40 }
+	}
+	provinces={
+		4968 5030 5031 5076 5084 5151 5211 5212 5213 5240 5241 5288 5302 5311 5329 5354 5386 5412 5437 5475 5490 5509 5520 5532 5554 5622 5680 5681 5697 5698 5752 5781 5809 5834 5856 5857 5865 5875 5888 5899 5947 5987 5988 6001 6002 6003 6015 6037 6063 6074 6088 6102 6103 6104 6116 6128 6129 6172 6178 6206 6207 6244 6286 6287 6300 6317 6357 6380 6416 6459 6486 6508 6598 6612 6637 6638 6639 6640 6641 6653 6713 6733 6754 6755 6784 6785 6786 6809 6820 6857 6865 6982 7019 7020 7030 7058 7059 7122 7177 7189 7266 7303 7315 7371
+	}
+	local_supplies=0.0
+}

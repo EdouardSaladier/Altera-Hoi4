@@ -1,0 +1,23 @@
+state={
+	id=976
+	name="STATE_976" # West Bengal
+	manpower = 67138059
+	state_category = megalopolis
+	history={
+		owner = BEN
+		add_core_of = BEN
+		victory_points = { 11002 20 }
+		victory_points = { 11143 80 }
+		victory_points = { 11212 20 }
+		victory_points = { 11286 40 }
+		victory_points = { 11362 80 }
+		victory_points = { 11397 80 }
+		victory_points = { 11419 40 }
+		victory_points = { 11458 5 }
+		victory_points = { 11459 40 }
+	}
+	provinces={
+		11002 11143 11212 11286 11362 11397 11419 11458 11459
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=945
+	name="STATE_945" # Anlong
+	manpower = 1600
+	state_category = pastoral
+	history={
+		owner = ANL
+		add_core_of = ANL
+	}
+	provinces={
+		10805
+	}
+	local_supplies=0.0
+}

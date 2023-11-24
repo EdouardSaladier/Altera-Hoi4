@@ -1,0 +1,14 @@
+state={
+	id=1407
+	name="STATE_1407" # Lelu
+	manpower = 170
+	state_category = pastoral
+	history={
+		owner = LEL
+		add_core_of = LEL
+	}
+	provinces={
+		13483
+	}
+	local_supplies=0.0
+}

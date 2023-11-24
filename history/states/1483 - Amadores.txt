@@ -1,0 +1,14 @@
+state={
+	id=1483
+	name="STATE_1483" # Amadores
+	manpower = 447654
+	state_category = large_town
+	history={
+		owner = AMO
+		add_core_of = AMO
+	}
+	provinces={
+		13903 13964 14013 14211
+	}
+	local_supplies=0.0
+}

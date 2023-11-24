@@ -1,0 +1,15 @@
+state={
+	id=1776
+	name="STATE_1776" # Nendoa
+	manpower = 190
+	state_category = rural
+	history={
+		owner = NED
+		add_core_of = NED
+		victory_points = { 15195 1 }
+	}
+	provinces={
+		15195
+	}
+	local_supplies=0.0
+}

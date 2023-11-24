@@ -1,0 +1,19 @@
+state={
+	id=1205
+	name="STATE_1205" # Chachoengsao
+	manpower = 7542971
+	state_category = large_city
+	history={
+		owner = SIA
+		add_core_of = SIA
+		victory_points = { 12366 80 }
+		victory_points = { 12457 20 }
+		victory_points = { 12520 20 }
+		victory_points = { 12532 20 }
+		victory_points = { 12571 20 }
+	}
+	provinces={
+		12366 12457 12520 12532 12571
+	}
+	local_supplies=0.0
+}

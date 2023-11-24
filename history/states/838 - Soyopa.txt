@@ -1,0 +1,21 @@
+state={
+	id=838
+	name="STATE_838" # Soyopa
+	manpower = 2405524
+	state_category = town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10127 5 }
+		victory_points = { 10250 5 }
+		victory_points = { 10376 2 }
+		victory_points = { 10429 1 }
+		victory_points = { 10461 2 }
+		victory_points = { 10569 10 }
+		victory_points = { 10683 40 }
+	}
+	provinces={
+		10127 10250 10376 10429 10461 10513 10569 10683
+	}
+	local_supplies=0.0
+}

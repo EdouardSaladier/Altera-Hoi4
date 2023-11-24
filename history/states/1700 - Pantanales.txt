@@ -1,0 +1,23 @@
+state={
+	id=1700
+	name="STATE_1700" # Pantanales
+	manpower = 3454139
+	state_category = town
+	history={
+		owner = PAN
+		add_core_of = PAN
+		victory_points = { 15063 1 }
+		victory_points = { 15306 10 }
+		victory_points = { 15415 5 }
+		victory_points = { 15461 5 }
+		victory_points = { 15509 5 }
+		victory_points = { 15593 5 }
+		victory_points = { 15616 2 }
+		victory_points = { 15617 80 }
+		victory_points = { 15683 5 }
+	}
+	provinces={
+		14877 15063 15174 15176 15205 15215 15224 15250 15266 15274 15306 15324 15368 15415 15441 15447 15461 15470 15490 15509 15593 15616 15617 15654 15683 15705 15713 15762 15779 15859 15932
+	}
+	local_supplies=0.0
+}

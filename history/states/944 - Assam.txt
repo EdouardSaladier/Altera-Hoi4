@@ -1,0 +1,21 @@
+state={
+	id=944
+	name="STATE_944" # Assam
+	manpower = 20779514
+	state_category = metropolis
+	history={
+		owner = ASA
+		add_core_of = ASA
+		victory_points = { 10804 20 }
+		victory_points = { 10827 20 }
+		victory_points = { 10828 5 }
+		victory_points = { 10838 10 }
+		victory_points = { 10854 10 }
+		victory_points = { 10924 10 }
+		victory_points = { 10935 40 }
+	}
+	provinces={
+		10804 10827 10828 10838 10854 10924 10935
+	}
+	local_supplies=0.0
+}

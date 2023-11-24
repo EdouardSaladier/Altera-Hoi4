@@ -1,0 +1,14 @@
+state={
+	id=1531
+	name="STATE_1531" # Sipura
+	manpower = 88442
+	state_category = town
+	history={
+		owner = SIU
+		add_core_of = SIU
+	}
+	provinces={
+		14154 14291 14330 14363
+	}
+	local_supplies=0.0
+}

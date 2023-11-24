@@ -1,0 +1,15 @@
+state={
+	id=36
+	name="STATE_36" # Nenetskiy AOk
+	manpower = 145510
+	state_category = rural
+	history={
+		owner = BIA
+		add_core_of = BIA
+		victory_points = { 2135 5 }
+	}
+	provinces={
+		1959 1960 2015 2068 2135 2142 2149 2150 2151 2194 2203 2272 2273 2309 2310 2317 2394 2443 2452 2465 2507 2642 2729
+	}
+	local_supplies=0.0
+}

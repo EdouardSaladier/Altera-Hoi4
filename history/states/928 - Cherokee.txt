@@ -1,0 +1,15 @@
+state={
+	id=928
+	name="STATE_928" # Cherokee
+	manpower = 1091615
+	state_category = city
+	history={
+		owner = CER
+		add_core_of = CER
+		victory_points = { 10699 20 }
+	}
+	provinces={
+		10699
+	}
+	local_supplies=0.0
+}

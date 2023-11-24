@@ -1,0 +1,19 @@
+state={
+	id=292
+	name="STATE_292" # Volyn
+	manpower = 2758129
+	state_category = large_town
+	history={
+		owner = POL
+		add_core_of = POL
+		victory_points = { 6053 5 }
+		victory_points = { 6094 5 }
+		victory_points = { 6174 10 }
+		victory_points = { 6238 10 }
+		victory_points = { 6275 40 }
+	}
+	provinces={
+		6053 6094 6174 6238 6275
+	}
+	local_supplies=0.0
+}

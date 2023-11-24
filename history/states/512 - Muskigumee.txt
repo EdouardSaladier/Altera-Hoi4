@@ -1,0 +1,19 @@
+state={
+	id=512
+	name="STATE_512" # Muskigumee
+	manpower = 1707945
+	state_category = large_town
+	history={
+		owner = MUS
+		add_core_of = MUS
+		victory_points = { 7838 5 }
+		victory_points = { 7962 5 }
+		victory_points = { 7986 20 }
+		victory_points = { 8047 40 }
+		victory_points = { 8113 5 }
+	}
+	provinces={
+		7838 7962 7986 8047 8113
+	}
+	local_supplies=0.0
+}

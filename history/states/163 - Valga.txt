@@ -1,0 +1,16 @@
+state={
+	id=163
+	name="STATE_163" # Valga
+	manpower = 242023
+	state_category = town
+	history={
+		owner = EST
+		add_core_of = EST
+		victory_points = { 4523 1 }
+		victory_points = { 4524 5 }
+	}
+	provinces={
+		4523 4524
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=259
+	name="STATE_259" # Chilcot
+	manpower = 15220
+	state_category = pastoral
+	history={
+		owner = CHC
+		add_core_of = CHC
+		victory_points = { 5620 5 }
+		victory_points = { 6000 5 }
+	}
+	provinces={
+		5620 5854 5855 5886 5896 6000 6101
+	}
+	local_supplies=0.0
+}

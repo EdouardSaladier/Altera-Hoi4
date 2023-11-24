@@ -1,0 +1,15 @@
+state={
+	id=1079
+	name="STATE_1079" # Mexihco
+	manpower = 4440
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11723 80 }
+	}
+	provinces={
+		11723
+	}
+	local_supplies=0.0
+}

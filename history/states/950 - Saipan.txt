@@ -1,0 +1,14 @@
+state={
+	id=950
+	name="STATE_950" # Saipan
+	manpower = 4040
+	state_category = pastoral
+	history={
+		owner = SIP
+		add_core_of = SIP
+	}
+	provinces={
+		10816 10888 10969
+	}
+	local_supplies=0.0
+}

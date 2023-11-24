@@ -1,0 +1,17 @@
+state={
+	id=1236
+	name="STATE_1236" # Kano
+	manpower = 7165716
+	state_category = large_city
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12541 10 }
+		victory_points = { 12630 5 }
+		victory_points = { 12673 80 }
+	}
+	provinces={
+		12541 12630 12673
+	}
+	local_supplies=0.0
+}

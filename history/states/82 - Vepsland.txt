@@ -1,0 +1,21 @@
+state={
+	id=82
+	name="STATE_82" # Vepsland
+	manpower = 1396839
+	state_category = town
+	history={
+		owner = VEP
+		add_core_of = VEP
+		victory_points = { 3227 5 }
+		victory_points = { 3292 5 }
+		victory_points = { 3304 5 }
+		victory_points = { 3555 5 }
+		victory_points = { 3714 2 }
+		victory_points = { 3886 1 }
+		victory_points = { 3899 5 }
+	}
+	provinces={
+		3083 3114 3227 3292 3304 3429 3532 3555 3656 3713 3714 3736 3777 3846 3886 3899
+	}
+	local_supplies=0.0
+}

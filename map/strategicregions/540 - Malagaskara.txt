@@ -1,0 +1,9 @@
+strategic_region={
+	id=540
+	name="STRATEGICREGION_540" # Malagaskara
+	provinces={
+		15269 15287 15291 15336 15337 15353 15374 15396 15405
+	}
+	weather={
+	}
+}

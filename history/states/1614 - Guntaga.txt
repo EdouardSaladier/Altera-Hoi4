@@ -1,0 +1,16 @@
+state={
+	id=1614
+	name="STATE_1614" # Guntaga
+	manpower = 432370
+	state_category = town
+	history={
+		owner = GUN
+		add_core_of = GUN
+		victory_points = { 14495 1 }
+		victory_points = { 14618 1 }
+	}
+	provinces={
+		14495 14558 14618
+	}
+	local_supplies=0.0
+}

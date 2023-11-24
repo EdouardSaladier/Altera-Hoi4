@@ -1,0 +1,14 @@
+state={
+	id=975
+	name="STATE_975" # Kairan
+	manpower = 450
+	state_category = pastoral
+	history={
+		owner = KIA
+		add_core_of = KIA
+	}
+	provinces={
+		10982
+	}
+	local_supplies=0.0
+}

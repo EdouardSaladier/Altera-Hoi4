@@ -1,0 +1,9 @@
+strategic_region={
+	id=223
+	name="STRATEGICREGION_223" # Corciny
+	provinces={
+		8008 8030
+	}
+	weather={
+	}
+}

@@ -1,0 +1,22 @@
+state={
+	id=309
+	name="STATE_309" # Altin
+	manpower = 45180
+	state_category = pastoral
+	history={
+		owner = ALT
+		add_core_of = ALT
+		victory_points = { 6307 2 }
+		victory_points = { 6374 2 }
+		victory_points = { 6513 10 }
+		victory_points = { 6526 1 }
+		victory_points = { 6553 5 }
+		victory_points = { 6699 5 }
+		victory_points = { 6824 1 }
+		victory_points = { 6923 5 }
+	}
+	provinces={
+		6215 6307 6374 6513 6526 6553 6627 6676 6699 6748 6749 6750 6762 6824 6849 6900 6923 6941 7045
+	}
+	local_supplies=0.0
+}

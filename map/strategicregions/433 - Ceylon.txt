@@ -1,0 +1,9 @@
+strategic_region={
+	id=433
+	name="STRATEGICREGION_433" # Ceylon
+	provinces={
+		12957 13081 13112 13129 13273 13310 13316
+	}
+	weather={
+	}
+}

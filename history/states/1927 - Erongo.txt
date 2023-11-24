@@ -1,0 +1,16 @@
+state={
+	id=1927
+	name="STATE_1927" # Erongo
+	manpower = 24623
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+		victory_points = { 16156 5 }
+		victory_points = { 16229 5 }
+	}
+	provinces={
+		16156 16229 16246
+	}
+	local_supplies=0.0
+}

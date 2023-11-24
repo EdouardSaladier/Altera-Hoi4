@@ -1,0 +1,15 @@
+state={
+	id=1452
+	name="STATE_1452" # Devaja
+	manpower = 94041
+	state_category = large_town
+	history={
+		owner = DEA
+		add_core_of = DEA
+		victory_points = { 13736 5 }
+	}
+	provinces={
+		13736
+	}
+	local_supplies=0.0
+}

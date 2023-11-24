@@ -1,0 +1,16 @@
+state={
+	id=1834
+	name="STATE_1834" # Tahiti
+	manpower = 5620
+	state_category = rural
+	history={
+		owner = TAT
+		add_core_of = TAT
+		victory_points = { 15754 2 }
+		victory_points = { 15871 2 }
+	}
+	provinces={
+		15516 15517 15566 15586 15608 15623 15660 15711 15712 15722 15739 15740 15754 15768 15769 15770 15785 15817 15839 15871 15886 15887 15911 15912 15957 15962 15978 15998 16040 16127 16160 16167 16168 16255 16280 16296 16312 16390 16400
+	}
+	local_supplies=0.0
+}

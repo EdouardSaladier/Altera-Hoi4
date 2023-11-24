@@ -1,0 +1,18 @@
+state={
+	id=894
+	name="STATE_894" # Yeplan
+	manpower = 14780
+	state_category = pastoral
+	history={
+		owner = YEP
+		add_core_of = YEP
+		victory_points = { 10491 80 }
+		victory_points = { 10608 80 }
+		victory_points = { 10730 80 }
+		victory_points = { 10855 80 }
+	}
+	provinces={
+		10491 10608 10730 10855
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1419
+	name="STATE_1419" # Talar
+	manpower = 95020
+	state_category = large_town
+	history={
+		owner = TLA
+		add_core_of = TLA
+		victory_points = { 13600 1 }
+	}
+	provinces={
+		13541 13600 13685
+	}
+	local_supplies=0.0
+}

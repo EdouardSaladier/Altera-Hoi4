@@ -1,0 +1,14 @@
+state={
+	id=1273
+	name="STATE_1273" # Tobago
+	manpower = 90
+	state_category = pastoral
+	history={
+		owner = TOB
+		add_core_of = TOB
+	}
+	provinces={
+		12768
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=848
+	name="STATE_848" # Kalat
+	manpower = 4054661
+	state_category = town
+	history={
+		owner = GED
+		add_core_of = GED
+		victory_points = { 10202 5 }
+		victory_points = { 10297 10 }
+		victory_points = { 10389 5 }
+		victory_points = { 10409 5 }
+		victory_points = { 10749 1 }
+		victory_points = { 10834 20 }
+	}
+	provinces={
+		10202 10297 10371 10387 10389 10409 10423 10424 10467 10478 10587 10652 10663 10685 10746 10749 10834 10858
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1517
+	name="STATE_1517" # Maga
+	manpower = 1265084
+	state_category = large_town
+	history={
+		owner = MGA
+		add_core_of = MGA
+		victory_points = { 14107 10 }
+		victory_points = { 14198 1 }
+	}
+	provinces={
+		14107 14184 14198 14247
+	}
+	local_supplies=0.0
+}

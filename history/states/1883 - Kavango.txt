@@ -1,0 +1,15 @@
+state={
+	id=1883
+	name="STATE_1883" # Kavango
+	manpower = 1079136
+	state_category = town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15906 10 }
+	}
+	provinces={
+		15850 15898 15906 15953
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=986
+	name="STATE_986" # Khulna
+	manpower = 48159561
+	state_category = megalopolis
+	history={
+		owner = BEN
+		add_core_of = BEN
+		victory_points = { 11073 40 }
+		victory_points = { 11081 40 }
+		victory_points = { 11227 80 }
+		victory_points = { 11363 40 }
+	}
+	provinces={
+		11073 11081 11227 11363
+	}
+	local_supplies=0.0
+}

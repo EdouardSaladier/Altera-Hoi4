@@ -1,0 +1,14 @@
+state={
+	id=1618
+	name="STATE_1618" # Magata
+	manpower = 137306
+	state_category = large_town
+	history={
+		owner = MGT
+		add_core_of = MGT
+	}
+	provinces={
+		14511
+	}
+	local_supplies=0.0
+}

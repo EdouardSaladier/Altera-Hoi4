@@ -1,0 +1,15 @@
+state={
+	id=1798
+	name="STATE_1798" # Burar
+	manpower = 1180
+	state_category = rural
+	history={
+		owner = BRR
+		add_core_of = BRR
+		victory_points = { 15331 2 }
+	}
+	provinces={
+		15331
+	}
+	local_supplies=0.0
+}

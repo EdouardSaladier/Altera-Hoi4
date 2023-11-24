@@ -1,0 +1,16 @@
+state={
+	id=354
+	name="STATE_354" # Davst
+	manpower = 9613
+	state_category = rural
+	history={
+		owner = DZU
+		add_core_of = DZU
+		victory_points = { 6572 1 }
+		victory_points = { 6588 1 }
+	}
+	provinces={
+		6572 6588 6664
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1212
+	name="STATE_1212" # Preah Vihéar
+	manpower = 2552702
+	state_category = city
+	history={
+		owner = KHU
+		add_core_of = KHU
+		victory_points = { 12419 5 }
+		victory_points = { 12480 1 }
+	}
+	provinces={
+		12394 12419 12422 12480
+	}
+	local_supplies=0.0
+}

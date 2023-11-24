@@ -1,0 +1,15 @@
+state={
+	id=1378
+	name="STATE_1378" # Gulanga
+	manpower = 4052773
+	state_category = metropolis
+	history={
+		owner = GUG
+		add_core_of = GUG
+		victory_points = { 13338 80 }
+	}
+	provinces={
+		13338
+	}
+	local_supplies=0.0
+}

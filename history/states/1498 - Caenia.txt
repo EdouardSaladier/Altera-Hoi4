@@ -1,0 +1,20 @@
+state={
+	id=1498
+	name="STATE_1498" # Caenia
+	manpower = 12451108
+	state_category = city
+	history={
+		owner = CAE
+		add_core_of = CAE
+		victory_points = { 14001 40 }
+		victory_points = { 14041 5 }
+		victory_points = { 14081 10 }
+		victory_points = { 14121 40 }
+		victory_points = { 14208 5 }
+		victory_points = { 14223 1 }
+	}
+	provinces={
+		13984 14001 14041 14056 14081 14121 14208 14223
+	}
+	local_supplies=0.0
+}

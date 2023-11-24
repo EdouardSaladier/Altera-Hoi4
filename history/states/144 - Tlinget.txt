@@ -1,0 +1,15 @@
+state={
+	id=144
+	name="STATE_144" # Tlinget
+	manpower = 20000
+	state_category = pastoral
+	history={
+		owner = TLI
+		add_core_of = TLI
+		victory_points = { 4864 2 }
+	}
+	provinces={
+		4313 4416 4464 4606 4840 4864
+	}
+	local_supplies=0.0
+}

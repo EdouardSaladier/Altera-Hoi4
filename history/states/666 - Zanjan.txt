@@ -1,0 +1,17 @@
+state={
+	id=666
+	name="STATE_666" # Zanjan
+	manpower = 3842287
+	state_category = city
+	history={
+		owner = MED
+		add_core_of = MED
+		victory_points = { 9015 1 }
+		victory_points = { 9060 10 }
+		victory_points = { 9194 40 }
+	}
+	provinces={
+		9015 9060 9194
+	}
+	local_supplies=0.0
+}

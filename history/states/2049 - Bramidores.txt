@@ -1,0 +1,14 @@
+state={
+	id=2049
+	name="STATE_2049" # Bramidores
+	manpower = 580
+	state_category = rural
+	history={
+		owner = BRD
+		add_core_of = BRD
+	}
+	provinces={
+		18355 18381 18475 18487
+	}
+	local_supplies=0.0
+}

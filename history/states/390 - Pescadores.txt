@@ -1,0 +1,16 @@
+state={
+	id=390
+	name="STATE_390" # Pescadores
+	manpower = 298200
+	state_category = town
+	history={
+		owner = PEC
+		add_core_of = PEC
+		victory_points = { 6894 5 }
+		victory_points = { 7060 2 }
+	}
+	provinces={
+		6894 7060 7089 7564
+	}
+	local_supplies=0.0
+}

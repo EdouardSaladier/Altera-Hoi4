@@ -1,0 +1,21 @@
+state={
+	id=302
+	name="STATE_302" # East Kazakhstan
+	manpower = 1324187
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 6164 40 }
+		victory_points = { 6251 5 }
+		victory_points = { 6320 40 }
+		victory_points = { 6512 5 }
+		victory_points = { 6626 1 }
+		victory_points = { 6675 2 }
+		victory_points = { 6874 2 }
+	}
+	provinces={
+		6164 6251 6320 6481 6504 6512 6626 6675 6737 6874 7258 7294
+	}
+	local_supplies=0.0
+}

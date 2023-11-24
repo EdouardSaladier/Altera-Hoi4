@@ -1,0 +1,15 @@
+state={
+	id=1190
+	name="STATE_1190" # Goa
+	manpower = 1542910
+	state_category = metropolis
+	history={
+		owner = GAG
+		add_core_of = GAG
+		victory_points = { 12280 10 }
+	}
+	provinces={
+		12280
+	}
+	local_supplies=0.0
+}

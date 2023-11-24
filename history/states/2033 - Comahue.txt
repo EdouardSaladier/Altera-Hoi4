@@ -1,0 +1,25 @@
+state={
+	id=2033
+	name="STATE_2033" # Comahue
+	manpower = 63465
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17579 2 }
+		victory_points = { 17580 40 }
+		victory_points = { 17597 5 }
+		victory_points = { 17604 5 }
+		victory_points = { 17617 2 }
+		victory_points = { 17645 5 }
+		victory_points = { 17649 1 }
+		victory_points = { 17702 20 }
+		victory_points = { 17722 2 }
+		victory_points = { 17723 1 }
+		victory_points = { 17820 1 }
+	}
+	provinces={
+		17579 17580 17597 17604 17617 17628 17645 17649 17702 17722 17723 17778 17786 17820
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=198
+	name="STATE_198" # Panevezio
+	manpower = 720558
+	state_category = town
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = { 5009 20 }
+		victory_points = { 5062 5 }
+	}
+	provinces={
+		5009 5062
+	}
+	local_supplies=0.0
+}

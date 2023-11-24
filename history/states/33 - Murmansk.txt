@@ -1,0 +1,24 @@
+state={
+	id=33
+	name="STATE_33" # Murmansk
+	manpower = 864727
+	state_category = rural
+	history={
+		owner = SKO
+		add_core_of = SKO
+		victory_points = { 1927 5 }
+		victory_points = { 1993 5 }
+		victory_points = { 2027 10 }
+		victory_points = { 2063 5 }
+		victory_points = { 2080 1 }
+		victory_points = { 2308 5 }
+		victory_points = { 2316 10 }
+		victory_points = { 2336 10 }
+		victory_points = { 2585 5 }
+		victory_points = { 2609 5 }
+	}
+	provinces={
+		1927 1993 2027 2063 2067 2080 2134 2147 2148 2184 2217 2235 2258 2299 2308 2316 2326 2336 2337 2363 2419 2473 2506 2524 2525 2585 2609
+	}
+	local_supplies=0.0
+}

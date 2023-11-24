@@ -1,0 +1,14 @@
+state={
+	id=1088
+	name="STATE_1088" # Batan
+	manpower = 38540
+	state_category = town
+	history={
+		owner = BTA
+		add_core_of = BTA
+	}
+	provinces={
+		11766 11798 11858
+	}
+	local_supplies=0.0
+}

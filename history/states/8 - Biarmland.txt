@@ -1,0 +1,14 @@
+state={
+	id=8
+	name="STATE_8" # Biarmland
+	manpower = 104450
+	state_category = pastoral
+	history={
+		owner = BIA
+		add_core_of = BIA
+	}
+	provinces={
+		798 820 821 871 889 894 922 935 976 1007 1024 1025 1079 1090 1112 1186 1214 1323 1343 1386 1478 1479 1531 1569 1581 1601 1670 1681 1749 1815
+	}
+	local_supplies=0.0
+}

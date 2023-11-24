@@ -1,0 +1,26 @@
+state={
+	id=233
+	name="STATE_233" # Samara
+	manpower = 2399647
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5380 5 }
+		victory_points = { 5416 80 }
+		victory_points = { 5478 2 }
+		victory_points = { 5497 2 }
+		victory_points = { 5590 10 }
+		victory_points = { 5604 40 }
+		victory_points = { 5705 5 }
+		victory_points = { 5734 80 }
+		victory_points = { 5735 5 }
+		victory_points = { 5845 2 }
+		victory_points = { 5846 5 }
+		victory_points = { 5913 1 }
+	}
+	provinces={
+		5380 5416 5430 5478 5497 5590 5604 5705 5734 5735 5845 5846 5913
+	}
+	local_supplies=0.0
+}

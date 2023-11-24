@@ -1,0 +1,16 @@
+state={
+	id=464
+	name="STATE_464" # Catalia
+	manpower = 590139
+	state_category = large_town
+	history={
+		owner = CTA
+		add_core_of = CTA
+		victory_points = { 7494 5 }
+		victory_points = { 7541 5 }
+	}
+	provinces={
+		7494 7541
+	}
+	local_supplies=0.0
+}

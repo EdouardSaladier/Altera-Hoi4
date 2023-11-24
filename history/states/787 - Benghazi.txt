@@ -1,0 +1,18 @@
+state={
+	id=787
+	name="STATE_787" # Benghazi
+	manpower = 3461867
+	state_category = large_town
+	history={
+		owner = SAC
+		add_core_of = SAC
+		victory_points = { 9794 20 }
+		victory_points = { 9841 10 }
+		victory_points = { 9904 5 }
+		victory_points = { 9945 80 }
+	}
+	provinces={
+		9757 9794 9841 9855 9904 9945 9975 10026
+	}
+	local_supplies=0.0
+}

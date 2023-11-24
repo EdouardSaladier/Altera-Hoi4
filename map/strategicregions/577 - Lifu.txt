@@ -1,0 +1,9 @@
+strategic_region={
+	id=577
+	name="STRATEGICREGION_577" # Lifu
+	provinces={
+		16121
+	}
+	weather={
+	}
+}

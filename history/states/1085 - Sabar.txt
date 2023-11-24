@@ -1,0 +1,16 @@
+state={
+	id=1085
+	name="STATE_1085" # Sabar
+	manpower = 4430
+	state_category = pastoral
+	history={
+		owner = SBA
+		add_core_of = SBA
+		victory_points = { 11761 5 }
+		victory_points = { 11815 10 }
+	}
+	provinces={
+		11761 11771 11815 11885
+	}
+	local_supplies=0.0
+}

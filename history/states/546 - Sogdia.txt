@@ -1,0 +1,30 @@
+state={
+	id=546
+	name="STATE_546" # Sogdia
+	manpower = 18715690
+	state_category = city
+	history={
+		owner = SOG
+		add_core_of = SOG
+		victory_points = { 8068 80 }
+		victory_points = { 8168 20 }
+		victory_points = { 8175 20 }
+		victory_points = { 8190 5 }
+		victory_points = { 8360 5 }
+		victory_points = { 8361 20 }
+		victory_points = { 8424 5 }
+		victory_points = { 8425 20 }
+		victory_points = { 8449 1 }
+		victory_points = { 8450 20 }
+		victory_points = { 8480 20 }
+		victory_points = { 8481 5 }
+		victory_points = { 8503 5 }
+		victory_points = { 8504 20 }
+		victory_points = { 8622 5 }
+		victory_points = { 8632 10 }
+	}
+	provinces={
+		8068 8134 8168 8175 8190 8360 8361 8423 8424 8425 8449 8450 8480 8481 8503 8504 8622 8632 8648
+	}
+	local_supplies=0.0
+}

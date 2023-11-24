@@ -1,0 +1,14 @@
+state={
+	id=1682
+	name="STATE_1682" # Damar
+	manpower = 9898
+	state_category = town
+	history={
+		owner = DAR
+		add_core_of = DAR
+	}
+	provinces={
+		14806
+	}
+	local_supplies=0.0
+}

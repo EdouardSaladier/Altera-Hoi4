@@ -1,0 +1,15 @@
+state={
+	id=778
+	name="STATE_778" # Fusan
+	manpower = 51860614
+	state_category = megalopolis
+	history={
+		owner = FUS
+		add_core_of = FUS
+		victory_points = { 9686 1 }
+	}
+	provinces={
+		9686 9804 9877 9932 10008 10158 10214
+	}
+	local_supplies=0.0
+}

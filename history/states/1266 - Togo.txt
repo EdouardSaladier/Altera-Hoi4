@@ -1,0 +1,18 @@
+state={
+	id=1266
+	name="STATE_1266" # Togo
+	manpower = 3397073
+	state_category = city
+	history={
+		owner = TOG
+		add_core_of = TOG
+		victory_points = { 12737 5 }
+		victory_points = { 12922 20 }
+		victory_points = { 13088 5 }
+		victory_points = { 13268 10 }
+	}
+	provinces={
+		12737 12922 13088 13268
+	}
+	local_supplies=0.0
+}

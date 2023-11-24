@@ -1,0 +1,16 @@
+state={
+	id=797
+	name="STATE_797" # Ghardaïa
+	manpower = 353712
+	state_category = town
+	history={
+		owner = GET
+		add_core_of = GET
+		victory_points = { 9823 20 }
+		victory_points = { 9937 10 }
+	}
+	provinces={
+		9823 9824 9853 9920 9937 9989 10133
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1350
+	name="STATE_1350" # Wahibo
+	manpower = 1035320
+	state_category = town
+	history={
+		owner = WAH
+		add_core_of = WAH
+		victory_points = { 13122 10 }
+		victory_points = { 13629 40 }
+		victory_points = { 13989 2 }
+	}
+	provinces={
+		13122 13144 13347 13435 13468 13546 13556 13594 13629 13670 13748 13774 13775 13791 13885 13892 13989
+	}
+	local_supplies=0.0
+}

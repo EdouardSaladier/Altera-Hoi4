@@ -1,0 +1,16 @@
+state={
+	id=1274
+	name="STATE_1274" # Gombe
+	manpower = 1274929
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12772 10 }
+		victory_points = { 12823 20 }
+	}
+	provinces={
+		12772 12823
+	}
+	local_supplies=0.0
+}

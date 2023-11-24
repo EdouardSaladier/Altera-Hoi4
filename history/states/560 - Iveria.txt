@@ -1,0 +1,20 @@
+state={
+	id=560
+	name="STATE_560" # Iveria
+	manpower = 2841030
+	state_category = large_town
+	history={
+		owner = IVE
+		add_core_of = IVE
+		victory_points = { 8174 5 }
+		victory_points = { 8188 5 }
+		victory_points = { 8212 80 }
+		victory_points = { 8227 5 }
+		victory_points = { 8255 5 }
+		victory_points = { 8387 20 }
+	}
+	provinces={
+		8174 8188 8212 8227 8255 8387
+	}
+	local_supplies=0.0
+}

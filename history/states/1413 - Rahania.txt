@@ -1,0 +1,17 @@
+state={
+	id=1413
+	name="STATE_1413" # Rahania
+	manpower = 1305421
+	state_category = town
+	history={
+		owner = RAH
+		add_core_of = RAH
+		victory_points = { 13516 10 }
+		victory_points = { 13568 5 }
+		victory_points = { 13584 10 }
+	}
+	provinces={
+		13516 13568 13584 13635
+	}
+	local_supplies=0.0
+}

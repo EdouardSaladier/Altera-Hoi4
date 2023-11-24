@@ -1,0 +1,32 @@
+state={
+	id=868
+	name="STATE_868" # Urdu
+	manpower = 122495027
+	state_category = megalopolis
+	history={
+		owner = URD
+		add_core_of = URD
+		victory_points = { 10333 20 }
+		victory_points = { 10347 80 }
+		victory_points = { 10361 80 }
+		victory_points = { 10372 20 }
+		victory_points = { 10381 80 }
+		victory_points = { 10390 10 }
+		victory_points = { 10425 80 }
+		victory_points = { 10479 80 }
+		victory_points = { 10508 80 }
+		victory_points = { 10521 40 }
+		victory_points = { 10553 10 }
+		victory_points = { 10577 80 }
+		victory_points = { 10641 40 }
+		victory_points = { 10695 40 }
+		victory_points = { 10728 40 }
+		victory_points = { 10764 20 }
+		victory_points = { 10772 20 }
+		victory_points = { 10781 80 }
+	}
+	provinces={
+		10333 10347 10361 10372 10381 10390 10425 10479 10508 10521 10553 10577 10641 10695 10728 10764 10772 10781
+	}
+	local_supplies=0.0
+}

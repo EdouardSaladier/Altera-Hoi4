@@ -1,0 +1,16 @@
+state={
+	id=691
+	name="STATE_691" # Béjaïa
+	manpower = 4019345
+	state_category = large_city
+	history={
+		owner = PUI
+		add_core_of = PUI
+		victory_points = { 9176 20 }
+		victory_points = { 9214 40 }
+	}
+	provinces={
+		9176 9214
+	}
+	local_supplies=0.0
+}

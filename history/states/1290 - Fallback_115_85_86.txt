@@ -1,0 +1,14 @@
+state={
+	id=1290
+	name="STATE_1290" # Fallback_(115, 85, 86)
+	manpower = 250
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+	}
+	provinces={
+		12829 12876
+	}
+	local_supplies=0.0
+}

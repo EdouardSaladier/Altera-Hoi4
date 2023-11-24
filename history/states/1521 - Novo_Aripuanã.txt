@@ -1,0 +1,19 @@
+state={
+	id=1521
+	name="STATE_1521" # Novo Aripuanã
+	manpower = 687643
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+		victory_points = { 14119 5 }
+		victory_points = { 14270 10 }
+		victory_points = { 14292 10 }
+		victory_points = { 14390 10 }
+		victory_points = { 14444 5 }
+	}
+	provinces={
+		14119 14270 14292 14390 14444 14532 14591 14613 14625 14772
+	}
+	local_supplies=0.0
+}

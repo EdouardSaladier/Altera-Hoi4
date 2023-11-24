@@ -1,0 +1,16 @@
+state={
+	id=761
+	name="STATE_761" # Cajuaica
+	manpower = 7630
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9582 5 }
+		victory_points = { 9660 1 }
+	}
+	provinces={
+		9582 9660
+	}
+	local_supplies=0.0
+}

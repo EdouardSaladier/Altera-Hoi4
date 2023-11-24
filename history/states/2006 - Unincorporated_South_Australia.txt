@@ -1,0 +1,17 @@
+state={
+	id=2006
+	name="STATE_2006" # Unincorporated South Australia
+	manpower = 56549
+	state_category = rural
+	history={
+		owner = TAS
+		add_core_of = TAS
+		victory_points = { 17037 2 }
+		victory_points = { 17074 2 }
+		victory_points = { 17161 5 }
+	}
+	provinces={
+		17035 17036 17037 17038 17039 17074 17123 17139 17161 17165
+	}
+	local_supplies=0.0
+}

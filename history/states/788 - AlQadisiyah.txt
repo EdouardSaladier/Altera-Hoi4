@@ -1,0 +1,16 @@
+state={
+	id=788
+	name="STATE_788" # Al-Qadisiyah
+	manpower = 3196276
+	state_category = city
+	history={
+		owner = ACA
+		add_core_of = ACA
+		victory_points = { 9759 80 }
+		victory_points = { 9923 20 }
+	}
+	provinces={
+		9759 9923
+	}
+	local_supplies=0.0
+}

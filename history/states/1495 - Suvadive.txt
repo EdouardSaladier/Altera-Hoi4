@@ -1,0 +1,15 @@
+state={
+	id=1495
+	name="STATE_1495" # Suvadive
+	manpower = 730
+	state_category = pastoral
+	history={
+		owner = SUV
+		add_core_of = SUV
+		victory_points = { 14095 5 }
+	}
+	provinces={
+		13965 14017 14095 14290
+	}
+	local_supplies=0.0
+}

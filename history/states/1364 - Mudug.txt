@@ -1,0 +1,15 @@
+state={
+	id=1364
+	name="STATE_1364" # Mudug
+	manpower = 2041514
+	state_category = large_town
+	history={
+		owner = SOM
+		add_core_of = SOM
+		victory_points = { 13229 10 }
+	}
+	provinces={
+		13210 13229 13242 13295
+	}
+	local_supplies=0.0
+}

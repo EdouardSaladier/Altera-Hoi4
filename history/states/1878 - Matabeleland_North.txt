@@ -1,0 +1,17 @@
+state={
+	id=1878
+	name="STATE_1878" # Matabeleland North
+	manpower = 1654665
+	state_category = town
+	history={
+		owner = SHO
+		add_core_of = SHO
+		victory_points = { 15841 1 }
+		victory_points = { 15908 5 }
+		victory_points = { 15974 5 }
+	}
+	provinces={
+		15827 15841 15908 15974 15991 16018
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=506
+	name="STRATEGICREGION_506" # Mangareva
+	provinces={
+		14485 14656 14673 14735 14829 14903 15010
+	}
+	weather={
+	}
+}

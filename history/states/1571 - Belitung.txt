@@ -1,0 +1,14 @@
+state={
+	id=1571
+	name="STATE_1571" # Belitung
+	manpower = 309516
+	state_category = large_town
+	history={
+		owner = BET
+		add_core_of = BET
+	}
+	provinces={
+		14324
+	}
+	local_supplies=0.0
+}

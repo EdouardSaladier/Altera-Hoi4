@@ -1,0 +1,16 @@
+state={
+	id=1344
+	name="STATE_1344" # Cainame
+	manpower = 895879
+	state_category = town
+	history={
+		owner = CAI
+		add_core_of = CAI
+		victory_points = { 13095 20 }
+		victory_points = { 13382 5 }
+	}
+	provinces={
+		13095 13360 13382
+	}
+	local_supplies=0.0
+}

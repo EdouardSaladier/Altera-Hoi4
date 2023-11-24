@@ -1,0 +1,19 @@
+state={
+	id=339
+	name="STATE_339" # Donets'k
+	manpower = 2348530
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6431 20 }
+		victory_points = { 6760 20 }
+		victory_points = { 6791 80 }
+		victory_points = { 6885 80 }
+		victory_points = { 6886 10 }
+	}
+	provinces={
+		6431 6760 6791 6885 6886
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1667
+	name="STATE_1667" # Jirna
+	manpower = 65997
+	state_category = town
+	history={
+		owner = JIR
+		add_core_of = JIR
+	}
+	provinces={
+		14726
+	}
+	local_supplies=0.0
+}

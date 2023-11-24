@@ -1,0 +1,14 @@
+state={
+	id=1796
+	name="STATE_1796" # Jarama
+	manpower = 360
+	state_category = rural
+	history={
+		owner = JRA
+		add_core_of = JRA
+	}
+	provinces={
+		15329
+	}
+	local_supplies=0.0
+}

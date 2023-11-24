@@ -1,0 +1,37 @@
+state={
+	id=792
+	name="STATE_792" # Punjab
+	manpower = 105329264
+	state_category = megalopolis
+	history={
+		owner = PUN
+		add_core_of = PUN
+		victory_points = { 9784 20 }
+		victory_points = { 9863 20 }
+		victory_points = { 9864 20 }
+		victory_points = { 9887 80 }
+		victory_points = { 9888 10 }
+		victory_points = { 9889 80 }
+		victory_points = { 9908 40 }
+		victory_points = { 9967 80 }
+		victory_points = { 10042 20 }
+		victory_points = { 10057 1 }
+		victory_points = { 10067 80 }
+		victory_points = { 10122 20 }
+		victory_points = { 10123 10 }
+		victory_points = { 10153 20 }
+		victory_points = { 10184 40 }
+		victory_points = { 10225 10 }
+		victory_points = { 10226 80 }
+		victory_points = { 10259 40 }
+		victory_points = { 10360 80 }
+		victory_points = { 10379 5 }
+		victory_points = { 10380 10 }
+		victory_points = { 10450 20 }
+		victory_points = { 10551 80 }
+	}
+	provinces={
+		9784 9863 9864 9887 9888 9889 9908 9967 10042 10057 10067 10122 10123 10153 10184 10225 10226 10259 10360 10379 10380 10450 10459 10551
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1788
+	name="STATE_1788" # Thurata
+	manpower = 1860
+	state_category = rural
+	history={
+		owner = THR
+		add_core_of = THR
+	}
+	provinces={
+		15263
+	}
+	local_supplies=0.0
+}

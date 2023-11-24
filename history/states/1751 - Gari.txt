@@ -1,0 +1,15 @@
+state={
+	id=1751
+	name="STATE_1751" # Gari
+	manpower = 167417
+	state_category = town
+	history={
+		owner = RAI
+		add_core_of = RAI
+		victory_points = { 15052 10 }
+	}
+	provinces={
+		15052
+	}
+	local_supplies=0.0
+}

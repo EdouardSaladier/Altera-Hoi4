@@ -1,0 +1,15 @@
+state={
+	id=53
+	name="STATE_53" # Tanana
+	manpower = 97103
+	state_category = rural
+	history={
+		owner = TAN
+		add_core_of = TAN
+		victory_points = { 2436 1 }
+	}
+	provinces={
+		2436 2501 2512 2657 2683 2736 2786 2864 2915 2925 3005 3036 3047 3141 3164 3196 3270 3296 3346 3448
+	}
+	local_supplies=0.0
+}

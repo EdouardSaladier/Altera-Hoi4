@@ -1,0 +1,18 @@
+state={
+	id=1384
+	name="STATE_1384" # Galguduud
+	manpower = 1701676
+	state_category = town
+	history={
+		owner = AGU
+		add_core_of = AGU
+		victory_points = { 13372 5 }
+		victory_points = { 13373 5 }
+		victory_points = { 13519 1 }
+		victory_points = { 13599 5 }
+	}
+	provinces={
+		13366 13372 13373 13519 13599
+	}
+	local_supplies=0.0
+}

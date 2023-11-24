@@ -1,0 +1,9 @@
+strategic_region={
+	id=650
+	name="STRATEGICREGION_650" # Rekohua
+	provinces={
+		17835 17892 17907
+	}
+	weather={
+	}
+}

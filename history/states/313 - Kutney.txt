@@ -1,0 +1,21 @@
+state={
+	id=313
+	name="STATE_313" # Kutney
+	manpower = 39950
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 6324 1 }
+		victory_points = { 6336 10 }
+		victory_points = { 6337 40 }
+		victory_points = { 6428 1 }
+		victory_points = { 6559 5 }
+		victory_points = { 6608 2 }
+		victory_points = { 6781 5 }
+	}
+	provinces={
+		6256 6270 6324 6336 6337 6428 6559 6607 6608 6781
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=531
+	name="STATE_531" # Alxa
+	manpower = 233615
+	state_category = rural
+	history={
+		owner = TAG
+		add_core_of = TAG
+		victory_points = { 8100 1 }
+		victory_points = { 8262 1 }
+	}
+	provinces={
+		7993 8000 8022 8035 8100 8160 8161 8262 8346 8484
+	}
+	local_supplies=0.0
+}

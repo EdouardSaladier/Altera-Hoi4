@@ -1,0 +1,14 @@
+state={
+	id=1641
+	name="STATE_1641" # Kala
+	manpower = 1330
+	state_category = rural
+	history={
+		owner = KLA
+		add_core_of = KLA
+	}
+	provinces={
+		14619
+	}
+	local_supplies=0.0
+}

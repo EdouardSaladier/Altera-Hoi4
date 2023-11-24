@@ -1,0 +1,15 @@
+state={
+	id=25
+	name="STATE_25" # Nizhnekolymskiy rayon
+	manpower = 67980
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 2010 2 }
+	}
+	provinces={
+		1730 1737 1738 1764 1768 1840 1861 1953 1965 1966 1987 1998 2010
+	}
+	local_supplies=0.0
+}

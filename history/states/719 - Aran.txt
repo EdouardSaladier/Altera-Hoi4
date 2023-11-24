@@ -1,0 +1,15 @@
+state={
+	id=719
+	name="STATE_719" # Aran
+	manpower = 1890130
+	state_category = large_city
+	history={
+		owner = AAN
+		add_core_of = AAN
+		victory_points = { 9334 40 }
+	}
+	provinces={
+		9334
+	}
+	local_supplies=0.0
+}

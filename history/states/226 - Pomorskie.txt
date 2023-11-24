@@ -1,0 +1,16 @@
+state={
+	id=226
+	name="STATE_226" # Pomorskie
+	manpower = 1416938
+	state_category = large_town
+	history={
+		owner = POM
+		add_core_of = POM
+		victory_points = { 5322 40 }
+		victory_points = { 5557 5 }
+	}
+	provinces={
+		5322 5557
+	}
+	local_supplies=0.0
+}

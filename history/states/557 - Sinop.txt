@@ -1,0 +1,15 @@
+state={
+	id=557
+	name="STATE_557" # Sinop
+	manpower = 1731322
+	state_category = large_town
+	history={
+		owner = GAL
+		add_core_of = GAL
+		victory_points = { 8165 20 }
+	}
+	provinces={
+		8165
+	}
+	local_supplies=0.0
+}

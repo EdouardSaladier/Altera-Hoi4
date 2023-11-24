@@ -1,0 +1,15 @@
+state={
+	id=1506
+	name="STATE_1506" # Galapagos
+	manpower = 2969
+	state_category = rural
+	history={
+		owner = GAP
+		add_core_of = GAP
+		victory_points = { 14039 2 }
+	}
+	provinces={
+		14039 14061 14084 14127 14178
+	}
+	local_supplies=0.0
+}

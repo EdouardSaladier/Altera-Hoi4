@@ -1,0 +1,17 @@
+state={
+	id=2036
+	name="STATE_2036" # Chubut
+	manpower = 68130
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17757 2 }
+		victory_points = { 17762 10 }
+		victory_points = { 17795 20 }
+	}
+	provinces={
+		17712 17757 17762 17795 17823 17850 17871 17915
+	}
+	local_supplies=0.0
+}

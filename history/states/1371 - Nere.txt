@@ -1,0 +1,17 @@
+state={
+	id=1371
+	name="STATE_1371" # Nere
+	manpower = 2081747
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 13284 80 }
+		victory_points = { 13332 80 }
+		victory_points = { 13333 40 }
+	}
+	provinces={
+		13284 13332 13333
+	}
+	local_supplies=0.0
+}

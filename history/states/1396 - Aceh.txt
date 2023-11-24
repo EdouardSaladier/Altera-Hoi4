@@ -1,0 +1,19 @@
+state={
+	id=1396
+	name="STATE_1396" # Aceh
+	manpower = 4307917
+	state_category = city
+	history={
+		owner = ACE
+		add_core_of = ACE
+		victory_points = { 13422 1 }
+		victory_points = { 13460 10 }
+		victory_points = { 13494 1 }
+		victory_points = { 13504 1 }
+		victory_points = { 13559 1 }
+	}
+	provinces={
+		13422 13460 13494 13504 13559
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=327
+	name="STATE_327" # Dzhangil`dinskiy
+	manpower = 27188
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 6360 10 }
+	}
+	provinces={
+		6360 6423 6524 6580
+	}
+	local_supplies=0.0
+}

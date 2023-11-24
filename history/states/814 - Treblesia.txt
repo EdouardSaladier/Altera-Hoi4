@@ -1,0 +1,16 @@
+state={
+	id=814
+	name="STATE_814" # Treblesia
+	manpower = 1096024
+	state_category = town
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 9944 20 }
+		victory_points = { 10065 5 }
+	}
+	provinces={
+		9944 10031 10065 10119 10267
+	}
+	local_supplies=0.0
+}

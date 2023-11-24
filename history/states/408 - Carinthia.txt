@@ -1,0 +1,17 @@
+state={
+	id=408
+	name="STATE_408" # Carinthia
+	manpower = 3565256
+	state_category = city
+	history={
+		owner = CAH
+		add_core_of = CAH
+		victory_points = { 7063 10 }
+		victory_points = { 7182 40 }
+		victory_points = { 7255 5 }
+	}
+	provinces={
+		7063 7182 7255
+	}
+	local_supplies=0.0
+}

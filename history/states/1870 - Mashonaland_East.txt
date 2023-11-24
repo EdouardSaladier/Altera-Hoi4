@@ -1,0 +1,16 @@
+state={
+	id=1870
+	name="STATE_1870" # Mashonaland East
+	manpower = 1282266
+	state_category = large_town
+	history={
+		owner = SHO
+		add_core_of = SHO
+		victory_points = { 15783 5 }
+		victory_points = { 15893 10 }
+	}
+	provinces={
+		15783 15893
+	}
+	local_supplies=0.0
+}

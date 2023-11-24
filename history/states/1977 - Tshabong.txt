@@ -1,0 +1,15 @@
+state={
+	id=1977
+	name="STATE_1977" # Tshabong
+	manpower = 12189
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+		victory_points = { 16599 5 }
+	}
+	provinces={
+		16573 16599 16610
+	}
+	local_supplies=0.0
+}

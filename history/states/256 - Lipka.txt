@@ -1,0 +1,19 @@
+state={
+	id=256
+	name="STATE_256" # Lipka
+	manpower = 1924999
+	state_category = large_town
+	history={
+		owner = LIP
+		add_core_of = LIP
+		victory_points = { 5586 5 }
+		victory_points = { 5587 10 }
+		victory_points = { 5717 10 }
+		victory_points = { 5770 5 }
+		victory_points = { 5890 20 }
+	}
+	provinces={
+		5586 5587 5717 5770 5890
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=930
+	name="STATE_930" # Nuevo León
+	manpower = 2428158
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10708 5 }
+		victory_points = { 10776 5 }
+		victory_points = { 10882 80 }
+		victory_points = { 10927 5 }
+		victory_points = { 11047 10 }
+		victory_points = { 11146 5 }
+	}
+	provinces={
+		10708 10776 10882 10927 11047 11146
+	}
+	local_supplies=0.0
+}

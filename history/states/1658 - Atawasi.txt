@@ -1,0 +1,14 @@
+state={
+	id=1658
+	name="STATE_1658" # Atawasi
+	manpower = 29153
+	state_category = town
+	history={
+		owner = ATW
+		add_core_of = ATW
+	}
+	provinces={
+		14686
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=383
+	name="STATE_383" # Tsenkher
+	manpower = 7530
+	state_category = pastoral
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6851 1 }
+		victory_points = { 6876 1 }
+	}
+	provinces={
+		6851 6876 7083
+	}
+	local_supplies=0.0
+}

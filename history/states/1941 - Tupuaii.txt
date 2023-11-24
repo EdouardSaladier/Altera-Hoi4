@@ -1,0 +1,14 @@
+state={
+	id=1941
+	name="STATE_1941" # Tupuaii
+	manpower = 3080
+	state_category = rural
+	history={
+		owner = TUP
+		add_core_of = TUP
+	}
+	provinces={
+		16267 16337 16342 16346 16409 16435 16502 16546 16585 16652 16658 16698 16750 16777 16840 16846
+	}
+	local_supplies=0.0
+}

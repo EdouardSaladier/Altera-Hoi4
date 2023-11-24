@@ -1,0 +1,16 @@
+state={
+	id=1774
+	name="STATE_1774" # Bié
+	manpower = 3941052
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15232 5 }
+		victory_points = { 15288 5 }
+	}
+	provinces={
+		15191 15232 15233 15278 15288 15370
+	}
+	local_supplies=0.0
+}

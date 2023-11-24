@@ -1,0 +1,9 @@
+strategic_region={
+	id=190
+	name="STRATEGICREGION_190" # Helvetium
+	provinces={
+		6931 6998 7011 7037 7052 7075 7123 7132 7133 7202 7235 7267 7268 7269 7289 7341
+	}
+	weather={
+	}
+}

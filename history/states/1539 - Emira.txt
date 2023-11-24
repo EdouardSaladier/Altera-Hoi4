@@ -1,0 +1,14 @@
+state={
+	id=1539
+	name="STATE_1539" # Emira
+	manpower = 6370
+	state_category = town
+	history={
+		owner = EMI
+		add_core_of = EMI
+	}
+	provinces={
+		14193
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=574
+	name="STATE_574" # Haltia
+	manpower = 4560362
+	state_category = city
+	history={
+		owner = HAL
+		add_core_of = HAL
+		victory_points = { 8254 80 }
+		victory_points = { 8330 20 }
+		victory_points = { 8402 20 }
+		victory_points = { 8403 40 }
+	}
+	provinces={
+		8254 8330 8402 8403
+	}
+	local_supplies=0.0
+}

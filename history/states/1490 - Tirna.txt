@@ -1,0 +1,14 @@
+state={
+	id=1490
+	name="STATE_1490" # Tirna
+	manpower = 200
+	state_category = pastoral
+	history={
+		owner = TIA
+		add_core_of = TIA
+	}
+	provinces={
+		13946
+	}
+	local_supplies=0.0
+}

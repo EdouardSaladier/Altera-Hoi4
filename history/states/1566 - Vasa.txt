@@ -1,0 +1,15 @@
+state={
+	id=1566
+	name="STATE_1566" # Vasa
+	manpower = 404033
+	state_category = metropolis
+	history={
+		owner = VAA
+		add_core_of = VAA
+		victory_points = { 14308 1 }
+	}
+	provinces={
+		14308
+	}
+	local_supplies=0.0
+}

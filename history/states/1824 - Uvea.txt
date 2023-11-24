@@ -1,0 +1,14 @@
+state={
+	id=1824
+	name="STATE_1824" # Uvea
+	manpower = 300
+	state_category = rural
+	history={
+		owner = UVE
+		add_core_of = UVE
+	}
+	provinces={
+		15466 15495
+	}
+	local_supplies=0.0
+}

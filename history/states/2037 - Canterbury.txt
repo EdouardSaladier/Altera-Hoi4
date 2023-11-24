@@ -1,0 +1,18 @@
+state={
+	id=2037
+	name="STATE_2037" # Canterbury
+	manpower = 2403207
+	state_category = town
+	history={
+		owner = HUM
+		add_core_of = HUM
+		victory_points = { 17819 1 }
+		victory_points = { 17832 5 }
+		victory_points = { 17845 2 }
+		victory_points = { 17891 5 }
+	}
+	provinces={
+		17717 17740 17751 17781 17782 17800 17814 17819 17832 17845 17885 17891
+	}
+	local_supplies=0.0
+}

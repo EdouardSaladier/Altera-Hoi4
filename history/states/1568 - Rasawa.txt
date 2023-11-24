@@ -1,0 +1,15 @@
+state={
+	id=1568
+	name="STATE_1568" # Rasawa
+	manpower = 717532
+	state_category = town
+	history={
+		owner = RAS
+		add_core_of = RAS
+		victory_points = { 14317 1 }
+	}
+	provinces={
+		14317 14332
+	}
+	local_supplies=0.0
+}

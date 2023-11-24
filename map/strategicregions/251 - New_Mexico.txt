@@ -1,0 +1,9 @@
+strategic_region={
+	id=251
+	name="STRATEGICREGION_251" # New Mexico
+	provinces={
+		8940 9028 9041 9382 9407 9408 9672 9673 9735 9767
+	}
+	weather={
+	}
+}

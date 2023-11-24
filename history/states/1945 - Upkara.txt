@@ -1,0 +1,14 @@
+state={
+	id=1945
+	name="STATE_1945" # Upkara
+	manpower = 5810
+	state_category = rural
+	history={
+		owner = UPK
+		add_core_of = UPK
+	}
+	provinces={
+		16285
+	}
+	local_supplies=0.0
+}

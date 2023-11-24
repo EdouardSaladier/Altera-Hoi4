@@ -1,0 +1,20 @@
+state={
+	id=1456
+	name="STATE_1456" # Kuti
+	manpower = 3474202
+	state_category = large_town
+	history={
+		owner = KUT
+		add_core_of = KUT
+		victory_points = { 13762 1 }
+		victory_points = { 13797 1 }
+		victory_points = { 13897 1 }
+		victory_points = { 13916 40 }
+		victory_points = { 14036 1 }
+		victory_points = { 14044 1 }
+	}
+	provinces={
+		13762 13797 13838 13839 13875 13897 13916 13945 14036 14044 14058
+	}
+	local_supplies=0.0
+}

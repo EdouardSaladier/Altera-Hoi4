@@ -1,0 +1,28 @@
+state={
+	id=2013
+	name="STATE_2013" # Western Cape
+	manpower = 5810384
+	state_category = large_town
+	history={
+		owner = RHO
+		add_core_of = RHO
+		victory_points = { 17073 5 }
+		victory_points = { 17175 10 }
+		victory_points = { 17233 1 }
+		victory_points = { 17259 5 }
+		victory_points = { 17266 5 }
+		victory_points = { 17282 5 }
+		victory_points = { 17290 5 }
+		victory_points = { 17318 20 }
+		victory_points = { 17319 5 }
+		victory_points = { 17320 5 }
+		victory_points = { 17329 5 }
+		victory_points = { 17334 20 }
+		victory_points = { 17350 5 }
+		victory_points = { 17366 5 }
+	}
+	provinces={
+		17073 17175 17180 17181 17220 17227 17232 17233 17252 17259 17266 17282 17290 17318 17319 17320 17329 17334 17350 17366
+	}
+	local_supplies=0.0
+}

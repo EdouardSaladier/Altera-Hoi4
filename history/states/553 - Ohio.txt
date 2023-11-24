@@ -1,0 +1,23 @@
+state={
+	id=553
+	name="STATE_553" # Ohio
+	manpower = 27470
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8131 5 }
+		victory_points = { 8196 5 }
+		victory_points = { 8249 40 }
+		victory_points = { 8352 10 }
+		victory_points = { 8353 40 }
+		victory_points = { 8430 80 }
+		victory_points = { 8465 5 }
+		victory_points = { 8547 10 }
+		victory_points = { 8654 5 }
+	}
+	provinces={
+		8131 8196 8249 8352 8353 8430 8465 8547 8654
+	}
+	local_supplies=0.0
+}

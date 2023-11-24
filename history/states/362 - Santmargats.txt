@@ -1,0 +1,15 @@
+state={
+	id=362
+	name="STATE_362" # Santmargats
+	manpower = 10760
+	state_category = pastoral
+	history={
+		owner = DZU
+		add_core_of = DZU
+		victory_points = { 6665 1 }
+	}
+	provinces={
+		6665
+	}
+	local_supplies=0.0
+}

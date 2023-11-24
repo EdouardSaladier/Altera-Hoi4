@@ -1,0 +1,15 @@
+state={
+	id=1428
+	name="STATE_1428" # Sangha-Mbaéré
+	manpower = 281192
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 13598 5 }
+	}
+	provinces={
+		13598 13643
+	}
+	local_supplies=0.0
+}

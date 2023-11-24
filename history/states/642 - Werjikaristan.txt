@@ -1,0 +1,15 @@
+state={
+	id=642
+	name="STATE_642" # Werjikaristan
+	manpower = 103870
+	state_category = rural
+	history={
+		owner = WER
+		add_core_of = WER
+		victory_points = { 8878 5 }
+	}
+	provinces={
+		8833 8878 9018
+	}
+	local_supplies=0.0
+}

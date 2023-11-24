@@ -1,0 +1,15 @@
+state={
+	id=584
+	name="STATE_584" # Sakarya
+	manpower = 1902673
+	state_category = city
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8357 40 }
+	}
+	provinces={
+		8357
+	}
+	local_supplies=0.0
+}

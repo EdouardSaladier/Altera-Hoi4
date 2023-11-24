@@ -1,0 +1,15 @@
+state={
+	id=41
+	name="STATE_41" # Eveno-Bytantayskiy rayon
+	manpower = 53190
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 2290 1 }
+	}
+	provinces={
+		2019 2090 2096 2104 2155 2163 2164 2221 2290 2319 2353 2423 2476 2510 2511 2529 2587 2670 2732
+	}
+	local_supplies=0.0
+}

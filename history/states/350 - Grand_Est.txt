@@ -1,0 +1,22 @@
+state={
+	id=350
+	name="STATE_350" # Grand Est
+	manpower = 6382300
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 6549 5 }
+		victory_points = { 6600 5 }
+		victory_points = { 6614 5 }
+		victory_points = { 6615 10 }
+		victory_points = { 6654 20 }
+		victory_points = { 6683 20 }
+		victory_points = { 6692 2 }
+		victory_points = { 6797 5 }
+	}
+	provinces={
+		6549 6600 6614 6615 6654 6683 6692 6797
+	}
+	local_supplies=0.0
+}

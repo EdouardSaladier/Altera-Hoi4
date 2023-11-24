@@ -1,0 +1,23 @@
+state={
+	id=1279
+	name="STATE_1279" # Sucre
+	manpower = 9179117
+	state_category = city
+	history={
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 12798 80 }
+		victory_points = { 12894 5 }
+		victory_points = { 12905 10 }
+		victory_points = { 12913 5 }
+		victory_points = { 12971 5 }
+		victory_points = { 12988 20 }
+		victory_points = { 13047 10 }
+		victory_points = { 13094 10 }
+		victory_points = { 13169 5 }
+	}
+	provinces={
+		12798 12894 12905 12913 12971 12988 13047 13094 13169
+	}
+	local_supplies=0.0
+}

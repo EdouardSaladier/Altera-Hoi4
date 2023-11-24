@@ -1,0 +1,17 @@
+state={
+	id=629
+	name="STATE_629" # Haixi Mongol and Tibetan
+	manpower = 2835625
+	state_category = town
+	history={
+		owner = SAL
+		add_core_of = SAL
+		victory_points = { 8758 1 }
+		victory_points = { 9123 1 }
+		victory_points = { 9160 1 }
+	}
+	provinces={
+		8727 8739 8757 8758 8809 8821 8872 8916 9038 9062 9095 9096 9105 9106 9123 9150 9160 9169 9170 9171 9204 9260 9351
+	}
+	local_supplies=0.0
+}

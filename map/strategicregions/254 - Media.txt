@@ -1,0 +1,9 @@
+strategic_region={
+	id=254
+	name="STRATEGICREGION_254" # Media
+	provinces={
+		9015 9060 9194 9200 9243 9252 9253 9259 9343 9361 9362 9363 9386 9387 9466 9517 9548
+	}
+	weather={
+	}
+}

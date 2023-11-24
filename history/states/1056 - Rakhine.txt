@@ -1,0 +1,14 @@
+state={
+	id=1056
+	name="STATE_1056" # Rakhine
+	manpower = 3190087
+	state_category = city
+	history={
+		owner = RAK
+		add_core_of = RAK
+	}
+	provinces={
+		11563 11623 11677 11718 11779 11886
+	}
+	local_supplies=0.0
+}

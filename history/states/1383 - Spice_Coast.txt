@@ -1,0 +1,16 @@
+state={
+	id=1383
+	name="STATE_1383" # Spice Coast
+	manpower = 939572
+	state_category = large_town
+	history={
+		owner = SPI
+		add_core_of = SPI
+		victory_points = { 13361 5 }
+		victory_points = { 13465 5 }
+	}
+	provinces={
+		13361 13400 13465
+	}
+	local_supplies=0.0
+}

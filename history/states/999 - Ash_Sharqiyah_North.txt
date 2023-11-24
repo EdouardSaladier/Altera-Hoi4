@@ -1,0 +1,17 @@
+state={
+	id=999
+	name="STATE_999" # Ash Sharqiyah North
+	manpower = 700015
+	state_category = town
+	history={
+		owner = MAG
+		add_core_of = MAG
+		victory_points = { 11165 20 }
+		victory_points = { 11374 10 }
+		victory_points = { 11385 5 }
+	}
+	provinces={
+		11165 11271 11374 11385
+	}
+	local_supplies=0.0
+}

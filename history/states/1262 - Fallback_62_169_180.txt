@@ -1,0 +1,15 @@
+state={
+	id=1262
+	name="STATE_1262" # Fallback_(62, 169, 180)
+	manpower = 1248333
+	state_category = large_town
+	history={
+		owner = FOR
+		add_core_of = FOR
+		victory_points = { 12761 5 }
+	}
+	provinces={
+		12707 12761
+	}
+	local_supplies=0.0
+}

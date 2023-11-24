@@ -1,0 +1,15 @@
+state={
+	id=1015
+	name="STATE_1015" # Ad Dakhliyah
+	manpower = 319822
+	state_category = town
+	history={
+		owner = MAG
+		add_core_of = MAG
+		victory_points = { 11301 10 }
+	}
+	provinces={
+		11301 11446
+	}
+	local_supplies=0.0
+}

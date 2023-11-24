@@ -1,0 +1,19 @@
+state={
+	id=212
+	name="STATE_212" # Belebeevskiy rayon
+	manpower = 1046533
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5180 20 }
+		victory_points = { 5181 2 }
+		victory_points = { 5442 2 }
+		victory_points = { 5463 10 }
+		victory_points = { 5524 2 }
+	}
+	provinces={
+		5180 5181 5442 5463 5524
+	}
+	local_supplies=0.0
+}

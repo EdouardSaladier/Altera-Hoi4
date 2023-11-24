@@ -1,0 +1,9 @@
+strategic_region={
+	id=290
+	name="STRATEGICREGION_290" # Bermuda
+	provinces={
+		9748 9815 9881
+	}
+	weather={
+	}
+}

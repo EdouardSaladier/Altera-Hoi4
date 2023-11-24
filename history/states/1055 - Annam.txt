@@ -1,0 +1,21 @@
+state={
+	id=1055
+	name="STATE_1055" # Annam
+	manpower = 3864405
+	state_category = large_town
+	history={
+		owner = ANN
+		add_core_of = ANN
+		victory_points = { 11555 10 }
+		victory_points = { 11587 1 }
+		victory_points = { 11599 5 }
+		victory_points = { 11666 10 }
+		victory_points = { 11678 10 }
+		victory_points = { 11720 10 }
+		victory_points = { 11753 1 }
+	}
+	provinces={
+		11555 11587 11599 11654 11666 11678 11720 11753
+	}
+	local_supplies=0.0
+}

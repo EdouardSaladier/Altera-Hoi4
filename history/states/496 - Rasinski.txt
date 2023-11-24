@@ -1,0 +1,16 @@
+state={
+	id=496
+	name="STATE_496" # Rasinski
+	manpower = 2083301
+	state_category = large_town
+	history={
+		owner = SEI
+		add_core_of = SEI
+		victory_points = { 7734 40 }
+		victory_points = { 7832 20 }
+	}
+	provinces={
+		7734 7832
+	}
+	local_supplies=0.0
+}

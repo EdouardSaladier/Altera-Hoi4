@@ -1,0 +1,15 @@
+state={
+	id=1639
+	name="STATE_1639" # Melpa
+	manpower = 1780
+	state_category = rural
+	history={
+		owner = MEL
+		add_core_of = MEL
+		victory_points = { 14605 5 }
+	}
+	provinces={
+		14605
+	}
+	local_supplies=0.0
+}

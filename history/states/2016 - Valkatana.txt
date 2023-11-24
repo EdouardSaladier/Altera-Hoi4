@@ -1,0 +1,14 @@
+state={
+	id=2016
+	name="STATE_2016" # Valkatana
+	manpower = 2670
+	state_category = rural
+	history={
+		owner = VAK
+		add_core_of = VAK
+	}
+	provinces={
+		17096 17104 17111
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=340
+	name="STRATEGICREGION_340" # Laknam
+	provinces={
+		11215 11228 11240 11241 11334 11340 11379 11388 11398 11407 11408 11409 11483
+	}
+	weather={
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=1572
+	name="STATE_1572" # Mandara
+	manpower = 12150
+	state_category = town
+	history={
+		owner = MNR
+		add_core_of = MNR
+	}
+	provinces={
+		14325
+	}
+	local_supplies=0.0
+}

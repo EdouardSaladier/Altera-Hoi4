@@ -1,0 +1,18 @@
+state={
+	id=216
+	name="STATE_216" # Northern Ireland
+	manpower = 2919935
+	state_category = large_town
+	history={
+		owner = IRE
+		add_core_of = IRE
+		victory_points = { 5215 20 }
+		victory_points = { 5243 2 }
+		victory_points = { 5341 40 }
+		victory_points = { 5358 5 }
+	}
+	provinces={
+		5215 5243 5341 5358
+	}
+	local_supplies=0.0
+}

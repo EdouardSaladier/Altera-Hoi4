@@ -1,0 +1,15 @@
+state={
+	id=1684
+	name="STATE_1684" # Malina
+	manpower = 2140
+	state_category = rural
+	history={
+		owner = MLI
+		add_core_of = MLI
+		victory_points = { 14808 5 }
+	}
+	provinces={
+		14808
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,31 @@
+state={
+	id=262
+	name="STATE_262" # Sayan
+	manpower = 1055235
+	state_category = rural
+	history={
+		owner = SAY
+		add_core_of = SAY
+		victory_points = { 5691 1 }
+		victory_points = { 6028 2 }
+		victory_points = { 6139 5 }
+		victory_points = { 6140 2 }
+		victory_points = { 6149 1 }
+		victory_points = { 6188 2 }
+		victory_points = { 6216 5 }
+		victory_points = { 6309 1 }
+		victory_points = { 6364 1 }
+		victory_points = { 6424 1 }
+		victory_points = { 6527 1 }
+		victory_points = { 6554 1 }
+		victory_points = { 6605 1 }
+		victory_points = { 6647 1 }
+		victory_points = { 6776 1 }
+		victory_points = { 6839 1 }
+		victory_points = { 6966 1 }
+	}
+	provinces={
+		5645 5673 5691 5758 5862 5916 5953 5984 6027 6028 6139 6140 6149 6187 6188 6201 6216 6308 6309 6364 6411 6424 6505 6527 6554 6605 6647 6776 6839 6850 6943 6966
+	}
+	local_supplies=0.0
+}

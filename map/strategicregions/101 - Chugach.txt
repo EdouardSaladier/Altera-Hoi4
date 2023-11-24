@@ -1,0 +1,9 @@
+strategic_region={
+	id=101
+	name="STRATEGICREGION_101" # Chugach
+	provinces={
+		3867 3904 3946 3947 4056 4161 4191 4206 4349 4371 4566 4581 4619 4748 4790 4827 4863 4928 4929
+	}
+	weather={
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=1030
+	name="STATE_1030" # Tsuren
+	manpower = 760
+	state_category = pastoral
+	history={
+		owner = TSR
+		add_core_of = TSR
+	}
+	provinces={
+		11399
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1975
+	name="STATE_1975" # Githabul
+	manpower = 696309
+	state_category = city
+	history={
+		owner = GIT
+		add_core_of = GIT
+		victory_points = { 16568 2 }
+	}
+	provinces={
+		16568 16569
+	}
+	local_supplies=0.0
+}

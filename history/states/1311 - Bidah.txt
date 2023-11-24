@@ -1,0 +1,16 @@
+state={
+	id=1311
+	name="STATE_1311" # Bidah
+	manpower = 752999
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12924 20 }
+		victory_points = { 13023 20 }
+	}
+	provinces={
+		12924 13023
+	}
+	local_supplies=0.0
+}

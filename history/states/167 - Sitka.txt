@@ -1,0 +1,15 @@
+state={
+	id=167
+	name="STATE_167" # Sitka
+	manpower = 9780
+	state_category = pastoral
+	history={
+		owner = SIK
+		add_core_of = SIK
+		victory_points = { 4756 5 }
+	}
+	provinces={
+		4620 4621 4645 4756 4895 4980
+	}
+	local_supplies=0.0
+}

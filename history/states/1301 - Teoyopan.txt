@@ -1,0 +1,15 @@
+state={
+	id=1301
+	name="STATE_1301" # Teoyopan
+	manpower = 2710
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12886 10 }
+	}
+	provinces={
+		12886
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,22 @@
+state={
+	id=859
+	name="STATE_859" # Baloch
+	manpower = 5139020
+	state_category = large_town
+	history={
+		owner = BAL
+		add_core_of = BAL
+		victory_points = { 10273 5 }
+		victory_points = { 10400 5 }
+		victory_points = { 10506 10 }
+		victory_points = { 10588 20 }
+		victory_points = { 10589 10 }
+		victory_points = { 10752 5 }
+		victory_points = { 10859 1 }
+		victory_points = { 10987 5 }
+	}
+	provinces={
+		10273 10325 10378 10400 10506 10588 10589 10750 10751 10752 10859 10987
+	}
+	local_supplies=0.0
+}

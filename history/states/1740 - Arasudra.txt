@@ -1,0 +1,14 @@
+state={
+	id=1740
+	name="STATE_1740" # Arasudra
+	manpower = 29670
+	state_category = town
+	history={
+		owner = ARS
+		add_core_of = ARS
+	}
+	provinces={
+		15007 15019 15025 15059
+	}
+	local_supplies=0.0
+}

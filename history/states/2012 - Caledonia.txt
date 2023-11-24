@@ -1,0 +1,14 @@
+state={
+	id=2012
+	name="STATE_2012" # Caledonia
+	manpower = 6660
+	state_category = rural
+	history={
+		owner = CAD
+		add_core_of = CAD
+	}
+	provinces={
+		17070 17129 17288
+	}
+	local_supplies=0.0
+}

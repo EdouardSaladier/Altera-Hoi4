@@ -1,0 +1,17 @@
+state={
+	id=1280
+	name="STATE_1280" # Quapem
+	manpower = 2861065
+	state_category = city
+	history={
+		owner = QUA
+		add_core_of = QUA
+		victory_points = { 12801 10 }
+		victory_points = { 12981 5 }
+		victory_points = { 13136 5 }
+	}
+	provinces={
+		12801 12981 13136
+	}
+	local_supplies=0.0
+}

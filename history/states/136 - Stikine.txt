@@ -1,0 +1,14 @@
+state={
+	id=136
+	name="STATE_136" # Stikine
+	manpower = 21720
+	state_category = pastoral
+	history={
+		owner = TAN
+		add_core_of = TAN
+	}
+	provinces={
+		4218 4219 4220 4221 4222 4223 4246 4315 4327 4342 4350
+	}
+	local_supplies=0.0
+}

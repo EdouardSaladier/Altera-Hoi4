@@ -1,0 +1,14 @@
+state={
+	id=734
+	name="STATE_734" # Lampedusa
+	manpower = 390
+	state_category = pastoral
+	history={
+		owner = LAE
+		add_core_of = LAE
+	}
+	provinces={
+		9397
+	}
+	local_supplies=0.0
+}

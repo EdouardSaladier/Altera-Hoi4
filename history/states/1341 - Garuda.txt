@@ -1,0 +1,19 @@
+state={
+	id=1341
+	name="STATE_1341" # Garuda
+	manpower = 5309578
+	state_category = city
+	history={
+		owner = GAU
+		add_core_of = GAU
+		victory_points = { 13072 40 }
+		victory_points = { 13102 5 }
+		victory_points = { 13141 80 }
+		victory_points = { 13189 2 }
+		victory_points = { 13296 10 }
+	}
+	provinces={
+		13072 13102 13141 13189 13296
+	}
+	local_supplies=0.0
+}

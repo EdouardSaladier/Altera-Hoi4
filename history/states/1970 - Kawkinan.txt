@@ -1,0 +1,15 @@
+state={
+	id=1970
+	name="STATE_1970" # Kawkinan
+	manpower = 12350
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16533 5 }
+	}
+	provinces={
+		16533 16558 16562 16672
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=466
+	name="STRATEGICREGION_466" # Kalimantan Barat
+	provinces={
+		13721 13745 13754 13788 13815 13864 13868 13908 13924 13943 13944 13979 13995 14002 14033 14034 14035 14071
+	}
+	weather={
+	}
+}

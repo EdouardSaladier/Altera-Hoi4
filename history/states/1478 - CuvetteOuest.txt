@@ -1,0 +1,15 @@
+state={
+	id=1478
+	name="STATE_1478" # Cuvette-Ouest
+	manpower = 206629
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 13951 2 }
+	}
+	provinces={
+		13870 13871 13951
+	}
+	local_supplies=0.0
+}

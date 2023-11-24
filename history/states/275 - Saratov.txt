@@ -1,0 +1,29 @@
+state={
+	id=275
+	name="STATE_275" # Saratov
+	manpower = 4651668
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5867 5 }
+		victory_points = { 5891 2 }
+		victory_points = { 5928 5 }
+		victory_points = { 5940 20 }
+		victory_points = { 5952 5 }
+		victory_points = { 5975 40 }
+		victory_points = { 5976 10 }
+		victory_points = { 6009 2 }
+		victory_points = { 6017 5 }
+		victory_points = { 6024 5 }
+		victory_points = { 6056 5 }
+		victory_points = { 6119 80 }
+		victory_points = { 6147 5 }
+		victory_points = { 6163 5 }
+		victory_points = { 6267 5 }
+	}
+	provinces={
+		5867 5891 5928 5940 5952 5975 5976 6009 6017 6024 6056 6065 6119 6132 6146 6147 6163 6267 6278
+	}
+	local_supplies=0.0
+}

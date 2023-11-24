@@ -1,0 +1,15 @@
+state={
+	id=1437
+	name="STATE_1437" # Goares
+	manpower = 212284
+	state_category = town
+	history={
+		owner = GOE
+		add_core_of = GOE
+		victory_points = { 13649 5 }
+	}
+	provinces={
+		13642 13649
+	}
+	local_supplies=0.0
+}

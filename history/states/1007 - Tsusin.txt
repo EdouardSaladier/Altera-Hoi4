@@ -1,0 +1,14 @@
+state={
+	id=1007
+	name="STATE_1007" # Tsusin
+	manpower = 2080
+	state_category = pastoral
+	history={
+		owner = TSS
+		add_core_of = TSS
+	}
+	provinces={
+		11230
+	}
+	local_supplies=0.0
+}

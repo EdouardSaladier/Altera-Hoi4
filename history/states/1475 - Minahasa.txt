@@ -1,0 +1,15 @@
+state={
+	id=1475
+	name="STATE_1475" # Minahasa
+	manpower = 2405209
+	state_category = large_city
+	history={
+		owner = MIH
+		add_core_of = MIH
+		victory_points = { 13865 5 }
+	}
+	provinces={
+		13865
+	}
+	local_supplies=0.0
+}

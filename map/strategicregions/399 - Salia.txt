@@ -1,0 +1,9 @@
+strategic_region={
+	id=399
+	name="STRATEGICREGION_399" # Salia
+	provinces={
+		12371 12462 12491 12551 12558 12575 12691 12725 12806 12846 12871
+	}
+	weather={
+	}
+}

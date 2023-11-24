@@ -1,0 +1,16 @@
+state={
+	id=1435
+	name="STATE_1435" # Bay
+	manpower = 2235380
+	state_category = large_town
+	history={
+		owner = AGU
+		add_core_of = AGU
+		victory_points = { 13624 20 }
+		victory_points = { 13730 5 }
+	}
+	provinces={
+		13624 13690 13730 13761
+	}
+	local_supplies=0.0
+}

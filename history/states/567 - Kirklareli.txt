@@ -1,0 +1,17 @@
+state={
+	id=567
+	name="STATE_567" # Kirklareli
+	manpower = 2735939
+	state_category = city
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8210 5 }
+		victory_points = { 8211 80 }
+		victory_points = { 8225 40 }
+	}
+	provinces={
+		8210 8211 8225
+	}
+	local_supplies=0.0
+}

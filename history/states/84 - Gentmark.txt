@@ -1,0 +1,25 @@
+state={
+	id=84
+	name="STATE_84" # Gentmark
+	manpower = 3057471
+	state_category = town
+	history={
+		owner = GEN
+		add_core_of = GEN
+		victory_points = { 3888 2 }
+		victory_points = { 3924 2 }
+		victory_points = { 4060 5 }
+		victory_points = { 4249 10 }
+		victory_points = { 4264 2 }
+		victory_points = { 4267 20 }
+		victory_points = { 4268 20 }
+		victory_points = { 4305 5 }
+		victory_points = { 4439 10 }
+		victory_points = { 4473 5 }
+		victory_points = { 4504 40 }
+	}
+	provinces={
+		3125 3556 3593 3669 3888 3924 4060 4136 4196 4249 4255 4264 4267 4268 4305 4378 4379 4439 4473 4504
+	}
+	local_supplies=0.0
+}

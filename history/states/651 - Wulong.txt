@@ -1,0 +1,14 @@
+state={
+	id=651
+	name="STATE_651" # Wulong
+	manpower = 1520
+	state_category = pastoral
+	history={
+		owner = WUL
+		add_core_of = WUL
+	}
+	provinces={
+		8903
+	}
+	local_supplies=0.0
+}

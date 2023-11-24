@@ -1,0 +1,17 @@
+state={
+	id=468
+	name="STATE_468" # Cabardia
+	manpower = 693999
+	state_category = town
+	history={
+		owner = CAB
+		add_core_of = CAB
+		victory_points = { 7518 40 }
+		victory_points = { 7597 10 }
+		victory_points = { 7610 20 }
+	}
+	provinces={
+		7518 7597 7610
+	}
+	local_supplies=0.0
+}

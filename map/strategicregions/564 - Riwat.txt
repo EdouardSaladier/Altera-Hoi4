@@ -1,0 +1,9 @@
+strategic_region={
+	id=564
+	name="STRATEGICREGION_564" # Riwat
+	provinces={
+		15883 15971 16005 16014 16026 16070 16087 16177 16227 16262
+	}
+	weather={
+	}
+}

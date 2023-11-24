@@ -1,0 +1,16 @@
+state={
+	id=1247
+	name="STATE_1247" # Corubal
+	manpower = 91195
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12606 5 }
+		victory_points = { 12626 5 }
+	}
+	provinces={
+		12606 12626
+	}
+	local_supplies=0.0
+}

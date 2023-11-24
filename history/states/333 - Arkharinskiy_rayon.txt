@@ -1,0 +1,16 @@
+state={
+	id=333
+	name="STATE_333" # Arkharinskiy rayon
+	manpower = 410449
+	state_category = town
+	history={
+		owner = KIR
+		add_core_of = KIR
+		victory_points = { 6398 5 }
+		victory_points = { 6436 5 }
+	}
+	provinces={
+		6398 6436 6581
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=93
+	name="STRATEGICREGION_93" # Leningrad
+	provinces={
+		3637 4101
+	}
+	weather={
+	}
+}

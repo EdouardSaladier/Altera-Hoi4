@@ -1,0 +1,17 @@
+state={
+	id=149
+	name="STATE_149" # Rapla
+	manpower = 331266
+	state_category = town
+	history={
+		owner = EST
+		add_core_of = EST
+		victory_points = { 4363 10 }
+		victory_points = { 4385 5 }
+		victory_points = { 4401 2 }
+	}
+	provinces={
+		4363 4385 4401
+	}
+	local_supplies=0.0
+}

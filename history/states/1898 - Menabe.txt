@@ -1,0 +1,15 @@
+state={
+	id=1898
+	name="STATE_1898" # Menabe
+	manpower = 996971
+	state_category = town
+	history={
+		owner = SAA
+		add_core_of = SAA
+		victory_points = { 15941 5 }
+	}
+	provinces={
+		15941 16049 16056
+	}
+	local_supplies=0.0
+}

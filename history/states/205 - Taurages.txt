@@ -1,0 +1,16 @@
+state={
+	id=205
+	name="STATE_205" # Taurages
+	manpower = 664105
+	state_category = town
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = { 5101 10 }
+		victory_points = { 5216 10 }
+	}
+	provinces={
+		5101 5216
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=364
+	name="STATE_364" # Niederösterreich
+	manpower = 4533028
+	state_category = city
+	history={
+		owner = GEM
+		add_core_of = GEM
+		victory_points = { 6693 40 }
+		victory_points = { 6811 5 }
+		victory_points = { 6812 20 }
+	}
+	provinces={
+		6693 6811 6812
+	}
+	local_supplies=0.0
+}

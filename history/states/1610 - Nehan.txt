@@ -1,0 +1,14 @@
+state={
+	id=1610
+	name="STATE_1610" # Nehan
+	manpower = 210
+	state_category = rural
+	history={
+		owner = NEH
+		add_core_of = NEH
+	}
+	provinces={
+		14484
+	}
+	local_supplies=0.0
+}

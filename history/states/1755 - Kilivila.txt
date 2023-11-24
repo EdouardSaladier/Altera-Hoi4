@@ -1,0 +1,14 @@
+state={
+	id=1755
+	name="STATE_1755" # Kilivila
+	manpower = 34291
+	state_category = town
+	history={
+		owner = KIL
+		add_core_of = KIL
+	}
+	provinces={
+		15078 15136
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=949
+	name="STATE_949" # Al Kufrah
+	manpower = 8500
+	state_category = pastoral
+	history={
+		owner = PHA
+		add_core_of = PHA
+	}
+	provinces={
+		10811 10831 10917 11024 11121
+	}
+	local_supplies=0.0
+}

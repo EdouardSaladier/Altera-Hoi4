@@ -1,0 +1,15 @@
+state={
+	id=1647
+	name="STATE_1647" # Huli
+	manpower = 2420
+	state_category = rural
+	history={
+		owner = HUL
+		add_core_of = HUL
+		victory_points = { 14633 5 }
+	}
+	provinces={
+		14633
+	}
+	local_supplies=0.0
+}

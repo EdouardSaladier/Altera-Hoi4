@@ -1,0 +1,21 @@
+state={
+	id=279
+	name="STATE_279" # Nordrhein-Westfalen
+	manpower = 9908508
+	state_category = large_city
+	history={
+		owner = ALM
+		add_core_of = ALM
+		victory_points = { 5949 80 }
+		victory_points = { 5968 40 }
+		victory_points = { 6051 5 }
+		victory_points = { 6090 20 }
+		victory_points = { 6182 80 }
+		victory_points = { 6194 40 }
+		victory_points = { 6195 80 }
+	}
+	provinces={
+		5949 5968 6051 6090 6182 6194 6195
+	}
+	local_supplies=0.0
+}

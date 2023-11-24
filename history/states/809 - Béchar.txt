@@ -1,0 +1,16 @@
+state={
+	id=809
+	name="STATE_809" # Béchar
+	manpower = 286930
+	state_category = rural
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 9898 5 }
+		victory_points = { 9959 20 }
+	}
+	provinces={
+		9898 9959 10161 10251 10354 10406
+	}
+	local_supplies=0.0
+}

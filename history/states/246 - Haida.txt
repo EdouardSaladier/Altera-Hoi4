@@ -1,0 +1,14 @@
+state={
+	id=246
+	name="STATE_246" # Haida
+	manpower = 4630
+	state_category = pastoral
+	history={
+		owner = HAA
+		add_core_of = HAA
+	}
+	provinces={
+		5450 5633
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=467
+	name="STATE_467" # Vâlcea
+	manpower = 3999487
+	state_category = large_town
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 7517 5 }
+		victory_points = { 7566 20 }
+		victory_points = { 7638 5 }
+		victory_points = { 7686 20 }
+		victory_points = { 7687 10 }
+		victory_points = { 7712 5 }
+	}
+	provinces={
+		7517 7566 7638 7686 7687 7712
+	}
+	local_supplies=0.0
+}

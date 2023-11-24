@@ -1,0 +1,9 @@
+strategic_region={
+	id=341
+	name="STRATEGICREGION_341" # Odisha
+	provinces={
+		11226 11273 11274 11285 11303 11325 11331 11378 11405 11506 11542 11574 11585 11593 11672 11676
+	}
+	weather={
+	}
+}

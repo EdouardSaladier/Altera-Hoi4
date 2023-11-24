@@ -1,0 +1,21 @@
+state={
+	id=571
+	name="STATE_571" # Tanghut
+	manpower = 1322383
+	state_category = town
+	history={
+		owner = TAG
+		add_core_of = TAG
+		victory_points = { 8294 80 }
+		victory_points = { 8364 1 }
+		victory_points = { 8542 40 }
+		victory_points = { 8673 20 }
+		victory_points = { 8728 10 }
+		victory_points = { 8740 80 }
+		victory_points = { 8924 1 }
+	}
+	provinces={
+		8231 8232 8273 8294 8364 8391 8542 8591 8673 8728 8740 8753 8859 8924
+	}
+	local_supplies=0.0
+}

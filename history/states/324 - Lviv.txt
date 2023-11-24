@@ -1,0 +1,16 @@
+state={
+	id=324
+	name="STATE_324" # L'viv
+	manpower = 3808691
+	state_category = city
+	history={
+		owner = POL
+		add_core_of = POL
+		victory_points = { 6345 10 }
+		victory_points = { 6372 80 }
+	}
+	provinces={
+		6345 6372
+	}
+	local_supplies=0.0
+}

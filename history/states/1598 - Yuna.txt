@@ -1,0 +1,15 @@
+state={
+	id=1598
+	name="STATE_1598" # Yuna
+	manpower = 2460
+	state_category = rural
+	history={
+		owner = YUA
+		add_core_of = YUA
+		victory_points = { 14440 1 }
+	}
+	provinces={
+		14440 14534
+	}
+	local_supplies=0.0
+}

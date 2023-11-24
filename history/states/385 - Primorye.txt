@@ -1,0 +1,24 @@
+state={
+	id=385
+	name="STATE_385" # Primor'ye
+	manpower = 2478328
+	state_category = town
+	history={
+		owner = KIR
+		add_core_of = KIR
+		victory_points = { 6853 2 }
+		victory_points = { 7337 2 }
+		victory_points = { 7434 2 }
+		victory_points = { 7567 2 }
+		victory_points = { 7659 5 }
+		victory_points = { 7660 10 }
+		victory_points = { 7740 20 }
+		victory_points = { 7741 10 }
+		victory_points = { 7801 2 }
+		victory_points = { 7924 20 }
+	}
+	provinces={
+		6853 7337 7434 7484 7567 7659 7660 7740 7741 7801 7924
+	}
+	local_supplies=0.0
+}

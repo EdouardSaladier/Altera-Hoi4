@@ -1,0 +1,14 @@
+state={
+	id=1366
+	name="STATE_1366" # Maldive
+	manpower = 1190
+	state_category = pastoral
+	history={
+		owner = MAV
+		add_core_of = MAV
+	}
+	provinces={
+		13230 13374 13539 13615
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=153
+	name="STATE_153" # Västra Götaland
+	manpower = 1275674
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4400 2 }
+		victory_points = { 4433 1 }
+		victory_points = { 4434 5 }
+		victory_points = { 4480 80 }
+		victory_points = { 4508 5 }
+		victory_points = { 4509 10 }
+		victory_points = { 4649 10 }
+	}
+	provinces={
+		4400 4433 4434 4446 4480 4508 4509 4572 4649
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=79
+	name="STATE_79" # Lappmark
+	manpower = 150
+	state_category = pastoral
+	history={
+		owner = LAP
+		add_core_of = LAP
+	}
+	provinces={
+		2996
+	}
+	local_supplies=0.0
+}

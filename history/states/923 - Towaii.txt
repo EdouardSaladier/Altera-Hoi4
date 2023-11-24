@@ -1,0 +1,15 @@
+state={
+	id=923
+	name="STATE_923" # Towaii
+	manpower = 971940
+	state_category = city
+	history={
+		owner = TOW
+		add_core_of = TOW
+		victory_points = { 11412 5 }
+	}
+	provinces={
+		10676 10993 11004 11013 11347 11411 11412 11498
+	}
+	local_supplies=0.0
+}

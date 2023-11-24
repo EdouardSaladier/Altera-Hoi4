@@ -1,0 +1,21 @@
+state={
+	id=184
+	name="STATE_184" # Bauntovskiy
+	manpower = 147611
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4823 5 }
+		victory_points = { 4890 2 }
+		victory_points = { 4935 1 }
+		victory_points = { 4936 2 }
+		victory_points = { 5019 2 }
+		victory_points = { 5207 2 }
+		victory_points = { 5327 5 }
+	}
+	provinces={
+		4823 4861 4890 4905 4935 4936 4978 4990 5019 5103 5156 5164 5207 5219 5220 5259 5315 5316 5327 5348
+	}
+	local_supplies=0.0
+}

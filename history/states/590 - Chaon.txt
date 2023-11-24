@@ -1,0 +1,15 @@
+state={
+	id=590
+	name="STATE_590" # Chaon
+	manpower = 760939
+	state_category = large_town
+	history={
+		owner = HAO
+		add_core_of = HAO
+		victory_points = { 8420 5 }
+	}
+	provinces={
+		8420
+	}
+	local_supplies=0.0
+}

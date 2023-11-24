@@ -1,0 +1,9 @@
+strategic_region={
+	id=558
+	name="STRATEGICREGION_558" # Wisteria
+	provinces={
+		15685
+	}
+	weather={
+	}
+}

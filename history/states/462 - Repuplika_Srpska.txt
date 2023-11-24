@@ -1,0 +1,18 @@
+state={
+	id=462
+	name="STATE_462" # Repuplika Srpska
+	manpower = 1773183
+	state_category = large_town
+	history={
+		owner = CRO
+		add_core_of = CRO
+		victory_points = { 7489 10 }
+		victory_points = { 7490 5 }
+		victory_points = { 7548 10 }
+		victory_points = { 7571 5 }
+	}
+	provinces={
+		7489 7490 7548 7571
+	}
+	local_supplies=0.0
+}

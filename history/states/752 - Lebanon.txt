@@ -1,0 +1,15 @@
+state={
+	id=752
+	name="STATE_752" # Lebanon
+	manpower = 2496130
+	state_category = metropolis
+	history={
+		owner = LEB
+		add_core_of = LEB
+		victory_points = { 9523 80 }
+	}
+	provinces={
+		9523
+	}
+	local_supplies=0.0
+}

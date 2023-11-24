@@ -1,0 +1,23 @@
+state={
+	id=1989
+	name="STATE_1989" # Kuazulu
+	manpower = 11516984
+	state_category = city
+	history={
+		owner = KUA
+		add_core_of = KUA
+		victory_points = { 16794 20 }
+		victory_points = { 16795 1 }
+		victory_points = { 16801 10 }
+		victory_points = { 16802 20 }
+		victory_points = { 16887 10 }
+		victory_points = { 16918 5 }
+		victory_points = { 16924 5 }
+		victory_points = { 16926 10 }
+		victory_points = { 16985 20 }
+	}
+	provinces={
+		16753 16794 16795 16801 16802 16887 16918 16924 16926 16985
+	}
+	local_supplies=0.0
+}

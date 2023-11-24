@@ -1,0 +1,15 @@
+state={
+	id=156
+	name="STATE_156" # Tartu
+	manpower = 336102
+	state_category = town
+	history={
+		owner = EST
+		add_core_of = EST
+		victory_points = { 4457 20 }
+	}
+	provinces={
+		4435 4457 4573
+	}
+	local_supplies=0.0
+}

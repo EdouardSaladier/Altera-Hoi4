@@ -1,0 +1,20 @@
+state={
+	id=1095
+	name="STATE_1095" # Telangana
+	manpower = 19985476
+	state_category = metropolis
+	history={
+		owner = TEL
+		add_core_of = TEL
+		victory_points = { 11795 80 }
+		victory_points = { 11856 40 }
+		victory_points = { 11900 10 }
+		victory_points = { 11973 20 }
+		victory_points = { 12099 20 }
+		victory_points = { 12140 10 }
+	}
+	provinces={
+		11795 11856 11900 11973 12099 12140
+	}
+	local_supplies=0.0
+}

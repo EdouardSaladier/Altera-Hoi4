@@ -1,0 +1,15 @@
+state={
+	id=1578
+	name="STATE_1578" # Seram
+	manpower = 435573
+	state_category = town
+	history={
+		owner = SEM
+		add_core_of = SEM
+		victory_points = { 14352 10 }
+	}
+	provinces={
+		14352
+	}
+	local_supplies=0.0
+}

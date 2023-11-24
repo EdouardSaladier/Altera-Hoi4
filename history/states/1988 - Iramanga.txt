@@ -1,0 +1,15 @@
+state={
+	id=1988
+	name="STATE_1988" # Iramanga
+	manpower = 31090
+	state_category = rural
+	history={
+		owner = IRA
+		add_core_of = IRA
+		victory_points = { 16856 1 }
+	}
+	provinces={
+		16747 16748 16760 16821 16856
+	}
+	local_supplies=0.0
+}

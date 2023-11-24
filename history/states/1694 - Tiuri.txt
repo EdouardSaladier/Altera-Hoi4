@@ -1,0 +1,14 @@
+state={
+	id=1694
+	name="STATE_1694" # Tiuri
+	manpower = 12660
+	state_category = rural
+	history={
+		owner = TIR
+		add_core_of = TIR
+	}
+	provinces={
+		14869
+	}
+	local_supplies=0.0
+}

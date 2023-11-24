@@ -1,0 +1,16 @@
+state={
+	id=680
+	name="STATE_680" # Chitralistan
+	manpower = 447930
+	state_category = town
+	history={
+		owner = CHS
+		add_core_of = CHS
+		victory_points = { 9133 5 }
+		victory_points = { 9181 5 }
+	}
+	provinces={
+		9103 9133 9181
+	}
+	local_supplies=0.0
+}

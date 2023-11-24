@@ -1,0 +1,15 @@
+state={
+	id=1534
+	name="STATE_1534" # Kardasa
+	manpower = 1419699
+	state_category = city
+	history={
+		owner = KAD
+		add_core_of = KAD
+		victory_points = { 14168 1 }
+	}
+	provinces={
+		14168
+	}
+	local_supplies=0.0
+}

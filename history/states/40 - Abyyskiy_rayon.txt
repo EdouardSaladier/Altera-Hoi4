@@ -1,0 +1,15 @@
+state={
+	id=40
+	name="STATE_40" # Abyyskiy rayon
+	manpower = 54130
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+		victory_points = { 2031 2 }
+	}
+	provinces={
+		2009 2031 2032 2058 2079 2117 2156 2206 2250 2264 2277 2291 2329 2338 2339 2355 2424 2446 2469
+	}
+	local_supplies=0.0
+}

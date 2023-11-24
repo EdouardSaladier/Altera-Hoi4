@@ -1,0 +1,15 @@
+state={
+	id=137
+	name="STATE_137" # Division No. 17
+	manpower = 86995
+	state_category = rural
+	history={
+		owner = ATH
+		add_core_of = ATH
+		victory_points = { 4828 2 }
+	}
+	provinces={
+		4228 4229 4230 4231 4232 4233 4261 4288 4316 4358 4381 4476 4607 4622 4828 4852 4883
+	}
+	local_supplies=0.0
+}

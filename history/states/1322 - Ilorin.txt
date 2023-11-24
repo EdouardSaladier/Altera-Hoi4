@@ -1,0 +1,18 @@
+state={
+	id=1322
+	name="STATE_1322" # Ilorin
+	manpower = 1441889
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12982 20 }
+		victory_points = { 12990 20 }
+		victory_points = { 13003 80 }
+		victory_points = { 13089 5 }
+	}
+	provinces={
+		12982 12990 13003 13089
+	}
+	local_supplies=0.0
+}

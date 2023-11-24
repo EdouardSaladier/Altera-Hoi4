@@ -1,0 +1,14 @@
+state={
+	id=1460
+	name="STATE_1460" # Morota
+	manpower = 74545
+	state_category = large_town
+	history={
+		owner = MOO
+		add_core_of = MOO
+	}
+	provinces={
+		13767
+	}
+	local_supplies=0.0
+}

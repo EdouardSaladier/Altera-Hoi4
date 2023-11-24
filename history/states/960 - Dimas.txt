@@ -1,0 +1,17 @@
+state={
+	id=960
+	name="STATE_960" # Dimas
+	manpower = 2964006
+	state_category = city
+	history={
+		owner = DIM
+		add_core_of = DIM
+		victory_points = { 10899 80 }
+		victory_points = { 10911 10 }
+		victory_points = { 10945 5 }
+	}
+	provinces={
+		10899 10911 10945
+	}
+	local_supplies=0.0
+}

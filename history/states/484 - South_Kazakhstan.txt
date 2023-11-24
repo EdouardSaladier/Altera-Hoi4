@@ -1,0 +1,19 @@
+state={
+	id=484
+	name="STATE_484" # South Kazakhstan
+	manpower = 2237089
+	state_category = town
+	history={
+		owner = ITY
+		add_core_of = ITY
+		victory_points = { 7836 20 }
+		victory_points = { 7966 2 }
+		victory_points = { 7997 5 }
+		victory_points = { 8086 10 }
+		victory_points = { 8303 5 }
+	}
+	provinces={
+		7630 7645 7696 7836 7944 7966 7997 8010 8085 8086 8126 8167 8242 8303 8344 8414 8415
+	}
+	local_supplies=0.0
+}

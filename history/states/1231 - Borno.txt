@@ -1,0 +1,20 @@
+state={
+	id=1231
+	name="STATE_1231" # Borno
+	manpower = 2872375
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12505 5 }
+		victory_points = { 12544 5 }
+		victory_points = { 12610 5 }
+		victory_points = { 12620 5 }
+		victory_points = { 12621 80 }
+		victory_points = { 12664 20 }
+	}
+	provinces={
+		12505 12544 12610 12620 12621 12664
+	}
+	local_supplies=0.0
+}

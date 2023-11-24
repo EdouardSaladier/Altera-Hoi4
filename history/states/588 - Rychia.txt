@@ -1,0 +1,16 @@
+state={
+	id=588
+	name="STATE_588" # Rychia
+	manpower = 3204679
+	state_category = large_city
+	history={
+		owner = RYC
+		add_core_of = RYC
+		victory_points = { 8404 5 }
+		victory_points = { 8405 40 }
+	}
+	provinces={
+		8404 8405
+	}
+	local_supplies=0.0
+}

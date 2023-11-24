@@ -1,0 +1,14 @@
+state={
+	id=176
+	name="STATE_176" # Kativik
+	manpower = 3530
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+	}
+	provinces={
+		4732 4865 4960
+	}
+	local_supplies=0.0
+}

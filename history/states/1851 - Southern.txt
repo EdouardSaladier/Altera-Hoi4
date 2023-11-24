@@ -1,0 +1,20 @@
+state={
+	id=1851
+	name="STATE_1851" # Southern
+	manpower = 2513591
+	state_category = large_town
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		victory_points = { 15626 2 }
+		victory_points = { 15662 10 }
+		victory_points = { 15678 1 }
+		victory_points = { 15752 20 }
+		victory_points = { 15795 5 }
+		victory_points = { 15826 10 }
+	}
+	provinces={
+		15626 15630 15662 15678 15752 15795 15809 15826
+	}
+	local_supplies=0.0
+}

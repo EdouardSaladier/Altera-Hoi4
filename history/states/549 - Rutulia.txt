@@ -1,0 +1,15 @@
+state={
+	id=549
+	name="STATE_549" # Rutulia
+	manpower = 193350
+	state_category = town
+	history={
+		owner = RUL
+		add_core_of = RUL
+		victory_points = { 8082 20 }
+	}
+	provinces={
+		8082
+	}
+	local_supplies=0.0
+}

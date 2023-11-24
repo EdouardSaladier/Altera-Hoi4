@@ -1,0 +1,16 @@
+state={
+	id=1605
+	name="STATE_1605" # Uíge
+	manpower = 4121627
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 14467 80 }
+		victory_points = { 14588 20 }
+	}
+	provinces={
+		14467 14538 14573 14588 14632 14664 14740 14746 14865
+	}
+	local_supplies=0.0
+}

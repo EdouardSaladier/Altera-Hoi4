@@ -1,0 +1,15 @@
+state={
+	id=961
+	name="STATE_961" # Agasymbia
+	manpower = 1985199
+	state_category = rural
+	history={
+		owner = AGA
+		add_core_of = AGA
+		victory_points = { 11122 5 }
+	}
+	provinces={
+		10904 10905 10906 10907 11060 11095 11122 11140 11192 11235 11295 11359 11477 11492 11493 11598 11658 11705 11713 11775 11813 11837
+	}
+	local_supplies=0.0
+}

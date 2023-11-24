@@ -1,0 +1,16 @@
+state={
+	id=305
+	name="STATE_305" # Ichnians'kyi
+	manpower = 1022683
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6184 5 }
+		victory_points = { 6213 20 }
+	}
+	provinces={
+		6184 6213
+	}
+	local_supplies=0.0
+}

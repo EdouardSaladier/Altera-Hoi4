@@ -1,0 +1,33 @@
+state={
+	id=965
+	name="STATE_965" # Madhya Pradesh
+	manpower = 133842310
+	state_category = megalopolis
+	history={
+		owner = GAN
+		add_core_of = GAN
+		victory_points = { 10922 20 }
+		victory_points = { 10989 80 }
+		victory_points = { 11027 80 }
+		victory_points = { 11039 20 }
+		victory_points = { 11053 20 }
+		victory_points = { 11054 10 }
+		victory_points = { 11055 40 }
+		victory_points = { 11063 5 }
+		victory_points = { 11086 20 }
+		victory_points = { 11131 10 }
+		victory_points = { 11132 20 }
+		victory_points = { 11167 10 }
+		victory_points = { 11179 80 }
+		victory_points = { 11211 40 }
+		victory_points = { 11239 20 }
+		victory_points = { 11249 20 }
+		victory_points = { 11250 20 }
+		victory_points = { 11272 80 }
+		victory_points = { 11324 80 }
+	}
+	provinces={
+		10922 10989 11027 11039 11053 11054 11055 11063 11086 11131 11132 11167 11179 11211 11239 11249 11250 11272 11284 11324
+	}
+	local_supplies=0.0
+}

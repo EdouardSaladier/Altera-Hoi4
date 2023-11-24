@@ -1,0 +1,14 @@
+state={
+	id=1576
+	name="STATE_1576" # Tugana
+	manpower = 104202
+	state_category = town
+	history={
+		owner = TGA
+		add_core_of = TGA
+	}
+	provinces={
+		14343 14366
+	}
+	local_supplies=0.0
+}

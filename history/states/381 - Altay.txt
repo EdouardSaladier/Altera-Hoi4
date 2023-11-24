@@ -1,0 +1,22 @@
+state={
+	id=381
+	name="STATE_381" # Altay
+	manpower = 2547026
+	state_category = town
+	history={
+		owner = DZU
+		add_core_of = DZU
+		victory_points = { 6901 20 }
+		victory_points = { 7210 1 }
+		victory_points = { 7459 40 }
+		victory_points = { 7557 40 }
+		victory_points = { 7578 1 }
+		victory_points = { 7657 1 }
+		victory_points = { 7726 80 }
+		victory_points = { 7752 80 }
+	}
+	provinces={
+		6837 6901 7173 7210 7248 7459 7557 7578 7579 7633 7634 7657 7726 7752 7770
+	}
+	local_supplies=0.0
+}

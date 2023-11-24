@@ -1,0 +1,9 @@
+strategic_region={
+	id=351
+	name="STRATEGICREGION_351" # Chhattisgarh
+	provinces={
+		11377 11418 11505 11541 11605 11614 11632 11639 11664 11688 11702 11761 11765 11771 11815 11885
+	}
+	weather={
+	}
+}

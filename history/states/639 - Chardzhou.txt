@@ -1,0 +1,17 @@
+state={
+	id=639
+	name="STATE_639" # Chardzhou
+	manpower = 1794044
+	state_category = large_town
+	history={
+		owner = BAC
+		add_core_of = BAC
+		victory_points = { 8808 1 }
+		victory_points = { 9025 10 }
+		victory_points = { 9196 5 }
+	}
+	provinces={
+		8808 8877 9025 9196
+	}
+	local_supplies=0.0
+}

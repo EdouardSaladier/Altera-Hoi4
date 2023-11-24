@@ -1,0 +1,15 @@
+state={
+	id=1360
+	name="STATE_1360" # Lazarines
+	manpower = 18623
+	state_category = town
+	history={
+		owner = LAZ
+		add_core_of = LAZ
+		victory_points = { 13190 1 }
+	}
+	provinces={
+		13190 13390 13452
+	}
+	local_supplies=0.0
+}

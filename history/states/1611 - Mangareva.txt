@@ -1,0 +1,14 @@
+state={
+	id=1611
+	name="STATE_1611" # Mangareva
+	manpower = 940
+	state_category = rural
+	history={
+		owner = MNG
+		add_core_of = MNG
+	}
+	provinces={
+		14485 14656 14673 14735 14829 14903 15010
+	}
+	local_supplies=0.0
+}

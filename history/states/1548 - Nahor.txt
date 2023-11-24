@@ -1,0 +1,14 @@
+state={
+	id=1548
+	name="STATE_1548" # Nahor
+	manpower = 320
+	state_category = pastoral
+	history={
+		owner = NAH
+		add_core_of = NAH
+	}
+	provinces={
+		14225 14239
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=125
+	name="STRATEGICREGION_125" # Sitka
+	provinces={
+		4620 4621 4645 4756 4895 4980
+	}
+	weather={
+	}
+}

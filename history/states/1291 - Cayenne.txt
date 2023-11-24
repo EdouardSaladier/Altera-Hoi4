@@ -1,0 +1,18 @@
+state={
+	id=1291
+	name="STATE_1291" # Cayenne
+	manpower = 1720297
+	state_category = large_town
+	history={
+		owner = CAY
+		add_core_of = CAY
+		victory_points = { 12832 80 }
+		victory_points = { 12843 10 }
+		victory_points = { 12920 80 }
+		victory_points = { 12943 1 }
+	}
+	provinces={
+		12832 12843 12920 12943
+	}
+	local_supplies=0.0
+}

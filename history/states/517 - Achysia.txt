@@ -1,0 +1,16 @@
+state={
+	id=517
+	name="STATE_517" # Achysia
+	manpower = 201720
+	state_category = town
+	history={
+		owner = ACY
+		add_core_of = ACY
+		victory_points = { 7872 5 }
+		victory_points = { 7965 20 }
+	}
+	provinces={
+		7872 7965
+	}
+	local_supplies=0.0
+}

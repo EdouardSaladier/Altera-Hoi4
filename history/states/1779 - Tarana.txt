@@ -1,0 +1,15 @@
+state={
+	id=1779
+	name="STATE_1779" # Tarana
+	manpower = 55210
+	state_category = large_town
+	history={
+		owner = AAA
+		add_core_of = AAA
+		victory_points = { 15217 1 }
+	}
+	provinces={
+		15217
+	}
+	local_supplies=0.0
+}

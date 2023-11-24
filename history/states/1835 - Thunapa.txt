@@ -1,0 +1,14 @@
+state={
+	id=1835
+	name="STATE_1835" # Thunapa
+	manpower = 5370
+	state_category = rural
+	history={
+		owner = THU
+		add_core_of = THU
+	}
+	provinces={
+		15537 15577
+	}
+	local_supplies=0.0
+}

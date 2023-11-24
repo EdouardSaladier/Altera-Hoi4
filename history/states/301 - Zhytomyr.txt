@@ -1,0 +1,19 @@
+state={
+	id=301
+	name="STATE_301" # Zhytomyr
+	manpower = 1933274
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6161 2 }
+		victory_points = { 6162 10 }
+		victory_points = { 6240 5 }
+		victory_points = { 6263 5 }
+		victory_points = { 6346 40 }
+	}
+	provinces={
+		6161 6162 6240 6263 6346
+	}
+	local_supplies=0.0
+}

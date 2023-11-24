@@ -1,0 +1,15 @@
+state={
+	id=1153
+	name="STATE_1153" # Tezolotlan
+	manpower = 2330
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12067 20 }
+	}
+	provinces={
+		12067
+	}
+	local_supplies=0.0
+}

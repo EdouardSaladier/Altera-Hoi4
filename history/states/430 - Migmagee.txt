@@ -1,0 +1,17 @@
+state={
+	id=430
+	name="STATE_430" # Migmagee
+	manpower = 175079
+	state_category = rural
+	history={
+		owner = MIG
+		add_core_of = MIG
+		victory_points = { 7232 5 }
+		victory_points = { 7450 5 }
+		victory_points = { 7476 1 }
+	}
+	provinces={
+		7217 7232 7450 7476
+	}
+	local_supplies=0.0
+}

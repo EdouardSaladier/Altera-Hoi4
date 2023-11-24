@@ -1,0 +1,14 @@
+state={
+	id=1617
+	name="STATE_1617" # Kasaï-Central
+	manpower = 2964336
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+	}
+	provinces={
+		14510 14600 14615 14677 14681
+	}
+	local_supplies=0.0
+}

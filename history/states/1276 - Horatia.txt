@@ -1,0 +1,15 @@
+state={
+	id=1276
+	name="STATE_1276" # Horatia
+	manpower = 1013628
+	state_category = town
+	history={
+		owner = HOR
+		add_core_of = HOR
+		victory_points = { 12847 20 }
+	}
+	provinces={
+		12782 12789 12847
+	}
+	local_supplies=0.0
+}

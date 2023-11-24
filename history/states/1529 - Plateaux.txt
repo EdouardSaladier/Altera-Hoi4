@@ -1,0 +1,16 @@
+state={
+	id=1529
+	name="STATE_1529" # Plateaux
+	manpower = 944120
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 14149 5 }
+		victory_points = { 14362 80 }
+	}
+	provinces={
+		14149 14158 14228 14362
+	}
+	local_supplies=0.0
+}

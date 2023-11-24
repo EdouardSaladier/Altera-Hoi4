@@ -1,0 +1,14 @@
+state={
+	id=1869
+	name="STATE_1869" # Lau
+	manpower = 12863
+	state_category = rural
+	history={
+		owner = ULA
+		add_core_of = ULA
+	}
+	provinces={
+		15759 15784 15824 15856 15928 15955 15993 16015 16039 16151 16244
+	}
+	local_supplies=0.0
+}

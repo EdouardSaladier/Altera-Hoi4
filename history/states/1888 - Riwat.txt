@@ -1,0 +1,17 @@
+state={
+	id=1888
+	name="STATE_1888" # Riwat
+	manpower = 986860
+	state_category = town
+	history={
+		owner = RIW
+		add_core_of = RIW
+		victory_points = { 16014 5 }
+		victory_points = { 16070 5 }
+		victory_points = { 16087 5 }
+	}
+	provinces={
+		15883 16014 16070 16087 16177 16227 16262
+	}
+	local_supplies=0.0
+}

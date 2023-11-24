@@ -1,0 +1,15 @@
+state={
+	id=318
+	name="STATE_318" # Chalnulth
+	manpower = 125264
+	state_category = rural
+	history={
+		owner = CHT
+		add_core_of = CHT
+		victory_points = { 6314 10 }
+	}
+	provinces={
+		6314 6449 6669
+	}
+	local_supplies=0.0
+}

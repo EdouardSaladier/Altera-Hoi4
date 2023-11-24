@@ -1,0 +1,26 @@
+state={
+	id=1148
+	name="STATE_1148" # Hydrimia
+	manpower = 3172970
+	state_category = town
+	history={
+		owner = HYD
+		add_core_of = HYD
+		victory_points = { 12046 1 }
+		victory_points = { 12076 20 }
+		victory_points = { 12139 5 }
+		victory_points = { 12146 1 }
+		victory_points = { 12167 1 }
+		victory_points = { 12201 1 }
+		victory_points = { 12221 1 }
+		victory_points = { 12253 5 }
+		victory_points = { 12254 1 }
+		victory_points = { 12324 1 }
+		victory_points = { 12329 1 }
+		victory_points = { 12392 1 }
+	}
+	provinces={
+		12046 12057 12076 12086 12139 12146 12147 12167 12201 12221 12253 12254 12324 12329 12392
+	}
+	local_supplies=0.0
+}

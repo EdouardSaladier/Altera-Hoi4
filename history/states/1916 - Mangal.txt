@@ -1,0 +1,14 @@
+state={
+	id=1916
+	name="STATE_1916" # Mangal
+	manpower = 490
+	state_category = rural
+	history={
+		owner = MNL
+		add_core_of = MNL
+	}
+	provinces={
+		16064 16086
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,27 @@
+state={
+	id=162
+	name="STATE_162" # Scotland
+	manpower = 7632419
+	state_category = large_town
+	history={
+		owner = SCO
+		add_core_of = SCO
+		victory_points = { 4507 5 }
+		victory_points = { 4625 5 }
+		victory_points = { 4693 5 }
+		victory_points = { 4740 2 }
+		victory_points = { 4803 5 }
+		victory_points = { 4922 10 }
+		victory_points = { 4972 20 }
+		victory_points = { 4995 10 }
+		victory_points = { 5078 5 }
+		victory_points = { 5092 80 }
+		victory_points = { 5152 5 }
+		victory_points = { 5200 5 }
+		victory_points = { 5201 5 }
+	}
+	provinces={
+		4507 4534 4605 4625 4693 4740 4751 4803 4922 4972 4995 5078 5092 5152 5200 5201
+	}
+	local_supplies=0.0
+}

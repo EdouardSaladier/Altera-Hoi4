@@ -1,0 +1,26 @@
+state={
+	id=2031
+	name="STATE_2031" # Araucania
+	manpower = 1990040
+	state_category = town
+	history={
+		owner = ARC
+		add_core_of = ARC
+		victory_points = { 17504 40 }
+		victory_points = { 17543 5 }
+		victory_points = { 17555 5 }
+		victory_points = { 17586 40 }
+		victory_points = { 17590 5 }
+		victory_points = { 17634 5 }
+		victory_points = { 17640 20 }
+		victory_points = { 17667 5 }
+		victory_points = { 17676 5 }
+		victory_points = { 17680 2 }
+		victory_points = { 17700 20 }
+		victory_points = { 17711 5 }
+	}
+	provinces={
+		17504 17543 17555 17586 17590 17634 17635 17640 17667 17676 17680 17700 17701 17711
+	}
+	local_supplies=0.0
+}

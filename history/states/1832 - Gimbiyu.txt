@@ -1,0 +1,15 @@
+state={
+	id=1832
+	name="STATE_1832" # Gimbiyu
+	manpower = 7820
+	state_category = rural
+	history={
+		owner = GIM
+		add_core_of = GIM
+		victory_points = { 15503 2 }
+	}
+	provinces={
+		15503
+	}
+	local_supplies=0.0
+}

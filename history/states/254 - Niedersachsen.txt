@@ -1,0 +1,23 @@
+state={
+	id=254
+	name="STATE_254" # Niedersachsen
+	manpower = 7538562
+	state_category = city
+	history={
+		owner = SAX
+		add_core_of = SAX
+		victory_points = { 5569 20 }
+		victory_points = { 5624 10 }
+		victory_points = { 5702 20 }
+		victory_points = { 5716 5 }
+		victory_points = { 5728 5 }
+		victory_points = { 5755 20 }
+		victory_points = { 5797 5 }
+		victory_points = { 5798 80 }
+		victory_points = { 5866 10 }
+	}
+	provinces={
+		5569 5624 5702 5716 5728 5755 5797 5798 5866
+	}
+	local_supplies=0.0
+}

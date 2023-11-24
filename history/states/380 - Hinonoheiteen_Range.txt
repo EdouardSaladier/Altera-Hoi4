@@ -1,0 +1,19 @@
+state={
+	id=380
+	name="STATE_380" # Hinonoheiteen Range
+	manpower = 24700
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 7027 5 }
+		victory_points = { 7028 1 }
+		victory_points = { 7152 1 }
+		victory_points = { 7187 1 }
+		victory_points = { 7302 20 }
+	}
+	provinces={
+		6830 6842 6971 7027 7028 7152 7187 7302
+	}
+	local_supplies=0.0
+}

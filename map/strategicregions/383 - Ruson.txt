@@ -1,0 +1,9 @@
+strategic_region={
+	id=383
+	name="STRATEGICREGION_383" # Ruson
+	provinces={
+		11905 11906 11977 12053 12062 12197 12212 12213 12332 12401 12431 12432 12465 12521
+	}
+	weather={
+	}
+}

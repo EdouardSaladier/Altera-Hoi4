@@ -1,0 +1,16 @@
+state={
+	id=1339
+	name="STATE_1339" # Namonui
+	manpower = 1570
+	state_category = pastoral
+	history={
+		owner = NAO
+		add_core_of = NAO
+		victory_points = { 13085 1 }
+		victory_points = { 13217 5 }
+	}
+	provinces={
+		13067 13083 13084 13085 13149 13159 13197 13198 13217 13246 13263 13264 13317 13318
+	}
+	local_supplies=0.0
+}

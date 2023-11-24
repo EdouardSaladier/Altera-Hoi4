@@ -1,0 +1,16 @@
+state={
+	id=903
+	name="STATE_903" # Gatsim
+	manpower = 703732
+	state_category = large_town
+	history={
+		owner = GAT
+		add_core_of = GAT
+		victory_points = { 10529 1 }
+		victory_points = { 10592 1 }
+	}
+	provinces={
+		10529 10592
+	}
+	local_supplies=0.0
+}

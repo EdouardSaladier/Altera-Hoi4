@@ -1,0 +1,15 @@
+state={
+	id=757
+	name="STATE_757" # Fallback_(51, 80, 79)
+	manpower = 181594
+	state_category = large_city
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9567 10 }
+	}
+	provinces={
+		9567
+	}
+	local_supplies=0.0
+}

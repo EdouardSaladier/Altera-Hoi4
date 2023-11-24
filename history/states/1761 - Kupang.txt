@@ -1,0 +1,15 @@
+state={
+	id=1761
+	name="STATE_1761" # Kupang
+	manpower = 1282650
+	state_category = large_city
+	history={
+		owner = KUP
+		add_core_of = KUP
+		victory_points = { 15098 40 }
+	}
+	provinces={
+		15098
+	}
+	local_supplies=0.0
+}

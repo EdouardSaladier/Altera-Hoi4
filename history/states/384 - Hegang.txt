@@ -1,0 +1,20 @@
+state={
+	id=384
+	name="STATE_384" # Hegang
+	manpower = 3681098
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 6852 5 }
+		victory_points = { 6878 1 }
+		victory_points = { 6879 2 }
+		victory_points = { 6891 5 }
+		victory_points = { 6991 20 }
+		victory_points = { 7100 80 }
+	}
+	provinces={
+		6852 6878 6879 6891 6892 6970 6991 7100 7263
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,26 @@
+state={
+	id=64
+	name="STATE_64" # Auckland
+	manpower = 1089661
+	state_category = rural
+	history={
+		owner = AUC
+		add_core_of = AUC
+		victory_points = { 2850 2 }
+		victory_points = { 3053 5 }
+		victory_points = { 3054 2 }
+		victory_points = { 3156 2 }
+		victory_points = { 3206 5 }
+		victory_points = { 3332 1 }
+		victory_points = { 3524 5 }
+		victory_points = { 3554 2 }
+		victory_points = { 3592 40 }
+		victory_points = { 3604 5 }
+		victory_points = { 3801 2 }
+		victory_points = { 3817 1 }
+	}
+	provinces={
+		2707 2803 2850 2906 2940 3053 3054 3093 3156 3205 3206 3236 3303 3331 3332 3362 3500 3524 3549 3554 3592 3604 3801 3817
+	}
+	local_supplies=0.0
+}

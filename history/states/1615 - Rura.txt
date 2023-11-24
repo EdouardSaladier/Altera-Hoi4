@@ -1,0 +1,14 @@
+state={
+	id=1615
+	name="STATE_1615" # Rura
+	manpower = 400
+	state_category = rural
+	history={
+		owner = RUR
+		add_core_of = RUR
+	}
+	provinces={
+		14505
+	}
+	local_supplies=0.0
+}

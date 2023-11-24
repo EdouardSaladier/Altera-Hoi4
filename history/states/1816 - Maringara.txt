@@ -1,0 +1,14 @@
+state={
+	id=1816
+	name="STATE_1816" # Maringara
+	manpower = 330
+	state_category = rural
+	history={
+		owner = MRN
+		add_core_of = MRN
+	}
+	provinces={
+		15439
+	}
+	local_supplies=0.0
+}

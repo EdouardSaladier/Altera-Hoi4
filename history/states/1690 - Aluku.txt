@@ -1,0 +1,14 @@
+state={
+	id=1690
+	name="STATE_1690" # Aluku
+	manpower = 200
+	state_category = rural
+	history={
+		owner = ALU
+		add_core_of = ALU
+	}
+	provinces={
+		14844
+	}
+	local_supplies=0.0
+}

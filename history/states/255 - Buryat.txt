@@ -1,0 +1,33 @@
+state={
+	id=255
+	name="STATE_255" # Buryat
+	manpower = 1530058
+	state_category = rural
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = { 5576 5 }
+		victory_points = { 5617 5 }
+		victory_points = { 5736 2 }
+		victory_points = { 5747 1 }
+		victory_points = { 5748 5 }
+		victory_points = { 5803 5 }
+		victory_points = { 5818 40 }
+		victory_points = { 5869 5 }
+		victory_points = { 5917 2 }
+		victory_points = { 5933 5 }
+		victory_points = { 5954 2 }
+		victory_points = { 5998 40 }
+		victory_points = { 6109 5 }
+		victory_points = { 6122 5 }
+		victory_points = { 6165 5 }
+		victory_points = { 6217 2 }
+		victory_points = { 6229 5 }
+		victory_points = { 6295 5 }
+		victory_points = { 6310 5 }
+	}
+	provinces={
+		5576 5617 5692 5708 5736 5747 5748 5803 5818 5869 5906 5917 5933 5954 5998 6029 6109 6122 6150 6165 6217 6229 6295 6310 6433 6465
+	}
+	local_supplies=0.0
+}

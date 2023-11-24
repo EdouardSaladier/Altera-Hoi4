@@ -1,0 +1,27 @@
+state={
+	id=1004
+	name="STATE_1004" # Laknam
+	manpower = 50127493
+	state_category = metropolis
+	history={
+		owner = LAK
+		add_core_of = LAK
+		victory_points = { 11215 80 }
+		victory_points = { 11228 80 }
+		victory_points = { 11240 1 }
+		victory_points = { 11241 1 }
+		victory_points = { 11334 1 }
+		victory_points = { 11340 1 }
+		victory_points = { 11379 40 }
+		victory_points = { 11388 10 }
+		victory_points = { 11398 40 }
+		victory_points = { 11407 1 }
+		victory_points = { 11408 20 }
+		victory_points = { 11409 80 }
+		victory_points = { 11483 40 }
+	}
+	provinces={
+		11215 11228 11240 11241 11334 11340 11379 11388 11398 11407 11408 11409 11483
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=274
+	name="STRATEGICREGION_274" # Cypria
+	provinces={
+		9412 9448
+	}
+	weather={
+	}
+}

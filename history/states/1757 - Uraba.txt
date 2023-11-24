@@ -1,0 +1,14 @@
+state={
+	id=1757
+	name="STATE_1757" # Uraba
+	manpower = 13017
+	state_category = town
+	history={
+		owner = URB
+		add_core_of = URB
+	}
+	provinces={
+		15085
+	}
+	local_supplies=0.0
+}

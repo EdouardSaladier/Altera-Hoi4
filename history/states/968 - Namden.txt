@@ -1,0 +1,21 @@
+state={
+	id=968
+	name="STATE_968" # Namden
+	manpower = 38562147
+	state_category = metropolis
+	history={
+		owner = NAD
+		add_core_of = NAD
+		victory_points = { 10990 1 }
+		victory_points = { 11012 40 }
+		victory_points = { 11106 1 }
+		victory_points = { 11107 1 }
+		victory_points = { 11152 1 }
+		victory_points = { 11169 1 }
+		victory_points = { 11196 1 }
+	}
+	provinces={
+		10938 10948 10990 11003 11011 11012 11106 11107 11152 11169 11196
+	}
+	local_supplies=0.0
+}

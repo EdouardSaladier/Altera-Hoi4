@@ -1,0 +1,16 @@
+state={
+	id=140
+	name="STATE_140" # Lääne-Viru
+	manpower = 387204
+	state_category = town
+	history={
+		owner = EST
+		add_core_of = EST
+		victory_points = { 4291 10 }
+		victory_points = { 4303 80 }
+	}
+	provinces={
+		4291 4303
+	}
+	local_supplies=0.0
+}

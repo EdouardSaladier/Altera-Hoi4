@@ -1,0 +1,36 @@
+state={
+	id=210
+	name="STATE_210" # England
+	manpower = 41947207
+	state_category = large_city
+	history={
+		owner = ENL
+		add_core_of = ENL
+		victory_points = { 5134 10 }
+		victory_points = { 5265 40 }
+		victory_points = { 5423 20 }
+		victory_points = { 5493 5 }
+		victory_points = { 5667 20 }
+		victory_points = { 5768 80 }
+		victory_points = { 5783 20 }
+		victory_points = { 5813 40 }
+		victory_points = { 5839 20 }
+		victory_points = { 5858 80 }
+		victory_points = { 5900 20 }
+		victory_points = { 5967 20 }
+		victory_points = { 5989 20 }
+		victory_points = { 6076 20 }
+		victory_points = { 6077 40 }
+		victory_points = { 6106 40 }
+		victory_points = { 6209 10 }
+		victory_points = { 6223 20 }
+		victory_points = { 6224 40 }
+		victory_points = { 6245 5 }
+		victory_points = { 6246 10 }
+		victory_points = { 6259 20 }
+	}
+	provinces={
+		5134 5265 5423 5493 5667 5768 5783 5813 5839 5858 5900 5967 5989 6076 6077 6106 6209 6223 6224 6245 6246 6259 18649 18727 18739 18752 18753 18754 18757 18759 18760 18761 18762 18764
+	}
+	local_supplies=0.0
+}

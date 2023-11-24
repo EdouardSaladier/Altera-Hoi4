@@ -1,0 +1,14 @@
+state={
+	id=1818
+	name="STATE_1818" # Namibe
+	manpower = 533560
+	state_category = town
+	history={
+		owner = ANG
+		add_core_of = ANG
+	}
+	provinces={
+		15449 15551
+	}
+	local_supplies=0.0
+}

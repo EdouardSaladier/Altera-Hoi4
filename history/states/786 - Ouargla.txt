@@ -1,0 +1,17 @@
+state={
+	id=786
+	name="STATE_786" # Ouargla
+	manpower = 396067
+	state_category = rural
+	history={
+		owner = GET
+		add_core_of = GET
+		victory_points = { 9756 10 }
+		victory_points = { 9883 10 }
+		victory_points = { 9991 20 }
+	}
+	provinces={
+		9756 9883 9960 9990 9991 9992 10108 10118 10199
+	}
+	local_supplies=0.0
+}

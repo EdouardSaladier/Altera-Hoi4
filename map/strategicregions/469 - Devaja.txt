@@ -1,0 +1,9 @@
+strategic_region={
+	id=469
+	name="STRATEGICREGION_469" # Devaja
+	provinces={
+		13736
+	}
+	weather={
+	}
+}

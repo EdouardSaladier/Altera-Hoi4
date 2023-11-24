@@ -1,0 +1,15 @@
+state={
+	id=1221
+	name="STATE_1221" # Getrugia
+	manpower = 4820
+	state_category = pastoral
+	history={
+		owner = GEU
+		add_core_of = GEU
+		victory_points = { 12427 20 }
+	}
+	provinces={
+		12427
+	}
+	local_supplies=0.0
+}

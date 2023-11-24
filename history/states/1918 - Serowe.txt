@@ -1,0 +1,16 @@
+state={
+	id=1918
+	name="STATE_1918" # Serowe
+	manpower = 514543
+	state_category = town
+	history={
+		owner = SHO
+		add_core_of = SHO
+		victory_points = { 16083 1 }
+		victory_points = { 16148 20 }
+	}
+	provinces={
+		16083 16142 16148 16221
+	}
+	local_supplies=0.0
+}

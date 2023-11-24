@@ -1,0 +1,15 @@
+state={
+	id=474
+	name="STATE_474" # Shinejinst
+	manpower = 11010
+	state_category = pastoral
+	history={
+		owner = DZU
+		add_core_of = DZU
+		victory_points = { 7590 1 }
+	}
+	provinces={
+		7590 7799
+	}
+	local_supplies=0.0
+}

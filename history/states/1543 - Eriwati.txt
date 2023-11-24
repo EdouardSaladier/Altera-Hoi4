@@ -1,0 +1,15 @@
+state={
+	id=1543
+	name="STATE_1543" # Eriwati
+	manpower = 82408
+	state_category = town
+	history={
+		owner = ERI
+		add_core_of = ERI
+		victory_points = { 14210 1 }
+	}
+	provinces={
+		14210
+	}
+	local_supplies=0.0
+}

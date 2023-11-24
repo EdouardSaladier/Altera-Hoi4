@@ -1,0 +1,14 @@
+state={
+	id=1633
+	name="STATE_1633" # Vitu
+	manpower = 250
+	state_category = rural
+	history={
+		owner = VIT
+		add_core_of = VIT
+	}
+	provinces={
+		14580
+	}
+	local_supplies=0.0
+}

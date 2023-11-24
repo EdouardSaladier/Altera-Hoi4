@@ -1,0 +1,15 @@
+state={
+	id=1932
+	name="STATE_1932" # Banabum
+	manpower = 442689
+	state_category = town
+	history={
+		owner = BAN
+		add_core_of = BAN
+		victory_points = { 16189 2 }
+	}
+	provinces={
+		16189
+	}
+	local_supplies=0.0
+}

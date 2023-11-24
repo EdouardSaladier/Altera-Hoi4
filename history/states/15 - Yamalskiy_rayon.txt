@@ -1,0 +1,16 @@
+state={
+	id=15
+	name="STATE_15" # Yamal'skiy rayon
+	manpower = 101210
+	state_category = pastoral
+	history={
+		owner = NES
+		add_core_of = NES
+		victory_points = { 2095 1 }
+		victory_points = { 2364 2 }
+	}
+	provinces={
+		1364 1424 1450 1468 1515 1554 1563 1602 1642 1658 1677 1678 1798 1824 1830 1894 1895 1917 1952 1977 1994 2050 2064 2094 2095 2152 2174 2236 2274 2300 2364
+	}
+	local_supplies=0.0
+}

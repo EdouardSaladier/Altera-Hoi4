@@ -1,0 +1,18 @@
+state={
+	id=1762
+	name="STATE_1762" # Muyimanan
+	manpower = 19120
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15101 10 }
+		victory_points = { 15140 5 }
+		victory_points = { 15190 5 }
+		victory_points = { 15199 10 }
+	}
+	provinces={
+		15101 15140 15148 15190 15199 15282 15305
+	}
+	local_supplies=0.0
+}

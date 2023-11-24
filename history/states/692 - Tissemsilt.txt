@@ -1,0 +1,16 @@
+state={
+	id=692
+	name="STATE_692" # Tissemsilt
+	manpower = 6972729
+	state_category = large_city
+	history={
+		owner = ALN
+		add_core_of = ALN
+		victory_points = { 9192 80 }
+		victory_points = { 9276 20 }
+	}
+	provinces={
+		9192 9276
+	}
+	local_supplies=0.0
+}

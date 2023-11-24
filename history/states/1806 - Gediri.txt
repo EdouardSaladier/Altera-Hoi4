@@ -1,0 +1,14 @@
+state={
+	id=1806
+	name="STATE_1806" # Gediri
+	manpower = 470
+	state_category = rural
+	history={
+		owner = GDI
+		add_core_of = GDI
+	}
+	provinces={
+		15390
+	}
+	local_supplies=0.0
+}

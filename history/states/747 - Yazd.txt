@@ -1,0 +1,18 @@
+state={
+	id=747
+	name="STATE_747" # Yazd
+	manpower = 4114178
+	state_category = large_town
+	history={
+		owner = PES
+		add_core_of = PES
+		victory_points = { 9826 1 }
+		victory_points = { 9886 10 }
+		victory_points = { 9907 80 }
+		victory_points = { 10032 5 }
+	}
+	provinces={
+		9474 9489 9615 9730 9798 9826 9886 9907 9964 10032 10166
+	}
+	local_supplies=0.0
+}

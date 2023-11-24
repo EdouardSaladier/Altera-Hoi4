@@ -1,0 +1,20 @@
+state={
+	id=32
+	name="STATE_32" # Lapland
+	manpower = 162696
+	state_category = rural
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = { 1926 5 }
+		victory_points = { 1936 1 }
+		victory_points = { 2145 5 }
+		victory_points = { 2442 2 }
+		victory_points = { 2482 5 }
+		victory_points = { 2495 5 }
+	}
+	provinces={
+		1926 1936 2133 2145 2146 2350 2442 2482 2495 2516 2564
+	}
+	local_supplies=0.0
+}

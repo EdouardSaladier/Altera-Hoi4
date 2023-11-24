@@ -1,0 +1,14 @@
+state={
+	id=1772
+	name="STATE_1772" # Ulotewatu
+	manpower = 670
+	state_category = rural
+	history={
+		owner = ULO
+		add_core_of = ULO
+	}
+	provinces={
+		15172 15213 15223 15256 15281
+	}
+	local_supplies=0.0
+}

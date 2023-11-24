@@ -1,0 +1,9 @@
+strategic_region={
+	id=292
+	name="STRATEGICREGION_292" # Taman
+	provinces={
+		9761 9788
+	}
+	weather={
+	}
+}

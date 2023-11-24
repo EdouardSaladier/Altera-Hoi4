@@ -1,0 +1,24 @@
+state={
+	id=655
+	name="STATE_655" # Pradera
+	manpower = 36150
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8927 5 }
+		victory_points = { 8977 5 }
+		victory_points = { 8991 5 }
+		victory_points = { 9009 1 }
+		victory_points = { 9077 10 }
+		victory_points = { 9139 5 }
+		victory_points = { 9140 20 }
+		victory_points = { 9240 5 }
+		victory_points = { 9274 5 }
+		victory_points = { 9284 20 }
+	}
+	provinces={
+		8927 8977 8991 9009 9077 9139 9140 9240 9274 9284
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=763
+	name="STATE_763" # Tabas
+	manpower = 171049
+	state_category = town
+	history={
+		owner = CAA
+		add_core_of = CAA
+		victory_points = { 9597 10 }
+	}
+	provinces={
+		9597
+	}
+	local_supplies=0.0
+}

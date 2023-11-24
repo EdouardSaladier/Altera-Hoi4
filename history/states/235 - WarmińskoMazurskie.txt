@@ -1,0 +1,20 @@
+state={
+	id=235
+	name="STATE_235" # Warmińsko-Mazurskie
+	manpower = 2841429
+	state_category = large_town
+	history={
+		owner = POL
+		add_core_of = POL
+		victory_points = { 5389 5 }
+		victory_points = { 5426 80 }
+		victory_points = { 5494 5 }
+		victory_points = { 5511 10 }
+		victory_points = { 5544 5 }
+		victory_points = { 5614 5 }
+	}
+	provinces={
+		5389 5426 5494 5511 5544 5614
+	}
+	local_supplies=0.0
+}

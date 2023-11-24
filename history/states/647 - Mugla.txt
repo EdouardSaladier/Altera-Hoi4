@@ -1,0 +1,16 @@
+state={
+	id=647
+	name="STATE_647" # Mugla
+	manpower = 2810186
+	state_category = large_town
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8865 40 }
+		victory_points = { 8895 10 }
+	}
+	provinces={
+		8865 8895 9045 9193 9278 9400
+	}
+	local_supplies=0.0
+}

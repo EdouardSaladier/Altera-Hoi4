@@ -1,0 +1,14 @@
+state={
+	id=2030
+	name="STATE_2030" # Siluria
+	manpower = 30310
+	state_category = rural
+	history={
+		owner = SIL
+		add_core_of = SIL
+	}
+	provinces={
+		17425 17426 17451 17458 17464 17466 17469 17524 17541 17546 17651
+	}
+	local_supplies=0.0
+}

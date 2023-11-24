@@ -1,0 +1,28 @@
+state={
+	id=170
+	name="STATE_170" # Nizhegorod
+	manpower = 4608210
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4663 5 }
+		victory_points = { 4708 5 }
+		victory_points = { 4742 5 }
+		victory_points = { 4783 5 }
+		victory_points = { 4870 5 }
+		victory_points = { 4912 10 }
+		victory_points = { 4954 2 }
+		victory_points = { 4962 80 }
+		victory_points = { 4963 5 }
+		victory_points = { 5002 40 }
+		victory_points = { 5064 5 }
+		victory_points = { 5079 10 }
+		victory_points = { 5140 5 }
+		victory_points = { 5141 20 }
+	}
+	provinces={
+		4650 4663 4708 4742 4783 4806 4870 4912 4954 4962 4963 5002 5064 5079 5140 5141
+	}
+	local_supplies=0.0
+}

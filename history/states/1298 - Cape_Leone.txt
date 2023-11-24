@@ -1,0 +1,19 @@
+state={
+	id=1298
+	name="STATE_1298" # Cape Leone
+	manpower = 5158231
+	state_category = city
+	history={
+		owner = CAO
+		add_core_of = CAO
+		victory_points = { 12868 2 }
+		victory_points = { 12877 5 }
+		victory_points = { 12954 5 }
+		victory_points = { 12961 2 }
+		victory_points = { 13021 20 }
+	}
+	provinces={
+		12868 12877 12954 12961 13021
+	}
+	local_supplies=0.0
+}

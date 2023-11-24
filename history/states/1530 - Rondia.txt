@@ -1,0 +1,17 @@
+state={
+	id=1530
+	name="STATE_1530" # Rondia
+	manpower = 11636198
+	state_category = megalopolis
+	history={
+		owner = RON
+		add_core_of = RON
+		victory_points = { 14153 20 }
+		victory_points = { 14191 10 }
+		victory_points = { 14253 80 }
+	}
+	provinces={
+		14152 14153 14191 14253
+	}
+	local_supplies=0.0
+}

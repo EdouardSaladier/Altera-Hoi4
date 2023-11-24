@@ -1,0 +1,14 @@
+state={
+	id=1058
+	name="STATE_1058" # Yam
+	manpower = 260
+	state_category = pastoral
+	history={
+		owner = MYM
+		add_core_of = MYM
+	}
+	provinces={
+		11577
+	}
+	local_supplies=0.0
+}

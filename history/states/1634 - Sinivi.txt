@@ -1,0 +1,14 @@
+state={
+	id=1634
+	name="STATE_1634" # Sinivi
+	manpower = 14486
+	state_category = town
+	history={
+		owner = SNI
+		add_core_of = SNI
+	}
+	provinces={
+		14581
+	}
+	local_supplies=0.0
+}

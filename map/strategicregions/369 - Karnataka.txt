@@ -1,0 +1,9 @@
+strategic_region={
+	id=369
+	name="STRATEGICREGION_369" # Karnataka
+	provinces={
+		11787 11806 11875 11899 11930 11931 11945 12002 12014 12025 12026 12051 12052 12058 12181 12235 12280 12312
+	}
+	weather={
+	}
+}

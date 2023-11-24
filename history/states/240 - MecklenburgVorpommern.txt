@@ -1,0 +1,22 @@
+state={
+	id=240
+	name="STATE_240" # Mecklenburg-Vorpommern
+	manpower = 6892119
+	state_category = city
+	history={
+		owner = SAX
+		add_core_of = SAX
+		victory_points = { 5424 40 }
+		victory_points = { 5425 40 }
+		victory_points = { 5440 5 }
+		victory_points = { 5456 10 }
+		victory_points = { 5522 80 }
+		victory_points = { 5556 5 }
+		victory_points = { 5570 80 }
+		victory_points = { 5597 5 }
+	}
+	provinces={
+		5424 5425 5440 5456 5522 5556 5570 5597
+	}
+	local_supplies=0.0
+}

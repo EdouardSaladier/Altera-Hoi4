@@ -1,0 +1,9 @@
+strategic_region={
+	id=536
+	name="STRATEGICREGION_536" # Moni
+	provinces={
+		15165
+	}
+	weather={
+	}
+}

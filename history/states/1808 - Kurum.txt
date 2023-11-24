@@ -1,0 +1,14 @@
+state={
+	id=1808
+	name="STATE_1808" # Kurum
+	manpower = 5050
+	state_category = rural
+	history={
+		owner = KUU
+		add_core_of = KUU
+	}
+	provinces={
+		15414
+	}
+	local_supplies=0.0
+}

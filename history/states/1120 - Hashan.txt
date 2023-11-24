@@ -1,0 +1,15 @@
+state={
+	id=1120
+	name="STATE_1120" # Hashan
+	manpower = 1603295
+	state_category = megalopolis
+	history={
+		owner = HAH
+		add_core_of = HAH
+		victory_points = { 11898 5 }
+	}
+	provinces={
+		11898
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=39
+	name="STATE_39" # Qikiqtaaluk
+	manpower = 182960
+	state_category = pastoral
+	history={
+		owner = NUN
+		add_core_of = NUN
+		victory_points = { 2725 1 }
+	}
+	provinces={
+		2002 2086 2313 2345 2505 2536 2576 2664 2725 2765 2904 2929 2970 3006 3021 3090 3091 3122 3132 3133 3142 3183 3211 3329 3342 3350 3369 3411 3465 3508 3539 3574 3613 3694 3829
+	}
+	local_supplies=0.0
+}

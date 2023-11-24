@@ -1,0 +1,15 @@
+state={
+	id=1139
+	name="STATE_1139" # Chochollan
+	manpower = 1750
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11994 2 }
+	}
+	provinces={
+		11994
+	}
+	local_supplies=0.0
+}

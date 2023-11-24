@@ -1,0 +1,14 @@
+state={
+	id=1554
+	name="STATE_1554" # Angor
+	manpower = 550
+	state_category = pastoral
+	history={
+		owner = ANO
+		add_core_of = ANO
+	}
+	provinces={
+		14248 14265
+	}
+	local_supplies=0.0
+}

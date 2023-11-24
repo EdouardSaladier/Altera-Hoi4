@@ -1,0 +1,15 @@
+state={
+	id=796
+	name="STATE_796" # El Bayadh
+	manpower = 109917
+	state_category = rural
+	history={
+		owner = GET
+		add_core_of = GET
+		victory_points = { 9822 10 }
+	}
+	provinces={
+		9822 10068 10180 10191
+	}
+	local_supplies=0.0
+}

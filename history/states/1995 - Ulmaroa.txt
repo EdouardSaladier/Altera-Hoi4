@@ -1,0 +1,15 @@
+state={
+	id=1995
+	name="STATE_1995" # Ulmaroa
+	manpower = 4420
+	state_category = rural
+	history={
+		owner = ULM
+		add_core_of = ULM
+		victory_points = { 16876 1 }
+	}
+	provinces={
+		16876 16931 16981
+	}
+	local_supplies=0.0
+}

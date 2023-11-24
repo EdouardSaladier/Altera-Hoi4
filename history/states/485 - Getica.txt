@@ -1,0 +1,15 @@
+state={
+	id=485
+	name="STATE_485" # Getica
+	manpower = 620593
+	state_category = large_town
+	history={
+		owner = GEC
+		add_core_of = GEC
+		victory_points = { 7640 20 }
+	}
+	provinces={
+		7640
+	}
+	local_supplies=0.0
+}

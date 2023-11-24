@@ -1,0 +1,15 @@
+state={
+	id=743
+	name="STATE_743" # Enyave
+	manpower = 10920
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9456 80 }
+	}
+	provinces={
+		9456
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=2046
+	name="STATE_2046" # Arinivia
+	manpower = 6690
+	state_category = rural
+	history={
+		owner = ARN
+		add_core_of = ARN
+	}
+	provinces={
+		17942 17981 17986 17988 17991 17994 17999 18000 18022 18026 18037
+	}
+	local_supplies=0.0
+}

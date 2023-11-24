@@ -1,0 +1,9 @@
+strategic_region={
+	id=673
+	name="STRATEGICREGION_673" # Bramidores
+	provinces={
+		18355 18381 18475 18487
+	}
+	weather={
+	}
+}

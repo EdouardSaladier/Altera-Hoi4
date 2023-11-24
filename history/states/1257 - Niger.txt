@@ -1,0 +1,22 @@
+state={
+	id=1257
+	name="STATE_1257" # Niger
+	manpower = 2773258
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12682 5 }
+		victory_points = { 12689 5 }
+		victory_points = { 12690 5 }
+		victory_points = { 12771 5 }
+		victory_points = { 12803 5 }
+		victory_points = { 12804 20 }
+		victory_points = { 12869 5 }
+		victory_points = { 12880 1 }
+	}
+	provinces={
+		12682 12689 12690 12771 12803 12804 12869 12880
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1108
+	name="STATE_1108" # Matlatzinco
+	manpower = 1440
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11859 5 }
+	}
+	provinces={
+		11859
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=114
+	name="STATE_114" # Perm'
+	manpower = 731010
+	state_category = town
+	history={
+		owner = BIA
+		add_core_of = BIA
+		victory_points = { 3916 5 }
+		victory_points = { 4103 2 }
+		victory_points = { 4195 5 }
+		victory_points = { 4202 2 }
+		victory_points = { 4460 5 }
+		victory_points = { 4614 80 }
+		victory_points = { 4671 5 }
+	}
+	provinces={
+		3916 3923 3982 4103 4195 4202 4460 4614 4671
+	}
+	local_supplies=0.0
+}

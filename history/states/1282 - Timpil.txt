@@ -1,0 +1,16 @@
+state={
+	id=1282
+	name="STATE_1282" # Timpil
+	manpower = 1328445
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12805 40 }
+		victory_points = { 12863 20 }
+	}
+	provinces={
+		12805 12863
+	}
+	local_supplies=0.0
+}

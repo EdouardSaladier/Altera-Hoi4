@@ -1,0 +1,16 @@
+state={
+	id=504
+	name="STATE_504" # Hurria
+	manpower = 2567419
+	state_category = city
+	history={
+		owner = HUR
+		add_core_of = HUR
+		victory_points = { 7777 10 }
+		victory_points = { 7805 20 }
+	}
+	provinces={
+		7777 7805
+	}
+	local_supplies=0.0
+}

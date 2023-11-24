@@ -1,0 +1,20 @@
+state={
+	id=1577
+	name="STATE_1577" # Ceará
+	manpower = 24820
+	state_category = pastoral
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 14349 20 }
+		victory_points = { 14385 80 }
+		victory_points = { 14474 10 }
+		victory_points = { 14499 10 }
+		victory_points = { 14614 5 }
+		victory_points = { 14691 40 }
+	}
+	provinces={
+		14349 14385 14474 14499 14614 14691
+	}
+	local_supplies=0.0
+}

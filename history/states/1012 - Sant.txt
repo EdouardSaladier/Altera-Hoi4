@@ -1,0 +1,16 @@
+state={
+	id=1012
+	name="STATE_1012" # Sant
+	manpower = 3930
+	state_category = pastoral
+	history={
+		owner = SAT
+		add_core_of = SAT
+		victory_points = { 11274 20 }
+		victory_points = { 11325 80 }
+	}
+	provinces={
+		11274 11325
+	}
+	local_supplies=0.0
+}

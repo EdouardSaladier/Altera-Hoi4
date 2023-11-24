@@ -1,0 +1,14 @@
+state={
+	id=1500
+	name="STATE_1500" # Phoenixes
+	manpower = 340
+	state_category = pastoral
+	history={
+		owner = PHO
+		add_core_of = PHO
+	}
+	provinces={
+		14009 14038 14077
+	}
+	local_supplies=0.0
+}

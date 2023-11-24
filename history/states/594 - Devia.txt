@@ -1,0 +1,18 @@
+state={
+	id=594
+	name="STATE_594" # Devia
+	manpower = 1057840
+	state_category = town
+	history={
+		owner = DEV
+		add_core_of = DEV
+		victory_points = { 8435 10 }
+		victory_points = { 8467 20 }
+		victory_points = { 8749 5 }
+		victory_points = { 8869 1 }
+	}
+	provinces={
+		8435 8467 8531 8749 8869
+	}
+	local_supplies=0.0
+}

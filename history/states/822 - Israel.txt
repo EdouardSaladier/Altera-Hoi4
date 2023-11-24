@@ -1,0 +1,18 @@
+state={
+	id=822
+	name="STATE_822" # Israel
+	manpower = 5362992
+	state_category = city
+	history={
+		owner = ISR
+		add_core_of = ISR
+		victory_points = { 9983 10 }
+		victory_points = { 9993 20 }
+		victory_points = { 10099 20 }
+		victory_points = { 10293 10 }
+	}
+	provinces={
+		9983 9993 10099 10149 10181 10193 10293 10331
+	}
+	local_supplies=0.0
+}

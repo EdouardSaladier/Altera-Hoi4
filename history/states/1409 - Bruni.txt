@@ -1,0 +1,19 @@
+state={
+	id=1409
+	name="STATE_1409" # Bruni
+	manpower = 1798037
+	state_category = town
+	history={
+		owner = BRU
+		add_core_of = BRU
+		victory_points = { 13495 40 }
+		victory_points = { 13512 10 }
+		victory_points = { 13626 1 }
+		victory_points = { 13681 20 }
+		victory_points = { 13704 1 }
+	}
+	provinces={
+		13495 13512 13579 13625 13626 13681 13682 13704 13755
+	}
+	local_supplies=0.0
+}

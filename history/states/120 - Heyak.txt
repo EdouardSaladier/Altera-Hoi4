@@ -1,0 +1,15 @@
+state={
+	id=120
+	name="STATE_120" # Heyak
+	manpower = 18590
+	state_category = pastoral
+	history={
+		owner = HEY
+		add_core_of = HEY
+		victory_points = { 3977 2 }
+	}
+	provinces={
+		3977 4064
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=771
+	name="STATE_771" # Madeira
+	manpower = 244290
+	state_category = large_town
+	history={
+		owner = MAE
+		add_core_of = MAE
+		victory_points = { 9852 5 }
+	}
+	provinces={
+		9650 9816 9852
+	}
+	local_supplies=0.0
+}

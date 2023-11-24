@@ -1,0 +1,15 @@
+state={
+	id=2038
+	name="STATE_2038" # Velicia
+	manpower = 485764
+	state_category = large_town
+	history={
+		owner = VEL
+		add_core_of = VEL
+		victory_points = { 17758 5 }
+	}
+	provinces={
+		17758
+	}
+	local_supplies=0.0
+}

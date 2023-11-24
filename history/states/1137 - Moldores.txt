@@ -1,0 +1,17 @@
+state={
+	id=1137
+	name="STATE_1137" # Moldores
+	manpower = 571249
+	state_category = large_town
+	history={
+		owner = MOL
+		add_core_of = MOL
+		victory_points = { 12154 2 }
+		victory_points = { 12296 20 }
+		victory_points = { 12344 5 }
+	}
+	provinces={
+		11987 12092 12154 12155 12192 12269 12296 12344
+	}
+	local_supplies=0.0
+}

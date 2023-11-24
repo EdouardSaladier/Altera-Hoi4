@@ -1,0 +1,17 @@
+state={
+	id=1670
+	name="STATE_1670" # Bundria
+	manpower = 1316313
+	state_category = large_town
+	history={
+		owner = BUN
+		add_core_of = BUN
+		victory_points = { 14742 5 }
+		victory_points = { 14757 5 }
+		victory_points = { 14913 5 }
+	}
+	provinces={
+		14742 14743 14757 14891 14913
+	}
+	local_supplies=0.0
+}

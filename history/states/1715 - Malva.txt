@@ -1,0 +1,31 @@
+state={
+	id=1715
+	name="STATE_1715" # Malva
+	manpower = 16073383
+	state_category = city
+	history={
+		owner = MAL
+		add_core_of = MAL
+		victory_points = { 14925 10 }
+		victory_points = { 14954 10 }
+		victory_points = { 15068 5 }
+		victory_points = { 15075 5 }
+		victory_points = { 15128 5 }
+		victory_points = { 15157 20 }
+		victory_points = { 15210 20 }
+		victory_points = { 15268 5 }
+		victory_points = { 15302 1 }
+		victory_points = { 15395 10 }
+		victory_points = { 15404 10 }
+		victory_points = { 15423 20 }
+		victory_points = { 15426 5 }
+		victory_points = { 15474 5 }
+		victory_points = { 15544 5 }
+		victory_points = { 15620 80 }
+		victory_points = { 15649 2 }
+	}
+	provinces={
+		14925 14954 15068 15075 15128 15157 15210 15268 15290 15302 15395 15404 15413 15423 15426 15474 15544 15620 15649
+	}
+	local_supplies=0.0
+}

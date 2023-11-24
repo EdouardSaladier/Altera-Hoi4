@@ -1,0 +1,15 @@
+state={
+	id=1683
+	name="STATE_1683" # Manuba
+	manpower = 75385
+	state_category = town
+	history={
+		owner = MAB
+		add_core_of = MAB
+		victory_points = { 14807 1 }
+	}
+	provinces={
+		14807 14828
+	}
+	local_supplies=0.0
+}

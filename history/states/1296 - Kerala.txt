@@ -1,0 +1,16 @@
+state={
+	id=1296
+	name="STATE_1296" # Kerala
+	manpower = 7676839
+	state_category = megalopolis
+	history={
+		owner = KER
+		add_core_of = KER
+		victory_points = { 12860 20 }
+		victory_points = { 12897 80 }
+	}
+	provinces={
+		12860 12897
+	}
+	local_supplies=0.0
+}

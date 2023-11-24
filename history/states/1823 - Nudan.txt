@@ -1,0 +1,14 @@
+state={
+	id=1823
+	name="STATE_1823" # Nudan
+	manpower = 1300
+	state_category = rural
+	history={
+		owner = NUD
+		add_core_of = NUD
+	}
+	provinces={
+		15465
+	}
+	local_supplies=0.0
+}

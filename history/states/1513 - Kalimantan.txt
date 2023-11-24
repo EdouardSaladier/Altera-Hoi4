@@ -1,0 +1,19 @@
+state={
+	id=1513
+	name="STATE_1513" # Kalimantan
+	manpower = 2013168
+	state_category = town
+	history={
+		owner = KAI
+		add_core_of = KAI
+		victory_points = { 14124 1 }
+		victory_points = { 14176 1 }
+		victory_points = { 14197 1 }
+		victory_points = { 14264 10 }
+		victory_points = { 14276 10 }
+	}
+	provinces={
+		14083 14123 14124 14176 14197 14264 14276
+	}
+	local_supplies=0.0
+}

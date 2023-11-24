@@ -1,0 +1,15 @@
+state={
+	id=1640
+	name="STATE_1640" # Anema
+	manpower = 267551
+	state_category = town
+	history={
+		owner = ANE
+		add_core_of = ANE
+		victory_points = { 14606 1 }
+	}
+	provinces={
+		14606
+	}
+	local_supplies=0.0
+}

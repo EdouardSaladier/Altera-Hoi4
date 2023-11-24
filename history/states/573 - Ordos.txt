@@ -1,0 +1,26 @@
+state={
+	id=573
+	name="STATE_573" # Ordos
+	manpower = 30646769
+	state_category = large_city
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 8244 80 }
+		victory_points = { 8274 1 }
+		victory_points = { 8333 80 }
+		victory_points = { 8347 1 }
+		victory_points = { 8365 1 }
+		victory_points = { 8392 10 }
+		victory_points = { 8393 1 }
+		victory_points = { 8407 10 }
+		victory_points = { 8559 1 }
+		victory_points = { 8581 1 }
+		victory_points = { 8651 1 }
+		victory_points = { 8718 1 }
+	}
+	provinces={
+		8244 8274 8333 8347 8365 8392 8393 8407 8451 8559 8560 8581 8651 8718 8777 8810 8902
+	}
+	local_supplies=0.0
+}

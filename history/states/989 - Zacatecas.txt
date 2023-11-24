@@ -1,0 +1,19 @@
+state={
+	id=989
+	name="STATE_989" # Zacatecas
+	manpower = 2921042
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 11101 5 }
+		victory_points = { 11171 5 }
+		victory_points = { 11184 5 }
+		victory_points = { 11191 5 }
+		victory_points = { 11348 20 }
+	}
+	provinces={
+		11085 11101 11171 11184 11191 11348
+	}
+	local_supplies=0.0
+}

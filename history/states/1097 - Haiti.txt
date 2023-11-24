@@ -1,0 +1,17 @@
+state={
+	id=1097
+	name="STATE_1097" # Haiti
+	manpower = 1456609
+	state_category = city
+	history={
+		owner = HAT
+		add_core_of = HAT
+		victory_points = { 11801 5 }
+		victory_points = { 11873 10 }
+		victory_points = { 11895 5 }
+	}
+	provinces={
+		11801 11873 11895
+	}
+	local_supplies=0.0
+}

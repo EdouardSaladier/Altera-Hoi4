@@ -1,0 +1,16 @@
+state={
+	id=1508
+	name="STATE_1508" # Maniema
+	manpower = 3521221
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		victory_points = { 14214 10 }
+		victory_points = { 14428 10 }
+	}
+	provinces={
+		14055 14093 14214 14428 14470 14501
+	}
+	local_supplies=0.0
+}

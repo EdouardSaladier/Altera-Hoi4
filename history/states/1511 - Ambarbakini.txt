@@ -1,0 +1,15 @@
+state={
+	id=1511
+	name="STATE_1511" # Ambarbakini
+	manpower = 179133
+	state_category = town
+	history={
+		owner = AMA
+		add_core_of = AMA
+		victory_points = { 14074 1 }
+	}
+	provinces={
+		14074
+	}
+	local_supplies=0.0
+}

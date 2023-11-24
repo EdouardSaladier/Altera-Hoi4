@@ -1,0 +1,24 @@
+state={
+	id=1113
+	name="STATE_1113" # Gulwara
+	manpower = 11209110
+	state_category = city
+	history={
+		owner = GUL
+		add_core_of = GUL
+		victory_points = { 11875 80 }
+		victory_points = { 11899 80 }
+		victory_points = { 11930 5 }
+		victory_points = { 11945 20 }
+		victory_points = { 12014 40 }
+		victory_points = { 12025 80 }
+		victory_points = { 12026 10 }
+		victory_points = { 12058 10 }
+		victory_points = { 12181 20 }
+		victory_points = { 12235 80 }
+	}
+	provinces={
+		11875 11899 11930 11945 12014 12025 12026 12058 12181 12235
+	}
+	local_supplies=0.0
+}

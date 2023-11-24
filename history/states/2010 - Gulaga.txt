@@ -1,0 +1,14 @@
+state={
+	id=2010
+	name="STATE_2010" # Gulaga
+	manpower = 1290
+	state_category = rural
+	history={
+		owner = GLA
+		add_core_of = GLA
+	}
+	provinces={
+		17050
+	}
+	local_supplies=0.0
+}

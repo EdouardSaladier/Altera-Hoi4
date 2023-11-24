@@ -1,0 +1,14 @@
+state={
+	id=941
+	name="STATE_941" # Bir Moghreïn
+	manpower = 21940
+	state_category = pastoral
+	history={
+		owner = TAR
+		add_core_of = TAR
+	}
+	provinces={
+		10769 10931 10962 10973 11058 11119 11148
+	}
+	local_supplies=0.0
+}

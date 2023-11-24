@@ -1,0 +1,20 @@
+state={
+	id=367
+	name="STATE_367" # Hovd
+	manpower = 65647
+	state_category = rural
+	history={
+		owner = DZU
+		add_core_of = DZU
+		victory_points = { 6728 5 }
+		victory_points = { 6838 1 }
+		victory_points = { 6942 1 }
+		victory_points = { 6965 1 }
+		victory_points = { 7002 1 }
+		victory_points = { 7139 1 }
+	}
+	provinces={
+		6728 6805 6838 6861 6875 6942 6965 7002 7139 7281 7415
+	}
+	local_supplies=0.0
+}

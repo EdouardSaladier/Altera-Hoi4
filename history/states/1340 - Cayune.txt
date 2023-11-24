@@ -1,0 +1,15 @@
+state={
+	id=1340
+	name="STATE_1340" # Cayune
+	manpower = 328230
+	state_category = town
+	history={
+		owner = CAU
+		add_core_of = CAU
+		victory_points = { 13068 5 }
+	}
+	provinces={
+		13068
+	}
+	local_supplies=0.0
+}

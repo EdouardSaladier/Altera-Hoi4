@@ -1,0 +1,25 @@
+state={
+	id=155
+	name="STATE_155" # Usurmenia
+	manpower = 2881806
+	state_category = town
+	history={
+		owner = USU
+		add_core_of = USU
+		victory_points = { 4471 5 }
+		victory_points = { 4472 2 }
+		victory_points = { 4482 20 }
+		victory_points = { 4503 5 }
+		victory_points = { 4536 5 }
+		victory_points = { 4556 20 }
+		victory_points = { 4599 5 }
+		victory_points = { 4677 2 }
+		victory_points = { 4736 20 }
+		victory_points = { 4769 5 }
+		victory_points = { 4849 80 }
+	}
+	provinces={
+		4438 4471 4472 4482 4503 4536 4556 4585 4599 4630 4677 4709 4736 4769 4849 4858
+	}
+	local_supplies=0.0
+}

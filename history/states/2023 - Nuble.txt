@@ -1,0 +1,19 @@
+state={
+	id=2023
+	name="STATE_2023" # Nuble
+	manpower = 22680
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17347 10 }
+		victory_points = { 17401 20 }
+		victory_points = { 17438 2 }
+		victory_points = { 17483 40 }
+		victory_points = { 17492 20 }
+	}
+	provinces={
+		17347 17401 17438 17483 17492
+	}
+	local_supplies=0.0
+}

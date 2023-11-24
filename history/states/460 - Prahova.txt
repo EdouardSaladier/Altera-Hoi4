@@ -1,0 +1,17 @@
+state={
+	id=460
+	name="STATE_460" # Prahova
+	manpower = 2806860
+	state_category = city
+	history={
+		owner = TAR
+		add_core_of = TAR
+		victory_points = { 7478 40 }
+		victory_points = { 7491 10 }
+		victory_points = { 7639 40 }
+	}
+	provinces={
+		7478 7491 7639
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1745
+	name="STATE_1745" # Tuamotu
+	manpower = 840
+	state_category = rural
+	history={
+		owner = TUO
+		add_core_of = TUO
+	}
+	provinces={
+		15034 15108 15138 15155 15265
+	}
+	local_supplies=0.0
+}

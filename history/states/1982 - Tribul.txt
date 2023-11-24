@@ -1,0 +1,20 @@
+state={
+	id=1982
+	name="STATE_1982" # Tribul
+	manpower = 702459
+	state_category = town
+	history={
+		owner = TRB
+		add_core_of = TRB
+		victory_points = { 16611 5 }
+		victory_points = { 16683 5 }
+		victory_points = { 16697 5 }
+		victory_points = { 16710 5 }
+		victory_points = { 16786 5 }
+		victory_points = { 16805 5 }
+	}
+	provinces={
+		16611 16683 16697 16710 16786 16805
+	}
+	local_supplies=0.0
+}

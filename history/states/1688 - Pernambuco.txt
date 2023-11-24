@@ -1,0 +1,17 @@
+state={
+	id=1688
+	name="STATE_1688" # Pernambuco
+	manpower = 16960
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 14834 10 }
+		victory_points = { 14835 5 }
+		victory_points = { 14848 80 }
+	}
+	provinces={
+		14834 14835 14848
+	}
+	local_supplies=0.0
+}

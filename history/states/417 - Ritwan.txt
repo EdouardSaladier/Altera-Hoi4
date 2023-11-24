@@ -1,0 +1,15 @@
+state={
+	id=417
+	name="STATE_417" # Ritwan
+	manpower = 37867
+	state_category = town
+	history={
+		owner = RIT
+		add_core_of = RIT
+		victory_points = { 7116 5 }
+	}
+	provinces={
+		7116
+	}
+	local_supplies=0.0
+}

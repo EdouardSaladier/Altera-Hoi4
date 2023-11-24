@@ -1,0 +1,16 @@
+state={
+	id=225
+	name="STATE_225" # Voranava
+	manpower = 639488
+	state_category = town
+	history={
+		owner = LIT
+		add_core_of = LIT
+		victory_points = { 5313 20 }
+		victory_points = { 5512 5 }
+	}
+	provinces={
+		5313 5512
+	}
+	local_supplies=0.0
+}

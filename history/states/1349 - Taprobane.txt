@@ -1,0 +1,15 @@
+state={
+	id=1349
+	name="STATE_1349" # Taprobane
+	manpower = 1555730
+	state_category = city
+	history={
+		owner = TAB
+		add_core_of = TAB
+		victory_points = { 13112 20 }
+	}
+	provinces={
+		13112
+	}
+	local_supplies=0.0
+}

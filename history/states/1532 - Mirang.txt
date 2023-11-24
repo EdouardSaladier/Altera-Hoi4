@@ -1,0 +1,15 @@
+state={
+	id=1532
+	name="STATE_1532" # Mirang
+	manpower = 459658
+	state_category = town
+	history={
+		owner = MIA
+		add_core_of = MIA
+		victory_points = { 14155 80 }
+	}
+	provinces={
+		14155
+	}
+	local_supplies=0.0
+}

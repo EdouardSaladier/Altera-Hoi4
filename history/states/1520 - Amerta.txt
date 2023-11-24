@@ -1,0 +1,14 @@
+state={
+	id=1520
+	name="STATE_1520" # Amerta
+	manpower = 310
+	state_category = pastoral
+	history={
+		owner = AMR
+		add_core_of = AMR
+	}
+	provinces={
+		14117
+	}
+	local_supplies=0.0
+}

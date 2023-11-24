@@ -1,0 +1,20 @@
+state={
+	id=1225
+	name="STATE_1225" # Corrimia
+	manpower = 457337
+	state_category = town
+	history={
+		owner = COI
+		add_core_of = COI
+		victory_points = { 12454 5 }
+		victory_points = { 12584 1 }
+		victory_points = { 12698 5 }
+		victory_points = { 12699 10 }
+		victory_points = { 12717 5 }
+		victory_points = { 12758 5 }
+	}
+	provinces={
+		12454 12584 12651 12698 12699 12717 12758
+	}
+	local_supplies=0.0
+}

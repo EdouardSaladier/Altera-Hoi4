@@ -1,0 +1,14 @@
+state={
+	id=1048
+	name="STATE_1048" # Al Wusta
+	manpower = 81658
+	state_category = rural
+	history={
+		owner = MAG
+		add_core_of = MAG
+	}
+	provinces={
+		11514
+	}
+	local_supplies=0.0
+}

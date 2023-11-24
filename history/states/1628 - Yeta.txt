@@ -1,0 +1,15 @@
+state={
+	id=1628
+	name="STATE_1628" # Yeta
+	manpower = 1830
+	state_category = rural
+	history={
+		owner = YET
+		add_core_of = YET
+		victory_points = { 14559 1 }
+	}
+	provinces={
+		14559
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1713
+	name="STATE_1713" # Lindi
+	manpower = 1844478
+	state_category = large_town
+	history={
+		owner = ROV
+		add_core_of = ROV
+		victory_points = { 15057 10 }
+		victory_points = { 15089 5 }
+	}
+	provinces={
+		14920 14939 15057 15089
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,23 @@
+state={
+	id=1351
+	name="STATE_1351" # Ebony Coast
+	manpower = 8990228
+	state_category = city
+	history={
+		owner = EBO
+		add_core_of = EBO
+		victory_points = { 13123 5 }
+		victory_points = { 13187 80 }
+		victory_points = { 13196 1 }
+		victory_points = { 13222 10 }
+		victory_points = { 13257 40 }
+		victory_points = { 13324 80 }
+		victory_points = { 13368 5 }
+		victory_points = { 13406 20 }
+		victory_points = { 13450 80 }
+	}
+	provinces={
+		13123 13187 13195 13196 13222 13257 13324 13368 13406 13450
+	}
+	local_supplies=0.0
+}

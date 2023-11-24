@@ -1,0 +1,24 @@
+state={
+	id=372
+	name="STATE_372" # Besserabia
+	manpower = 3500379
+	state_category = large_town
+	history={
+		owner = BES
+		add_core_of = BES
+		victory_points = { 6758 40 }
+		victory_points = { 6833 5 }
+		victory_points = { 6834 20 }
+		victory_points = { 6896 5 }
+		victory_points = { 6950 5 }
+		victory_points = { 6975 5 }
+		victory_points = { 6987 80 }
+		victory_points = { 7013 5 }
+		victory_points = { 7147 5 }
+		victory_points = { 7320 5 }
+	}
+	provinces={
+		6758 6833 6834 6896 6950 6975 6987 7013 7147 7320
+	}
+	local_supplies=0.0
+}

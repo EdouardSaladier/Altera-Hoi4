@@ -1,0 +1,17 @@
+state={
+	id=105
+	name="STATE_105" # Oppland
+	manpower = 543887
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 3734 1 }
+		victory_points = { 3748 5 }
+		victory_points = { 3864 1 }
+	}
+	provinces={
+		3734 3735 3748 3864
+	}
+	local_supplies=0.0
+}

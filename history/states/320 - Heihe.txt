@@ -1,0 +1,16 @@
+state={
+	id=320
+	name="STATE_320" # Heihe
+	manpower = 4596694
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 6590 1 }
+		victory_points = { 6631 20 }
+	}
+	provinces={
+		6323 6387 6466 6495 6589 6590 6606 6631 6668 6702 6807 6840
+	}
+	local_supplies=0.0
+}

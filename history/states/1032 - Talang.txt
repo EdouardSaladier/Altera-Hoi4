@@ -1,0 +1,15 @@
+state={
+	id=1032
+	name="STATE_1032" # Talang
+	manpower = 4530
+	state_category = pastoral
+	history={
+		owner = TAA
+		add_core_of = TAA
+		victory_points = { 11406 40 }
+	}
+	provinces={
+		11406
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=385
+	name="STRATEGICREGION_385" # Dematia
+	provinces={
+		11925 11963 12036 12044 12071 12074 12096 12134 12176 12188 12207 12252 12264 12307 12308 12340 12426
+	}
+	weather={
+	}
+}

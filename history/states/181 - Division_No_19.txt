@@ -1,0 +1,22 @@
+state={
+	id=181
+	name="STATE_181" # Division No. 19
+	manpower = 1211832
+	state_category = rural
+	history={
+		owner = MAI
+		add_core_of = MAI
+		victory_points = { 5319 1 }
+		victory_points = { 5960 1 }
+		victory_points = { 6257 5 }
+		victory_points = { 6272 5 }
+		victory_points = { 6405 80 }
+		victory_points = { 6484 5 }
+		victory_points = { 6485 1 }
+		victory_points = { 6534 1 }
+	}
+	provinces={
+		4792 4801 4897 5008 5012 5023 5075 5158 5167 5187 5287 5319 5320 5364 5410 5469 5488 5543 5552 5580 5612 5621 5711 5726 5738 5750 5779 5874 5898 5912 5960 6014 6073 6086 6115 6190 6191 6234 6235 6257 6272 6367 6405 6484 6485 6534
+	}
+	local_supplies=0.0
+}

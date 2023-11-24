@@ -1,0 +1,18 @@
+state={
+	id=1286
+	name="STATE_1286" # Lamdam
+	manpower = 17137574
+	state_category = metropolis
+	history={
+		owner = LAA
+		add_core_of = LAA
+		victory_points = { 12817 10 }
+		victory_points = { 12865 1 }
+		victory_points = { 12898 40 }
+		victory_points = { 12926 20 }
+	}
+	provinces={
+		12817 12865 12898 12926 12927
+	}
+	local_supplies=0.0
+}

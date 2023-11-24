@@ -1,0 +1,9 @@
+strategic_region={
+	id=148
+	name="STRATEGICREGION_148" # Chokan
+	provinces={
+		5406 5449 5473 5649 5650 5675 5871 5986 6030 6152 6153 6955 7048
+	}
+	weather={
+	}
+}

@@ -1,0 +1,22 @@
+state={
+	id=403
+	name="STATE_403" # Govi-Altay
+	manpower = 34781
+	state_category = rural
+	history={
+		owner = DZU
+		add_core_of = DZU
+		victory_points = { 7003 1 }
+		victory_points = { 7211 1 }
+		victory_points = { 7249 1 }
+		victory_points = { 7261 1 }
+		victory_points = { 7348 1 }
+		victory_points = { 7392 1 }
+		victory_points = { 7461 1 }
+		victory_points = { 7598 1 }
+	}
+	provinces={
+		7003 7068 7211 7249 7261 7348 7392 7460 7461 7524 7535 7598 7615
+	}
+	local_supplies=0.0
+}

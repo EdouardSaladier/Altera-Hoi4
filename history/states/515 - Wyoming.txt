@@ -1,0 +1,22 @@
+state={
+	id=515
+	name="STATE_515" # Wyoming
+	manpower = 21130
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 7867 20 }
+		victory_points = { 7868 5 }
+		victory_points = { 7869 10 }
+		victory_points = { 7883 10 }
+		victory_points = { 7902 40 }
+		victory_points = { 7975 5 }
+		victory_points = { 8049 20 }
+		victory_points = { 8075 5 }
+	}
+	provinces={
+		7867 7868 7869 7883 7902 7975 8049 8075
+	}
+	local_supplies=0.0
+}

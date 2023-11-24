@@ -1,0 +1,14 @@
+state={
+	id=20
+	name="STATE_20" # Allaikhovskiy rayon
+	manpower = 88600
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		1533 1540 1549 1560 1596 1630 1655 1667 1687 1688 1701 1713 1722 1763 1787 1809 1818 1839 1850 1859 1860 1875 1888 1931 1939
+	}
+	local_supplies=0.0
+}

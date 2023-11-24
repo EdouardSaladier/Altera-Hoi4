@@ -1,0 +1,16 @@
+state={
+	id=1320
+	name="STATE_1320" # Waji
+	manpower = 655992
+	state_category = town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 12973 80 }
+		victory_points = { 13073 5 }
+	}
+	provinces={
+		12973 12983 13073 13163
+	}
+	local_supplies=0.0
+}

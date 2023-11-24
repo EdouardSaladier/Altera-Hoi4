@@ -1,0 +1,16 @@
+state={
+	id=884
+	name="STATE_884" # Wadi ash Shati'
+	manpower = 43616
+	state_category = rural
+	history={
+		owner = PHA
+		add_core_of = PHA
+		victory_points = { 10417 10 }
+		victory_points = { 10602 2 }
+	}
+	provinces={
+		10417 10540 10602
+	}
+	local_supplies=0.0
+}

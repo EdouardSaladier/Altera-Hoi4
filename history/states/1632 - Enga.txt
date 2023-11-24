@@ -1,0 +1,15 @@
+state={
+	id=1632
+	name="STATE_1632" # Enga
+	manpower = 2320
+	state_category = rural
+	history={
+		owner = EGA
+		add_core_of = EGA
+		victory_points = { 14604 2 }
+	}
+	provinces={
+		14579 14604
+	}
+	local_supplies=0.0
+}

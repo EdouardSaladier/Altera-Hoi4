@@ -1,0 +1,16 @@
+state={
+	id=490
+	name="STATE_490" # Bacia
+	manpower = 322999
+	state_category = town
+	history={
+		owner = BAA
+		add_core_of = BAA
+		victory_points = { 7693 5 }
+		victory_points = { 7722 20 }
+	}
+	provinces={
+		7693 7722
+	}
+	local_supplies=0.0
+}

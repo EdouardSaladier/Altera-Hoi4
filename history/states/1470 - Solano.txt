@@ -1,0 +1,14 @@
+state={
+	id=1470
+	name="STATE_1470" # Solano
+	manpower = 78541
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+	}
+	provinces={
+		13843 13901 14019
+	}
+	local_supplies=0.0
+}

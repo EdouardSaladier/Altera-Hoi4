@@ -1,0 +1,9 @@
+strategic_region={
+	id=636
+	name="STRATEGICREGION_636" # Araucania
+	provinces={
+		17504 17543 17555 17586 17590 17634 17635 17640 17667 17676 17680 17700 17701 17711
+	}
+	weather={
+	}
+}

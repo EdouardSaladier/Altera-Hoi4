@@ -1,0 +1,20 @@
+state={
+	id=1154
+	name="STATE_1154" # Phichit
+	manpower = 8287389
+	state_category = large_city
+	history={
+		owner = SIA
+		add_core_of = SIA
+		victory_points = { 12072 5 }
+		victory_points = { 12077 10 }
+		victory_points = { 12126 5 }
+		victory_points = { 12127 10 }
+		victory_points = { 12159 10 }
+		victory_points = { 12245 20 }
+	}
+	provinces={
+		12072 12077 12126 12127 12159 12245
+	}
+	local_supplies=0.0
+}

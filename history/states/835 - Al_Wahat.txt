@@ -1,0 +1,15 @@
+state={
+	id=835
+	name="STATE_835" # Al Wahat
+	manpower = 302976
+	state_category = rural
+	history={
+		owner = MAR
+		add_core_of = MAR
+		victory_points = { 10377 2 }
+	}
+	provinces={
+		10097 10134 10377 10560 10561 10702
+	}
+	local_supplies=0.0
+}

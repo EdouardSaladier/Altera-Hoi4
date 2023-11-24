@@ -1,0 +1,43 @@
+state={
+	id=1979
+	name="STATE_1979" # Southafrica
+	manpower = 10379353
+	state_category = large_town
+	history={
+		owner = SOU
+		add_core_of = SOU
+		victory_points = { 16579 20 }
+		victory_points = { 16603 80 }
+		victory_points = { 16616 20 }
+		victory_points = { 16625 20 }
+		victory_points = { 16630 10 }
+		victory_points = { 16643 1 }
+		victory_points = { 16649 80 }
+		victory_points = { 16667 80 }
+		victory_points = { 16715 1 }
+		victory_points = { 16716 20 }
+		victory_points = { 16717 80 }
+		victory_points = { 16724 10 }
+		victory_points = { 16746 10 }
+		victory_points = { 16758 10 }
+		victory_points = { 16759 5 }
+		victory_points = { 16773 10 }
+		victory_points = { 16774 5 }
+		victory_points = { 16793 80 }
+		victory_points = { 16799 5 }
+		victory_points = { 16800 10 }
+		victory_points = { 16831 10 }
+		victory_points = { 16844 20 }
+		victory_points = { 16849 1 }
+		victory_points = { 16898 1 }
+		victory_points = { 16899 20 }
+		victory_points = { 16909 80 }
+		victory_points = { 16910 5 }
+		victory_points = { 16944 40 }
+		victory_points = { 16963 1 }
+	}
+	provinces={
+		16579 16603 16616 16625 16630 16643 16648 16649 16667 16715 16716 16717 16724 16746 16758 16759 16773 16774 16793 16799 16800 16831 16844 16849 16898 16899 16909 16910 16944 16956 16963
+	}
+	local_supplies=0.0
+}

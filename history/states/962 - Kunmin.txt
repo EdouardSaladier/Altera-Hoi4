@@ -1,0 +1,24 @@
+state={
+	id=962
+	name="STATE_962" # Kunmin
+	manpower = 26080
+	state_category = pastoral
+	history={
+		owner = KUN
+		add_core_of = KUN
+		victory_points = { 10912 80 }
+		victory_points = { 10937 1 }
+		victory_points = { 10947 1 }
+		victory_points = { 10967 20 }
+		victory_points = { 11087 80 }
+		victory_points = { 11088 20 }
+		victory_points = { 11089 20 }
+		victory_points = { 11168 40 }
+		victory_points = { 11316 10 }
+		victory_points = { 11353 40 }
+	}
+	provinces={
+		10912 10937 10947 10967 11087 11088 11089 11168 11316 11353
+	}
+	local_supplies=0.0
+}

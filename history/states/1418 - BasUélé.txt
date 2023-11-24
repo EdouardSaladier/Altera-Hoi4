@@ -1,0 +1,16 @@
+state={
+	id=1418
+	name="STATE_1418" # Bas-Uélé
+	manpower = 3759805
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		victory_points = { 13565 5 }
+		victory_points = { 13683 5 }
+	}
+	provinces={
+		13532 13565 13607 13608 13633 13644 13665 13683 13712
+	}
+	local_supplies=0.0
+}

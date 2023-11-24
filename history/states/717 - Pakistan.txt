@@ -1,0 +1,17 @@
+state={
+	id=717
+	name="STATE_717" # Pakistan
+	manpower = 3307999
+	state_category = city
+	history={
+		owner = PAK
+		add_core_of = PAK
+		victory_points = { 9319 2 }
+		victory_points = { 9429 80 }
+		victory_points = { 9551 10 }
+	}
+	provinces={
+		9319 9320 9350 9429 9551
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=158
+	name="STATE_158" # Division No. 22
+	manpower = 121086
+	state_category = rural
+	history={
+		owner = SAS
+		add_core_of = SAS
+		victory_points = { 5022 5 }
+		victory_points = { 5551 5 }
+		victory_points = { 5864 2 }
+		victory_points = { 6125 1 }
+	}
+	provinces={
+		4454 4506 4569 4610 4646 4647 4660 4676 4704 4705 4730 4761 4762 4763 4778 4779 4800 4810 4817 4830 4843 4885 4910 4921 4985 5011 5022 5029 5116 5131 5149 5226 5261 5300 5338 5377 5468 5542 5551 5566 5611 5763 5822 5864 6125
+	}
+	local_supplies=0.0
+}

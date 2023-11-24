@@ -1,0 +1,9 @@
+strategic_region={
+	id=89
+	name="STRATEGICREGION_89" # Shetland
+	provinces={
+		3475 3485 3548 3646 3647 3676 3746 3747 3885 3910
+	}
+	weather={
+	}
+}

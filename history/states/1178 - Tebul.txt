@@ -1,0 +1,14 @@
+state={
+	id=1178
+	name="STATE_1178" # Tebul
+	manpower = 35329
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+	}
+	provinces={
+		12218 12219 12321
+	}
+	local_supplies=0.0
+}

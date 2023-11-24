@@ -1,0 +1,21 @@
+state={
+	id=2027
+	name="STATE_2027" # La Achala
+	manpower = 46210
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17385 2 }
+		victory_points = { 17393 20 }
+		victory_points = { 17419 2 }
+		victory_points = { 17433 5 }
+		victory_points = { 17499 5 }
+		victory_points = { 17531 2 }
+		victory_points = { 17569 1 }
+	}
+	provinces={
+		17385 17393 17419 17433 17499 17531 17569
+	}
+	local_supplies=0.0
+}

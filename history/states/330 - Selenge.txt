@@ -1,0 +1,15 @@
+state={
+	id=330
+	name="STATE_330" # Selenge
+	manpower = 266532
+	state_category = town
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 6375 20 }
+	}
+	provinces={
+		6375
+	}
+	local_supplies=0.0
+}

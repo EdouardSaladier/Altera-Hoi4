@@ -1,0 +1,14 @@
+state={
+	id=1692
+	name="STATE_1692" # Tanimbar
+	manpower = 115982
+	state_category = large_town
+	history={
+		owner = TNI
+		add_core_of = TNI
+	}
+	provinces={
+		14860
+	}
+	local_supplies=0.0
+}

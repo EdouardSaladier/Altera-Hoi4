@@ -1,0 +1,16 @@
+state={
+	id=1126
+	name="STATE_1126" # Macrobia
+	manpower = 2608309
+	state_category = town
+	history={
+		owner = MAC
+		add_core_of = MAC
+		victory_points = { 12278 5 }
+		victory_points = { 12414 40 }
+	}
+	provinces={
+		11926 11952 11953 11964 12119 12135 12156 12177 12178 12278 12309 12341 12372 12414
+	}
+	local_supplies=0.0
+}

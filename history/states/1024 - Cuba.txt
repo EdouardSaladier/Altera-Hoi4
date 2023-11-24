@@ -1,0 +1,27 @@
+state={
+	id=1024
+	name="STATE_1024" # Cuba
+	manpower = 12346979
+	state_category = city
+	history={
+		owner = CUB
+		add_core_of = CUB
+		victory_points = { 11342 40 }
+		victory_points = { 11355 10 }
+		victory_points = { 11393 10 }
+		victory_points = { 11403 40 }
+		victory_points = { 11413 20 }
+		victory_points = { 11424 5 }
+		victory_points = { 11440 10 }
+		victory_points = { 11487 10 }
+		victory_points = { 11488 40 }
+		victory_points = { 11515 5 }
+		victory_points = { 11596 10 }
+		victory_points = { 11651 40 }
+		victory_points = { 11683 80 }
+	}
+	provinces={
+		11342 11355 11393 11403 11413 11424 11440 11441 11487 11488 11515 11596 11651 11683
+	}
+	local_supplies=0.0
+}

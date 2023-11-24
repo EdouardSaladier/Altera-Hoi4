@@ -1,0 +1,18 @@
+state={
+	id=1336
+	name="STATE_1336" # Ogun
+	manpower = 1787475
+	state_category = large_town
+	history={
+		owner = BIF
+		add_core_of = BIF
+		victory_points = { 13052 20 }
+		victory_points = { 13147 80 }
+		victory_points = { 13202 80 }
+		victory_points = { 13269 80 }
+	}
+	provinces={
+		13052 13147 13202 13269
+	}
+	local_supplies=0.0
+}

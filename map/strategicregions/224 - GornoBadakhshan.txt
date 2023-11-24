@@ -1,0 +1,9 @@
+strategic_region={
+	id=224
+	name="STRATEGICREGION_224" # Gorno-Badakhshan
+	provinces={
+		8011 8032 8159 8304 8362 8376 8416 8468 8522 8541 8552 8580 8623 8716 8717 8725 8833 8878 8900 8901 8911 8936 8967 8988 9018 9049
+	}
+	weather={
+	}
+}

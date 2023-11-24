@@ -1,0 +1,15 @@
+state={
+	id=1665
+	name="STATE_1665" # Haut-Lomami
+	manpower = 3451186
+	state_category = large_town
+	history={
+		owner = CON
+		add_core_of = CON
+		victory_points = { 14880 10 }
+	}
+	provinces={
+		14719 14768 14799 14804 14826 14880 14901 14983 14989
+	}
+	local_supplies=0.0
+}

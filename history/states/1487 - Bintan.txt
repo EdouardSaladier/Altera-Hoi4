@@ -1,0 +1,16 @@
+state={
+	id=1487
+	name="STATE_1487" # Bintan
+	manpower = 1837403
+	state_category = megalopolis
+	history={
+		owner = BIN
+		add_core_of = BIN
+		victory_points = { 13923 40 }
+		victory_points = { 13941 1 }
+	}
+	provinces={
+		13923 13941 13942
+	}
+	local_supplies=0.0
+}

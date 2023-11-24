@@ -1,0 +1,15 @@
+state={
+	id=858
+	name="STATE_858" # Pamak
+	manpower = 3550
+	state_category = pastoral
+	history={
+		owner = PAM
+		add_core_of = PAM
+		victory_points = { 10262 1 }
+	}
+	provinces={
+		10262
+	}
+	local_supplies=0.0
+}

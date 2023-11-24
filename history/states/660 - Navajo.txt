@@ -1,0 +1,17 @@
+state={
+	id=660
+	name="STATE_660" # Navajo
+	manpower = 13590
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 8984 10 }
+		victory_points = { 9007 5 }
+		victory_points = { 9055 2 }
+	}
+	provinces={
+		8984 9007 9055
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1420
+	name="STATE_1420" # Dja
+	manpower = 526397
+	state_category = town
+	history={
+		owner = DJA
+		add_core_of = DJA
+		victory_points = { 13547 10 }
+	}
+	provinces={
+		13547 13597 13606
+	}
+	local_supplies=0.0
+}

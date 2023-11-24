@@ -1,0 +1,19 @@
+state={
+	id=1553
+	name="STATE_1553" # Sumatera Selatan
+	manpower = 6425869
+	state_category = city
+	history={
+		owner = SIV
+		add_core_of = SIV
+		victory_points = { 14246 80 }
+		victory_points = { 14263 1 }
+		victory_points = { 14299 1 }
+		victory_points = { 14351 20 }
+		victory_points = { 14364 1 }
+	}
+	provinces={
+		14246 14263 14299 14351 14364
+	}
+	local_supplies=0.0
+}

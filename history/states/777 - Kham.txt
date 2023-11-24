@@ -1,0 +1,15 @@
+state={
+	id=777
+	name="STATE_777" # Kham
+	manpower = 8660
+	state_category = pastoral
+	history={
+		owner = KHM
+		add_core_of = KHM
+		victory_points = { 9685 1 }
+	}
+	provinces={
+		9685
+	}
+	local_supplies=0.0
+}

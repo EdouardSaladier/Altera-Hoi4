@@ -1,0 +1,19 @@
+state={
+	id=805
+	name="STATE_805" # Khuzestan
+	manpower = 6532120
+	state_category = city
+	history={
+		owner = PES
+		add_core_of = PES
+		victory_points = { 9870 1 }
+		victory_points = { 9899 20 }
+		victory_points = { 9926 20 }
+		victory_points = { 9994 20 }
+		victory_points = { 10100 20 }
+	}
+	provinces={
+		9870 9899 9926 9994 10100
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=439
+	name="STATE_439" # Dornogovi
+	manpower = 59093
+	state_category = rural
+	history={
+		owner = KHA
+		add_core_of = KHA
+		victory_points = { 7282 5 }
+		victory_points = { 7362 1 }
+		victory_points = { 7677 1 }
+	}
+	provinces={
+		7282 7362 7677
+	}
+	local_supplies=0.0
+}

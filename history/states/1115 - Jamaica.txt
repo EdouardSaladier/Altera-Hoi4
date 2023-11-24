@@ -1,0 +1,15 @@
+state={
+	id=1115
+	name="STATE_1115" # Jamaica
+	manpower = 2843719
+	state_category = large_city
+	history={
+		owner = JAM
+		add_core_of = JAM
+		victory_points = { 11879 80 }
+	}
+	provinces={
+		11879
+	}
+	local_supplies=0.0
+}

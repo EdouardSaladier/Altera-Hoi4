@@ -1,0 +1,16 @@
+state={
+	id=1040
+	name="STATE_1040" # Phú Thọ
+	manpower = 11669825
+	state_category = metropolis
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 11469 20 }
+		victory_points = { 11588 10 }
+	}
+	provinces={
+		11469 11588
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1151
+	name="STATE_1151" # Tahoua
+	manpower = 4873125
+	state_category = large_town
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12117 5 }
+		victory_points = { 12261 5 }
+		victory_points = { 12336 10 }
+	}
+	provinces={
+		12056 12069 12117 12143 12232 12261 12336
+	}
+	local_supplies=0.0
+}

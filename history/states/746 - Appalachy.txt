@@ -1,0 +1,20 @@
+state={
+	id=746
+	name="STATE_746" # Appalachy
+	manpower = 26410
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9470 2 }
+		victory_points = { 9482 20 }
+		victory_points = { 9483 10 }
+		victory_points = { 9497 10 }
+		victory_points = { 9498 40 }
+		victory_points = { 9611 5 }
+	}
+	provinces={
+		9470 9482 9483 9497 9498 9611
+	}
+	local_supplies=0.0
+}

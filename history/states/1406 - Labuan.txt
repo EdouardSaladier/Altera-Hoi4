@@ -1,0 +1,14 @@
+state={
+	id=1406
+	name="STATE_1406" # Labuan
+	manpower = 300339
+	state_category = large_city
+	history={
+		owner = LBU
+		add_core_of = LBU
+	}
+	provinces={
+		13473
+	}
+	local_supplies=0.0
+}

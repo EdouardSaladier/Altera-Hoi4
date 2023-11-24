@@ -1,0 +1,9 @@
+strategic_region={
+	id=261
+	name="STRATEGICREGION_261" # Alania
+	provinces={
+		9192 9276 9315 9332 9375 9410 9471
+	}
+	weather={
+	}
+}

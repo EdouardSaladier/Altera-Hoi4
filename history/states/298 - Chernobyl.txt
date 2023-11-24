@@ -1,0 +1,15 @@
+state={
+	id=298
+	name="STATE_298" # Chernobyl
+	manpower = 1350
+	state_category = pastoral
+	history={
+		owner = CHB
+		add_core_of = CHB
+		victory_points = { 6145 5 }
+	}
+	provinces={
+		6145
+	}
+	local_supplies=0.0
+}

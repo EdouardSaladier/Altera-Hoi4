@@ -1,0 +1,15 @@
+state={
+	id=1795
+	name="STATE_1795" # Mukini
+	manpower = 1370
+	state_category = rural
+	history={
+		owner = MUI
+		add_core_of = MUI
+		victory_points = { 15308 1 }
+	}
+	provinces={
+		15308
+	}
+	local_supplies=0.0
+}

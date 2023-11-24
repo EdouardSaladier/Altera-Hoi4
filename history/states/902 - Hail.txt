@@ -1,0 +1,15 @@
+state={
+	id=902
+	name="STATE_902" # Ha'il
+	manpower = 1061784
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10584 40 }
+	}
+	provinces={
+		10528 10575 10584 10812
+	}
+	local_supplies=0.0
+}

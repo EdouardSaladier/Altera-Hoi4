@@ -1,0 +1,14 @@
+state={
+	id=1306
+	name="STATE_1306" # Sool
+	manpower = 2433578
+	state_category = large_town
+	history={
+		owner = SOM
+		add_core_of = SOM
+	}
+	provinces={
+		12909 13057
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=720
+	name="STATE_720" # Gorania
+	manpower = 1809899
+	state_category = large_town
+	history={
+		owner = GOR
+		add_core_of = GOR
+		victory_points = { 9335 80 }
+		victory_points = { 9463 1 }
+		victory_points = { 9464 10 }
+		victory_points = { 9509 10 }
+		victory_points = { 9585 10 }
+	}
+	provinces={
+		9335 9463 9464 9509 9585
+	}
+	local_supplies=0.0
+}

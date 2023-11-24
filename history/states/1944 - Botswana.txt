@@ -1,0 +1,21 @@
+state={
+	id=1944
+	name="STATE_1944" # Botswana
+	manpower = 3202922
+	state_category = town
+	history={
+		owner = BOT
+		add_core_of = BOT
+		victory_points = { 16299 10 }
+		victory_points = { 16414 5 }
+		victory_points = { 16427 10 }
+		victory_points = { 16428 2 }
+		victory_points = { 16478 2 }
+		victory_points = { 16548 1 }
+		victory_points = { 16564 10 }
+	}
+	provinces={
+		16283 16288 16299 16414 16427 16428 16478 16548 16557 16564
+	}
+	local_supplies=0.0
+}

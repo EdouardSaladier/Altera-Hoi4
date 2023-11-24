@@ -1,0 +1,9 @@
+strategic_region={
+	id=112
+	name="STRATEGICREGION_112" # Kitimat-Stikine
+	provinces={
+		4313 4416 4464 4606 4840 4864 4881 4896 4919 4947 4967 4981 4982 5046 5070 5115 5208 5224
+	}
+	weather={
+	}
+}

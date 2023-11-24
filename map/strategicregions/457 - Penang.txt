@@ -1,0 +1,9 @@
+strategic_region={
+	id=457
+	name="STRATEGICREGION_457" # Penang
+	provinces={
+		13471
+	}
+	weather={
+	}
+}

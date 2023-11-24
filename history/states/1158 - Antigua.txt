@@ -1,0 +1,14 @@
+state={
+	id=1158
+	name="STATE_1158" # Antigua
+	manpower = 87280
+	state_category = large_town
+	history={
+		owner = ANU
+		add_core_of = ANU
+	}
+	provinces={
+		12091
+	}
+	local_supplies=0.0
+}

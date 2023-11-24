@@ -1,0 +1,35 @@
+state={
+	id=446
+	name="STATE_446" # Jilin
+	manpower = 14128207
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 7355 10 }
+		victory_points = { 7416 20 }
+		victory_points = { 7463 20 }
+		victory_points = { 7537 20 }
+		victory_points = { 7559 1 }
+		victory_points = { 7580 1 }
+		victory_points = { 7600 20 }
+		victory_points = { 7688 20 }
+		victory_points = { 7697 20 }
+		victory_points = { 7728 10 }
+		victory_points = { 7754 80 }
+		victory_points = { 7764 10 }
+		victory_points = { 7771 20 }
+		victory_points = { 7781 80 }
+		victory_points = { 7846 20 }
+		victory_points = { 7879 80 }
+		victory_points = { 7970 20 }
+		victory_points = { 8014 1 }
+		victory_points = { 8045 20 }
+		victory_points = { 8091 10 }
+		victory_points = { 8119 80 }
+	}
+	provinces={
+		7355 7416 7463 7536 7537 7559 7580 7600 7688 7697 7698 7728 7753 7754 7764 7771 7781 7822 7846 7862 7879 7923 7970 8003 8014 8024 8045 8091 8092 8119 8120
+	}
+	local_supplies=0.0
+}

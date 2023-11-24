@@ -1,0 +1,15 @@
+state={
+	id=433
+	name="STATE_433" # Wallis
+	manpower = 240809
+	state_category = town
+	history={
+		owner = HEL
+		add_core_of = HEL
+		victory_points = { 7235 10 }
+	}
+	provinces={
+		7235
+	}
+	local_supplies=0.0
+}

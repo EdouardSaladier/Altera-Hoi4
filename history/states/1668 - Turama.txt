@@ -1,0 +1,14 @@
+state={
+	id=1668
+	name="STATE_1668" # Turama
+	manpower = 2610
+	state_category = rural
+	history={
+		owner = TUM
+		add_core_of = TUM
+	}
+	provinces={
+		14733
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=886
+	name="STATE_886" # Saravan
+	manpower = 1240142
+	state_category = town
+	history={
+		owner = GED
+		add_core_of = GED
+		victory_points = { 10422 10 }
+		victory_points = { 10692 1 }
+	}
+	provinces={
+		10422 10520 10639 10692 10795
+	}
+	local_supplies=0.0
+}

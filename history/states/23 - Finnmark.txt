@@ -1,0 +1,20 @@
+state={
+	id=23
+	name="STATE_23" # Finnmark
+	manpower = 186521
+	state_category = rural
+	history={
+		owner = GWE
+		add_core_of = GWE
+		victory_points = { 1694 2 }
+		victory_points = { 1707 1 }
+		victory_points = { 1741 2 }
+		victory_points = { 1748 2 }
+		victory_points = { 1791 1 }
+		victory_points = { 1835 1 }
+	}
+	provinces={
+		1694 1707 1717 1741 1748 1774 1791 1835
+	}
+	local_supplies=0.0
+}

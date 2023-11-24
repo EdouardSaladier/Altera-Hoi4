@@ -1,0 +1,14 @@
+state={
+	id=954
+	name="STATE_954" # Jarun
+	manpower = 23079
+	state_category = large_town
+	history={
+		owner = JAU
+		add_core_of = JAU
+	}
+	provinces={
+		10832
+	}
+	local_supplies=0.0
+}

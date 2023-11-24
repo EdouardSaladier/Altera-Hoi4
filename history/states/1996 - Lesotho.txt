@@ -1,0 +1,15 @@
+state={
+	id=1996
+	name="STATE_1996" # Lesotho
+	manpower = 1516508
+	state_category = large_town
+	history={
+		owner = LEO
+		add_core_of = LEO
+		victory_points = { 16928 5 }
+	}
+	provinces={
+		16928
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=182
+	name="STATE_182" # Swedeland
+	manpower = 23849
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4795 5 }
+	}
+	provinces={
+		4795
+	}
+	local_supplies=0.0
+}

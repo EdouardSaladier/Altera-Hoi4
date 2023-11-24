@@ -1,0 +1,34 @@
+state={
+	id=1177
+	name="STATE_1177" # Philippines
+	manpower = 77399008
+	state_category = megalopolis
+	history={
+		owner = PHI
+		add_core_of = PHI
+		victory_points = { 12212 40 }
+		victory_points = { 12213 40 }
+		victory_points = { 12332 80 }
+		victory_points = { 12401 40 }
+		victory_points = { 12431 40 }
+		victory_points = { 12432 5 }
+		victory_points = { 12465 5 }
+		victory_points = { 12474 5 }
+		victory_points = { 12513 20 }
+		victory_points = { 12521 20 }
+		victory_points = { 12586 2 }
+		victory_points = { 12624 10 }
+		victory_points = { 12637 2 }
+		victory_points = { 12641 5 }
+		victory_points = { 12668 2 }
+		victory_points = { 12708 5 }
+		victory_points = { 12734 40 }
+		victory_points = { 12755 5 }
+		victory_points = { 12810 20 }
+		victory_points = { 12818 80 }
+	}
+	provinces={
+		12212 12213 12332 12401 12431 12432 12465 12474 12513 12521 12586 12624 12637 12641 12668 12708 12734 12755 12810 12818 13043
+	}
+	local_supplies=0.0
+}

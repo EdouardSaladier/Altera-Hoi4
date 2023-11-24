@@ -1,0 +1,21 @@
+state={
+	id=670
+	name="STATE_670" # Ozark
+	manpower = 32280
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9035 5 }
+		victory_points = { 9066 5 }
+		victory_points = { 9088 1 }
+		victory_points = { 9089 5 }
+		victory_points = { 9130 10 }
+		victory_points = { 9241 20 }
+		victory_points = { 9266 80 }
+	}
+	provinces={
+		9035 9066 9088 9089 9130 9241 9266
+	}
+	local_supplies=0.0
+}

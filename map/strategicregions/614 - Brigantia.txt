@@ -1,0 +1,9 @@
+strategic_region={
+	id=614
+	name="STRATEGICREGION_614" # Brigantia
+	provinces={
+		16930 17071 17081 17120 17121 17163 17172 17204
+	}
+	weather={
+	}
+}

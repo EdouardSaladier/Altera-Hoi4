@@ -1,0 +1,20 @@
+state={
+	id=1021
+	name="STATE_1021" # Nubia
+	manpower = 10036246
+	state_category = town
+	history={
+		owner = NUB
+		add_core_of = NUB
+		victory_points = { 11715 5 }
+		victory_points = { 11764 5 }
+		victory_points = { 11823 5 }
+		victory_points = { 11844 20 }
+		victory_points = { 11927 5 }
+		victory_points = { 12050 5 }
+	}
+	provinces={
+		11321 11337 11382 11427 11435 11456 11478 11528 11536 11570 11571 11582 11611 11659 11662 11674 11694 11695 11701 11706 11714 11715 11745 11764 11776 11777 11804 11805 11823 11824 11831 11838 11844 11883 11927 11954 12000 12022 12037 12049 12050 12075
+	}
+	local_supplies=0.0
+}

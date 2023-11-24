@@ -1,0 +1,9 @@
+strategic_region={
+	id=483
+	name="STRATEGICREGION_483" # Tanabala
+	provinces={
+		14028
+	}
+	weather={
+	}
+}

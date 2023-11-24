@@ -1,0 +1,16 @@
+state={
+	id=1893
+	name="STATE_1893" # Tutume
+	manpower = 955222
+	state_category = town
+	history={
+		owner = KAL
+		add_core_of = KAL
+		victory_points = { 15913 1 }
+		victory_points = { 16054 5 }
+	}
+	provinces={
+		15913 16054 16128 16141
+	}
+	local_supplies=0.0
+}

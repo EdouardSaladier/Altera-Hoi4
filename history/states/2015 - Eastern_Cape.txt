@@ -1,0 +1,27 @@
+state={
+	id=2015
+	name="STATE_2015" # Eastern Cape
+	manpower = 5323848
+	state_category = large_town
+	history={
+		owner = RHO
+		add_core_of = RHO
+		victory_points = { 17086 5 }
+		victory_points = { 17100 5 }
+		victory_points = { 17141 20 }
+		victory_points = { 17162 10 }
+		victory_points = { 17176 80 }
+		victory_points = { 17201 5 }
+		victory_points = { 17202 10 }
+		victory_points = { 17253 5 }
+		victory_points = { 17254 5 }
+		victory_points = { 17267 1 }
+		victory_points = { 17306 1 }
+		victory_points = { 17307 5 }
+		victory_points = { 17330 80 }
+	}
+	provinces={
+		17086 17100 17141 17162 17176 17201 17202 17253 17254 17262 17267 17306 17307 17330 17387
+	}
+	local_supplies=0.0
+}

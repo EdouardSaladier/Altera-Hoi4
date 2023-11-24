@@ -1,0 +1,15 @@
+state={
+	id=1307
+	name="STATE_1307" # Boroco
+	manpower = 925769
+	state_category = large_town
+	history={
+		owner = BOO
+		add_core_of = BOO
+		victory_points = { 13000 1 }
+	}
+	provinces={
+		12915 13000
+	}
+	local_supplies=0.0
+}

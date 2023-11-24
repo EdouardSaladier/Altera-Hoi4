@@ -1,0 +1,18 @@
+state={
+	id=510
+	name="STATE_510" # Vratsa
+	manpower = 1942012
+	state_category = large_town
+	history={
+		owner = BUL
+		add_core_of = BUL
+		victory_points = { 7833 10 }
+		victory_points = { 7849 20 }
+		victory_points = { 7977 80 }
+		victory_points = { 7978 10 }
+	}
+	provinces={
+		7833 7849 7977 7978
+	}
+	local_supplies=0.0
+}

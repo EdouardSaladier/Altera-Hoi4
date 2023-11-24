@@ -1,0 +1,17 @@
+state={
+	id=1252
+	name="STATE_1252" # Kândal
+	manpower = 4693340
+	state_category = large_city
+	history={
+		owner = KHU
+		add_core_of = KHU
+		victory_points = { 12635 80 }
+		victory_points = { 12640 10 }
+		victory_points = { 12658 80 }
+	}
+	provinces={
+		12635 12640 12658
+	}
+	local_supplies=0.0
+}

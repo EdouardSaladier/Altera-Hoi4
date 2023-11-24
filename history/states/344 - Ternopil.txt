@@ -1,0 +1,16 @@
+state={
+	id=344
+	name="STATE_344" # Ternopil'
+	manpower = 1194352
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6475 5 }
+		victory_points = { 6488 40 }
+	}
+	provinces={
+		6475 6488
+	}
+	local_supplies=0.0
+}

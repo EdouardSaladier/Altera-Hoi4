@@ -1,0 +1,14 @@
+state={
+	id=865
+	name="STATE_865" # Sikang
+	manpower = 5650
+	state_category = pastoral
+	history={
+		owner = SKA
+		add_core_of = SKA
+	}
+	provinces={
+		10319 10363 10437
+	}
+	local_supplies=0.0
+}

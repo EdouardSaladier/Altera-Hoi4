@@ -1,0 +1,16 @@
+state={
+	id=1480
+	name="STATE_1480" # Galela
+	manpower = 252919
+	state_category = town
+	history={
+		owner = GLE
+		add_core_of = GLE
+		victory_points = { 13882 1 }
+		victory_points = { 14003 1 }
+	}
+	provinces={
+		13882 14003
+	}
+	local_supplies=0.0
+}

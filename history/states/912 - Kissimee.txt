@@ -1,0 +1,16 @@
+state={
+	id=912
+	name="STATE_912" # Kissimee
+	manpower = 916012
+	state_category = large_town
+	history={
+		owner = KIS
+		add_core_of = KIS
+		victory_points = { 10617 10 }
+		victory_points = { 10757 1 }
+	}
+	provinces={
+		10617 10757
+	}
+	local_supplies=0.0
+}

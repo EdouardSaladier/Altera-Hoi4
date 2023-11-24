@@ -1,0 +1,9 @@
+strategic_region={
+	id=84
+	name="STRATEGICREGION_84" # Yemtland
+	provinces={
+		3214 3378 3427 3453 3522 3559 3635 3655
+	}
+	weather={
+	}
+}

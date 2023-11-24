@@ -1,0 +1,27 @@
+state={
+	id=414
+	name="STATE_414" # Circassia
+	manpower = 4462429
+	state_category = large_town
+	history={
+		owner = CIR
+		add_core_of = CIR
+		victory_points = { 7106 5 }
+		victory_points = { 7184 10 }
+		victory_points = { 7238 5 }
+		victory_points = { 7271 5 }
+		victory_points = { 7333 10 }
+		victory_points = { 7343 5 }
+		victory_points = { 7453 20 }
+		victory_points = { 7473 10 }
+		victory_points = { 7492 10 }
+		victory_points = { 7531 80 }
+		victory_points = { 7573 40 }
+		victory_points = { 7574 10 }
+		victory_points = { 7589 20 }
+	}
+	provinces={
+		7106 7107 7184 7238 7271 7333 7343 7453 7473 7492 7531 7573 7574 7589
+	}
+	local_supplies=0.0
+}

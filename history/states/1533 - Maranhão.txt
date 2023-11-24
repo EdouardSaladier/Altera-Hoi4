@@ -1,0 +1,23 @@
+state={
+	id=1533
+	name="STATE_1533" # Maranhão
+	manpower = 54260
+	state_category = pastoral
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 14165 10 }
+		victory_points = { 14221 80 }
+		victory_points = { 14311 5 }
+		victory_points = { 14458 20 }
+		victory_points = { 14507 5 }
+		victory_points = { 14527 5 }
+		victory_points = { 14553 40 }
+		victory_points = { 14585 80 }
+		victory_points = { 14662 10 }
+	}
+	provinces={
+		14165 14221 14311 14425 14458 14507 14526 14527 14553 14585 14662 14889
+	}
+	local_supplies=0.0
+}

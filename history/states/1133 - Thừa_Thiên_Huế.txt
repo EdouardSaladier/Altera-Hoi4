@@ -1,0 +1,16 @@
+state={
+	id=1133
+	name="STATE_1133" # Thừa Thiên Huế
+	manpower = 9070415
+	state_category = metropolis
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 11975 80 }
+		victory_points = { 12268 10 }
+	}
+	provinces={
+		11975 12268
+	}
+	local_supplies=0.0
+}

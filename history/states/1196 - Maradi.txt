@@ -1,0 +1,16 @@
+state={
+	id=1196
+	name="STATE_1196" # Maradi
+	manpower = 5387289
+	state_category = large_city
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12398 5 }
+		victory_points = { 12420 20 }
+	}
+	provinces={
+		12306 12398 12405 12420
+	}
+	local_supplies=0.0
+}

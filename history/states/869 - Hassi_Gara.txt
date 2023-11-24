@@ -1,0 +1,14 @@
+state={
+	id=869
+	name="STATE_869" # Hassi Gara
+	manpower = 1001525
+	state_category = town
+	history={
+		owner = TAR
+		add_core_of = TAR
+	}
+	provinces={
+		10343 10344 10445
+	}
+	local_supplies=0.0
+}

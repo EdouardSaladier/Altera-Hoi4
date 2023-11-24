@@ -1,0 +1,9 @@
+strategic_region={
+	id=480
+	name="STRATEGICREGION_480" # Caenia
+	provinces={
+		13984 14001 14041 14056 14081 14121 14208 14223
+	}
+	weather={
+	}
+}

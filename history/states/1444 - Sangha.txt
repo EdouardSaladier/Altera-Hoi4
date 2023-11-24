@@ -1,0 +1,16 @@
+state={
+	id=1444
+	name="STATE_1444" # Sangha
+	manpower = 244941
+	state_category = town
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+		victory_points = { 13694 5 }
+		victory_points = { 13751 2 }
+	}
+	provinces={
+		13694 13751 13757 13860
+	}
+	local_supplies=0.0
+}

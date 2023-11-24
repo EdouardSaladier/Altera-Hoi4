@@ -1,0 +1,14 @@
+state={
+	id=1719
+	name="STATE_1719" # Sermata
+	manpower = 170
+	state_category = rural
+	history={
+		owner = SRM
+		add_core_of = SRM
+	}
+	provinces={
+		14931
+	}
+	local_supplies=0.0
+}

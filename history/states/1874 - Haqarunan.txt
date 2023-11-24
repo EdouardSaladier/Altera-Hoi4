@@ -1,0 +1,17 @@
+state={
+	id=1874
+	name="STATE_1874" # Haqarunan
+	manpower = 14580
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15806 5 }
+		victory_points = { 15807 10 }
+		victory_points = { 15878 20 }
+	}
+	provinces={
+		15806 15807 15878
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=507
+	name="STATE_507" # Montenegro
+	manpower = 469576
+	state_category = metropolis
+	history={
+		owner = MON
+		add_core_of = MON
+		victory_points = { 7816 5 }
+	}
+	provinces={
+		7816
+	}
+	local_supplies=0.0
+}

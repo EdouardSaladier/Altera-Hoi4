@@ -1,0 +1,14 @@
+state={
+	id=1849
+	name="STATE_1849" # Wurla
+	manpower = 10880
+	state_category = rural
+	history={
+		owner = WUR
+		add_core_of = WUR
+	}
+	provinces={
+		15622 15633 15680
+	}
+	local_supplies=0.0
+}

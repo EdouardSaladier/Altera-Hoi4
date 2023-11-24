@@ -1,0 +1,15 @@
+state={
+	id=1081
+	name="STATE_1081" # Tiafanu
+	manpower = 73425
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 11732 2 }
+	}
+	provinces={
+		11728 11729 11730 11731 11732 11733 11769 11783 11820 11828 11847 11911 11919 11922 11972 12009
+	}
+	local_supplies=0.0
+}

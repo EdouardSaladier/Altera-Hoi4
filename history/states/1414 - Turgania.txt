@@ -1,0 +1,19 @@
+state={
+	id=1414
+	name="STATE_1414" # Turgania
+	manpower = 1949371
+	state_category = town
+	history={
+		owner = TUG
+		add_core_of = TUG
+		victory_points = { 13673 5 }
+		victory_points = { 13795 5 }
+		victory_points = { 13803 10 }
+		victory_points = { 13934 5 }
+		victory_points = { 13955 10 }
+	}
+	provinces={
+		13526 13575 13673 13689 13784 13795 13803 13880 13934 13955
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=781
+	name="STATE_781" # Ruma
+	manpower = 8470
+	state_category = pastoral
+	history={
+		owner = RUM
+		add_core_of = RUM
+		victory_points = { 9720 5 }
+		victory_points = { 9971 1 }
+	}
+	provinces={
+		9720 9971
+	}
+	local_supplies=0.0
+}

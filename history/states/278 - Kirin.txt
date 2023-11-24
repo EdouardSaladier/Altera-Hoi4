@@ -1,0 +1,23 @@
+state={
+	id=278
+	name="STATE_278" # Kirin
+	manpower = 1295971
+	state_category = rural
+	history={
+		owner = KIR
+		add_core_of = KIR
+		victory_points = { 5945 2 }
+		victory_points = { 5956 5 }
+		victory_points = { 5957 10 }
+		victory_points = { 6254 2 }
+		victory_points = { 6312 2 }
+		victory_points = { 6313 5 }
+		victory_points = { 6556 80 }
+		victory_points = { 6729 2 }
+		victory_points = { 6978 5 }
+	}
+	provinces={
+		5945 5956 5957 6219 6254 6312 6313 6556 6678 6703 6729 6740 6880 6978
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=1224
+	name="STATE_1224" # Pouthisat
+	manpower = 3339344
+	state_category = city
+	history={
+		owner = KHU
+		add_core_of = KHU
+		victory_points = { 12449 20 }
+		victory_points = { 12488 1 }
+		victory_points = { 12594 10 }
+		victory_points = { 12694 5 }
+		victory_points = { 12760 1 }
+	}
+	provinces={
+		12449 12488 12562 12594 12694 12760
+	}
+	local_supplies=0.0
+}

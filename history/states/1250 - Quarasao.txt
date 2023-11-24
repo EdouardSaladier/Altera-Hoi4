@@ -1,0 +1,16 @@
+state={
+	id=1250
+	name="STATE_1250" # Quarasao
+	manpower = 553885
+	state_category = large_city
+	history={
+		owner = QUR
+		add_core_of = QUR
+		victory_points = { 12625 5 }
+		victory_points = { 12648 20 }
+	}
+	provinces={
+		12625 12648 12654
+	}
+	local_supplies=0.0
+}

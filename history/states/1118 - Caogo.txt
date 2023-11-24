@@ -1,0 +1,15 @@
+state={
+	id=1118
+	name="STATE_1118" # Caogo
+	manpower = 30057
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 11944 1 }
+	}
+	provinces={
+		11896 11944
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=620
+	name="STRATEGICREGION_620" # Caledonia
+	provinces={
+		17070 17129 17288
+	}
+	weather={
+	}
+}

@@ -1,0 +1,18 @@
+state={
+	id=366
+	name="STATE_366" # Foster
+	manpower = 517906
+	state_category = town
+	history={
+		owner = MAI
+		add_core_of = MAI
+		victory_points = { 6720 2 }
+		victory_points = { 6721 10 }
+		victory_points = { 6782 1 }
+		victory_points = { 6946 20 }
+	}
+	provinces={
+		6720 6721 6782 6946
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=317
+	name="STATE_317" # Hauts-de-France
+	manpower = 6386523
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 6303 10 }
+		victory_points = { 6381 20 }
+		victory_points = { 6487 5 }
+		victory_points = { 6541 5 }
+		victory_points = { 6548 10 }
+		victory_points = { 6691 2 }
+		victory_points = { 6715 80 }
+	}
+	provinces={
+		6303 6381 6487 6541 6548 6691 6715
+	}
+	local_supplies=0.0
+}

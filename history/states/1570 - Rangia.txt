@@ -1,0 +1,16 @@
+state={
+	id=1570
+	name="STATE_1570" # Rangia
+	manpower = 9206111
+	state_category = metropolis
+	history={
+		owner = RAN
+		add_core_of = RAN
+		victory_points = { 14323 10 }
+		victory_points = { 14420 10 }
+	}
+	provinces={
+		14323 14420 14471 14502
+	}
+	local_supplies=0.0
+}

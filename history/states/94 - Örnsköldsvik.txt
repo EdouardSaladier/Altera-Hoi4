@@ -1,0 +1,16 @@
+state={
+	id=94
+	name="STATE_94" # Örnsköldsvik
+	manpower = 108734
+	state_category = town
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = { 3371 1 }
+		victory_points = { 3412 1 }
+	}
+	provinces={
+		3352 3371 3412
+	}
+	local_supplies=0.0
+}

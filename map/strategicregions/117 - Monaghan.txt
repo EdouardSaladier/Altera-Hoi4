@@ -1,0 +1,9 @@
+strategic_region={
+	id=117
+	name="STRATEGICREGION_117" # Monaghan
+	provinces={
+		4360 4399 4420 4424 4552 4635 4637 4856 4971 5033 5049 5510 5534 5923 5948 6117 6302 6418 6501 6682
+	}
+	weather={
+	}
+}

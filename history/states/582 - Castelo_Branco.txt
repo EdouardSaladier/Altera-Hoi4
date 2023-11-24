@@ -1,0 +1,16 @@
+state={
+	id=582
+	name="STATE_582" # Castelo Branco
+	manpower = 1697376
+	state_category = city
+	history={
+		owner = POR
+		add_core_of = POR
+		victory_points = { 8355 5 }
+		victory_points = { 8513 10 }
+	}
+	provinces={
+		8355 8513
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1718
+	name="STATE_1718" # Leti
+	manpower = 27090
+	state_category = town
+	history={
+		owner = LTI
+		add_core_of = LTI
+	}
+	provinces={
+		14930
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=81
+	name="STATE_81" # Nord-Trøndelag
+	manpower = 500671
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 3082 2 }
+		victory_points = { 3277 5 }
+		victory_points = { 3351 5 }
+		victory_points = { 3360 5 }
+	}
+	provinces={
+		3082 3169 3199 3277 3351 3360
+	}
+	local_supplies=0.0
+}

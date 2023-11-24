@@ -1,0 +1,14 @@
+state={
+	id=1792
+	name="STATE_1792" # Lima
+	manpower = 840
+	state_category = rural
+	history={
+		owner = LIM
+		add_core_of = LIM
+	}
+	provinces={
+		15300 16231 16386 16690
+	}
+	local_supplies=0.0
+}

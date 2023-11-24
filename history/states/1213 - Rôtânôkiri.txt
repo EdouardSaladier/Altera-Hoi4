@@ -1,0 +1,16 @@
+state={
+	id=1213
+	name="STATE_1213" # Rôtânôkiri
+	manpower = 1556561
+	state_category = large_town
+	history={
+		owner = KHU
+		add_core_of = KHU
+		victory_points = { 12395 5 }
+		victory_points = { 12595 5 }
+	}
+	provinces={
+		12395 12595
+	}
+	local_supplies=0.0
+}

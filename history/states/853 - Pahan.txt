@@ -1,0 +1,16 @@
+state={
+	id=853
+	name="STATE_853" # Pahan
+	manpower = 7330
+	state_category = pastoral
+	history={
+		owner = PHN
+		add_core_of = PHN
+		victory_points = { 10234 40 }
+		victory_points = { 10263 40 }
+	}
+	provinces={
+		10234 10263
+	}
+	local_supplies=0.0
+}

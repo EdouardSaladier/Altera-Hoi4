@@ -1,0 +1,17 @@
+state={
+	id=669
+	name="STATE_669" # Turabdia
+	manpower = 3196000
+	state_category = city
+	history={
+		owner = TUA
+		add_core_of = TUA
+		victory_points = { 9030 20 }
+		victory_points = { 9059 20 }
+		victory_points = { 9102 1 }
+	}
+	provinces={
+		9030 9059 9102
+	}
+	local_supplies=0.0
+}

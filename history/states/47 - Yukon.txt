@@ -1,0 +1,16 @@
+state={
+	id=47
+	name="STATE_47" # Yukon
+	manpower = 267615
+	state_category = rural
+	history={
+		owner = TAN
+		add_core_of = TAN
+		victory_points = { 2914 1 }
+		victory_points = { 3920 1 }
+	}
+	provinces={
+		2144 2228 2341 2410 2429 2532 2591 2607 2692 2829 2863 2914 2944 2952 3046 3095 3121 3129 3190 3232 3289 3366 3382 3404 3422 3423 3447 3462 3483 3557 3643 3663 3671 3707 3719 3732 3792 3805 3827 3879 3907 3908 3909 3920 3988 4011 4022 4043
+	}
+	local_supplies=0.0
+}

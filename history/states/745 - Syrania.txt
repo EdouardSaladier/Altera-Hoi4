@@ -1,0 +1,22 @@
+state={
+	id=745
+	name="STATE_745" # Syrania
+	manpower = 4314999
+	state_category = large_town
+	history={
+		owner = SYA
+		add_core_of = SYA
+		victory_points = { 9465 80 }
+		victory_points = { 9510 10 }
+		victory_points = { 9516 40 }
+		victory_points = { 9586 40 }
+		victory_points = { 9680 20 }
+		victory_points = { 9681 1 }
+		victory_points = { 9695 20 }
+		victory_points = { 9717 10 }
+	}
+	provinces={
+		9465 9510 9516 9586 9680 9681 9695 9717 9740
+	}
+	local_supplies=0.0
+}

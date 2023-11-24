@@ -1,0 +1,16 @@
+state={
+	id=323
+	name="STATE_323" # Wallonia
+	manpower = 1526256
+	state_category = large_town
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 6340 20 }
+		victory_points = { 6390 5 }
+	}
+	provinces={
+		6340 6390
+	}
+	local_supplies=0.0
+}

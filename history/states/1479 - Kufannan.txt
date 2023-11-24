@@ -1,0 +1,16 @@
+state={
+	id=1479
+	name="STATE_1479" # Kufannan
+	manpower = 4320
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13876 5 }
+		victory_points = { 13963 5 }
+	}
+	provinces={
+		13876 13910 13963
+	}
+	local_supplies=0.0
+}

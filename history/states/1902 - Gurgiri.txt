@@ -1,0 +1,14 @@
+state={
+	id=1902
+	name="STATE_1902" # Gurgiri
+	manpower = 11410
+	state_category = rural
+	history={
+		owner = GUR
+		add_core_of = GUR
+	}
+	provinces={
+		15971 16005 16026
+	}
+	local_supplies=0.0
+}

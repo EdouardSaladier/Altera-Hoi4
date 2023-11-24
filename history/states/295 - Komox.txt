@@ -1,0 +1,15 @@
+state={
+	id=295
+	name="STATE_295" # Komox
+	manpower = 10380
+	state_category = pastoral
+	history={
+		owner = KOM
+		add_core_of = KOM
+		victory_points = { 6483 5 }
+	}
+	provinces={
+		6112 6412 6483
+	}
+	local_supplies=0.0
+}

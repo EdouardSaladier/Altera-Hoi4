@@ -1,0 +1,14 @@
+state={
+	id=1904
+	name="STATE_1904" # Tana
+	manpower = 37339
+	state_category = town
+	history={
+		owner = TNA
+		add_core_of = TNA
+	}
+	provinces={
+		15977 16117
+	}
+	local_supplies=0.0
+}

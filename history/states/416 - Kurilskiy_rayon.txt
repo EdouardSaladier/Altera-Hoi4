@@ -1,0 +1,15 @@
+state={
+	id=416
+	name="STATE_416" # Kuril'skiy rayon
+	manpower = 3630
+	state_category = pastoral
+	history={
+		owner = YEZ
+		add_core_of = YEZ
+		victory_points = { 7539 1 }
+	}
+	provinces={
+		7114 7227 7338 7539 7635 7699 7783
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1463
+	name="STATE_1463" # Bajau
+	manpower = 100
+	state_category = pastoral
+	history={
+		owner = BAJ
+		add_core_of = BAJ
+	}
+	provinces={
+		13806
+	}
+	local_supplies=0.0
+}

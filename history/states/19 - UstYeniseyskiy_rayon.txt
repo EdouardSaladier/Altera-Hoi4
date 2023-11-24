@@ -1,0 +1,14 @@
+state={
+	id=19
+	name="STATE_19" # Ust'-Yeniseyskiy rayon
+	manpower = 28350
+	state_category = pastoral
+	history={
+		owner = NES
+		add_core_of = NES
+	}
+	provinces={
+		1532 1696 1837 1928 1961
+	}
+	local_supplies=0.0
+}

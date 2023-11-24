@@ -1,0 +1,18 @@
+state={
+	id=990
+	name="STATE_990" # Haklow
+	manpower = 19720
+	state_category = pastoral
+	history={
+		owner = HAK
+		add_core_of = HAK
+		victory_points = { 11098 80 }
+		victory_points = { 11117 40 }
+		victory_points = { 11214 1 }
+		victory_points = { 11222 5 }
+	}
+	provinces={
+		11098 11117 11214 11222
+	}
+	local_supplies=0.0
+}

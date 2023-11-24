@@ -1,0 +1,14 @@
+state={
+	id=1544
+	name="STATE_1544" # Obara
+	manpower = 30142
+	state_category = town
+	history={
+		owner = OBA
+		add_core_of = OBA
+	}
+	provinces={
+		14213
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=844
+	name="STATE_844" # Jiroft
+	manpower = 1451786
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		victory_points = { 10167 20 }
+		victory_points = { 10357 40 }
+		victory_points = { 10449 2 }
+		victory_points = { 10505 1 }
+	}
+	provinces={
+		10167 10357 10358 10369 10449 10505
+	}
+	local_supplies=0.0
+}

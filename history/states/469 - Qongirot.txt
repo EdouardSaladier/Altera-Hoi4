@@ -1,0 +1,14 @@
+state={
+	id=469
+	name="STATE_469" # Qo'ng'irot
+	manpower = 406185
+	state_category = town
+	history={
+		owner = GAS
+		add_core_of = GAS
+	}
+	provinces={
+		7521 7851 7991
+	}
+	local_supplies=0.0
+}

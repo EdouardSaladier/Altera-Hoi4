@@ -1,0 +1,15 @@
+state={
+	id=1057
+	name="STATE_1057" # Sanjan
+	manpower = 9175250
+	state_category = metropolis
+	history={
+		owner = SAJ
+		add_core_of = SAJ
+		victory_points = { 11567 80 }
+	}
+	provinces={
+		11567
+	}
+	local_supplies=0.0
+}

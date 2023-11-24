@@ -1,0 +1,22 @@
+state={
+	id=1427
+	name="STATE_1427" # Johor
+	manpower = 15897082
+	state_category = large_city
+	history={
+		owner = JOH
+		add_core_of = JOH
+		victory_points = { 13592 40 }
+		victory_points = { 13603 10 }
+		victory_points = { 13661 80 }
+		victory_points = { 13675 40 }
+		victory_points = { 13714 5 }
+		victory_points = { 13744 20 }
+		victory_points = { 13780 20 }
+		victory_points = { 13823 40 }
+	}
+	provinces={
+		13592 13603 13661 13675 13714 13744 13780 13823
+	}
+	local_supplies=0.0
+}

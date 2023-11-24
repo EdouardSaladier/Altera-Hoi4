@@ -1,0 +1,15 @@
+state={
+	id=112
+	name="STATE_112" # Fairland
+	manpower = 98739
+	state_category = town
+	history={
+		owner = FAI
+		add_core_of = FAI
+		victory_points = { 3979 5 }
+	}
+	provinces={
+		3871 3979
+	}
+	local_supplies=0.0
+}

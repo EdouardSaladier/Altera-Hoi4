@@ -1,0 +1,32 @@
+state={
+	id=708
+	name="STATE_708" # Vesyria
+	manpower = 20493332
+	state_category = city
+	history={
+		owner = VES
+		add_core_of = VES
+		victory_points = { 9299 1 }
+		victory_points = { 9366 40 }
+		victory_points = { 9401 10 }
+		victory_points = { 9428 10 }
+		victory_points = { 9477 10 }
+		victory_points = { 9490 80 }
+		victory_points = { 9502 10 }
+		victory_points = { 9503 20 }
+		victory_points = { 9532 5 }
+		victory_points = { 9550 1 }
+		victory_points = { 9563 80 }
+		victory_points = { 9573 5 }
+		victory_points = { 9617 10 }
+		victory_points = { 9654 1 }
+		victory_points = { 9683 20 }
+		victory_points = { 9707 20 }
+		victory_points = { 9743 20 }
+		victory_points = { 9744 10 }
+	}
+	provinces={
+		9279 9299 9366 9401 9428 9477 9490 9502 9503 9532 9550 9563 9573 9598 9617 9654 9683 9707 9743 9744
+	}
+	local_supplies=0.0
+}

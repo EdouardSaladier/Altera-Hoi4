@@ -1,0 +1,14 @@
+state={
+	id=1844
+	name="STATE_1844" # Malekula
+	manpower = 88387
+	state_category = large_town
+	history={
+		owner = MLE
+		add_core_of = MLE
+	}
+	provinces={
+		15591 15650 15701
+	}
+	local_supplies=0.0
+}

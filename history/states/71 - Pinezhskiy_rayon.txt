@@ -1,0 +1,19 @@
+state={
+	id=71
+	name="STATE_71" # Pinezhskiy rayon
+	manpower = 256729
+	state_category = rural
+	history={
+		owner = BIA
+		add_core_of = BIA
+		victory_points = { 3030 2 }
+		victory_points = { 3469 2 }
+		victory_points = { 3513 5 }
+		victory_points = { 3778 5 }
+		victory_points = { 3915 10 }
+	}
+	provinces={
+		2824 2851 3030 3043 3097 3098 3135 3322 3380 3469 3513 3576 3625 3725 3737 3778 3779 3840 3915
+	}
+	local_supplies=0.0
+}

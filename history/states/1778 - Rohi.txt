@@ -1,0 +1,15 @@
+state={
+	id=1778
+	name="STATE_1778" # Rohi
+	manpower = 120081
+	state_category = large_town
+	history={
+		owner = ROH
+		add_core_of = ROH
+		victory_points = { 15212 1 }
+	}
+	provinces={
+		15212
+	}
+	local_supplies=0.0
+}

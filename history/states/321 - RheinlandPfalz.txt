@@ -1,0 +1,19 @@
+state={
+	id=321
+	name="STATE_321" # Rheinland-Pfalz
+	manpower = 8838179
+	state_category = large_city
+	history={
+		owner = ALM
+		add_core_of = ALM
+		victory_points = { 6328 20 }
+		victory_points = { 6430 20 }
+		victory_points = { 6502 20 }
+		victory_points = { 6562 40 }
+		victory_points = { 6823 20 }
+	}
+	provinces={
+		6328 6430 6502 6562 6823
+	}
+	local_supplies=0.0
+}

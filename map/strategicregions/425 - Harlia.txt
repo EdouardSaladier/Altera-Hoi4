@@ -1,0 +1,9 @@
+strategic_region={
+	id=425
+	name="STRATEGICREGION_425" # Harlia
+	provinces={
+		12825 12872 12884 12935 12967 12968 12985 13056 13080 13139
+	}
+	weather={
+	}
+}

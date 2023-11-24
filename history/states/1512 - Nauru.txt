@@ -1,0 +1,15 @@
+state={
+	id=1512
+	name="STATE_1512" # Nauru
+	manpower = 460
+	state_category = pastoral
+	history={
+		owner = NUU
+		add_core_of = NUU
+		victory_points = { 14075 1 }
+	}
+	provinces={
+		14075 14109
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1906
+	name="STATE_1906" # Bilingjal
+	manpower = 3280
+	state_category = rural
+	history={
+		owner = BIL
+		add_core_of = BIL
+	}
+	provinces={
+		15984
+	}
+	local_supplies=0.0
+}

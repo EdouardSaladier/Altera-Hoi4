@@ -1,0 +1,14 @@
+state={
+	id=1793
+	name="STATE_1793" # Guragun
+	manpower = 360
+	state_category = rural
+	history={
+		owner = GRA
+		add_core_of = GRA
+	}
+	provinces={
+		15304
+	}
+	local_supplies=0.0
+}

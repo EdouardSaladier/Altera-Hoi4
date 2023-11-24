@@ -1,0 +1,16 @@
+state={
+	id=1596
+	name="STATE_1596" # Bewa
+	manpower = 510983
+	state_category = large_town
+	history={
+		owner = BEW
+		add_core_of = BEW
+		victory_points = { 14432 1 }
+		victory_points = { 14472 1 }
+	}
+	provinces={
+		14432 14472
+	}
+	local_supplies=0.0
+}

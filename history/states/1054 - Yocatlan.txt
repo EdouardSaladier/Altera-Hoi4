@@ -1,0 +1,18 @@
+state={
+	id=1054
+	name="STATE_1054" # Yocatlan
+	manpower = 13200
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11546 20 }
+		victory_points = { 11552 20 }
+		victory_points = { 11642 5 }
+		victory_points = { 11669 5 }
+	}
+	provinces={
+		11546 11552 11642 11669
+	}
+	local_supplies=0.0
+}

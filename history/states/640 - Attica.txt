@@ -1,0 +1,17 @@
+state={
+	id=640
+	name="STATE_640" # Attica
+	manpower = 916523
+	state_category = large_town
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8816 5 }
+		victory_points = { 8875 5 }
+		victory_points = { 8944 20 }
+	}
+	provinces={
+		8816 8875 8944
+	}
+	local_supplies=0.0
+}

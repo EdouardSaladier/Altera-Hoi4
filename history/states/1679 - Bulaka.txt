@@ -1,0 +1,15 @@
+state={
+	id=1679
+	name="STATE_1679" # Bulaka
+	manpower = 44878
+	state_category = town
+	history={
+		owner = BLK
+		add_core_of = BLK
+		victory_points = { 14788 1 }
+	}
+	provinces={
+		14788
+	}
+	local_supplies=0.0
+}

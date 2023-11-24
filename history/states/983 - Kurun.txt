@@ -1,0 +1,14 @@
+state={
+	id=983
+	name="STATE_983" # Kurun
+	manpower = 730
+	state_category = pastoral
+	history={
+		owner = KRU
+		add_core_of = KRU
+	}
+	provinces={
+		11044
+	}
+	local_supplies=0.0
+}

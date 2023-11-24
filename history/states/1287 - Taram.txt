@@ -1,0 +1,17 @@
+state={
+	id=1287
+	name="STATE_1287" # Taram
+	manpower = 6147211
+	state_category = metropolis
+	history={
+		owner = TRA
+		add_core_of = TRA
+		victory_points = { 12819 10 }
+		victory_points = { 12831 40 }
+		victory_points = { 12866 40 }
+	}
+	provinces={
+		12819 12831 12866
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1964
+	name="STATE_1964" # Marotiri
+	manpower = 1880
+	state_category = rural
+	history={
+		owner = MRO
+		add_core_of = MRO
+		victory_points = { 16539 1 }
+	}
+	provinces={
+		16451 16465 16466 16519 16520 16527 16539 16586
+	}
+	local_supplies=0.0
+}

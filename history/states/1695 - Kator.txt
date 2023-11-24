@@ -1,0 +1,14 @@
+state={
+	id=1695
+	name="STATE_1695" # Kator
+	manpower = 650
+	state_category = rural
+	history={
+		owner = KTO
+		add_core_of = KTO
+	}
+	provinces={
+		14870
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1275
+	name="STATE_1275" # Arubo
+	manpower = 461949
+	state_category = large_city
+	history={
+		owner = AUB
+		add_core_of = AUB
+		victory_points = { 12779 40 }
+	}
+	provinces={
+		12779
+	}
+	local_supplies=0.0
+}

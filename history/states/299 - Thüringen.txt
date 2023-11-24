@@ -1,0 +1,18 @@
+state={
+	id=299
+	name="STATE_299" # Thüringen
+	manpower = 4883098
+	state_category = city
+	history={
+		owner = SAX
+		add_core_of = SAX
+		victory_points = { 6159 20 }
+		victory_points = { 6211 10 }
+		victory_points = { 6212 80 }
+		victory_points = { 6288 10 }
+	}
+	provinces={
+		6159 6211 6212 6288
+	}
+	local_supplies=0.0
+}

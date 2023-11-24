@@ -1,0 +1,15 @@
+state={
+	id=544
+	name="STATE_544" # Andia
+	manpower = 168000
+	state_category = town
+	history={
+		owner = ADI
+		add_core_of = ADI
+		victory_points = { 8059 5 }
+	}
+	provinces={
+		8059
+	}
+	local_supplies=0.0
+}

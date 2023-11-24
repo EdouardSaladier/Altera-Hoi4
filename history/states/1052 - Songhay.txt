@@ -1,0 +1,19 @@
+state={
+	id=1052
+	name="STATE_1052" # Songhay
+	manpower = 101111
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 11737 5 }
+		victory_points = { 11836 1 }
+		victory_points = { 11997 5 }
+		victory_points = { 12116 20 }
+		victory_points = { 12131 5 }
+	}
+	provinces={
+		11535 11609 11734 11735 11736 11737 11770 11836 11889 11997 12019 12116 12131
+	}
+	local_supplies=0.0
+}

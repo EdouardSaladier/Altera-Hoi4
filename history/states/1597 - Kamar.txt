@@ -1,0 +1,14 @@
+state={
+	id=1597
+	name="STATE_1597" # Kamar
+	manpower = 780
+	state_category = rural
+	history={
+		owner = KMA
+		add_core_of = KMA
+	}
+	provinces={
+		14439
+	}
+	local_supplies=0.0
+}

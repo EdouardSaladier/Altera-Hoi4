@@ -1,0 +1,20 @@
+state={
+	id=455
+	name="STATE_455" # Spink
+	manpower = 358393
+	state_category = town
+	history={
+		owner = MAI
+		add_core_of = MAI
+		victory_points = { 7422 5 }
+		victory_points = { 7423 2 }
+		victory_points = { 7424 2 }
+		victory_points = { 7561 1 }
+		victory_points = { 7583 5 }
+		victory_points = { 7592 5 }
+	}
+	provinces={
+		7422 7423 7424 7561 7583 7592
+	}
+	local_supplies=0.0
+}

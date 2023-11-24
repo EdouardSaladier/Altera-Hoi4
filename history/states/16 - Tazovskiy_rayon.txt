@@ -1,0 +1,15 @@
+state={
+	id=16
+	name="STATE_16" # Tazovskiy rayon
+	manpower = 97200
+	state_category = pastoral
+	history={
+		owner = NES
+		add_core_of = NES
+		victory_points = { 2115 5 }
+	}
+	provinces={
+		1420 1503 1517 1555 1578 1624 1652 1671 1679 1695 1719 1720 1758 1762 1771 1799 1825 1884 1904 1971 1995 2115 2136
+	}
+	local_supplies=0.0
+}

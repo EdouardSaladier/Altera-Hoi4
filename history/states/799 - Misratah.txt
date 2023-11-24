@@ -1,0 +1,16 @@
+state={
+	id=799
+	name="STATE_799" # Misratah
+	manpower = 328189
+	state_category = town
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 9840 80 }
+		victory_points = { 9974 10 }
+	}
+	provinces={
+		9840 9974 10025 10071
+	}
+	local_supplies=0.0
+}

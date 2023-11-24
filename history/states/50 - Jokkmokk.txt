@@ -1,0 +1,14 @@
+state={
+	id=50
+	name="STATE_50" # Jokkmokk
+	manpower = 16634
+	state_category = rural
+	history={
+		owner = GWE
+		add_core_of = GWE
+	}
+	provinces={
+		2216 2335 2403 2433
+	}
+	local_supplies=0.0
+}

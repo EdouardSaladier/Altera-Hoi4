@@ -1,0 +1,9 @@
+strategic_region={
+	id=189
+	name="STRATEGICREGION_189" # Alberta
+	provinces={
+		6916 6928 7031 7032 7073 7104 7154 7164 7217 7232 7233 7330 7350 7384 7403 7450 7469 7476 7624
+	}
+	weather={
+	}
+}

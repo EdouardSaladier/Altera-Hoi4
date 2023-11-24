@@ -1,0 +1,15 @@
+state={
+	id=870
+	name="STATE_870" # Golok
+	manpower = 2840
+	state_category = pastoral
+	history={
+		owner = GOO
+		add_core_of = GOO
+		victory_points = { 10348 1 }
+	}
+	provinces={
+		10348
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,28 @@
+state={
+	id=905
+	name="STATE_905" # Sind
+	manpower = 47867690
+	state_category = metropolis
+	history={
+		owner = SIN
+		add_core_of = SIN
+		victory_points = { 10542 20 }
+		victory_points = { 10653 80 }
+		victory_points = { 10704 20 }
+		victory_points = { 10813 5 }
+		victory_points = { 10835 40 }
+		victory_points = { 10851 80 }
+		victory_points = { 10895 5 }
+		victory_points = { 10954 40 }
+		victory_points = { 10999 80 }
+		victory_points = { 11052 10 }
+		victory_points = { 11077 5 }
+		victory_points = { 11078 5 }
+		victory_points = { 11096 10 }
+		victory_points = { 11097 10 }
+	}
+	provinces={
+		10542 10653 10704 10780 10813 10835 10851 10895 10954 10999 11052 11077 11078 11096 11097
+	}
+	local_supplies=0.0
+}

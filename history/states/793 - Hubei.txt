@@ -1,0 +1,30 @@
+state={
+	id=793
+	name="STATE_793" # Hubei
+	manpower = 41647923
+	state_category = metropolis
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 9786 1 }
+		victory_points = { 9800 80 }
+		victory_points = { 9801 1 }
+		victory_points = { 9916 80 }
+		victory_points = { 9940 80 }
+		victory_points = { 10000 5 }
+		victory_points = { 10017 5 }
+		victory_points = { 10018 20 }
+		victory_points = { 10019 20 }
+		victory_points = { 10082 1 }
+		victory_points = { 10091 80 }
+		victory_points = { 10092 80 }
+		victory_points = { 10155 40 }
+		victory_points = { 10168 80 }
+		victory_points = { 10236 20 }
+		victory_points = { 10285 20 }
+	}
+	provinces={
+		9786 9800 9801 9916 9940 10000 10017 10018 10019 10044 10082 10091 10092 10155 10168 10236 10285
+	}
+	local_supplies=0.0
+}

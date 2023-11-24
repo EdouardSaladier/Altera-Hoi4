@@ -1,0 +1,15 @@
+state={
+	id=1101
+	name="STATE_1101" # Thamud
+	manpower = 97814
+	state_category = rural
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 11874 1 }
+	}
+	provinces={
+		11840 11874
+	}
+	local_supplies=0.0
+}

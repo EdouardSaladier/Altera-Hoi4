@@ -1,0 +1,18 @@
+state={
+	id=1750
+	name="STATE_1750" # Ruvuma
+	manpower = 2870617
+	state_category = large_town
+	history={
+		owner = ROV
+		add_core_of = ROV
+		victory_points = { 15113 20 }
+		victory_points = { 15144 20 }
+		victory_points = { 15163 5 }
+		victory_points = { 15168 10 }
+	}
+	provinces={
+		15049 15097 15113 15144 15163 15168
+	}
+	local_supplies=0.0
+}

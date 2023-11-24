@@ -1,0 +1,15 @@
+state={
+	id=1972
+	name="STATE_1972" # Rapanui
+	manpower = 2390
+	state_category = rural
+	history={
+		owner = RAA
+		add_core_of = RAA
+		victory_points = { 16733 2 }
+	}
+	provinces={
+		16547 16685 16733 16778 16812
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=55
+	name="STATE_55" # Shuryshkarskiy rayon
+	manpower = 230170
+	state_category = rural
+	history={
+		owner = NES
+		add_core_of = NES
+		victory_points = { 2453 5 }
+		victory_points = { 2677 2 }
+	}
+	provinces={
+		2453 2466 2653 2677 2754 2769 2972 2999 3031 3099
+	}
+	local_supplies=0.0
+}

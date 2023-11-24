@@ -1,0 +1,16 @@
+state={
+	id=456
+	name="STATE_456" # Menominee
+	manpower = 672994
+	state_category = town
+	history={
+		owner = MEO
+		add_core_of = MEO
+		victory_points = { 7426 5 }
+		victory_points = { 7563 5 }
+	}
+	provinces={
+		7426 7563
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1323
+	name="STATE_1323" # Bamingui-Bangoran
+	manpower = 29495
+	state_category = rural
+	history={
+		owner = ANZ
+		add_core_of = ANZ
+	}
+	provinces={
+		12984
+	}
+	local_supplies=0.0
+}

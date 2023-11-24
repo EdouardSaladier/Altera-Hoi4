@@ -1,0 +1,15 @@
+state={
+	id=856
+	name="STATE_856" # Bordj Omar Driss
+	manpower = 123022
+	state_category = rural
+	history={
+		owner = GET
+		add_core_of = GET
+		victory_points = { 10252 5 }
+	}
+	provinces={
+		10252 10266 10303 10355 10398 10601
+	}
+	local_supplies=0.0
+}

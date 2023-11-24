@@ -1,0 +1,9 @@
+strategic_region={
+	id=407
+	name="STRATEGICREGION_407" # Philippines
+	provinces={
+		12474 12513 12586 12624 12637 12641 12668 12708 12734 12755 12810 12818 12917 13043
+	}
+	weather={
+	}
+}

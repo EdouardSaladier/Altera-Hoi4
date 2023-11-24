@@ -1,0 +1,14 @@
+state={
+	id=1855
+	name="STATE_1855" # Rawarat
+	manpower = 1010
+	state_category = rural
+	history={
+		owner = RAR
+		add_core_of = RAR
+	}
+	provinces={
+		15643
+	}
+	local_supplies=0.0
+}

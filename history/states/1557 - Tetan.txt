@@ -1,0 +1,14 @@
+state={
+	id=1557
+	name="STATE_1557" # Tetan
+	manpower = 50851
+	state_category = town
+	history={
+		owner = TET
+		add_core_of = TET
+	}
+	provinces={
+		14269
+	}
+	local_supplies=0.0
+}

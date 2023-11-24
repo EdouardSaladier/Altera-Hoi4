@@ -1,0 +1,16 @@
+state={
+	id=489
+	name="STATE_489" # Ligury
+	manpower = 2065677
+	state_category = city
+	history={
+		owner = LIU
+		add_core_of = LIU
+		victory_points = { 7684 20 }
+		victory_points = { 7733 40 }
+	}
+	provinces={
+		7684 7733
+	}
+	local_supplies=0.0
+}

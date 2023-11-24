@@ -1,0 +1,16 @@
+state={
+	id=1375
+	name="STATE_1375" # Dumarune
+	manpower = 959099
+	state_category = town
+	history={
+		owner = DUM
+		add_core_of = DUM
+		victory_points = { 13307 40 }
+		victory_points = { 13314 5 }
+	}
+	provinces={
+		13307 13314 13447 13456 13536 13630 13798
+	}
+	local_supplies=0.0
+}

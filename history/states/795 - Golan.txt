@@ -1,0 +1,16 @@
+state={
+	id=795
+	name="STATE_795" # Golan
+	manpower = 4214324
+	state_category = large_city
+	history={
+		owner = GOA
+		add_core_of = GOA
+		victory_points = { 9817 20 }
+		victory_points = { 9818 1 }
+	}
+	provinces={
+		9817 9818
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=206
+	name="STATE_206" # Anian
+	manpower = 28870
+	state_category = pastoral
+	history={
+		owner = ANA
+		add_core_of = ANA
+	}
+	provinces={
+		5106 5281 5297 5336 5408 5517 5593 5608 5651 5660 5661 5725 5737 5805 5935 6031 6032 6046 6069 6099 6100 6124 6220 6269 6399 6400 6401
+	}
+	local_supplies=0.0
+}

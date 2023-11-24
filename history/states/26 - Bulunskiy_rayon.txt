@@ -1,0 +1,14 @@
+state={
+	id=26
+	name="STATE_26" # Bulunskiy rayon
+	manpower = 21360
+	state_category = pastoral
+	history={
+		owner = KOL
+		add_core_of = KOL
+	}
+	provinces={
+		1736
+	}
+	local_supplies=0.0
+}

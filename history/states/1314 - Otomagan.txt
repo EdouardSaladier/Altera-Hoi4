@@ -1,0 +1,16 @@
+state={
+	id=1314
+	name="STATE_1314" # Otomagan
+	manpower = 935842
+	state_category = town
+	history={
+		owner = OTO
+		add_core_of = OTO
+		victory_points = { 12942 80 }
+		victory_points = { 12950 20 }
+	}
+	provinces={
+		12942 12950
+	}
+	local_supplies=0.0
+}

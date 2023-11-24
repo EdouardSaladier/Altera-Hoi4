@@ -1,0 +1,23 @@
+state={
+	id=284
+	name="STATE_284" # Łódzkie
+	manpower = 6296732
+	state_category = city
+	history={
+		owner = POL
+		add_core_of = POL
+		victory_points = { 5971 10 }
+		victory_points = { 6023 10 }
+		victory_points = { 6093 20 }
+		victory_points = { 6118 40 }
+		victory_points = { 6262 40 }
+		victory_points = { 6274 10 }
+		victory_points = { 6304 40 }
+		victory_points = { 6393 80 }
+		victory_points = { 6394 5 }
+	}
+	provinces={
+		5971 6023 6093 6118 6262 6274 6304 6393 6394
+	}
+	local_supplies=0.0
+}

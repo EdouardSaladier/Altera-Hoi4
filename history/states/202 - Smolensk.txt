@@ -1,0 +1,26 @@
+state={
+	id=202
+	name="STATE_202" # Smolensk
+	manpower = 2589136
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5102 5 }
+		victory_points = { 5136 5 }
+		victory_points = { 5137 5 }
+		victory_points = { 5138 10 }
+		victory_points = { 5171 10 }
+		victory_points = { 5244 5 }
+		victory_points = { 5245 2 }
+		victory_points = { 5330 1 }
+		victory_points = { 5367 5 }
+		victory_points = { 5390 5 }
+		victory_points = { 5399 5 }
+		victory_points = { 5495 2 }
+	}
+	provinces={
+		5086 5102 5136 5137 5138 5171 5244 5245 5330 5367 5390 5399 5495
+	}
+	local_supplies=0.0
+}

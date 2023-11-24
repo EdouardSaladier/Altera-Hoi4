@@ -1,0 +1,18 @@
+state={
+	id=979
+	name="STATE_979" # Sylhet
+	manpower = 31571891
+	state_category = megalopolis
+	history={
+		owner = BEN
+		add_core_of = BEN
+		victory_points = { 11028 40 }
+		victory_points = { 11083 20 }
+		victory_points = { 11151 10 }
+		victory_points = { 11219 40 }
+	}
+	provinces={
+		11028 11083 11151 11219
+	}
+	local_supplies=0.0
+}

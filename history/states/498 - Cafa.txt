@@ -1,0 +1,14 @@
+state={
+	id=498
+	name="STATE_498" # Cafa
+	manpower = 250
+	state_category = pastoral
+	history={
+		owner = CAF
+		add_core_of = CAF
+	}
+	provinces={
+		7748
+	}
+	local_supplies=0.0
+}

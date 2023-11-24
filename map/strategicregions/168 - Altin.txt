@@ -1,0 +1,9 @@
+strategic_region={
+	id=168
+	name="STRATEGICREGION_168" # Altin
+	provinces={
+		6215 6307 6374 6513 6526 6553 6627 6676 6699 6748 6749 6750 6762 6824 6849 6900 6923 6941 7045
+	}
+	weather={
+	}
+}

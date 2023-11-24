@@ -1,0 +1,14 @@
+state={
+	id=1625
+	name="STATE_1625" # Meka
+	manpower = 65655
+	state_category = town
+	history={
+		owner = MEK
+		add_core_of = MEK
+	}
+	provinces={
+		14550
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1933
+	name="STATE_1933" # Mamar
+	manpower = 15080
+	state_category = rural
+	history={
+		owner = MAM
+		add_core_of = MAM
+		victory_points = { 16216 2 }
+	}
+	provinces={
+		16202 16203 16216 16235
+	}
+	local_supplies=0.0
+}

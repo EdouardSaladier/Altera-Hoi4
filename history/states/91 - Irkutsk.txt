@@ -1,0 +1,38 @@
+state={
+	id=91
+	name="STATE_91" # Irkutsk
+	manpower = 1942347
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 3822 1 }
+		victory_points = { 4403 2 }
+		victory_points = { 4495 1 }
+		victory_points = { 4515 2 }
+		victory_points = { 4539 1 }
+		victory_points = { 4558 20 }
+		victory_points = { 4665 5 }
+		victory_points = { 4673 5 }
+		victory_points = { 4754 2 }
+		victory_points = { 4785 5 }
+		victory_points = { 4808 1 }
+		victory_points = { 4837 10 }
+		victory_points = { 4916 5 }
+		victory_points = { 4977 5 }
+		victory_points = { 5040 40 }
+		victory_points = { 5123 2 }
+		victory_points = { 5174 10 }
+		victory_points = { 5183 5 }
+		victory_points = { 5206 10 }
+		victory_points = { 5346 2 }
+		victory_points = { 5373 1 }
+		victory_points = { 5403 5 }
+		victory_points = { 5575 20 }
+		victory_points = { 5802 80 }
+	}
+	provinces={
+		3285 3443 3472 3515 3608 3641 3728 3822 3889 3890 3992 4117 4132 4145 4185 4214 4269 4270 4324 4346 4368 4389 4403 4429 4450 4494 4495 4515 4538 4539 4557 4558 4559 4587 4631 4652 4653 4654 4665 4673 4701 4713 4714 4723 4745 4754 4771 4772 4785 4786 4808 4837 4838 4851 4874 4904 4916 4917 4926 4934 4945 4977 5040 5041 5123 5143 5174 5183 5193 5206 5258 5333 5346 5373 5403 5467 5482 5575 5616 5802
+	}
+	local_supplies=0.0
+}

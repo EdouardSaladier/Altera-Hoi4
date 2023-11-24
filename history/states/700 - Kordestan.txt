@@ -1,0 +1,18 @@
+state={
+	id=700
+	name="STATE_700" # Kordestan
+	manpower = 3129882
+	state_category = city
+	history={
+		owner = MED
+		add_core_of = MED
+		victory_points = { 9243 10 }
+		victory_points = { 9252 20 }
+		victory_points = { 9253 1 }
+		victory_points = { 9361 40 }
+	}
+	provinces={
+		9243 9252 9253 9361
+	}
+	local_supplies=0.0
+}

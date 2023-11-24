@@ -1,0 +1,17 @@
+state={
+	id=316
+	name="STATE_316" # Devland
+	manpower = 2476532
+	state_category = city
+	history={
+		owner = DEL
+		add_core_of = DEL
+		victory_points = { 6301 5 }
+		victory_points = { 6369 10 }
+		victory_points = { 6408 5 }
+	}
+	provinces={
+		6301 6369 6408 6560 6570
+	}
+	local_supplies=0.0
+}

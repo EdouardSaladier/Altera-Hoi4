@@ -1,0 +1,22 @@
+state={
+	id=133
+	name="STATE_133" # Orebro
+	manpower = 975531
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4198 5 }
+		victory_points = { 4253 20 }
+		victory_points = { 4383 5 }
+		victory_points = { 4447 20 }
+		victory_points = { 4510 5 }
+		victory_points = { 4511 2 }
+		victory_points = { 4522 2 }
+		victory_points = { 4627 2 }
+	}
+	provinces={
+		4198 4253 4376 4383 4447 4510 4511 4522 4627
+	}
+	local_supplies=0.0
+}

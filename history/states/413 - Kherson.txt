@@ -1,0 +1,17 @@
+state={
+	id=413
+	name="STATE_413" # Kherson
+	manpower = 903553
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 7105 5 }
+		victory_points = { 7206 10 }
+		victory_points = { 7270 5 }
+	}
+	provinces={
+		7105 7206 7270
+	}
+	local_supplies=0.0
+}

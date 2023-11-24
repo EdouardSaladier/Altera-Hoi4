@@ -1,0 +1,15 @@
+state={
+	id=1388
+	name="STATE_1388" # Teraina
+	manpower = 1160
+	state_category = pastoral
+	history={
+		owner = TEA
+		add_core_of = TEA
+		victory_points = { 13790 1 }
+	}
+	provinces={
+		13376 13790
+	}
+	local_supplies=0.0
+}

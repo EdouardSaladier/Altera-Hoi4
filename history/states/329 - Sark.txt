@@ -1,0 +1,17 @@
+state={
+	id=329
+	name="STATE_329" # Sark
+	manpower = 423810
+	state_category = city
+	history={
+		owner = SRK
+		add_core_of = SRK
+		victory_points = { 6370 5 }
+		victory_points = { 6583 1 }
+		victory_points = { 6671 1 }
+	}
+	provinces={
+		6370 6583 6671
+	}
+	local_supplies=0.0
+}

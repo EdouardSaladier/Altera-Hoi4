@@ -1,0 +1,15 @@
+state={
+	id=966
+	name="STATE_966" # Boujdour
+	manpower = 8230
+	state_category = pastoral
+	history={
+		owner = SEN
+		add_core_of = SEN
+		victory_points = { 10972 5 }
+	}
+	provinces={
+		10930 10972 11036
+	}
+	local_supplies=0.0
+}

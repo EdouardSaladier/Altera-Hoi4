@@ -1,0 +1,19 @@
+state={
+	id=812
+	name="STATE_812" # Faridkot
+	manpower = 23494995
+	state_category = megalopolis
+	history={
+		owner = PUN
+		add_core_of = PUN
+		victory_points = { 9939 80 }
+		victory_points = { 9998 80 }
+		victory_points = { 10195 40 }
+		victory_points = { 10260 20 }
+		victory_points = { 10346 40 }
+	}
+	provinces={
+		9939 9998 10195 10260 10346
+	}
+	local_supplies=0.0
+}

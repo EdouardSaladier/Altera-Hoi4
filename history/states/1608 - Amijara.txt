@@ -1,0 +1,14 @@
+state={
+	id=1608
+	name="STATE_1608" # Amijara
+	manpower = 2260
+	state_category = rural
+	history={
+		owner = AMI
+		add_core_of = AMI
+	}
+	provinces={
+		14482
+	}
+	local_supplies=0.0
+}

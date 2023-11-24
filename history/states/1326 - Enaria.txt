@@ -1,0 +1,15 @@
+state={
+	id=1326
+	name="STATE_1326" # Enaria
+	manpower = 102000
+	state_category = town
+	history={
+		owner = ENA
+		add_core_of = ENA
+		victory_points = { 13064 10 }
+	}
+	provinces={
+		13006 13064
+	}
+	local_supplies=0.0
+}

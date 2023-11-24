@@ -1,0 +1,15 @@
+state={
+	id=1011
+	name="STATE_1011" # Mundar
+	manpower = 3700
+	state_category = pastoral
+	history={
+		owner = MUD
+		add_core_of = MUD
+		victory_points = { 11273 10 }
+	}
+	provinces={
+		11273
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=653
+	name="STRATEGICREGION_653" # Arinivia
+	provinces={
+		17942 17981 17986 17988 17991 17994 17999 18000 18022 18026 18037
+	}
+	weather={
+	}
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=343
+	name="STRATEGICREGION_343" # Burma
+	provinces={
+		11258 11327 11352 11364 11438 11468 11495 11575 11606 11653 11665 11684 11780 11781 11796 11797 11901
+	}
+	weather={
+	}
+}

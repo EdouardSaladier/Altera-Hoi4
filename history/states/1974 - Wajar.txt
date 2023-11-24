@@ -1,0 +1,15 @@
+state={
+	id=1974
+	name="STATE_1974" # Wajar
+	manpower = 13690
+	state_category = rural
+	history={
+		owner = WAJ
+		add_core_of = WAJ
+		victory_points = { 16644 1 }
+	}
+	provinces={
+		16567 16644
+	}
+	local_supplies=0.0
+}

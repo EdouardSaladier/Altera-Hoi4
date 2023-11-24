@@ -1,0 +1,17 @@
+state={
+	id=222
+	name="STATE_222" # Ermakovskiy rayon
+	manpower = 469330
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 5372 20 }
+		victory_points = { 5573 5 }
+		victory_points = { 5775 5 }
+	}
+	provinces={
+		5270 5372 5573 5574 5775 5801 5905
+	}
+	local_supplies=0.0
+}

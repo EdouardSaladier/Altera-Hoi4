@@ -1,0 +1,15 @@
+state={
+	id=392
+	name="STATE_392" # Quiliut
+	manpower = 72564
+	state_category = town
+	history={
+		owner = QUL
+		add_core_of = QUL
+		victory_points = { 6904 2 }
+	}
+	provinces={
+		6904
+	}
+	local_supplies=0.0
+}

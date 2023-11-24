@@ -1,0 +1,17 @@
+state={
+	id=249
+	name="STATE_249" # Shuswap
+	manpower = 28980
+	state_category = pastoral
+	history={
+		owner = SHU
+		add_core_of = SHU
+		victory_points = { 5832 5 }
+		victory_points = { 5921 2 }
+		victory_points = { 6070 5 }
+	}
+	provinces={
+		5505 5594 5792 5821 5832 5921 6070
+	}
+	local_supplies=0.0
+}

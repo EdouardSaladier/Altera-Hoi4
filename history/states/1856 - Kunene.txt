@@ -1,0 +1,14 @@
+state={
+	id=1856
+	name="STATE_1856" # Kunene
+	manpower = 177849
+	state_category = rural
+	history={
+		owner = NAM
+		add_core_of = NAM
+	}
+	provinces={
+		15661 15781 15919 15983 16002 16032
+	}
+	local_supplies=0.0
+}

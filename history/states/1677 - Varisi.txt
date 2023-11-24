@@ -1,0 +1,14 @@
+state={
+	id=1677
+	name="STATE_1677" # Varisi
+	manpower = 38643
+	state_category = town
+	history={
+		owner = VAR
+		add_core_of = VAR
+	}
+	provinces={
+		14781
+	}
+	local_supplies=0.0
+}

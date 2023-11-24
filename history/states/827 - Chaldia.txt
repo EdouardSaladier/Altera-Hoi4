@@ -1,0 +1,21 @@
+state={
+	id=827
+	name="STATE_827" # Chaldia
+	manpower = 9635550
+	state_category = city
+	history={
+		owner = CHD
+		add_core_of = CHD
+		victory_points = { 10052 10 }
+		victory_points = { 10076 10 }
+		victory_points = { 10136 10 }
+		victory_points = { 10165 20 }
+		victory_points = { 10173 80 }
+		victory_points = { 10222 5 }
+		victory_points = { 10233 40 }
+	}
+	provinces={
+		10052 10076 10136 10165 10173 10221 10222 10233
+	}
+	local_supplies=0.0
+}

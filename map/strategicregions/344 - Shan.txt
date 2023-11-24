@@ -1,0 +1,9 @@
+strategic_region={
+	id=344
+	name="STRATEGICREGION_344" # Shan
+	provinces={
+		11304 11332 11431 11463 11496 11551 11564 11576 11586 11633
+	}
+	weather={
+	}
+}

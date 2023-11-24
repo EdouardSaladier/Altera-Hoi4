@@ -1,0 +1,14 @@
+state={
+	id=1919
+	name="STATE_1919" # Nor Lípez
+	manpower = 390
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+	}
+	provinces={
+		16088
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=1017
+	name="STATE_1017" # Shan
+	manpower = 5824431
+	state_category = large_town
+	history={
+		owner = SHA
+		add_core_of = SHA
+		victory_points = { 11332 1 }
+		victory_points = { 11496 20 }
+		victory_points = { 11586 10 }
+		victory_points = { 11633 5 }
+	}
+	provinces={
+		11304 11332 11431 11463 11496 11551 11564 11576 11586 11633
+	}
+	local_supplies=0.0
+}

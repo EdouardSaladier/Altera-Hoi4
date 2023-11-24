@@ -1,0 +1,14 @@
+state={
+	id=2009
+	name="STATE_2009" # Jujala
+	manpower = 290
+	state_category = rural
+	history={
+		owner = JUJ
+		add_core_of = JUJ
+	}
+	provinces={
+		17049
+	}
+	local_supplies=0.0
+}

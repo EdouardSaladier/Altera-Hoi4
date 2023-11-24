@@ -1,0 +1,15 @@
+state={
+	id=847
+	name="STATE_847" # Gyam
+	manpower = 3210
+	state_category = pastoral
+	history={
+		owner = GYM
+		add_core_of = GYM
+		victory_points = { 10185 5 }
+	}
+	provinces={
+		10185
+	}
+	local_supplies=0.0
+}

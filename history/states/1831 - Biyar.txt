@@ -1,0 +1,15 @@
+state={
+	id=1831
+	name="STATE_1831" # Biyar
+	manpower = 990
+	state_category = rural
+	history={
+		owner = BIR
+		add_core_of = BIR
+		victory_points = { 15502 2 }
+	}
+	provinces={
+		15502
+	}
+	local_supplies=0.0
+}

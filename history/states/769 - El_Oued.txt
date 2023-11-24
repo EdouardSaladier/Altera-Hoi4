@@ -1,0 +1,18 @@
+state={
+	id=769
+	name="STATE_769" # El Oued
+	manpower = 432091
+	state_category = town
+	history={
+		owner = GET
+		add_core_of = GET
+		victory_points = { 9637 10 }
+		victory_points = { 9652 10 }
+		victory_points = { 9702 5 }
+		victory_points = { 9736 5 }
+	}
+	provinces={
+		9637 9652 9694 9702 9736 9792
+	}
+	local_supplies=0.0
+}

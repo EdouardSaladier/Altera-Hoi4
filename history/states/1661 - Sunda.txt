@@ -1,0 +1,19 @@
+state={
+	id=1661
+	name="STATE_1661" # Sunda
+	manpower = 55565093
+	state_category = megalopolis
+	history={
+		owner = SUN
+		add_core_of = SUN
+		victory_points = { 14700 20 }
+		victory_points = { 14701 80 }
+		victory_points = { 14725 80 }
+		victory_points = { 14750 40 }
+		victory_points = { 14852 5 }
+	}
+	provinces={
+		14700 14701 14725 14750 14852
+	}
+	local_supplies=0.0
+}

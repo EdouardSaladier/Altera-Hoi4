@@ -1,0 +1,19 @@
+state={
+	id=234
+	name="STATE_234" # Zachodniopomorskie
+	manpower = 2603193
+	state_category = large_town
+	history={
+		owner = POM
+		add_core_of = POM
+		victory_points = { 5388 20 }
+		victory_points = { 5457 10 }
+		victory_points = { 5536 10 }
+		victory_points = { 5571 5 }
+		victory_points = { 5598 20 }
+	}
+	provinces={
+		5388 5457 5536 5571 5598
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=1218
+	name="STATE_1218" # Bântéay Méanchey
+	manpower = 3047856
+	state_category = city
+	history={
+		owner = KHU
+		add_core_of = KHU
+		victory_points = { 12418 5 }
+		victory_points = { 12507 5 }
+		victory_points = { 12533 20 }
+	}
+	provinces={
+		12418 12507 12526 12533
+	}
+	local_supplies=0.0
+}

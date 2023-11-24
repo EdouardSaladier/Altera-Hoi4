@@ -1,0 +1,16 @@
+state={
+	id=1405
+	name="STATE_1405" # Batek
+	manpower = 2687180
+	state_category = city
+	history={
+		owner = BAE
+		add_core_of = BAE
+		victory_points = { 13472 5 }
+		victory_points = { 13550 5 }
+	}
+	provinces={
+		13472 13490 13528 13550
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=573
+	name="STRATEGICREGION_573" # Lapita
+	provinces={
+		16006 16051
+	}
+	weather={
+	}
+}

@@ -1,0 +1,14 @@
+state={
+	id=1643
+	name="STATE_1643" # Gundara
+	manpower = 36531
+	state_category = town
+	history={
+		owner = GUD
+		add_core_of = GUD
+	}
+	provinces={
+		14621
+	}
+	local_supplies=0.0
+}

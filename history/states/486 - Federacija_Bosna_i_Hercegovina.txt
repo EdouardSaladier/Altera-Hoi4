@@ -1,0 +1,16 @@
+state={
+	id=486
+	name="STATE_486" # Federacija Bosna i Hercegovina
+	manpower = 1507871
+	state_category = large_town
+	history={
+		owner = BOS
+		add_core_of = BOS
+		victory_points = { 7665 20 }
+		victory_points = { 7795 20 }
+	}
+	provinces={
+		7665 7795
+	}
+	local_supplies=0.0
+}

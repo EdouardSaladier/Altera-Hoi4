@@ -1,0 +1,18 @@
+state={
+	id=1204
+	name="STATE_1204" # Tigretia
+	manpower = 7474039
+	state_category = city
+	history={
+		owner = TIG
+		add_core_of = TIG
+		victory_points = { 12364 5 }
+		victory_points = { 12381 10 }
+		victory_points = { 12421 10 }
+		victory_points = { 12471 40 }
+	}
+	provinces={
+		12363 12364 12381 12421 12436 12463 12471 12478 12511
+	}
+	local_supplies=0.0
+}

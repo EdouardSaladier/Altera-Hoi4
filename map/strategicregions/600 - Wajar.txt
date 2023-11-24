@@ -1,0 +1,9 @@
+strategic_region={
+	id=600
+	name="STRATEGICREGION_600" # Wajar
+	provinces={
+		16644
+	}
+	weather={
+	}
+}

@@ -1,0 +1,15 @@
+state={
+	id=1622
+	name="STATE_1622" # Kavana
+	manpower = 415128
+	state_category = city
+	history={
+		owner = KAV
+		add_core_of = KAV
+		victory_points = { 14540 1 }
+	}
+	provinces={
+		14540
+	}
+	local_supplies=0.0
+}
