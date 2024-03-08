@@ -1,9 +1,0 @@
-strategic_region={
-	id=129
-	name="STRATEGICREGION_129" # Vallania
-	provinces={
-		4743 4859 4871 4880 4888 4889 4944 4955 4964 5003 5004 5052 5053 5065 5087
-	}
-	weather={
-	}
-}

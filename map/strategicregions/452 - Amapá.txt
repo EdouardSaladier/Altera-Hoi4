@@ -1,9 +1,0 @@
-strategic_region={
-	id=452
-	name="STRATEGICREGION_452" # Amapá
-	provinces={
-		13405 13448 13491 13562 13581 13602 13631 13641 13687 13763 13810 13967 14011 14046 14047
-	}
-	weather={
-	}
-}

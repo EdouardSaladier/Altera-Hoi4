@@ -1,9 +1,0 @@
-strategic_region={
-	id=338
-	name="STRATEGICREGION_338" # Magania
-	provinces={
-		11165 11271 11301 11374 11385 11446 11481 11514 11604 11621 11671 11708 11759 11913 11929 12013
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=574
-	name="STRATEGICREGION_574" # Temuhi
-	provinces={
-		16027 16116 16205 16279
-	}
-	weather={
-	}
-}

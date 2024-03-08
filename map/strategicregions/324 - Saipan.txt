@@ -1,9 +1,0 @@
-strategic_region={
-	id=324
-	name="STRATEGICREGION_324" # Saipan
-	provinces={
-		10816 10888 10969
-	}
-	weather={
-	}
-}

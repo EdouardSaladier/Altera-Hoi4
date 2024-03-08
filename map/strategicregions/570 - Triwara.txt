@@ -1,9 +1,0 @@
-strategic_region={
-	id=570
-	name="STRATEGICREGION_570" # Triwara
-	provinces={
-		15976 16035 16066 16092 16135 16157 16158 16182 16251 16252 16273 16278 16327 16358 16389
-	}
-	weather={
-	}
-}

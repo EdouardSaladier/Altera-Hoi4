@@ -1,9 +1,0 @@
-strategic_region={
-	id=220
-	name="STRATEGICREGION_220" # Altishar
-	provinces={
-		7992 8107 8149 8259 8305 8306 8307 8320 8389 8390 8406 8469 8495 8558 8605 8633 8662
-	}
-	weather={
-	}
-}

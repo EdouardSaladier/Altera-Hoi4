@@ -1,9 +1,0 @@
-strategic_region={
-	id=128
-	name="STRATEGICREGION_128" # Danmark
-	provinces={
-		4707 4819 4847 4869 4952 4996 5034 5085 5093 5125 5135 5153 5176 5229 5276 5290 5307 5312
-	}
-	weather={
-	}
-}

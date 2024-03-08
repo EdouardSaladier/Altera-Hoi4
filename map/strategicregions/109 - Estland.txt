@@ -1,9 +1,0 @@
-strategic_region={
-	id=109
-	name="STRATEGICREGION_109" # Estland
-	provinces={
-		4291 4303 4363 4385 4401 4435 4457 4523 4524 4573
-	}
-	weather={
-	}
-}

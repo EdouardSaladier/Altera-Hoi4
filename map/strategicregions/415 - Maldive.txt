@@ -1,9 +1,0 @@
-strategic_region={
-	id=415
-	name="STRATEGICREGION_415" # Maldive
-	provinces={
-		12685 12893 13230 13374 13539 13615 13965 14017 14095 14290 14530 14603 14694 14714 14749 14816 14842
-	}
-	weather={
-	}
-}

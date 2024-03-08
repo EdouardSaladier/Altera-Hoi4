@@ -1,9 +1,0 @@
-strategic_region={
-	id=208
-	name="STRATEGICREGION_208" # Narnia
-	provinces={
-		7706 7769 7837 7843 7876 7899 7907 7945 7967 7998 8012 8033 8069 8087 8148 8203 8228
-	}
-	weather={
-	}
-}

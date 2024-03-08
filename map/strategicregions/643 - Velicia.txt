@@ -1,9 +1,0 @@
-strategic_region={
-	id=643
-	name="STRATEGICREGION_643" # Velicia
-	provinces={
-		17758
-	}
-	weather={
-	}
-}

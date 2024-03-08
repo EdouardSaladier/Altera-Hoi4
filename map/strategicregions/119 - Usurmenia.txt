@@ -1,9 +1,0 @@
-strategic_region={
-	id=119
-	name="STRATEGICREGION_119" # Usurmenia
-	provinces={
-		4438 4471 4472 4482 4503 4536 4556 4585 4599 4630 4677 4709 4736 4769 4849 4858
-	}
-	weather={
-	}
-}

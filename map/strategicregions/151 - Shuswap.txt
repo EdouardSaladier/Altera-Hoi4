@@ -1,9 +1,0 @@
-strategic_region={
-	id=151
-	name="STRATEGICREGION_151" # Shuswap
-	provinces={
-		5505 5594 5792 5821 5832 5921 6070
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=127
-	name="STRATEGICREGION_127" # Lethland
-	provinces={
-		4669 4694 4720 4758 4765 4821 4898 4911 4974
-	}
-	weather={
-	}
-}

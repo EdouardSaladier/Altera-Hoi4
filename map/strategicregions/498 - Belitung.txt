@@ -1,9 +1,0 @@
-strategic_region={
-	id=498
-	name="STRATEGICREGION_498" # Belitung
-	provinces={
-		14324
-	}
-	weather={
-	}
-}

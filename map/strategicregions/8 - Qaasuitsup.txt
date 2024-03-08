@@ -1,9 +1,0 @@
-strategic_region={
-	id=8
-	name="STRATEGICREGION_8" # Qaasuitsup
-	provinces={
-		36 144 271 415 504 802
-	}
-	weather={
-	}
-}

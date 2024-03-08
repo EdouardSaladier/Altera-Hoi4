@@ -1,9 +1,0 @@
-strategic_region={
-	id=283
-	name="STRATEGICREGION_283" # Kham
-	provinces={
-		9685 9843 9915 9931 9950 9970 10034 10058 10140 10227 10274 10334 10543
-	}
-	weather={
-	}
-}

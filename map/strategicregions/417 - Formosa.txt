@@ -1,9 +1,0 @@
-strategic_region={
-	id=417
-	name="STRATEGICREGION_417" # Formosa
-	provinces={
-		12707 12761
-	}
-	weather={
-	}
-}

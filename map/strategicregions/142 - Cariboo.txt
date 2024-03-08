@@ -1,9 +1,0 @@
-strategic_region={
-	id=142
-	name="STRATEGICREGION_142" # Cariboo
-	provinces={
-		5283 5310 5419 5487 5518 5620 5709 5762 5791 5854 5855 5886 5896 5946 6000 6047 6101 6112 6169 6189 6233 6413
-	}
-	weather={
-	}
-}

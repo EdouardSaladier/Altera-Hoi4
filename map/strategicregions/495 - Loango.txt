@@ -1,9 +1,0 @@
-strategic_region={
-	id=495
-	name="STRATEGICREGION_495" # Loango
-	provinces={
-		14206 14271 14288 14294 14327 14361 14399 14465 14466 14544 14564 14647
-	}
-	weather={
-	}
-}

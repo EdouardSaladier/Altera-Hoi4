@@ -1,9 +1,0 @@
-strategic_region={
-	id=464
-	name="STRATEGICREGION_464" # Fojen
-	provinces={
-		13620
-	}
-	weather={
-	}
-}

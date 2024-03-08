@@ -1,9 +1,0 @@
-strategic_region={
-	id=124
-	name="STRATEGICREGION_124" # Basgaria
-	provinces={
-		4615 4684 4710 4711 4872 4900 4913 4914 5037 5066 5120 5142 5202 5277 5443 5472 5525 5548 5671
-	}
-	weather={
-	}
-}

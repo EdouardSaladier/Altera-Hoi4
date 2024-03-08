@@ -1,9 +1,0 @@
-strategic_region={
-	id=277
-	name="STRATEGICREGION_277" # Calasia
-	provinces={
-		9439 9449 9450 9475 9540 9572 9597 9616 9653 9666 9741 9772 9783 9862 9914 9996 10055 10137 10151 10210 10270
-	}
-	weather={
-	}
-}

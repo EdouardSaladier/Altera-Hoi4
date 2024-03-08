@@ -1,9 +1,0 @@
-strategic_region={
-	id=212
-	name="STRATEGICREGION_212" # Italy
-	provinces={
-		7831 7897 7931 7964 8041 8050 8080 8125 8209 8280 8300 8386 8401 8536 8590
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=467
-	name="STRATEGICREGION_467" # Barria
-	provinces={
-		13723 13742 13760 13777 13785 13804 13873 13881 13905 13935 13985 13986 14042 14057
-	}
-	weather={
-	}
-}

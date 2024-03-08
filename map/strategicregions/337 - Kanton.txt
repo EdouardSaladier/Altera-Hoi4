@@ -1,9 +1,0 @@
-strategic_region={
-	id=337
-	name="STRATEGICREGION_337" # Kanton
-	provinces={
-		11135 11153 11156 11197 11223 11276 11287 11305 11335 11365 11390 11464 11470 11507 11634
-	}
-	weather={
-	}
-}

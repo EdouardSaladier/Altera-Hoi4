@@ -1,9 +1,0 @@
-strategic_region={
-	id=147
-	name="STRATEGICREGION_147" # Aigun
-	provinces={
-		5405 5499 5516 5592 5646 5647 5695 5804 5819 5831 5851 5852 5894 5907 6067 6151 6280
-	}
-	weather={
-	}
-}

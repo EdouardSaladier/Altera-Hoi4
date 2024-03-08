@@ -1,9 +1,0 @@
-strategic_region={
-	id=82
-	name="STRATEGICREGION_82" # Gentmark
-	provinces={
-		3125 3556 3593 3669 3888 3924 4060 4136 4196 4249 4255 4264 4267 4268 4305 4378 4379 4439 4473 4504
-	}
-	weather={
-	}
-}

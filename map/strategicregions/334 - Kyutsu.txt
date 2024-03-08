@@ -1,9 +1,0 @@
-strategic_region={
-	id=334
-	name="STRATEGICREGION_334" # Kyutsu
-	provinces={
-		11109 11205 11306 11307 11346 11689
-	}
-	weather={
-	}
-}

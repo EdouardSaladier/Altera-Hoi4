@@ -1,9 +1,0 @@
-strategic_region={
-	id=395
-	name="STRATEGICREGION_395" # Chitradurga
-	provinces={
-		12222 12271 12313 12325 12350 12374 12393 12448 12464 12473 12479 12506 12577 12585 12622
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=180
-	name="STRATEGICREGION_180" # Besserabia
-	provinces={
-		6758 6833 6834 6896 6950 6975 6987 7013 7147 7148 7168 7320
-	}
-	weather={
-	}
-}

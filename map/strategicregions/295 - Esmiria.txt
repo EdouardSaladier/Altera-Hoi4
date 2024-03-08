@@ -1,9 +1,0 @@
-strategic_region={
-	id=295
-	name="STRATEGICREGION_295" # Esmiria
-	provinces={
-		9897 9973 10049 10095 10096 10132 10209 10271 10278 10302
-	}
-	weather={
-	}
-}

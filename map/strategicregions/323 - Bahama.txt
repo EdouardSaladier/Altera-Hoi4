@@ -1,9 +1,0 @@
-strategic_region={
-	id=323
-	name="STRATEGICREGION_323" # Bahama
-	provinces={
-		10801 10830 11035 11075 11092 11172 11280 11291 11404 11442 11523 11579
-	}
-	weather={
-	}
-}

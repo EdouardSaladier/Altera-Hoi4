@@ -1,9 +1,0 @@
-strategic_region={
-	id=396
-	name="STRATEGICREGION_396" # Dahlak
-	provinces={
-		12265
-	}
-	weather={
-	}
-}

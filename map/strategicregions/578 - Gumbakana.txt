@@ -1,9 +1,0 @@
-strategic_region={
-	id=578
-	name="STRATEGICREGION_578" # Gumbakana
-	provinces={
-		16189 16328 16345 16399 16460 16474 16484 16568 16583 16593 16611 16683 16697 16710 16786 16805
-	}
-	weather={
-	}
-}

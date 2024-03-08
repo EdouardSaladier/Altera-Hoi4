@@ -1,9 +1,0 @@
-strategic_region={
-	id=225
-	name="STRATEGICREGION_225" # Sogdia
-	provinces={
-		8068 8134 8168 8175 8190 8360 8361 8423 8424 8425 8449 8450 8480 8481 8503 8504 8622 8632 8648
-	}
-	weather={
-	}
-}

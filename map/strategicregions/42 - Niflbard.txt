@@ -1,9 +1,0 @@
-strategic_region={
-	id=42
-	name="STRATEGICREGION_42" # Niflbard
-	provinces={
-		913 936 963 985 998 999 1049 1086 1087 1088 1094 1114 1133 1234 1238 1291 1306 1332 1357
-	}
-	weather={
-	}
-}

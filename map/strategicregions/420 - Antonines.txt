@@ -1,9 +1,0 @@
-strategic_region={
-	id=420
-	name="STRATEGICREGION_420" # Antonines
-	provinces={
-		12783 12969
-	}
-	weather={
-	}
-}

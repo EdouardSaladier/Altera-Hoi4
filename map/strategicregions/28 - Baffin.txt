@@ -1,9 +1,0 @@
-strategic_region={
-	id=28
-	name="STRATEGICREGION_28" # Baffin
-	provinces={
-		158 335 404 568 690 743 854 1011 1116 1165 1586
-	}
-	weather={
-	}
-}

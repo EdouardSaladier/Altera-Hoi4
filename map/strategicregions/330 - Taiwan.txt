@@ -1,9 +1,0 @@
-strategic_region={
-	id=330
-	name="STRATEGICREGION_330" # Taiwan
-	provinces={
-		10949 10957 10968 11099 11115 11198 11229 11230 11345 11399 11452 11471 11577
-	}
-	weather={
-	}
-}

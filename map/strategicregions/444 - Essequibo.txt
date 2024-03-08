@@ -1,9 +1,0 @@
-strategic_region={
-	id=444
-	name="STRATEGICREGION_444" # Essequibo
-	provinces={
-		13200 13247 13322 13340 13399 13469 13521 13573 13621 13710 13739 13816 13866 13973
-	}
-	weather={
-	}
-}

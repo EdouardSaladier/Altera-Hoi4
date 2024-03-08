@@ -1,9 +1,0 @@
-strategic_region={
-	id=310
-	name="STRATEGICREGION_310" # Baloch
-	provinces={
-		10273 10325 10378 10400 10506 10588 10589 10750 10751 10752 10859 10987
-	}
-	weather={
-	}
-}

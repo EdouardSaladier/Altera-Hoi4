@@ -1,9 +1,0 @@
-strategic_region={
-	id=348
-	name="STRATEGICREGION_348" # Cuba
-	provinces={
-		11342 11355 11393 11403 11413 11424 11440 11441 11487 11488 11515 11596 11651 11683
-	}
-	weather={
-	}
-}

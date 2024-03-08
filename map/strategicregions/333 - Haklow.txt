@@ -1,9 +1,0 @@
-strategic_region={
-	id=333
-	name="STRATEGICREGION_333" # Haklow
-	provinces={
-		11098 11117 11214 11222
-	}
-	weather={
-	}
-}

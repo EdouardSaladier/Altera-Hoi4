@@ -1,9 +1,0 @@
-strategic_region={
-	id=530
-	name="STRATEGICREGION_530" # Arasudra
-	provinces={
-		15007 15019 15025 15059 15078 15136 15248
-	}
-	weather={
-	}
-}

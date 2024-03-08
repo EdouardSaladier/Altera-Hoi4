@@ -1,9 +1,0 @@
-strategic_region={
-	id=491
-	name="STRATEGICREGION_491" # Daha
-	provinces={
-		14096 14106 14155 14161 14217 14256 14284 14285 14314 14354 14365 14404
-	}
-	weather={
-	}
-}

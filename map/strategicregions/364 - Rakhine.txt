@@ -1,9 +1,0 @@
-strategic_region={
-	id=364
-	name="STRATEGICREGION_364" # Rakhine
-	provinces={
-		11718 11886
-	}
-	weather={
-	}
-}

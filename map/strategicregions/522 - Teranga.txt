@@ -1,9 +1,0 @@
-strategic_region={
-	id=522
-	name="STRATEGICREGION_522" # Teranga
-	provinces={
-		14887 14946 14981 15053 15062 15117 15161
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=493
-	name="STRATEGICREGION_493" # Sipura
-	provinces={
-		14154 14291 14330 14363
-	}
-	weather={
-	}
-}

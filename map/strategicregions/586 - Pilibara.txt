@@ -1,9 +1,0 @@
-strategic_region={
-	id=586
-	name="STRATEGICREGION_586" # Pilibara
-	provinces={
-		16309 16333 16356 16357 16388 16489 16490 16500 16510
-	}
-	weather={
-	}
-}

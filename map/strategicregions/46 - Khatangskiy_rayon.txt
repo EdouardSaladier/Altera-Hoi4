@@ -1,9 +1,0 @@
-strategic_region={
-	id=46
-	name="STRATEGICREGION_46" # Khatangskiy rayon
-	provinces={
-		1260 1404 1405 1484 1490 1504 1559 1564 1591 1996
-	}
-	weather={
-	}
-}

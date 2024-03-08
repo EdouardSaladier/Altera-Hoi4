@@ -1,9 +1,0 @@
-strategic_region={
-	id=603
-	name="STRATEGICREGION_603" # Labradores
-	provinces={
-		16723 17008 17027 17085 17381 17439 17494
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=141
-	name="STRATEGICREGION_141" # Cumbreland
-	provinces={
-		5264 5414 5492 5701 5715 5767 5965 5966 6016 6021
-	}
-	weather={
-	}
-}

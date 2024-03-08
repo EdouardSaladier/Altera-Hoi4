@@ -1,9 +1,0 @@
-strategic_region={
-	id=263
-	name="STRATEGICREGION_263" # Vesyria
-	provinces={
-		9279 9299 9366 9401 9428 9477 9490 9502 9503 9532 9550 9563 9573 9598 9617 9654 9683 9707 9743 9744
-	}
-	weather={
-	}
-}

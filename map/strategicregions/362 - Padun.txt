@@ -1,9 +1,0 @@
-strategic_region={
-	id=362
-	name="STRATEGICREGION_362" # Padun
-	provinces={
-		11649 11698 11719 11752 11807 11816 11892 11902 11903 11955 11956 11974 12030 12060
-	}
-	weather={
-	}
-}

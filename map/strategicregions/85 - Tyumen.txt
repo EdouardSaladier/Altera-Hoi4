@@ -1,9 +1,0 @@
-strategic_region={
-	id=85
-	name="STRATEGICREGION_85" # Tyumen'
-	provinces={
-		3253 3503 3616 3795 3865 3900 4071 4283 4284 4440 4483 4586 4901 5017 5190
-	}
-	weather={
-	}
-}

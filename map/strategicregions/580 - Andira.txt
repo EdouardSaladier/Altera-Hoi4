@@ -1,9 +1,0 @@
-strategic_region={
-	id=580
-	name="STRATEGICREGION_580" # Andira
-	provinces={
-		16241 16319 16354 16372 16453 16497 16498 16544 16553 16637 16692 16700 16709
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=260
-	name="STRATEGICREGION_260" # Amdow
-	provinces={
-		9124 9151 9172 9174 9307 9352 9367 9431 9451 9493 9519 9534 9565 9600 9618 9619 9642 9752
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=122
-	name="STRATEGICREGION_122" # Scotland
-	provinces={
-		4507 4534 4605 4625 4693 4740 4751 4803 4922 4972 4995 5078 5092 5152 5200 5201
-	}
-	weather={
-	}
-}

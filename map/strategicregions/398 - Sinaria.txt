@@ -1,9 +1,0 @@
-strategic_region={
-	id=398
-	name="STRATEGICREGION_398" # Sinaria
-	provinces={
-		12362 12380 12430 12470 12486 12493 12510 12568 12583 12782 12789 12847
-	}
-	weather={
-	}
-}

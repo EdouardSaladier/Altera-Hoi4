@@ -1,9 +1,0 @@
-strategic_region={
-	id=191
-	name="STRATEGICREGION_191" # Yezow
-	provinces={
-		6979 7114 7227 7338 7500 7539 7635 7648 7699 7719 7729 7742 7782 7783 7863 7925 7926 7960 8093 8128
-	}
-	weather={
-	}
-}

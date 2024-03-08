@@ -1,9 +1,0 @@
-strategic_region={
-	id=211
-	name="STRATEGICREGION_211" # Bulgaria
-	provinces={
-		7786 7833 7834 7849 7919 7977 7978 8031 8051 8081
-	}
-	weather={
-	}
-}

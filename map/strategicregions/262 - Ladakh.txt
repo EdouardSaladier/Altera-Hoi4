@@ -1,9 +1,0 @@
-strategic_region={
-	id=262
-	name="STRATEGICREGION_262" # Ladakh
-	provinces={
-		9202 9203 9235 9321 9344 9441 9504 9684 9697 9857 9872 9948 9949 9968 10090
-	}
-	weather={
-	}
-}

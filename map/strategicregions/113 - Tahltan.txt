@@ -1,9 +1,0 @@
-strategic_region={
-	id=113
-	name="STRATEGICREGION_113" # Tahltan
-	provinces={
-		4314 4326 4405 4541 4791
-	}
-	weather={
-	}
-}

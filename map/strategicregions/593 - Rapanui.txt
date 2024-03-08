@@ -1,9 +1,0 @@
-strategic_region={
-	id=593
-	name="STRATEGICREGION_593" # Rapanui
-	provinces={
-		16547 16685 16733 16778 16812
-	}
-	weather={
-	}
-}

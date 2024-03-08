@@ -1,9 +1,0 @@
-strategic_region={
-	id=562
-	name="STRATEGICREGION_562" # Efati
-	provinces={
-		15855
-	}
-	weather={
-	}
-}

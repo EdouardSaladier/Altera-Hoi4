@@ -1,9 +1,0 @@
-strategic_region={
-	id=92
-	name="STRATEGICREGION_92" # Kenan
-	provinces={
-		3598 3757 3826 3987 4274
-	}
-	weather={
-	}
-}

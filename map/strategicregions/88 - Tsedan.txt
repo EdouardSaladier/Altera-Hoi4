@@ -1,9 +1,0 @@
-strategic_region={
-	id=88
-	name="STRATEGICREGION_88" # Tsedan
-	provinces={
-		3396 3421 3436 3494 3528 3630 3688 3731 3905
-	}
-	weather={
-	}
-}

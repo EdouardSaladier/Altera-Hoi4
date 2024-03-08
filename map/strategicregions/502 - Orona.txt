@@ -1,9 +1,0 @@
-strategic_region={
-	id=502
-	name="STRATEGICREGION_502" # Orona
-	provinces={
-		14406
-	}
-	weather={
-	}
-}

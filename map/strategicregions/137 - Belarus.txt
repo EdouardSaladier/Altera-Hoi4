@@ -1,9 +1,0 @@
-strategic_region={
-	id=137
-	name="STRATEGICREGION_137" # Belarus
-	provinces={
-		5118 5126 5170 5188 5291 5379 5428 5458 5459 5558 5559 5572 5588 5625 5638 5731 5740 5784 5815 5826 5860 5881 6145
-	}
-	weather={
-	}
-}

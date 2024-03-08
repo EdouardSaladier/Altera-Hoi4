@@ -1,9 +1,0 @@
-strategic_region={
-	id=497
-	name="STRATEGICREGION_497" # Baledores
-	provinces={
-		14252 14302 14426 14434 14435 14453
-	}
-	weather={
-	}
-}

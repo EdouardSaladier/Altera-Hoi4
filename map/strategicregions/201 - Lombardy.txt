@@ -1,9 +1,0 @@
-strategic_region={
-	id=201
-	name="STRATEGICREGION_201" # Lombardy
-	provinces={
-		7352 7385 7394 7395 7477 7513 7514 7608 7627 7684 7733 7760 7794 7816 7903 7954
-	}
-	weather={
-	}
-}

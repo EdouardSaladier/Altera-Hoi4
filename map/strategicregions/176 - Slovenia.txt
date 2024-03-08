@@ -1,9 +1,0 @@
-strategic_region={
-	id=176
-	name="STRATEGICREGION_176" # Slovenia
-	provinces={
-		6523 6552 6571 6578 6617 6618 6623 6656 6736 6746 6757 6771 6789 6798 6813
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=505
-	name="STRATEGICREGION_505" # Nasalor
-	provinces={
-		14481
-	}
-	weather={
-	}
-}

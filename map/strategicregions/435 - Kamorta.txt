@@ -1,9 +1,0 @@
-strategic_region={
-	id=435
-	name="STRATEGICREGION_435" # Kamorta
-	provinces={
-		13020 13028 13113 13130 13184
-	}
-	weather={
-	}
-}

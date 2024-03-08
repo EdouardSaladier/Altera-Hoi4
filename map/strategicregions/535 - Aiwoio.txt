@@ -1,9 +1,0 @@
-strategic_region={
-	id=535
-	name="STRATEGICREGION_535" # Aiwoio
-	provinces={
-		15137
-	}
-	weather={
-	}
-}

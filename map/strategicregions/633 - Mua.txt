@@ -1,9 +1,0 @@
-strategic_region={
-	id=633
-	name="STRATEGICREGION_633" # Mua
-	provinces={
-		17311 17312 17340 17341
-	}
-	weather={
-	}
-}

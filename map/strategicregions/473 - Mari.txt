@@ -1,9 +1,0 @@
-strategic_region={
-	id=473
-	name="STRATEGICREGION_473" # Mari
-	provinces={
-		13814
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=264
-	name="STRATEGICREGION_264" # Numidia
-	provinces={
-		9286 9287 9342 9411 9422 9423 9522 9530 9547 9583
-	}
-	weather={
-	}
-}

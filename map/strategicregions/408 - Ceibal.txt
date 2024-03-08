@@ -1,9 +1,0 @@
-strategic_region={
-	id=408
-	name="STRATEGICREGION_408" # Ceibal
-	provinces={
-		12500
-	}
-	weather={
-	}
-}

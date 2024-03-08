@@ -1,9 +1,0 @@
-strategic_region={
-	id=430
-	name="STRATEGICREGION_430" # Lamdam
-	provinces={
-		12927
-	}
-	weather={
-	}
-}

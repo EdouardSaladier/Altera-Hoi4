@@ -1,9 +1,0 @@
-strategic_region={
-	id=589
-	name="STRATEGICREGION_589" # Marotiri
-	provinces={
-		16451 16465 16466 16519 16520 16527 16539 16586
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=664
-	name="STRATEGICREGION_664" # Alaclufia
-	provinces={
-		18085 18099 18131 18160 18171 18215 18244 18266 18294 18316 18320 18332 18350 18354
-	}
-	weather={
-	}
-}

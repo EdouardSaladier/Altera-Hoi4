@@ -1,9 +1,0 @@
-strategic_region={
-	id=185
-	name="STRATEGICREGION_185" # Carpathia
-	provinces={
-		6860 6908 7076 7124 7146 7158 7319 7342 7471
-	}
-	weather={
-	}
-}

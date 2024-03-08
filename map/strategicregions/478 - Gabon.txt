@@ -1,9 +1,0 @@
-strategic_region={
-	id=478
-	name="STRATEGICREGION_478" # Gabon
-	provinces={
-		13904 13920 13950 13974 14005 14021 14073 14091 14114 14120 14129 14140 14157 14205 14241
-	}
-	weather={
-	}
-}

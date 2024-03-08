@@ -1,9 +1,0 @@
-strategic_region={
-	id=347
-	name="STRATEGICREGION_347" # Vietnam
-	provinces={
-		11333 11432 11451 11469 11497 11588 11667 11782 11975 12268 12326 12450 12596
-	}
-	weather={
-	}
-}

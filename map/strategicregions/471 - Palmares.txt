@@ -1,9 +1,0 @@
-strategic_region={
-	id=471
-	name="STRATEGICREGION_471" # Palmares
-	provinces={
-		13769 13799 13835 13844 13893 13902 13929 13982 13990 13997 14004 14066 14099 14137 14156 14188 14204 14249
-	}
-	weather={
-	}
-}

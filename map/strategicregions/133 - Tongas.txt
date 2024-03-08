@@ -1,9 +1,0 @@
-strategic_region={
-	id=133
-	name="STRATEGICREGION_133" # Tongas
-	provinces={
-		5044 5083 5114 5222 5223 5237 5282
-	}
-	weather={
-	}
-}

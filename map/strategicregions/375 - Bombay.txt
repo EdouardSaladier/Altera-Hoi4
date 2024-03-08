@@ -1,9 +1,0 @@
-strategic_region={
-	id=375
-	name="STRATEGICREGION_375" # Bombay
-	provinces={
-		11849
-	}
-	weather={
-	}
-}

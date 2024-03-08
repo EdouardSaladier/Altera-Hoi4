@@ -1,9 +1,0 @@
-strategic_region={
-	id=234
-	name="STRATEGICREGION_234" # Sardiny
-	provinces={
-		8356 8501 8682
-	}
-	weather={
-	}
-}

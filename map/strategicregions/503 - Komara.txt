@@ -1,9 +1,0 @@
-strategic_region={
-	id=503
-	name="STRATEGICREGION_503" # Komara
-	provinces={
-		14456 14515 14548 14778 14793 14927 15018 15051
-	}
-	weather={
-	}
-}

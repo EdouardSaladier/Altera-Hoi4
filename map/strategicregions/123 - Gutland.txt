@@ -1,9 +1,0 @@
-strategic_region={
-	id=123
-	name="STRATEGICREGION_123" # Gutland
-	provinces={
-		4596
-	}
-	weather={
-	}
-}

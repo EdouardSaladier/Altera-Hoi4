@@ -1,9 +1,0 @@
-strategic_region={
-	id=357
-	name="STRATEGICREGION_357" # Annam
-	provinces={
-		11555 11587 11599 11654 11666 11678 11720 11753
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=386
-	name="STRATEGICREGION_386" # Macrobia
-	provinces={
-		11926 11952 11953 11964 12119 12135 12156 12177 12178 12278 12309 12341 12372 12414
-	}
-	weather={
-	}
-}

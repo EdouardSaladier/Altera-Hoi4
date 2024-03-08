@@ -1,9 +1,0 @@
-strategic_region={
-	id=121
-	name="STRATEGICREGION_121" # Sekan
-	provinces={
-		4497 4498 4634 4776 4777 4799 4882 4959
-	}
-	weather={
-	}
-}

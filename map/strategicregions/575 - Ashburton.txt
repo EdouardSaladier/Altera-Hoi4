@@ -1,9 +1,0 @@
-strategic_region={
-	id=575
-	name="STRATEGICREGION_575" # Ashburton
-	provinces={
-		16086 16099 16166 16187 16202 16203 16216 16235 16285 16291 16418 16431 16567
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=268
-	name="STRATEGICREGION_268" # Syrania
-	provinces={
-		9335 9463 9464 9465 9509 9510 9516 9585 9586 9680 9681 9695 9717 9740
-	}
-	weather={
-	}
-}

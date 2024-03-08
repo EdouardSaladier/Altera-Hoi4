@@ -1,9 +1,0 @@
-strategic_region={
-	id=227
-	name="STRATEGICREGION_227" # Elko
-	provinces={
-		8110 8129 8130 8205 8236 8245 8265 8284 8311 8325 8349 8350 8368 8444 8463 8509 8582 8652
-	}
-	weather={
-	}
-}

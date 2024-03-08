@@ -1,9 +1,0 @@
-strategic_region={
-	id=635
-	name="STRATEGICREGION_635" # Siluria
-	provinces={
-		17425 17426 17451 17458 17464 17466 17469 17524 17541 17546 17651
-	}
-	weather={
-	}
-}

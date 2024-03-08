@@ -1,9 +1,0 @@
-strategic_region={
-	id=173
-	name="STRATEGICREGION_173" # Khakis
-	provinces={
-		6363 6410 6448 6463 6645 6646 6804
-	}
-	weather={
-	}
-}

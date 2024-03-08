@@ -1,9 +1,0 @@
-strategic_region={
-	id=492
-	name="STRATEGICREGION_492" # Suelia
-	provinces={
-		14116 14143 14173 14182 14245 14273 14274 14339 14394 14455 14577 14594 14684 14732 14815 14914
-	}
-	weather={
-	}
-}

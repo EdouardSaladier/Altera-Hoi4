@@ -1,9 +1,0 @@
-strategic_region={
-	id=484
-	name="STRATEGICREGION_484" # Galapagos
-	provinces={
-		14039 14061 14084 14127 14178
-	}
-	weather={
-	}
-}

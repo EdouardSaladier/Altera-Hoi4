@@ -1,9 +1,0 @@
-strategic_region={
-	id=132
-	name="STRATEGICREGION_132" # Lithuany
-	provinces={
-		5009 5016 5035 5062 5101 5109 5177 5216 5230 5231 5313 5398 5427 5471 5512 5586 5587 5717 5770 5890
-	}
-	weather={
-	}
-}

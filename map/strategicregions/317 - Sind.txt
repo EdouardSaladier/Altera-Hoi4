@@ -1,9 +1,0 @@
-strategic_region={
-	id=317
-	name="STRATEGICREGION_317" # Sind
-	provinces={
-		10542 10653 10704 10780 10813 10835 10851 10895 10954 10999 11052 11077 11078 11096 11097
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=108
-	name="STRATEGICREGION_108" # Cheremisia
-	provinces={
-		4157 4172 4173 4243 4293 4345 4402 4409 4437 4470 4555 4597 4598 4642 4651 4683
-	}
-	weather={
-	}
-}

@@ -1,9 +1,0 @@
-strategic_region={
-	id=243
-	name="STRATEGICREGION_243" # Azores
-	provinces={
-		8628 8643 8691 8768 8785 8814 8837 8929 8941 8962 8979 9069 9109
-	}
-	weather={
-	}
-}

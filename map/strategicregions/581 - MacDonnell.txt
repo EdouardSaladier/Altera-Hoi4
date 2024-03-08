@@ -1,9 +1,0 @@
-strategic_region={
-	id=581
-	name="STRATEGICREGION_581" # MacDonnell
-	provinces={
-		16250 16277 16286 16310 16341 16365 16366 16375 16385 16394 16398 16408 16434 16444 16448 16454 16483 16515
-	}
-	weather={
-	}
-}

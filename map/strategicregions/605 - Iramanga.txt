@@ -1,9 +1,0 @@
-strategic_region={
-	id=605
-	name="STRATEGICREGION_605" # Iramanga
-	provinces={
-		16747 16748 16760 16821 16856 17009 17024 17049 17050 17069 17096 17104 17111
-	}
-	weather={
-	}
-}

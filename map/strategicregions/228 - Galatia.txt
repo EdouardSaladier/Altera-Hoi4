@@ -1,9 +1,0 @@
-strategic_region={
-	id=228
-	name="STRATEGICREGION_228" # Galatia
-	provinces={
-		8165 8173 8301 8357 8358 8374 8517 8577
-	}
-	weather={
-	}
-}

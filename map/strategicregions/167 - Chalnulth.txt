@@ -1,9 +1,0 @@
-strategic_region={
-	id=167
-	name="STRATEGICREGION_167" # Chalnulth
-	provinces={
-		6204 6314 6343 6412 6449 6483 6634 6669
-	}
-	weather={
-	}
-}

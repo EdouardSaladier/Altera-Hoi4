@@ -1,9 +1,0 @@
-strategic_region={
-	id=216
-	name="STRATEGICREGION_216" # Portugal
-	provinces={
-		7886 7940 8039 8164 8200 8201 8208 8354 8355 8513 8587 8669 8724
-	}
-	weather={
-	}
-}

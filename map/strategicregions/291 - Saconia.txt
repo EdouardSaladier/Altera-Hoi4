@@ -1,9 +1,0 @@
-strategic_region={
-	id=291
-	name="STRATEGICREGION_291" # Saconia
-	provinces={
-		9757 9794 9841 9855 9856 9904 9921 9945 9962 9975 9976 10026
-	}
-	weather={
-	}
-}

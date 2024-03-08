@@ -1,9 +1,0 @@
-strategic_region={
-	id=302
-	name="STRATEGICREGION_302" # Marmoria
-	provinces={
-		10072 10073 10074 10097 10098 10134 10219 10314 10367 10377 10419 10446 10560 10561 10562 10702 10710 10722
-	}
-	weather={
-	}
-}

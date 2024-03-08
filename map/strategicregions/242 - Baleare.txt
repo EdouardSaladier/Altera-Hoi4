@@ -1,9 +1,0 @@
-strategic_region={
-	id=242
-	name="STRATEGICREGION_242" # Baleare
-	provinces={
-		8576 8589 8744 8770 8838
-	}
-	weather={
-	}
-}

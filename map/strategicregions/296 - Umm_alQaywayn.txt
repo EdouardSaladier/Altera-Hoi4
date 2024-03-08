@@ -1,9 +1,0 @@
-strategic_region={
-	id=296
-	name="STRATEGICREGION_296" # Umm al-Qaywayn
-	provinces={
-		9927 10254 10794 11038
-	}
-	weather={
-	}
-}

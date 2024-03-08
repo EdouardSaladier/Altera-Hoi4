@@ -1,9 +1,0 @@
-strategic_region={
-	id=363
-	name="STRATEGICREGION_363" # Haiti
-	provinces={
-		11692 11704 11711 11741 11801 11802 11842 11846 11873 11880 11895
-	}
-	weather={
-	}
-}
