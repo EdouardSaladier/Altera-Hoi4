@@ -4,7 +4,8 @@ state={
 	manpower = 380
 	state_category = pastoral
 	history={
-		owner = JIB
+		owner = JAA
+		add_core_of = JAA
 		add_core_of = JIB
 	}
 	provinces={

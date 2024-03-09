@@ -4,7 +4,8 @@ state={
 	manpower = 885999
 	state_category = city
 	history={
-		owner = COL
+		owner = ARM
+		add_core_of = ARM
 		add_core_of = COL
 		victory_points = { 8375 5 }
 	}
