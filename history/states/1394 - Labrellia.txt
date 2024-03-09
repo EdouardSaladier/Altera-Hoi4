@@ -4,7 +4,8 @@ state={
 	manpower = 964378
 	state_category = town
 	history={
-		owner = LAB
+		owner = ABY
+		add_core_of = ABY
 		add_core_of = LAB
 	}
 	provinces={
