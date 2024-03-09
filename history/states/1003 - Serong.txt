@@ -4,7 +4,8 @@ state={
 	manpower = 5370
 	state_category = pastoral
 	history={
-		owner = SEO
+		owner = BUM
+		add_core_of = BUM
 		add_core_of = SEO
 		victory_points = { 11213 10 }
 	}

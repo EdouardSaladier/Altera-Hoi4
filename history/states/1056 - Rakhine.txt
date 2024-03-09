@@ -4,7 +4,8 @@ state={
 	manpower = 3190087
 	state_category = city
 	history={
-		owner = RAK
+		owner = BUM
+		add_core_of = BUM
 		add_core_of = RAK
 	}
 	provinces={

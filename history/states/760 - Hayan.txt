@@ -4,7 +4,7 @@ state={
 	manpower = 429777
 	state_category = metropolis
 	history={
-		owner = HAY
+		owner = GEM
 		add_core_of = HAY
 		victory_points = { 9581 1 }
 	}
