@@ -4,7 +4,7 @@ state={
 	manpower = 21940
 	state_category = pastoral
 	history={
-		owner = TAR
+		owner = FRN
 		add_core_of = TAR
 	}
 	provinces={

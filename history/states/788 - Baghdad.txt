@@ -1,14 +1,14 @@
 state={
 	id=788
-	name="STATE_788" # Al-Qadisiyah
+	name="STATE_788" # Baghdad
 	manpower = 3196276
 	state_category = city
 	history={
 		owner = ARA
 		add_core_of = ARA
 		add_core_of = ACA
-		victory_points = { 9759 80 }
-		victory_points = { 9923 20 }
+		victory_points = { 9759 80 } # Baghdad
+		victory_points = { 9923 20 } # Nibbar
 	}
 	provinces={
 		9759 9923

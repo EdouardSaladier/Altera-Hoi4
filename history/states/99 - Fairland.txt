@@ -1,11 +1,11 @@
 state={
 	id=99
-	name="STATE_99" # Shetland
+	name="STATE_99" # Fairland
 	manpower = 129889
 	state_category = town
 	history={
-		owner = SHE
-		add_core_of = SHE
+		owner = FAI
+		add_core_of = FAI
 		victory_points = { 3746 5 }
 		victory_points = { 3747 1 }
 		victory_points = { 3885 1 }
