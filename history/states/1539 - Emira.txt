@@ -4,7 +4,8 @@ state={
 	manpower = 6370
 	state_category = town
 	history={
-		owner = EMI
+		owner = GLU
+		add_core_of = GLU
 		add_core_of = EMI
 	}
 	provinces={

@@ -4,7 +4,8 @@ state={
 	manpower = 74545
 	state_category = large_town
 	history={
-		owner = MOO
+		owner = GLU
+		add_core_of = GLU
 		add_core_of = MOO
 	}
 	provinces={

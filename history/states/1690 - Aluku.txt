@@ -4,7 +4,8 @@ state={
 	manpower = 200
 	state_category = rural
 	history={
-		owner = ALU
+		owner = GLU
+		add_core_of = GLU
 		add_core_of = ALU
 	}
 	provinces={
