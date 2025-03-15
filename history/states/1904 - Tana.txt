@@ -4,7 +4,7 @@ state={
 	manpower = 37339
 	state_category = town
 	history={
-		owner = TNA
+		owner = FRN
 		add_core_of = TNA
 	}
 	provinces={

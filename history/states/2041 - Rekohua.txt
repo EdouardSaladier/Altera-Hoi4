@@ -4,7 +4,8 @@ state={
 	manpower = 4580
 	state_category = rural
 	history={
-		owner = REK
+		owner = AOT
+		add_core_of = AOT
 		add_core_of = REK
 		victory_points = { 17892 1 }
 	}

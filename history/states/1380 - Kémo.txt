@@ -4,7 +4,8 @@ state={
 	manpower = 496371
 	state_category = large_town
 	history={
-		owner = ANZ
+		owner = JAG
+		add_core_of = JAG
 		add_core_of = ANZ
 		victory_points = { 13385 5 }
 	}

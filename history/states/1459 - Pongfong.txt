@@ -4,7 +4,7 @@ state={
 	manpower = 219178
 	state_category = city
 	history={
-		owner = POG
+		owner = ENL
 		add_core_of = POG
 	}
 	provinces={
