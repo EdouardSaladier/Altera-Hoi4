@@ -4,7 +4,8 @@ state={
 	manpower = 95020
 	state_category = large_town
 	history={
-		owner = TLA
+		owner = SLB
+		add_core_of = SLB
 		add_core_of = TLA
 		victory_points = { 13600 1 }
 	}

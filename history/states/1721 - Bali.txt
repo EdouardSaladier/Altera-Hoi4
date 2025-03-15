@@ -4,7 +4,8 @@ state={
 	manpower = 4363320
 	state_category = megalopolis
 	history={
-		owner = BLI
+		owner = SLB
+		add_core_of = SLB
 		add_core_of = BLI
 		victory_points = { 14941 80 }
 	}

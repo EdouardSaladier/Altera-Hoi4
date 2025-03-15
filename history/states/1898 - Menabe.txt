@@ -4,7 +4,8 @@ state={
 	manpower = 996971
 	state_category = town
 	history={
-		owner = SAA
+		owner = DZA
+		add_core_of = DZA
 		add_core_of = SAA
 		victory_points = { 15941 5 }
 	}

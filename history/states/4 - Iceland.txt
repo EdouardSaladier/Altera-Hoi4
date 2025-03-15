@@ -4,7 +4,7 @@ state={
 	manpower = 319260
 	state_category = pastoral
 	history={
-		owner = ICE
+		owner = THE
 		add_core_of = ICE
 		victory_points = { 632 2 }
 	}

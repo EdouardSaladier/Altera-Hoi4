@@ -4,7 +4,7 @@ state={
 	manpower = 106350
 	state_category = pastoral
 	history={
-		owner = TAN
+		owner = JAA
 		add_core_of = TAN
 	}
 	provinces={
