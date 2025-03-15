@@ -4,8 +4,8 @@ state={
 	manpower = 404033
 	state_category = metropolis
 	history={
-		owner = DRV
-		add_core_of = DRV
+		owner = GLU
+		add_core_of = GLU
 		add_core_of = VAA
 		victory_points = { 14308 1 }
 	}

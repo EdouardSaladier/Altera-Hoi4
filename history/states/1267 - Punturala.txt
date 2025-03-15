@@ -4,8 +4,7 @@ state={
 	manpower = 14787199
 	state_category = megalopolis
 	history={
-		owner = MDR
-		add_core_of = MDR
+		owner = PUT
 		add_core_of = PUT
 		victory_points = { 12741 80 }
 	}

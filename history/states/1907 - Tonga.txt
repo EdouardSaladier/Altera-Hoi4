@@ -4,7 +4,7 @@ state={
 	manpower = 102388
 	state_category = town
 	history={
-		owner = ENL
+		owner = TNG
 		add_core_of = TNG
 		victory_points = { 15988 2 }
 	}
