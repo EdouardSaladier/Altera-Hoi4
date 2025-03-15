@@ -4,8 +4,8 @@ state={
 	manpower = 715634
 	state_category = large_city
 	history={
-		owner = GLU
-		add_core_of = GLU
+		owner = DRV
+		add_core_of = DRV
 		add_core_of = IKA
 		victory_points = { 14943 20 }
 	}

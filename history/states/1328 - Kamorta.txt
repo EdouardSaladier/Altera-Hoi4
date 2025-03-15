@@ -4,7 +4,8 @@ state={
 	manpower = 369150
 	state_category = city
 	history={
-		owner = KAO
+		owner = SLB
+		add_core_of = SLB
 		add_core_of = KAO
 	}
 	provinces={

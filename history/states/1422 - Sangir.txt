@@ -4,7 +4,8 @@ state={
 	manpower = 250
 	state_category = pastoral
 	history={
-		owner = SNG
+		owner = SLB
+		add_core_of = SLB
 		add_core_of = SNG
 	}
 	provinces={

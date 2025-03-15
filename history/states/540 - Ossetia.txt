@@ -4,8 +4,8 @@ state={
 	manpower = 985999
 	state_category = large_town
 	history={
-		owner = CIR
-		add_core_of = CIR
+		owner = CAC
+		add_core_of = CAC
 		add_core_of = OSS
 		victory_points = { 8043 5 }
 	}

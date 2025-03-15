@@ -4,7 +4,8 @@ state={
 	manpower = 24873
 	state_category = rural
 	history={
-		owner = NIL
+		owner = CLN
+		add_core_of = CLN
 		add_core_of = NIL
 		victory_points = { 11418 20 }
 	}

@@ -4,7 +4,7 @@ state={
 	manpower = 10380
 	state_category = pastoral
 	history={
-		owner = KOM
+		owner = JAA
 		add_core_of = KOM
 		victory_points = { 6483 5 }
 	}
