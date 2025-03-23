@@ -8,9 +8,10 @@ state={
 		add_core_of = PUI
 		victory_points = { 9531 10 }
 		victory_points = { 9613 5 }
+		victory_points = { 9614 10 }
 	}
 	provinces={
-		9531 9613 9664 9714
+		9531 9613 9614 9664 9714
 	}
 	local_supplies=0.0
 }
