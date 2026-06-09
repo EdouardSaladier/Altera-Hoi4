@@ -1,0 +1,15 @@
+state={
+	id=95
+	name="STATE_95" # Baykitskiy rayon
+	manpower = 78690
+	state_category = pastoral
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 3821 2 }
+	}
+	provinces={
+		3372 3480 3567 3583 3594 3595 3619 3639 3681 3727 3738 3739 3740 3782 3821 3849 3855 3856 3942 3951 3961 4029 4030 4091 4116
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=997
+	name="STATE_997" # Oued el Dahab
+	manpower = 146563
+	state_category = rural
+	history={
+		owner = SEN
+		add_core_of = SEN
+	}
+	provinces={
+		11154 11162 11243 11366
+	}
+	local_supplies=0.0
+}

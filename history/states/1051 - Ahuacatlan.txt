@@ -1,0 +1,15 @@
+state={
+	id=1051
+	name="STATE_1051" # Ahuacatlan
+	manpower = 2000
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11531 5 }
+	}
+	provinces={
+		11531
+	}
+	local_supplies=0.0
+}

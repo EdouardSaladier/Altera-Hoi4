@@ -1,0 +1,16 @@
+state={
+	id=443
+	name="STATE_443" # Kitikitish Range
+	manpower = 21680
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 7328 2 }
+		victory_points = { 7367 5 }
+	}
+	provinces={
+		7328 7367 7381
+	}
+	local_supplies=0.0
+}

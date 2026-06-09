@@ -1,0 +1,15 @@
+state={
+	id=940
+	name="STATE_940" # Minab
+	manpower = 457533
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		victory_points = { 10833 1 }
+	}
+	provinces={
+		10762 10823 10833
+	}
+	local_supplies=0.0
+}

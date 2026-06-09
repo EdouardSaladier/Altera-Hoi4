@@ -1,0 +1,15 @@
+state={
+	id=487
+	name="STATE_487" # Dierna
+	manpower = 126009
+	state_category = city
+	history={
+		owner = DIE
+		add_core_of = DIE
+		victory_points = { 7666 5 }
+	}
+	provinces={
+		7666
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1701
+	name="STATE_1701" # Bengo
+	manpower = 1385558
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 14878 5 }
+	}
+	provinces={
+		14878 14988
+	}
+	local_supplies=0.0
+}

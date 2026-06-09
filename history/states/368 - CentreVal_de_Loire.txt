@@ -1,0 +1,21 @@
+state={
+	id=368
+	name="STATE_368" # Centre-Val de Loire
+	manpower = 5184854
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 6734 5 }
+		victory_points = { 6866 5 }
+		victory_points = { 6917 10 }
+		victory_points = { 7035 10 }
+		victory_points = { 7036 2 }
+		victory_points = { 7074 10 }
+		victory_points = { 7181 10 }
+	}
+	provinces={
+		6734 6866 6917 7035 7036 7074 7181
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=728
+	name="STATE_728" # Halona
+	manpower = 4520
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9381 5 }
+	}
+	provinces={
+		9381
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=521
+	name="STATE_521" # Lerine
+	manpower = 461040
+	state_category = metropolis
+	history={
+		owner = LER
+		add_core_of = LER
+		victory_points = { 7903 5 }
+	}
+	provinces={
+		7903
+	}
+	local_supplies=0.0
+}

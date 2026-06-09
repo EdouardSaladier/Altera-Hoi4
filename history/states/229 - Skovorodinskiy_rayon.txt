@@ -1,0 +1,16 @@
+state={
+	id=229
+	name="STATE_229" # Skovorodinskiy rayon
+	manpower = 353360
+	state_category = town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 5334 5 }
+		victory_points = { 5483 2 }
+	}
+	provinces={
+		5334 5404 5483
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=603
+	name="STATE_603" # Monache
+	manpower = 24110
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 8525 1 }
+		victory_points = { 8616 2 }
+		victory_points = { 8678 1 }
+		victory_points = { 8918 1 }
+	}
+	provinces={
+		8525 8616 8638 8678 8741 8881 8905 8918 8951 9006
+	}
+	local_supplies=0.0
+}

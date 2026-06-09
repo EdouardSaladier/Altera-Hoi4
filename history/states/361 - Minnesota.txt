@@ -1,0 +1,38 @@
+state={
+	id=361
+	name="STATE_361" # Minnesota
+	manpower = 4361476
+	state_category = town
+	history={
+		owner = MAI
+		add_core_of = MAI
+		victory_points = { 6722 1 }
+		victory_points = { 6723 2 }
+		victory_points = { 6724 1 }
+		victory_points = { 6819 2 }
+		victory_points = { 6831 1 }
+		victory_points = { 6854 1 }
+		victory_points = { 6882 2 }
+		victory_points = { 6913 1 }
+		victory_points = { 6981 2 }
+		victory_points = { 7008 5 }
+		victory_points = { 7018 5 }
+		victory_points = { 7049 5 }
+		victory_points = { 7072 5 }
+		victory_points = { 7188 5 }
+		victory_points = { 7199 5 }
+		victory_points = { 7200 2 }
+		victory_points = { 7229 2 }
+		victory_points = { 7313 5 }
+		victory_points = { 7425 5 }
+		victory_points = { 7449 80 }
+		victory_points = { 7502 2 }
+		victory_points = { 7562 20 }
+		victory_points = { 7636 1 }
+		victory_points = { 7651 5 }
+	}
+	provinces={
+		6635 6670 6722 6723 6724 6819 6831 6854 6882 6913 6958 6959 6981 7008 7018 7049 7072 7188 7199 7200 7229 7313 7425 7449 7502 7562 7636 7651
+	}
+	local_supplies=0.0
+}

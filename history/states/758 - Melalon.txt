@@ -1,0 +1,16 @@
+state={
+	id=758
+	name="STATE_758" # Melalon
+	manpower = 991999
+	state_category = city
+	history={
+		owner = SYR
+		add_core_of = SYR
+		add_core_of = MLL
+		victory_points = { 9576 10 }
+	}
+	provinces={
+		9576
+	}
+	local_supplies=0.0
+}

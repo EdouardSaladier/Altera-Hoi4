@@ -1,0 +1,31 @@
+state={
+	id=668
+	name="STATE_668" # Dingxi
+	manpower = 51156289
+	state_category = large_city
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 9027 1 }
+		victory_points = { 9152 1 }
+		victory_points = { 9161 1 }
+		victory_points = { 9197 1 }
+		victory_points = { 9290 1 }
+		victory_points = { 9308 1 }
+		victory_points = { 9353 20 }
+		victory_points = { 9354 1 }
+		victory_points = { 9377 1 }
+		victory_points = { 9391 1 }
+		victory_points = { 9432 80 }
+		victory_points = { 9478 10 }
+		victory_points = { 9505 5 }
+		victory_points = { 9566 10 }
+		victory_points = { 9643 5 }
+		victory_points = { 9668 10 }
+		victory_points = { 9698 80 }
+	}
+	provinces={
+		9027 9107 9136 9152 9161 9173 9188 9197 9222 9247 9290 9308 9353 9354 9377 9391 9432 9478 9505 9566 9643 9668 9698
+	}
+	local_supplies=0.0
+}

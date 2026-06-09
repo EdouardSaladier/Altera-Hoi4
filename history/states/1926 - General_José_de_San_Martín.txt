@@ -1,0 +1,16 @@
+state={
+	id=1926
+	name="STATE_1926" # General José de San Martín
+	manpower = 727366
+	state_category = town
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16147 5 }
+		victory_points = { 16512 5 }
+	}
+	provinces={
+		16147 16416 16512
+	}
+	local_supplies=0.0
+}

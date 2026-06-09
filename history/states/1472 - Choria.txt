@@ -1,0 +1,22 @@
+state={
+	id=1472
+	name="STATE_1472" # Choria
+	manpower = 7516038
+	state_category = city
+	history={
+		owner = COA
+		add_core_of = COA
+		victory_points = { 13846 2 }
+		victory_points = { 13847 5 }
+		victory_points = { 13853 10 }
+		victory_points = { 13922 10 }
+		victory_points = { 13953 10 }
+		victory_points = { 13954 5 }
+		victory_points = { 13971 5 }
+		victory_points = { 14026 10 }
+	}
+	provinces={
+		13846 13847 13853 13854 13922 13953 13954 13971 14026
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=537
+	name="STATE_537" # Macia
+	manpower = 1838080
+	state_category = large_town
+	history={
+		owner = MAA
+		add_core_of = MAA
+		victory_points = { 8019 20 }
+		victory_points = { 8106 10 }
+		victory_points = { 8157 10 }
+		victory_points = { 8223 10 }
+		victory_points = { 8269 20 }
+	}
+	provinces={
+		8019 8106 8157 8223 8269
+	}
+	local_supplies=0.0
+}

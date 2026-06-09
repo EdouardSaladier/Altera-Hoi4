@@ -1,0 +1,15 @@
+state={
+	id=1377
+	name="STATE_1377" # Tuaran
+	manpower = 512990
+	state_category = city
+	history={
+		owner = TRN
+		add_core_of = TRN
+		victory_points = { 13337 20 }
+	}
+	provinces={
+		13337
+	}
+	local_supplies=0.0
+}

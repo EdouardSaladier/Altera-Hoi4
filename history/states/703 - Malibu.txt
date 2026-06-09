@@ -1,0 +1,22 @@
+state={
+	id=703
+	name="STATE_703" # Malibu
+	manpower = 13020
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 9256 5 }
+		victory_points = { 9272 5 }
+		victory_points = { 9480 5 }
+		victory_points = { 9545 40 }
+		victory_points = { 9557 40 }
+		victory_points = { 9607 5 }
+		victory_points = { 9754 20 }
+		victory_points = { 9849 10 }
+	}
+	provinces={
+		9256 9272 9480 9527 9545 9557 9607 9754 9849
+	}
+	local_supplies=0.0
+}

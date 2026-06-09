@@ -1,0 +1,14 @@
+state={
+	id=1923
+	name="STATE_1923" # Omaheke
+	manpower = 19063
+	state_category = rural
+	history={
+		owner = KAL
+		add_core_of = KAL
+	}
+	provinces={
+		16112
+	}
+	local_supplies=0.0
+}

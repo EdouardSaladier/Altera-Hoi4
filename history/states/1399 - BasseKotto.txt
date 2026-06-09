@@ -1,0 +1,16 @@
+state={
+	id=1399
+	name="STATE_1399" # Basse-Kotto
+	manpower = 656828
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		add_core_of = ANZ
+		victory_points = { 13440 5 }
+	}
+	provinces={
+		13440
+	}
+	local_supplies=0.0
+}

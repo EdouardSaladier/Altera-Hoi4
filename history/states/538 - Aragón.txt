@@ -1,0 +1,20 @@
+state={
+	id=538
+	name="STATE_538" # Aragón
+	manpower = 4442600
+	state_category = city
+	history={
+		owner = ARO
+		add_core_of = ARO
+		victory_points = { 8028 5 }
+		victory_points = { 8029 5 }
+		victory_points = { 8124 5 }
+		victory_points = { 8156 20 }
+		victory_points = { 8251 5 }
+		victory_points = { 8287 5 }
+	}
+	provinces={
+		8028 8029 8124 8156 8251 8287
+	}
+	local_supplies=0.0
+}

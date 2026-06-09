@@ -1,0 +1,16 @@
+state={
+	id=1518
+	name="STATE_1518" # Sendarawasi
+	manpower = 473945
+	state_category = city
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = SED
+		victory_points = { 14108 2 }
+	}
+	provinces={
+		14108
+	}
+	local_supplies=0.0
+}

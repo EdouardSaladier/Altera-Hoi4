@@ -1,0 +1,23 @@
+state={
+	id=580
+	name="STATE_580" # Kansas
+	manpower = 39470
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8326 5 }
+		victory_points = { 8327 20 }
+		victory_points = { 8338 2 }
+		victory_points = { 8454 2 }
+		victory_points = { 8570 5 }
+		victory_points = { 8571 10 }
+		victory_points = { 8626 20 }
+		victory_points = { 8804 80 }
+		victory_points = { 8824 10 }
+	}
+	provinces={
+		8326 8327 8338 8454 8570 8571 8626 8804 8824
+	}
+	local_supplies=0.0
+}

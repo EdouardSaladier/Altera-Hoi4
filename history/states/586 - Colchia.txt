@@ -1,0 +1,16 @@
+state={
+	id=586
+	name="STATE_586" # Colchia
+	manpower = 885999
+	state_category = city
+	history={
+		owner = ARM
+		add_core_of = ARM
+		add_core_of = COL
+		victory_points = { 8375 5 }
+	}
+	provinces={
+		8375
+	}
+	local_supplies=0.0
+}

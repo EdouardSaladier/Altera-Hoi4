@@ -1,0 +1,18 @@
+state={
+	id=616
+	name="STATE_616" # Mariana
+	manpower = 9580
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8627 10 }
+		victory_points = { 8642 20 }
+		victory_points = { 8743 2 }
+		victory_points = { 8766 5 }
+	}
+	provinces={
+		8627 8642 8743 8766
+	}
+	local_supplies=0.0
+}

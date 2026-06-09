@@ -1,0 +1,17 @@
+state={
+	id=1233
+	name="STATE_1233" # Banun
+	manpower = 79268
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12523 5 }
+		victory_points = { 12529 5 }
+		victory_points = { 12540 20 }
+	}
+	provinces={
+		12523 12529 12540
+	}
+	local_supplies=0.0
+}

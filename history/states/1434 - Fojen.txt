@@ -1,0 +1,15 @@
+state={
+	id=1434
+	name="STATE_1434" # Fojen
+	manpower = 129017
+	state_category = city
+	history={
+		owner = FOJ
+		add_core_of = FOJ
+		victory_points = { 13620 1 }
+	}
+	provinces={
+		13620
+	}
+	local_supplies=0.0
+}

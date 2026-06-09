@@ -1,0 +1,14 @@
+state={
+	id=877
+	name="STATE_877" # Chopan
+	manpower = 2850
+	state_category = pastoral
+	history={
+		owner = CHP
+		add_core_of = CHP
+	}
+	provinces={
+		10391
+	}
+	local_supplies=0.0
+}

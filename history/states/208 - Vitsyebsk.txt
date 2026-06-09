@@ -1,0 +1,19 @@
+state={
+	id=208
+	name="STATE_208" # Vitsyebsk
+	manpower = 1901556
+	state_category = large_town
+	history={
+		owner = BEL
+		add_core_of = BEL
+		victory_points = { 5118 5 }
+		victory_points = { 5126 20 }
+		victory_points = { 5170 40 }
+		victory_points = { 5188 5 }
+		victory_points = { 5291 5 }
+	}
+	provinces={
+		5118 5126 5170 5188 5291
+	}
+	local_supplies=0.0
+}

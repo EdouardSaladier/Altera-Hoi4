@@ -1,0 +1,24 @@
+state={
+	id=1214
+	name="STATE_1214" # Mali
+	manpower = 755531
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12397 20 }
+		victory_points = { 12413 10 }
+		victory_points = { 12442 20 }
+		victory_points = { 12550 5 }
+		victory_points = { 12573 5 }
+		victory_points = { 12607 20 }
+		victory_points = { 12617 10 }
+		victory_points = { 12628 5 }
+		victory_points = { 12701 5 }
+		victory_points = { 12749 5 }
+	}
+	provinces={
+		12397 12413 12442 12489 12550 12573 12607 12617 12627 12628 12701 12749 12769
+	}
+	local_supplies=0.0
+}

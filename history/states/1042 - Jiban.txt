@@ -1,0 +1,15 @@
+state={
+	id=1042
+	name="STATE_1042" # Jiban
+	manpower = 380
+	state_category = pastoral
+	history={
+		owner = JAA
+		add_core_of = JAA
+		add_core_of = JIB
+	}
+	provinces={
+		11471
+	}
+	local_supplies=0.0
+}

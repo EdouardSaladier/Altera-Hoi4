@@ -1,0 +1,14 @@
+state={
+	id=895
+	name="STATE_895" # Bolwerk Islands (CLF)
+	manpower = 270
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+	}
+	provinces={
+		10493 10512 10547
+	}
+	local_supplies=0.0
+}

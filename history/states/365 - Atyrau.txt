@@ -1,0 +1,17 @@
+state={
+	id=365
+	name="STATE_365" # Atyrau
+	manpower = 606392
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6697 5 }
+		victory_points = { 6793 5 }
+		victory_points = { 6963 20 }
+	}
+	provinces={
+		6697 6793 6802 6898 6963
+	}
+	local_supplies=0.0
+}

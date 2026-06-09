@@ -1,0 +1,15 @@
+state={
+	id=1284
+	name="STATE_1284" # Manhuacan
+	manpower = 2340
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12812 10 }
+	}
+	provinces={
+		12812
+	}
+	local_supplies=0.0
+}

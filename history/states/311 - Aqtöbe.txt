@@ -1,0 +1,18 @@
+state={
+	id=311
+	name="STATE_311" # Aqtöbe
+	manpower = 1870455
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6290 5 }
+		victory_points = { 6293 5 }
+		victory_points = { 6461 5 }
+		victory_points = { 7080 5 }
+	}
+	provinces={
+		6248 6290 6293 6342 6461 6662 6698 6817 6872 6899 6920 7080 7138
+	}
+	local_supplies=0.0
+}

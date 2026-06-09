@@ -1,0 +1,15 @@
+state={
+	id=1144
+	name="STATE_1144" # Tzictlan
+	manpower = 2950
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12017 10 }
+	}
+	provinces={
+		12017
+	}
+	local_supplies=0.0
+}

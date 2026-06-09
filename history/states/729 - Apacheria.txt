@@ -1,0 +1,16 @@
+state={
+	id=729
+	name="STATE_729" # Apacheria
+	manpower = 417616
+	state_category = town
+	history={
+		owner = APA
+		add_core_of = APA
+		victory_points = { 9382 40 }
+		victory_points = { 9408 2 }
+	}
+	provinces={
+		9382 9407 9408
+	}
+	local_supplies=0.0
+}

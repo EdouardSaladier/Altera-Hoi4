@@ -1,0 +1,16 @@
+state={
+	id=1010
+	name="STATE_1010" # Taunggye
+	manpower = 3565541
+	state_category = city
+	history={
+		owner = BUM
+		add_core_of = BUM
+		victory_points = { 11327 20 }
+		victory_points = { 11606 20 }
+	}
+	provinces={
+		11258 11327 11352 11438 11606 11684
+	}
+	local_supplies=0.0
+}

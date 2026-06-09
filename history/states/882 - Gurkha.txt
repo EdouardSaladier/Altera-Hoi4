@@ -1,0 +1,15 @@
+state={
+	id=882
+	name="STATE_882" # Gurkha
+	manpower = 3060
+	state_category = pastoral
+	history={
+		owner = GUK
+		add_core_of = GUK
+		victory_points = { 10411 40 }
+	}
+	provinces={
+		10411
+	}
+	local_supplies=0.0
+}

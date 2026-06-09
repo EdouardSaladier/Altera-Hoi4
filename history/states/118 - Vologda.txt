@@ -1,0 +1,32 @@
+state={
+	id=118
+	name="STATE_118" # Vologda
+	manpower = 4802064
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 3959 5 }
+		victory_points = { 4015 2 }
+		victory_points = { 4039 2 }
+		victory_points = { 4040 2 }
+		victory_points = { 4070 5 }
+		victory_points = { 4089 5 }
+		victory_points = { 4110 5 }
+		victory_points = { 4129 2 }
+		victory_points = { 4165 5 }
+		victory_points = { 4181 5 }
+		victory_points = { 4182 5 }
+		victory_points = { 4200 1 }
+		victory_points = { 4279 2 }
+		victory_points = { 4280 5 }
+		victory_points = { 4304 40 }
+		victory_points = { 4319 40 }
+		victory_points = { 4377 5 }
+		victory_points = { 4408 2 }
+	}
+	provinces={
+		3959 4015 4028 4038 4039 4040 4050 4059 4070 4078 4089 4102 4110 4129 4156 4165 4181 4182 4183 4194 4200 4201 4279 4280 4281 4304 4319 4377 4408
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1033
+	name="STATE_1033" # Ouadane
+	manpower = 10620
+	state_category = pastoral
+	history={
+		owner = SEN
+		add_core_of = SEN
+	}
+	provinces={
+		11415
+	}
+	local_supplies=0.0
+}

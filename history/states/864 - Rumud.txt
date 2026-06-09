@@ -1,0 +1,15 @@
+state={
+	id=864
+	name="STATE_864" # Rumud
+	manpower = 2450
+	state_category = pastoral
+	history={
+		owner = RUU
+		add_core_of = RUU
+		victory_points = { 10298 5 }
+	}
+	provinces={
+		10298 10308
+	}
+	local_supplies=0.0
+}

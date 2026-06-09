@@ -1,0 +1,20 @@
+state={
+	id=742
+	name="STATE_742" # Altavia
+	manpower = 3238269
+	state_category = town
+	history={
+		owner = ALA
+		add_core_of = ALA
+		victory_points = { 9447 20 }
+		victory_points = { 9559 10 }
+		victory_points = { 9575 10 }
+		victory_points = { 9612 10 }
+		victory_points = { 9625 10 }
+		victory_points = { 9755 10 }
+	}
+	provinces={
+		9447 9514 9529 9559 9570 9575 9612 9624 9625 9651 9693 9729 9755 9763 9768 9769 9859
+	}
+	local_supplies=0.0
+}

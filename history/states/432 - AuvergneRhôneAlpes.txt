@@ -1,0 +1,24 @@
+state={
+	id=432
+	name="STATE_432" # Auvergne-Rhône-Alpes
+	manpower = 7234423
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 7234 5 }
+		victory_points = { 7304 10 }
+		victory_points = { 7332 20 }
+		victory_points = { 7357 5 }
+		victory_points = { 7404 5 }
+		victory_points = { 7429 5 }
+		victory_points = { 7430 20 }
+		victory_points = { 7546 5 }
+		victory_points = { 7588 5 }
+		victory_points = { 7595 10 }
+	}
+	provinces={
+		7234 7304 7332 7357 7404 7429 7430 7546 7588 7595
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1764
+	name="STATE_1764" # Luapula
+	manpower = 1318109
+	state_category = large_town
+	history={
+		owner = ZAM
+		add_core_of = ZAM
+		victory_points = { 15112 5 }
+	}
+	provinces={
+		15112 15246 15289 15313
+	}
+	local_supplies=0.0
+}

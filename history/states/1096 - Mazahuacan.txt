@@ -1,0 +1,15 @@
+state={
+	id=1096
+	name="STATE_1096" # Mazahuacan
+	manpower = 2410
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11800 5 }
+	}
+	provinces={
+		11800
+	}
+	local_supplies=0.0
+}

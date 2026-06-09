@@ -1,0 +1,16 @@
+state={
+	id=563
+	name="STATE_563" # Connecticut
+	manpower = 3550
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8185 20 }
+		victory_points = { 8186 10 }
+	}
+	provinces={
+		8185 8186
+	}
+	local_supplies=0.0
+}

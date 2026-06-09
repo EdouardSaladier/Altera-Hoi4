@@ -1,0 +1,18 @@
+state={
+	id=1666
+	name="STATE_1666" # Muchiknan
+	manpower = 11500
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14722 80 }
+		victory_points = { 14745 10 }
+		victory_points = { 14888 5 }
+		victory_points = { 14948 40 }
+	}
+	provinces={
+		14722 14745 14888 14948 14999
+	}
+	local_supplies=0.0
+}

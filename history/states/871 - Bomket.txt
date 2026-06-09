@@ -1,0 +1,15 @@
+state={
+	id=871
+	name="STATE_871" # Bomket
+	manpower = 1710
+	state_category = pastoral
+	history={
+		owner = BOM
+		add_core_of = BOM
+		victory_points = { 10362 1 }
+	}
+	provinces={
+		10362
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,30 @@
+state={
+	id=185
+	name="STATE_185" # Novosibirsk
+	manpower = 2630664
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4835 5 }
+		victory_points = { 4976 5 }
+		victory_points = { 4987 10 }
+		victory_points = { 4989 80 }
+		victory_points = { 5067 5 }
+		victory_points = { 5088 2 }
+		victory_points = { 5094 5 }
+		victory_points = { 5112 5 }
+		victory_points = { 5129 5 }
+		victory_points = { 5191 5 }
+		victory_points = { 5314 2 }
+		victory_points = { 5332 5 }
+		victory_points = { 5345 5 }
+		victory_points = { 5363 20 }
+		victory_points = { 5417 5 }
+		victory_points = { 5479 5 }
+	}
+	provinces={
+		4835 4850 4976 4987 4988 4989 5005 5038 5039 5067 5088 5094 5112 5129 5163 5173 5191 5234 5256 5257 5308 5314 5332 5344 5345 5363 5417 5479
+	}
+	local_supplies=0.0
+}

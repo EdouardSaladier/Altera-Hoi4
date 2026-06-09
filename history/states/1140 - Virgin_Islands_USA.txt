@@ -1,0 +1,14 @@
+state={
+	id=1140
+	name="STATE_1140" # Virgin Islands (USA)
+	manpower = 80
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+	}
+	provinces={
+		11995
+	}
+	local_supplies=0.0
+}

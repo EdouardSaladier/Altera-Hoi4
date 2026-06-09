@@ -1,0 +1,16 @@
+state={
+	id=115
+	name="STATE_115" # Eniseyskiy rayon
+	manpower = 89516
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4514 10 }
+		victory_points = { 4529 5 }
+	}
+	provinces={
+		3917 3925 3950 3960 3983 4017 4051 4080 4090 4130 4131 4265 4295 4321 4513 4514 4529 4565 4616
+	}
+	local_supplies=0.0
+}

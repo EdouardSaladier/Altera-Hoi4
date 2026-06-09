@@ -1,0 +1,16 @@
+state={
+	id=948
+	name="STATE_948" # Murzuq
+	manpower = 51500
+	state_category = pastoral
+	history={
+		owner = PHA
+		add_core_of = PHA
+		victory_points = { 10916 10 }
+		victory_points = { 10932 2 }
+	}
+	provinces={
+		10810 10891 10916 10932 10933 10941 10974 10995 10996 11102 11103 11120 11185 11200 11201
+	}
+	local_supplies=0.0
+}

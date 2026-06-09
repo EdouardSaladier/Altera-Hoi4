@@ -1,0 +1,17 @@
+state={
+	id=951
+	name="STATE_951" # Muskagee
+	manpower = 1960161
+	state_category = city
+	history={
+		owner = OKL
+		add_core_of = OKL
+		add_core_of = MUA
+		victory_points = { 10844 2 }
+		victory_points = { 10883 80 }
+	}
+	provinces={
+		10809 10844 10883
+	}
+	local_supplies=0.0
+}

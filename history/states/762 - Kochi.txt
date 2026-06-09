@@ -1,0 +1,16 @@
+state={
+	id=762
+	name="STATE_762" # Kochi
+	manpower = 6225380
+	state_category = large_city
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9589 40 }
+		victory_points = { 9632 80 }
+	}
+	provinces={
+		9589 9632
+	}
+	local_supplies=0.0
+}

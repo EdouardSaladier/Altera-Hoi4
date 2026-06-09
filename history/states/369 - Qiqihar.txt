@@ -1,0 +1,20 @@
+state={
+	id=369
+	name="STATE_369" # Qiqihar
+	manpower = 3797801
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 6738 20 }
+		victory_points = { 6826 10 }
+		victory_points = { 6862 10 }
+		victory_points = { 6890 10 }
+		victory_points = { 6989 1 }
+		victory_points = { 7140 10 }
+	}
+	provinces={
+		6738 6753 6826 6862 6890 6969 6989 7140
+	}
+	local_supplies=0.0
+}

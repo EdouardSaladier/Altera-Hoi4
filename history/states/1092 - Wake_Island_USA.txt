@@ -1,0 +1,15 @@
+state={
+	id=1092
+	name="STATE_1092" # Wake Island (USA)
+	manpower = 320
+	state_category = pastoral
+	history={
+		owner = JAA
+		add_core_of = JAA
+		add_core_of = AME
+	}
+	provinces={
+		11788
+	}
+	local_supplies=0.0
+}

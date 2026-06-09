@@ -1,0 +1,16 @@
+state={
+	id=1763
+	name="STATE_1763" # Cuanza Sul
+	manpower = 2775833
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15105 5 }
+		victory_points = { 15150 5 }
+	}
+	provinces={
+		15105 15150 15231
+	}
+	local_supplies=0.0
+}

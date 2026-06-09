@@ -1,0 +1,18 @@
+state={
+	id=880
+	name="STATE_880" # Iranshahr
+	manpower = 1399114
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		victory_points = { 10779 20 }
+		victory_points = { 10850 5 }
+		victory_points = { 10874 10 }
+		victory_points = { 10875 5 }
+	}
+	provinces={
+		10408 10519 10620 10779 10850 10874 10875 10894
+	}
+	local_supplies=0.0
+}

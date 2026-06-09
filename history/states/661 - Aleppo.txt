@@ -1,0 +1,18 @@
+state={
+	id=661
+	name="STATE_661" # Aleppo
+	manpower = 6718342
+	state_category = city
+	history={
+		owner = SYR
+		add_core_of = SYR
+		victory_points = { 8985 40 }
+		victory_points = { 9084 20 }
+		victory_points = { 9177 20 }
+		victory_points = { 9199 10 }
+	}
+	provinces={
+		8985 9084 9177 9199
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=2034
+	name="STATE_2034" # Cantabria
+	manpower = 2948944
+	state_category = town
+	history={
+		owner = CAT
+		add_core_of = CAT
+		victory_points = { 17663 5 }
+		victory_points = { 17681 5 }
+		victory_points = { 17694 1 }
+		victory_points = { 17745 1 }
+		victory_points = { 17791 5 }
+		victory_points = { 17796 5 }
+	}
+	provinces={
+		17614 17641 17644 17646 17653 17654 17662 17663 17681 17694 17709 17727 17745 17756 17769 17791 17796 17799 17805 17834 17836 17862 17872 17890
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=926
+	name="STATE_926" # Nymael
+	manpower = 1760
+	state_category = pastoral
+	history={
+		owner = NYM
+		add_core_of = NYM
+		victory_points = { 10687 5 }
+	}
+	provinces={
+		10687
+	}
+	local_supplies=0.0
+}

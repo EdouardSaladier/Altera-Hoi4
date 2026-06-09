@@ -1,0 +1,17 @@
+state={
+	id=815
+	name="STATE_815" # Jordan
+	manpower = 3867970
+	state_category = large_town
+	history={
+		owner = JOR
+		add_core_of = JOR
+		victory_points = { 9946 80 }
+		victory_points = { 10150 10 }
+		victory_points = { 10294 5 }
+	}
+	provinces={
+		9946 10150 10182 10294 10306 10421
+	}
+	local_supplies=0.0
+}

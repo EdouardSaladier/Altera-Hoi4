@@ -1,0 +1,16 @@
+state={
+	id=663
+	name="STATE_663" # Tochigi
+	manpower = 11271581
+	state_category = metropolis
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 8990 40 }
+		victory_points = { 9076 40 }
+	}
+	provinces={
+		8990 9076
+	}
+	local_supplies=0.0
+}

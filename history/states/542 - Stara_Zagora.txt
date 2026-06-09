@@ -1,0 +1,16 @@
+state={
+	id=542
+	name="STATE_542" # Stara Zagora
+	manpower = 1975715
+	state_category = large_town
+	history={
+		owner = BUL
+		add_core_of = BUL
+		victory_points = { 8051 20 }
+		victory_points = { 8081 20 }
+	}
+	provinces={
+		8051 8081
+	}
+	local_supplies=0.0
+}

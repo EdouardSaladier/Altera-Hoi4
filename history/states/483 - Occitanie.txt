@@ -1,0 +1,24 @@
+state={
+	id=483
+	name="STATE_483" # Occitanie
+	manpower = 8122716
+	state_category = large_town
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 7626 5 }
+		victory_points = { 7637 5 }
+		victory_points = { 7767 5 }
+		victory_points = { 7792 80 }
+		victory_points = { 7793 5 }
+		victory_points = { 7815 5 }
+		victory_points = { 7830 40 }
+		victory_points = { 7917 5 }
+		victory_points = { 7953 5 }
+		victory_points = { 7988 5 }
+	}
+	provinces={
+		7626 7637 7767 7792 7793 7815 7830 7917 7953 7988
+	}
+	local_supplies=0.0
+}

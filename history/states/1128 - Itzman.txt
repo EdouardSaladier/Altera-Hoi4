@@ -1,0 +1,16 @@
+state={
+	id=1128
+	name="STATE_1128" # Itzman
+	manpower = 5010
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11959 5 }
+		victory_points = { 12081 5 }
+	}
+	provinces={
+		11934 11959 12081
+	}
+	local_supplies=0.0
+}

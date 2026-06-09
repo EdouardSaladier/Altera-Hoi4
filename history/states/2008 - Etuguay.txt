@@ -1,0 +1,33 @@
+state={
+	id=2008
+	name="STATE_2008" # Etuguay
+	manpower = 3423917
+	state_category = town
+	history={
+		owner = ETU
+		add_core_of = ETU
+		victory_points = { 17045 2 }
+		victory_points = { 17056 10 }
+		victory_points = { 17126 2 }
+		victory_points = { 17155 10 }
+		victory_points = { 17179 5 }
+		victory_points = { 17198 5 }
+		victory_points = { 17199 1 }
+		victory_points = { 17243 5 }
+		victory_points = { 17246 1 }
+		victory_points = { 17247 5 }
+		victory_points = { 17251 2 }
+		victory_points = { 17265 5 }
+		victory_points = { 17273 5 }
+		victory_points = { 17281 2 }
+		victory_points = { 17308 10 }
+		victory_points = { 17316 5 }
+		victory_points = { 17333 5 }
+		victory_points = { 17353 5 }
+		victory_points = { 17373 10 }
+	}
+	provinces={
+		17045 17056 17116 17126 17155 17179 17198 17199 17219 17243 17246 17247 17251 17265 17273 17274 17281 17308 17316 17333 17353 17373
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1161
+	name="STATE_1161" # Tzapotlan
+	manpower = 1750
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12109 5 }
+	}
+	provinces={
+		12109
+	}
+	local_supplies=0.0
+}

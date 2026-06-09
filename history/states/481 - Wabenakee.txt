@@ -1,0 +1,15 @@
+state={
+	id=481
+	name="STATE_481" # Wabenakee
+	manpower = 379190
+	state_category = town
+	history={
+		owner = WAB
+		add_core_of = WAB
+		victory_points = { 7624 5 }
+	}
+	provinces={
+		7624
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,27 @@
+state={
+	id=312
+	name="STATE_312" # Qaraghandy
+	manpower = 874060
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 6250 20 }
+		victory_points = { 6362 5 }
+		victory_points = { 6446 1 }
+		victory_points = { 6525 80 }
+		victory_points = { 6604 5 }
+		victory_points = { 6644 2 }
+		victory_points = { 6663 1 }
+		victory_points = { 6708 5 }
+		victory_points = { 6775 5 }
+		victory_points = { 6939 20 }
+		victory_points = { 6940 1 }
+		victory_points = { 7081 2 }
+		victory_points = { 7110 20 }
+	}
+	provinces={
+		6250 6268 6361 6362 6386 6446 6447 6454 6462 6525 6603 6604 6644 6663 6674 6708 6718 6775 6803 6888 6921 6922 6937 6938 6939 6940 6951 6952 7066 7067 7081 7110 7245 7246 7305
+	}
+	local_supplies=0.0
+}

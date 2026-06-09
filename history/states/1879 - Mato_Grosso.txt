@@ -1,0 +1,26 @@
+state={
+	id=1879
+	name="STATE_1879" # Mato Grosso
+	manpower = 55970
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15874 5 }
+		victory_points = { 15917 5 }
+		victory_points = { 16000 80 }
+		victory_points = { 16029 5 }
+		victory_points = { 16058 5 }
+		victory_points = { 16075 5 }
+		victory_points = { 16089 5 }
+		victory_points = { 16123 5 }
+		victory_points = { 16153 20 }
+		victory_points = { 16154 5 }
+		victory_points = { 16197 5 }
+		victory_points = { 16256 5 }
+	}
+	provinces={
+		15834 15874 15917 15965 16000 16029 16042 16047 16058 16075 16089 16094 16123 16153 16154 16162 16197 16220 16256
+	}
+	local_supplies=0.0
+}

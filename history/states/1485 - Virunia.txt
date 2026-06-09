@@ -1,0 +1,17 @@
+state={
+	id=1485
+	name="STATE_1485" # Virunia
+	manpower = 2744961
+	state_category = city
+	history={
+		owner = VIR
+		add_core_of = VIR
+		victory_points = { 13912 40 }
+		victory_points = { 13983 10 }
+		victory_points = { 14232 20 }
+	}
+	provinces={
+		13912 13983 14025 14232 14233
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,25 @@
+state={
+	id=150
+	name="STATE_150" # Novgorod
+	manpower = 2635693
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4364 5 }
+		victory_points = { 4365 2 }
+		victory_points = { 4386 5 }
+		victory_points = { 4422 5 }
+		victory_points = { 4436 5 }
+		victory_points = { 4491 10 }
+		victory_points = { 4525 5 }
+		victory_points = { 4583 5 }
+		victory_points = { 4670 2 }
+		victory_points = { 4681 2 }
+		victory_points = { 4695 1 }
+	}
+	provinces={
+		4364 4365 4386 4422 4436 4449 4491 4525 4535 4583 4670 4681 4695 4782
+	}
+	local_supplies=0.0
+}

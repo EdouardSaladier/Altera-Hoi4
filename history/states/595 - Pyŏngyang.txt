@@ -1,0 +1,21 @@
+state={
+	id=595
+	name="STATE_595" # P'yŏngyang
+	manpower = 16919741
+	state_category = large_city
+	history={
+		owner = JOS
+		add_core_of = JOS
+		victory_points = { 8442 40 }
+		victory_points = { 8545 5 }
+		victory_points = { 8553 80 }
+		victory_points = { 8687 80 }
+		victory_points = { 8780 10 }
+		victory_points = { 8822 80 }
+		victory_points = { 8890 40 }
+	}
+	provinces={
+		8442 8545 8553 8687 8780 8822 8890
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1829
+	name="STATE_1829" # Ayutina
+	manpower = 6700
+	state_category = rural
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = AYU
+	}
+	provinces={
+		15484 15501
+	}
+	local_supplies=0.0
+}

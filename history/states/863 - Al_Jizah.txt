@@ -1,0 +1,16 @@
+state={
+	id=863
+	name="STATE_863" # Al Jizah
+	manpower = 4823528
+	state_category = city
+	history={
+		owner = EGY
+		add_core_of = EGY
+		victory_points = { 10292 80 }
+		victory_points = { 10549 5 }
+	}
+	provinces={
+		10292 10399 10465 10549 10604
+	}
+	local_supplies=0.0
+}

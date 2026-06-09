@@ -1,0 +1,16 @@
+state={
+	id=1200
+	name="STATE_1200" # Bình Định
+	manpower = 6915919
+	state_category = metropolis
+	history={
+		owner = VIE
+		add_core_of = VIE
+		victory_points = { 12326 1 }
+		victory_points = { 12450 40 }
+	}
+	provinces={
+		12326 12450
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=896
+	name="STATE_896" # Ash Sharqiyah
+	manpower = 4606059
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10585 40 }
+	}
+	provinces={
+		10498 10504 10576 10585 10618 10672 10745 10761 10793 10857 10980 11008 11104 11164 11262 11323 11338 11339 11383 11480 11494 11537 11549 11573 11603 11613 11670 11686 11687 11707 11739
+	}
+	local_supplies=0.0
+}

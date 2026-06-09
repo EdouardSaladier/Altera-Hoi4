@@ -1,0 +1,14 @@
+state={
+	id=1889
+	name="STATE_1889" # Grootfontein
+	manpower = 541450
+	state_category = town
+	history={
+		owner = ANG
+		add_core_of = ANG
+	}
+	provinces={
+		15890 15990 16003
+	}
+	local_supplies=0.0
+}

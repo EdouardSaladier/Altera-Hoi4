@@ -1,0 +1,21 @@
+state={
+	id=251
+	name="STATE_251" # Bryansk
+	manpower = 2182192
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5545 5 }
+		victory_points = { 5639 5 }
+		victory_points = { 5656 2 }
+		victory_points = { 5741 10 }
+		victory_points = { 5742 80 }
+		victory_points = { 5842 5 }
+		victory_points = { 5843 5 }
+	}
+	provinces={
+		5545 5639 5656 5741 5742 5842 5843
+	}
+	local_supplies=0.0
+}

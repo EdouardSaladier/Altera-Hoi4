@@ -1,0 +1,15 @@
+state={
+	id=606
+	name="STATE_606" # Nuristan
+	manpower = 278340
+	state_category = town
+	history={
+		owner = NUR
+		add_core_of = NUR
+		victory_points = { 8580 2 }
+	}
+	provinces={
+		8541 8580
+	}
+	local_supplies=0.0
+}

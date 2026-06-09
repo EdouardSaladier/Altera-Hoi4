@@ -1,0 +1,25 @@
+state={
+	id=419
+	name="STATE_419" # Nouvelle-Aquitaine
+	manpower = 8913565
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 7144 20 }
+		victory_points = { 7156 10 }
+		victory_points = { 7180 5 }
+		victory_points = { 7316 5 }
+		victory_points = { 7331 2 }
+		victory_points = { 7351 5 }
+		victory_points = { 7427 20 }
+		victory_points = { 7428 5 }
+		victory_points = { 7451 5 }
+		victory_points = { 7529 5 }
+		victory_points = { 7587 10 }
+	}
+	provinces={
+		7144 7156 7180 7316 7331 7351 7427 7428 7451 7529 7587
+	}
+	local_supplies=0.0
+}

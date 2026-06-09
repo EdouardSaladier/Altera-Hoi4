@@ -1,0 +1,15 @@
+state={
+	id=1746
+	name="STATE_1746" # Dilolo
+	manpower = 2683490
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15243 5 }
+	}
+	provinces={
+		15035 15056 15096 15143 15243
+	}
+	local_supplies=0.0
+}

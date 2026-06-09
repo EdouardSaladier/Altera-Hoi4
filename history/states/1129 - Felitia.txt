@@ -1,0 +1,29 @@
+state={
+	id=1129
+	name="STATE_1129" # Felitia
+	manpower = 20676630
+	state_category = city
+	history={
+		owner = FEL
+		add_core_of = FEL
+		victory_points = { 11936 80 }
+		victory_points = { 11967 10 }
+		victory_points = { 12012 1 }
+		victory_points = { 12045 40 }
+		victory_points = { 12121 1 }
+		victory_points = { 12123 1 }
+		victory_points = { 12138 20 }
+		victory_points = { 12166 1 }
+		victory_points = { 12180 5 }
+		victory_points = { 12194 80 }
+		victory_points = { 12266 80 }
+		victory_points = { 12286 1 }
+		victory_points = { 12311 1 }
+		victory_points = { 12365 10 }
+		victory_points = { 12415 40 }
+	}
+	provinces={
+		11936 11967 11968 12012 12045 12121 12122 12123 12137 12138 12166 12180 12194 12266 12286 12311 12365 12415
+	}
+	local_supplies=0.0
+}

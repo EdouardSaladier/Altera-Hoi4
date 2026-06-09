@@ -1,0 +1,15 @@
+state={
+	id=1606
+	name="STATE_1606" # Warunnan
+	manpower = 11090
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14473 40 }
+	}
+	provinces={
+		14473
+	}
+	local_supplies=0.0
+}

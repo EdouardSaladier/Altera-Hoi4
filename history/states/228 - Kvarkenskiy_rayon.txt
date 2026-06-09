@@ -1,0 +1,27 @@
+state={
+	id=228
+	name="STATE_228" # Kvarkenskiy rayon
+	manpower = 2488276
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5325 2 }
+		victory_points = { 5526 2 }
+		victory_points = { 5706 2 }
+		victory_points = { 5773 5 }
+		victory_points = { 5893 5 }
+		victory_points = { 5914 5 }
+		victory_points = { 5941 2 }
+		victory_points = { 5979 2 }
+		victory_points = { 6025 5 }
+		victory_points = { 6097 5 }
+		victory_points = { 6120 5 }
+		victory_points = { 6135 40 }
+		victory_points = { 6200 5 }
+	}
+	provinces={
+		5325 5526 5706 5773 5893 5914 5941 5979 6025 6097 6120 6135 6200 6243
+	}
+	local_supplies=0.0
+}

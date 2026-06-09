@@ -1,0 +1,16 @@
+state={
+	id=440
+	name="STATE_440" # Shoshone Range
+	manpower = 21250
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 7287 1 }
+		victory_points = { 7327 10 }
+	}
+	provinces={
+		7287 7327
+	}
+	local_supplies=0.0
+}

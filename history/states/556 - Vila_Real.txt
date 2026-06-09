@@ -1,0 +1,19 @@
+state={
+	id=556
+	name="STATE_556" # Vila Real
+	manpower = 3320976
+	state_category = city
+	history={
+		owner = POR
+		add_core_of = POR
+		victory_points = { 8164 20 }
+		victory_points = { 8200 5 }
+		victory_points = { 8201 5 }
+		victory_points = { 8208 10 }
+		victory_points = { 8354 10 }
+	}
+	provinces={
+		8164 8200 8201 8208 8354
+	}
+	local_supplies=0.0
+}

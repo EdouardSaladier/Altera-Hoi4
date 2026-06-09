@@ -1,0 +1,16 @@
+state={
+	id=712
+	name="STATE_712" # Kairouan
+	manpower = 4293935
+	state_category = city
+	history={
+		owner = PUI
+		add_core_of = PUI
+		victory_points = { 9295 20 }
+		victory_points = { 9376 40 }
+	}
+	provinces={
+		9295 9376 9472
+	}
+	local_supplies=0.0
+}

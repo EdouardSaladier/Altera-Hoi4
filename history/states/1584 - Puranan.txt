@@ -1,0 +1,15 @@
+state={
+	id=1584
+	name="STATE_1584" # Puranan
+	manpower = 10020
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14370 80 }
+	}
+	provinces={
+		14370
+	}
+	local_supplies=0.0
+}

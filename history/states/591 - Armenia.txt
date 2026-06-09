@@ -1,0 +1,27 @@
+state={
+	id=591
+	name="STATE_591" # Armenia
+	manpower = 10542876
+	state_category = city
+	history={
+		owner = ARM
+		add_core_of = ARM
+		victory_points = { 8421 20 }
+		victory_points = { 8434 5 }
+		victory_points = { 8466 80 }
+		victory_points = { 8478 20 }
+		victory_points = { 8518 2 }
+		victory_points = { 8539 5 }
+		victory_points = { 8550 10 }
+		victory_points = { 8630 20 }
+		victory_points = { 8631 10 }
+		victory_points = { 8748 20 }
+		victory_points = { 8805 5 }
+		victory_points = { 8827 20 }
+		victory_points = { 8855 40 }
+	}
+	provinces={
+		8421 8434 8466 8478 8518 8539 8550 8630 8631 8748 8805 8827 8855 8965
+	}
+	local_supplies=0.0
+}

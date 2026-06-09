@@ -1,0 +1,18 @@
+state={
+	id=1826
+	name="STATE_1826" # Samoa
+	manpower = 249309
+	state_category = town
+	history={
+		owner = SAO
+		add_core_of = SAO
+		victory_points = { 15486 5 }
+		victory_points = { 15506 1 }
+		victory_points = { 15513 2 }
+		victory_points = { 15548 1 }
+	}
+	provinces={
+		15477 15486 15506 15513 15548
+	}
+	local_supplies=0.0
+}

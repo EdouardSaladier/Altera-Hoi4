@@ -1,0 +1,15 @@
+state={
+	id=1646
+	name="STATE_1646" # Yabem
+	manpower = 18620
+	state_category = town
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = YAB
+	}
+	provinces={
+		14630
+	}
+	local_supplies=0.0
+}

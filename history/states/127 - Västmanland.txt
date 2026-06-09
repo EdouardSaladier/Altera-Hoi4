@@ -1,0 +1,19 @@
+state={
+	id=127
+	name="STATE_127" # Västmanland
+	manpower = 682584
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4109 5 }
+		victory_points = { 4163 20 }
+		victory_points = { 4171 2 }
+		victory_points = { 4179 5 }
+		victory_points = { 4330 5 }
+	}
+	provinces={
+		4109 4163 4171 4179 4330
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=232
+	name="STATE_232" # Minsk
+	manpower = 2597539
+	state_category = large_town
+	history={
+		owner = BEL
+		add_core_of = BEL
+		victory_points = { 5379 10 }
+		victory_points = { 5458 20 }
+		victory_points = { 5558 5 }
+		victory_points = { 5572 10 }
+		victory_points = { 5638 5 }
+		victory_points = { 5740 20 }
+		victory_points = { 5881 5 }
+	}
+	provinces={
+		5379 5458 5558 5572 5638 5740 5881
+	}
+	local_supplies=0.0
+}

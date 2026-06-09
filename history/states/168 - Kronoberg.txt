@@ -1,0 +1,19 @@
+state={
+	id=168
+	name="STATE_168" # Kronoberg
+	manpower = 968985
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4626 2 }
+		victory_points = { 4638 5 }
+		victory_points = { 4668 20 }
+		victory_points = { 4820 5 }
+		victory_points = { 4857 10 }
+	}
+	provinces={
+		4626 4638 4668 4820 4857
+	}
+	local_supplies=0.0
+}

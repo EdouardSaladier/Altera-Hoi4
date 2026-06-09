@@ -1,0 +1,16 @@
+state={
+	id=845
+	name="STATE_845" # Yaquima
+	manpower = 6390
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 10170 5 }
+		victory_points = { 10310 80 }
+	}
+	provinces={
+		10170 10310
+	}
+	local_supplies=0.0
+}

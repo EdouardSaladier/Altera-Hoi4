@@ -1,0 +1,18 @@
+state={
+	id=1660
+	name="STATE_1660" # Paraíba
+	manpower = 9540
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 14697 20 }
+		victory_points = { 14729 80 }
+		victory_points = { 14739 10 }
+		victory_points = { 14761 5 }
+	}
+	provinces={
+		14697 14729 14739 14761
+	}
+	local_supplies=0.0
+}

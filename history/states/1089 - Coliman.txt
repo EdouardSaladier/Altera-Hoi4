@@ -1,0 +1,15 @@
+state={
+	id=1089
+	name="STATE_1089" # Coliman
+	manpower = 1870
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11768 20 }
+	}
+	provinces={
+		11768
+	}
+	local_supplies=0.0
+}

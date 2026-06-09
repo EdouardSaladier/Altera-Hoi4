@@ -1,0 +1,19 @@
+state={
+	id=308
+	name="STATE_308" # Kiev
+	manpower = 1891863
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6197 10 }
+		victory_points = { 6289 80 }
+		victory_points = { 6359 10 }
+		victory_points = { 6477 5 }
+		victory_points = { 6503 5 }
+	}
+	provinces={
+		6197 6289 6359 6477 6503
+	}
+	local_supplies=0.0
+}

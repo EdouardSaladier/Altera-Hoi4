@@ -1,0 +1,15 @@
+state={
+	id=399
+	name="STATE_399" # Steiermark
+	manpower = 2330015
+	state_category = city
+	history={
+		owner = GEM
+		add_core_of = GEM
+		victory_points = { 6932 20 }
+	}
+	provinces={
+		6932
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,29 @@
+state={
+	id=1917
+	name="STATE_1917" # São Paulo
+	manpower = 47770
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 16082 10 }
+		victory_points = { 16090 5 }
+		victory_points = { 16102 10 }
+		victory_points = { 16103 80 }
+		victory_points = { 16119 20 }
+		victory_points = { 16138 40 }
+		victory_points = { 16169 40 }
+		victory_points = { 16209 40 }
+		victory_points = { 16210 40 }
+		victory_points = { 16257 10 }
+		victory_points = { 16293 80 }
+		victory_points = { 16369 20 }
+		victory_points = { 16405 5 }
+		victory_points = { 16452 80 }
+		victory_points = { 16505 10 }
+	}
+	provinces={
+		16082 16090 16102 16103 16119 16138 16169 16209 16210 16257 16293 16369 16405 16452 16505
+	}
+	local_supplies=0.0
+}

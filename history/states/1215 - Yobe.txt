@@ -1,0 +1,17 @@
+state={
+	id=1215
+	name="STATE_1215" # Yobe
+	manpower = 4814718
+	state_category = city
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12407 10 }
+		victory_points = { 12542 20 }
+		victory_points = { 12543 20 }
+	}
+	provinces={
+		12407 12445 12542 12543
+	}
+	local_supplies=0.0
+}

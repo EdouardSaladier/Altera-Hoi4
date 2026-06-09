@@ -1,0 +1,16 @@
+state={
+	id=1450
+	name="STATE_1450" # Guaviare
+	manpower = 657150
+	state_category = town
+	history={
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 13727 2 }
+		victory_points = { 13850 1 }
+	}
+	provinces={
+		13727 13728 13827 13850 13884
+	}
+	local_supplies=0.0
+}

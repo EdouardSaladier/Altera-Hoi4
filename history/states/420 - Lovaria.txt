@@ -1,0 +1,16 @@
+state={
+	id=420
+	name="STATE_420" # Lovaria
+	manpower = 468999
+	state_category = large_town
+	history={
+		owner = CRI
+		add_core_of = CRI
+		add_core_of = LOR
+		victory_points = { 7148 20 }
+	}
+	provinces={
+		7148
+	}
+	local_supplies=0.0
+}

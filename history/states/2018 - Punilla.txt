@@ -1,0 +1,22 @@
+state={
+	id=2018
+	name="STATE_2018" # Punilla
+	manpower = 33500
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17147 10 }
+		victory_points = { 17216 80 }
+		victory_points = { 17225 5 }
+		victory_points = { 17228 20 }
+		victory_points = { 17241 20 }
+		victory_points = { 17258 5 }
+		victory_points = { 17280 1 }
+		victory_points = { 17327 5 }
+	}
+	provinces={
+		17147 17216 17225 17228 17241 17258 17280 17327
+	}
+	local_supplies=0.0
+}

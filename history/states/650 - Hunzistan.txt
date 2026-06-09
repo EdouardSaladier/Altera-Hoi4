@@ -1,0 +1,15 @@
+state={
+	id=650
+	name="STATE_650" # Hunzistan
+	manpower = 696279
+	state_category = town
+	history={
+		owner = HUZ
+		add_core_of = HUZ
+		victory_points = { 8936 5 }
+	}
+	provinces={
+		8901 8936 8967 9049
+	}
+	local_supplies=0.0
+}

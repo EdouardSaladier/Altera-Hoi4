@@ -1,0 +1,16 @@
+state={
+	id=598
+	name="STATE_598" # Sonoma
+	manpower = 8770
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 8488 20 }
+		victory_points = { 8975 80 }
+	}
+	provinces={
+		8488 8975
+	}
+	local_supplies=0.0
+}

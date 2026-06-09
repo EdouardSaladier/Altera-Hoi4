@@ -1,0 +1,23 @@
+state={
+	id=375
+	name="STATE_375" # Crimia
+	manpower = 1126059
+	state_category = town
+	history={
+		owner = CRI
+		add_core_of = CRI
+		victory_points = { 6773 80 }
+		victory_points = { 6799 5 }
+		victory_points = { 6835 2 }
+		victory_points = { 6884 20 }
+		victory_points = { 6935 5 }
+		victory_points = { 6961 5 }
+		victory_points = { 7038 40 }
+		victory_points = { 7064 5 }
+		victory_points = { 7077 5 }
+	}
+	provinces={
+		6773 6799 6835 6884 6935 6961 7038 7064 7077
+	}
+	local_supplies=0.0
+}

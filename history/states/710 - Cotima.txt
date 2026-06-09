@@ -1,0 +1,15 @@
+state={
+	id=710
+	name="STATE_710" # Cotima
+	manpower = 1160
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9283 20 }
+	}
+	provinces={
+		9283
+	}
+	local_supplies=0.0
+}

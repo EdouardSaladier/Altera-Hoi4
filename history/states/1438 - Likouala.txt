@@ -1,0 +1,16 @@
+state={
+	id=1438
+	name="STATE_1438" # Likouala
+	manpower = 408447
+	state_category = town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		add_core_of = ANZ
+		victory_points = { 13658 5 }
+	}
+	provinces={
+		13650 13658 13741 13811
+	}
+	local_supplies=0.0
+}

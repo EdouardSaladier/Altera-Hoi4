@@ -1,0 +1,15 @@
+state={
+	id=798
+	name="STATE_798" # Carmel
+	manpower = 2509022
+	state_category = megalopolis
+	history={
+		owner = CRM
+		add_core_of = CRM
+		victory_points = { 9825 10 }
+	}
+	provinces={
+		9825
+	}
+	local_supplies=0.0
+}

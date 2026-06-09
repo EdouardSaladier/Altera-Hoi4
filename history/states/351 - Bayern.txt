@@ -1,0 +1,24 @@
+state={
+	id=351
+	name="STATE_351" # Bayern
+	manpower = 8342916
+	state_category = city
+	history={
+		owner = GEM
+		add_core_of = GEM
+		victory_points = { 6551 20 }
+		victory_points = { 6564 10 }
+		victory_points = { 6601 10 }
+		victory_points = { 6726 40 }
+		victory_points = { 6727 10 }
+		victory_points = { 6735 10 }
+		victory_points = { 6868 5 }
+		victory_points = { 6869 80 }
+		victory_points = { 6895 10 }
+		victory_points = { 6974 5 }
+	}
+	provinces={
+		6551 6564 6601 6726 6727 6735 6868 6869 6895 6974
+	}
+	local_supplies=0.0
+}

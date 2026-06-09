@@ -1,0 +1,20 @@
+state={
+	id=337
+	name="STATE_337" # Poltava
+	manpower = 1862081
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6419 5 }
+		victory_points = { 6420 40 }
+		victory_points = { 6442 10 }
+		victory_points = { 6489 40 }
+		victory_points = { 6490 10 }
+		victory_points = { 6510 5 }
+	}
+	provinces={
+		6419 6420 6442 6489 6490 6510
+	}
+	local_supplies=0.0
+}

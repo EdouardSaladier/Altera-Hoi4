@@ -1,0 +1,17 @@
+state={
+	id=630
+	name="STATE_630" # Greece
+	manpower = 163492
+	state_category = town
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8734 5 }
+		victory_points = { 8885 5 }
+		victory_points = { 9145 1 }
+	}
+	provinces={
+		8734 8885 8994 9145 9158 9229
+	}
+	local_supplies=0.0
+}

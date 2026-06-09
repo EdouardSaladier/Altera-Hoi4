@@ -1,0 +1,20 @@
+state={
+	id=2020
+	name="STATE_2020" # Los Arroyos
+	manpower = 19450
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17217 80 }
+		victory_points = { 17218 10 }
+		victory_points = { 17242 40 }
+		victory_points = { 17272 5 }
+		victory_points = { 17289 20 }
+		victory_points = { 17315 20 }
+	}
+	provinces={
+		17217 17218 17242 17272 17289 17315
+	}
+	local_supplies=0.0
+}

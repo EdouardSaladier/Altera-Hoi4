@@ -1,0 +1,21 @@
+state={
+	id=2028
+	name="STATE_2028" # Gippsland
+	manpower = 220000
+	state_category = rural
+	history={
+		owner = TAS
+		add_core_of = TAS
+		victory_points = { 17400 5 }
+		victory_points = { 17448 5 }
+		victory_points = { 17452 5 }
+		victory_points = { 17454 5 }
+		victory_points = { 17497 10 }
+		victory_points = { 17507 2 }
+		victory_points = { 17549 10 }
+	}
+	provinces={
+		17400 17448 17452 17454 17497 17507 17549
+	}
+	local_supplies=0.0
+}

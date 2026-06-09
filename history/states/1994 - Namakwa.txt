@@ -1,0 +1,22 @@
+state={
+	id=1994
+	name="STATE_1994" # Namakwa
+	manpower = 696953
+	state_category = rural
+	history={
+		owner = RHO
+		add_core_of = RHO
+		victory_points = { 16869 5 }
+		victory_points = { 16897 2 }
+		victory_points = { 16917 2 }
+		victory_points = { 16962 2 }
+		victory_points = { 16976 5 }
+		victory_points = { 17028 5 }
+		victory_points = { 17055 5 }
+		victory_points = { 17119 1 }
+	}
+	provinces={
+		16869 16897 16917 16962 16976 16991 17028 17055 17119 17133
+	}
+	local_supplies=0.0
+}

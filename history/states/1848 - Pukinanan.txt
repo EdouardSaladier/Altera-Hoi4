@@ -1,0 +1,17 @@
+state={
+	id=1848
+	name="STATE_1848" # Pukinanan
+	manpower = 5120
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15615 2 }
+		victory_points = { 15647 5 }
+		victory_points = { 15723 2 }
+	}
+	provinces={
+		15615 15647 15723 15778
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=991
+	name="STATE_991" # Kashin
+	manpower = 2310
+	state_category = pastoral
+	history={
+		owner = JAA
+		add_core_of = JAA
+		add_core_of = KAH
+		victory_points = { 11099 20 }
+	}
+	provinces={
+		11099
+	}
+	local_supplies=0.0
+}

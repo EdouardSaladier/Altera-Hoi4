@@ -1,0 +1,15 @@
+state={
+	id=825
+	name="STATE_825" # Kinar
+	manpower = 4210
+	state_category = pastoral
+	history={
+		owner = KIN
+		add_core_of = KIN
+		victory_points = { 10027 1 }
+	}
+	provinces={
+		10027
+	}
+	local_supplies=0.0
+}

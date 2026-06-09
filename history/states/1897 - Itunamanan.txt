@@ -1,0 +1,16 @@
+state={
+	id=1897
+	name="STATE_1897" # Itunamanan
+	manpower = 10580
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15938 5 }
+		victory_points = { 16046 1 }
+	}
+	provinces={
+		15938 16046 16110
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,17 @@
+state={
+	id=285
+	name="STATE_285" # Chernihiv
+	manpower = 1409736
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5972 20 }
+		victory_points = { 5993 5 }
+		victory_points = { 6007 5 }
+	}
+	provinces={
+		5972 5993 6007
+	}
+	local_supplies=0.0
+}

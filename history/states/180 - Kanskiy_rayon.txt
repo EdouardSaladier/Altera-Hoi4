@@ -1,0 +1,16 @@
+state={
+	id=180
+	name="STATE_180" # Kanskiy rayon
+	manpower = 704013
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4759 5 }
+		victory_points = { 4860 20 }
+	}
+	provinces={
+		4759 4860
+	}
+	local_supplies=0.0
+}

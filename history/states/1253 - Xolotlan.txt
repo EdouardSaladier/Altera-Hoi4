@@ -1,0 +1,17 @@
+state={
+	id=1253
+	name="STATE_1253" # Xolotlan
+	manpower = 2960
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12642 80 }
+		victory_points = { 12646 10 }
+		victory_points = { 12679 2 }
+	}
+	provinces={
+		12642 12646 12679
+	}
+	local_supplies=0.0
+}

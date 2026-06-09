@@ -1,0 +1,16 @@
+state={
+	id=1449
+	name="STATE_1449" # Nasanan
+	manpower = 7050
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13726 20 }
+		victory_points = { 13808 5 }
+	}
+	provinces={
+		13726 13808
+	}
+	local_supplies=0.0
+}

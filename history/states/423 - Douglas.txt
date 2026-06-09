@@ -1,0 +1,17 @@
+state={
+	id=423
+	name="STATE_423" # Douglas
+	manpower = 445156
+	state_category = town
+	history={
+		owner = MAI
+		add_core_of = MAI
+		victory_points = { 7162 5 }
+		victory_points = { 7230 2 }
+		victory_points = { 7231 2 }
+	}
+	provinces={
+		7162 7230 7231
+	}
+	local_supplies=0.0
+}

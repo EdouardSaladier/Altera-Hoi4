@@ -1,0 +1,15 @@
+state={
+	id=495
+	name="STATE_495" # He'sapa
+	manpower = 3200
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 7730 10 }
+	}
+	provinces={
+		7730
+	}
+	local_supplies=0.0
+}

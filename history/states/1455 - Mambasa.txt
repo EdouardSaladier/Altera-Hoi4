@@ -1,0 +1,14 @@
+state={
+	id=1455
+	name="STATE_1455" # Mambasa
+	manpower = 1367811
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+	}
+	provinces={
+		13758 13771 13821
+	}
+	local_supplies=0.0
+}

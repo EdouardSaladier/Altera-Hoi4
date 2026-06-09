@@ -1,0 +1,17 @@
+state={
+	id=685
+	name="STATE_685" # Constantine
+	manpower = 4829079
+	state_category = large_city
+	history={
+		owner = PUI
+		add_core_of = PUI
+		victory_points = { 9142 20 }
+		victory_points = { 9143 80 }
+		victory_points = { 9294 20 }
+	}
+	provinces={
+		9142 9143 9294
+	}
+	local_supplies=0.0
+}

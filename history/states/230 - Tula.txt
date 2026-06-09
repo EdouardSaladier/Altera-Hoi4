@@ -1,0 +1,18 @@
+state={
+	id=230
+	name="STATE_230" # Tula
+	manpower = 1658660
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5342 5 }
+		victory_points = { 5401 10 }
+		victory_points = { 5402 80 }
+		victory_points = { 5589 10 }
+	}
+	provinces={
+		5342 5401 5402 5589
+	}
+	local_supplies=0.0
+}

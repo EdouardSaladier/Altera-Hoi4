@@ -1,0 +1,28 @@
+state={
+	id=749
+	name="STATE_749" # Jiangsu
+	manpower = 34375051
+	state_category = metropolis
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 9496 80 }
+		victory_points = { 9520 80 }
+		victory_points = { 9544 80 }
+		victory_points = { 9574 20 }
+		victory_points = { 9603 40 }
+		victory_points = { 9622 10 }
+		victory_points = { 9631 10 }
+		victory_points = { 9753 20 }
+		victory_points = { 9803 10 }
+		victory_points = { 9893 80 }
+		victory_points = { 9910 80 }
+		victory_points = { 9941 80 }
+		victory_points = { 9951 80 }
+		victory_points = { 9980 80 }
+	}
+	provinces={
+		9496 9520 9544 9574 9603 9622 9631 9753 9803 9831 9893 9910 9941 9951 9980 10105
+	}
+	local_supplies=0.0
+}

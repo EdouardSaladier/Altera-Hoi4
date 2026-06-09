@@ -1,0 +1,16 @@
+state={
+	id=1136
+	name="STATE_1136" # Tlauhpan
+	manpower = 2040
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11986 5 }
+		victory_points = { 12066 5 }
+	}
+	provinces={
+		11986 12066
+	}
+	local_supplies=0.0
+}

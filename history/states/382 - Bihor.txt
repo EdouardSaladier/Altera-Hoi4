@@ -1,0 +1,18 @@
+state={
+	id=382
+	name="STATE_382" # Bihor
+	manpower = 1963240
+	state_category = large_town
+	history={
+		owner = HUN
+		add_core_of = HUN
+		victory_points = { 6846 20 }
+		victory_points = { 6934 20 }
+		victory_points = { 7218 20 }
+		victory_points = { 7236 5 }
+	}
+	provinces={
+		6846 6934 7218 7236
+	}
+	local_supplies=0.0
+}

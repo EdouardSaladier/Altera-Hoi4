@@ -1,0 +1,20 @@
+state={
+	id=1080
+	name="STATE_1080" # Takrur
+	manpower = 212334
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 11725 5 }
+		victory_points = { 11855 5 }
+		victory_points = { 11918 80 }
+		victory_points = { 12008 1 }
+		victory_points = { 12068 5 }
+		victory_points = { 12114 5 }
+	}
+	provinces={
+		11724 11725 11726 11727 11791 11803 11854 11855 11918 11943 11979 11988 12008 12068 12114
+	}
+	local_supplies=0.0
+}

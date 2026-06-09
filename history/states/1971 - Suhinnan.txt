@@ -1,0 +1,19 @@
+state={
+	id=1971
+	name="STATE_1971" # Suhinnan
+	manpower = 16530
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16535 1 }
+		victory_points = { 16614 1 }
+		victory_points = { 16634 5 }
+		victory_points = { 16703 2 }
+		victory_points = { 16763 5 }
+	}
+	provinces={
+		16535 16541 16613 16614 16634 16663 16686 16703 16763 16808
+	}
+	local_supplies=0.0
+}

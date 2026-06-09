@@ -1,0 +1,15 @@
+state={
+	id=1429
+	name="STATE_1429" # Awqanan
+	manpower = 1630
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13601 40 }
+	}
+	provinces={
+		13601
+	}
+	local_supplies=0.0
+}

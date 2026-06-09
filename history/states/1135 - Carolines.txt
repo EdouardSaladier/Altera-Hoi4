@@ -1,0 +1,14 @@
+state={
+	id=1135
+	name="STATE_1135" # Carolines
+	manpower = 670
+	state_category = pastoral
+	history={
+		owner = CAS
+		add_core_of = CAS
+	}
+	provinces={
+		11984 12006 12034 12047 12065
+	}
+	local_supplies=0.0
+}

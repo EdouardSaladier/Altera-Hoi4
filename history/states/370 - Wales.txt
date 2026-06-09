@@ -1,0 +1,21 @@
+state={
+	id=370
+	name="STATE_370" # Wales
+	manpower = 4322729
+	state_category = large_town
+	history={
+		owner = WAE
+		add_core_of = WAE
+		victory_points = { 6744 10 }
+		victory_points = { 6787 5 }
+		victory_points = { 6796 10 }
+		victory_points = { 6810 20 }
+		victory_points = { 6845 5 }
+		victory_points = { 6929 10 }
+		victory_points = { 6984 10 }
+	}
+	provinces={
+		6744 6787 6796 6810 6845 6929 6984
+	}
+	local_supplies=0.0
+}

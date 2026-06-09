@@ -1,0 +1,17 @@
+state={
+	id=1890
+	name="STATE_1890" # North-West
+	manpower = 89152
+	state_category = rural
+	history={
+		owner = KAL
+		add_core_of = KAL
+		victory_points = { 15920 5 }
+		victory_points = { 16013 10 }
+		victory_points = { 16017 1 }
+	}
+	provinces={
+		15891 15920 15935 16013 16017 16113
+	}
+	local_supplies=0.0
+}

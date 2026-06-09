@@ -1,0 +1,14 @@
+state={
+	id=931
+	name="STATE_931" # Ghat
+	manpower = 11260
+	state_category = pastoral
+	history={
+		owner = PHA
+		add_core_of = PHA
+	}
+	provinces={
+		10709 10985
+	}
+	local_supplies=0.0
+}

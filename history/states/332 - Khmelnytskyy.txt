@@ -1,0 +1,19 @@
+state={
+	id=332
+	name="STATE_332" # Khmel'nyts'kyy
+	manpower = 1537129
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6395 10 }
+		victory_points = { 6476 5 }
+		victory_points = { 6585 2 }
+		victory_points = { 6593 5 }
+		victory_points = { 6706 20 }
+	}
+	provinces={
+		6395 6476 6585 6593 6706
+	}
+	local_supplies=0.0
+}

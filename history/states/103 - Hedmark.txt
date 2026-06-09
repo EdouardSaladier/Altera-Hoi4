@@ -1,0 +1,16 @@
+state={
+	id=103
+	name="STATE_103" # Hedmark
+	manpower = 423682
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 3654 5 }
+		victory_points = { 3980 5 }
+	}
+	provinces={
+		3654 3980
+	}
+	local_supplies=0.0
+}

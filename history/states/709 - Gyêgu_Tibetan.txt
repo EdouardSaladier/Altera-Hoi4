@@ -1,0 +1,14 @@
+state={
+	id=709
+	name="STATE_709" # Gyêgu Tibetan
+	manpower = 73470
+	state_category = rural
+	history={
+		owner = WUT
+		add_core_of = WUT
+	}
+	provinces={
+		9280 9390 9430 9492 9542 9553 9829 9874
+	}
+	local_supplies=0.0
+}

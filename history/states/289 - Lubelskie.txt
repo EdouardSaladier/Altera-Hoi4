@@ -1,0 +1,17 @@
+state={
+	id=289
+	name="STATE_289" # Lubelskie
+	manpower = 3195525
+	state_category = large_town
+	history={
+		owner = POL
+		add_core_of = POL
+		victory_points = { 6006 40 }
+		victory_points = { 6052 10 }
+		victory_points = { 6183 5 }
+	}
+	provinces={
+		6006 6052 6183
+	}
+	local_supplies=0.0
+}

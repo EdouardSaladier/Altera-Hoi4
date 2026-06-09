@@ -1,0 +1,18 @@
+state={
+	id=454
+	name="STATE_454" # Mudanjiang
+	manpower = 2817472
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 7498 20 }
+		victory_points = { 7619 10 }
+		victory_points = { 7672 5 }
+		victory_points = { 7680 20 }
+	}
+	provinces={
+		7419 7445 7498 7619 7672 7680
+	}
+	local_supplies=0.0
+}

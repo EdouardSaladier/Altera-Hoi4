@@ -1,0 +1,15 @@
+state={
+	id=1187
+	name="STATE_1187" # Xillan
+	manpower = 1810
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12256 5 }
+	}
+	provinces={
+		12256
+	}
+	local_supplies=0.0
+}

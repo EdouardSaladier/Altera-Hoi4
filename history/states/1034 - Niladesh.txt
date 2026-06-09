@@ -1,0 +1,16 @@
+state={
+	id=1034
+	name="STATE_1034" # Niladesh
+	manpower = 24873
+	state_category = rural
+	history={
+		owner = CLN
+		add_core_of = CLN
+		add_core_of = NIL
+		victory_points = { 11418 20 }
+	}
+	provinces={
+		11418
+	}
+	local_supplies=0.0
+}

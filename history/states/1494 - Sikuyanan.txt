@@ -1,0 +1,15 @@
+state={
+	id=1494
+	name="STATE_1494" # Sikuyanan
+	manpower = 5890
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13962 10 }
+	}
+	provinces={
+		13962
+	}
+	local_supplies=0.0
+}

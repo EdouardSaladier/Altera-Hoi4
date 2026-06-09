@@ -1,0 +1,21 @@
+state={
+	id=386
+	name="STATE_386" # Bourgogne-Franche-Comté
+	manpower = 6034699
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 6858 5 }
+		victory_points = { 6930 5 }
+		victory_points = { 6949 5 }
+		victory_points = { 7022 20 }
+		victory_points = { 7051 5 }
+		victory_points = { 7061 5 }
+		victory_points = { 7062 5 }
+	}
+	provinces={
+		6858 6930 6949 7022 7051 7061 7062
+	}
+	local_supplies=0.0
+}

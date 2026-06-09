@@ -1,0 +1,15 @@
+state={
+	id=737
+	name="STATE_737" # Nama
+	manpower = 3040
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9435 10 }
+	}
+	provinces={
+		9435
+	}
+	local_supplies=0.0
+}

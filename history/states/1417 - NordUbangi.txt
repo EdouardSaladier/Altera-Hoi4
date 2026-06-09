@@ -1,0 +1,15 @@
+state={
+	id=1417
+	name="STATE_1417" # Nord-Ubangi
+	manpower = 2110649
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		victory_points = { 13632 5 }
+	}
+	provinces={
+		13531 13612 13632
+	}
+	local_supplies=0.0
+}

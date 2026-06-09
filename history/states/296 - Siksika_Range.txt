@@ -1,0 +1,24 @@
+state={
+	id=296
+	name="STATE_296" # Siksika Range
+	manpower = 22330
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 6113 2 }
+		victory_points = { 6114 5 }
+		victory_points = { 6281 5 }
+		victory_points = { 6344 2 }
+		victory_points = { 6352 1 }
+		victory_points = { 6378 10 }
+		victory_points = { 6456 5 }
+		victory_points = { 6468 2 }
+		victory_points = { 6496 2 }
+		victory_points = { 6575 2 }
+	}
+	provinces={
+		6113 6114 6281 6297 6344 6352 6378 6456 6468 6496 6575
+	}
+	local_supplies=0.0
+}

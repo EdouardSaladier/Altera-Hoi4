@@ -1,0 +1,16 @@
+state={
+	id=355
+	name="STATE_355" # Jihomoravský
+	manpower = 2435804
+	state_category = city
+	history={
+		owner = BOH
+		add_core_of = BOH
+		victory_points = { 6584 40 }
+		victory_points = { 6655 5 }
+	}
+	provinces={
+		6584 6655
+	}
+	local_supplies=0.0
+}

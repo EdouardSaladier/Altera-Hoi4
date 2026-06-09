@@ -1,0 +1,15 @@
+state={
+	id=1815
+	name="STATE_1815" # Huíla
+	manpower = 3987440
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15444 5 }
+	}
+	provinces={
+		15438 15444 15456 15473 15559 15560 15572
+	}
+	local_supplies=0.0
+}

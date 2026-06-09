@@ -1,0 +1,17 @@
+state={
+	id=1389
+	name="STATE_1389" # Casanare
+	manpower = 1378186
+	state_category = large_town
+	history={
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 13378 2 }
+		victory_points = { 13379 2 }
+		victory_points = { 13464 10 }
+	}
+	provinces={
+		13378 13379 13380 13464
+	}
+	local_supplies=0.0
+}

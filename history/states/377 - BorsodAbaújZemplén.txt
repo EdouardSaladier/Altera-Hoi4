@@ -1,0 +1,19 @@
+state={
+	id=377
+	name="STATE_377" # Borsod-Abaúj-Zemplén
+	manpower = 2161332
+	state_category = large_town
+	history={
+		owner = HUN
+		add_core_of = HUN
+		victory_points = { 6790 5 }
+		victory_points = { 6907 10 }
+		victory_points = { 6918 20 }
+		victory_points = { 6960 40 }
+		victory_points = { 7012 5 }
+	}
+	provinces={
+		6790 6907 6918 6960 7012
+	}
+	local_supplies=0.0
+}

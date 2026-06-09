@@ -1,0 +1,15 @@
+state={
+	id=1697
+	name="STATE_1697" # Malanje
+	manpower = 3287694
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 14969 20 }
+	}
+	provinces={
+		14874 14950 14969 15082 15179
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=1441
+	name="STATE_1441" # Tuturunan
+	manpower = 5180
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 13669 5 }
+	}
+	provinces={
+		13669
+	}
+	local_supplies=0.0
+}

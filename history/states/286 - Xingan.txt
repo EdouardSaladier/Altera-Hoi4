@@ -1,0 +1,28 @@
+state={
+	id=286
+	name="STATE_286" # Xing'an
+	manpower = 19512815
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 6230 20 }
+		victory_points = { 6752 20 }
+		victory_points = { 7196 1 }
+		victory_points = { 7310 1 }
+		victory_points = { 7363 1 }
+		victory_points = { 7497 1 }
+		victory_points = { 7658 40 }
+		victory_points = { 7679 1 }
+		victory_points = { 7780 1 }
+		victory_points = { 7861 1 }
+		victory_points = { 7948 1 }
+		victory_points = { 7983 10 }
+		victory_points = { 8002 1 }
+		victory_points = { 8062 1 }
+	}
+	provinces={
+		5985 6166 6230 6253 6311 6322 6365 6366 6435 6514 6515 6555 6619 6630 6709 6752 6777 6806 6968 6976 7025 7084 7098 7160 7195 7196 7284 7296 7310 7363 7483 7497 7558 7658 7679 7708 7709 7718 7727 7780 7845 7852 7861 7900 7909 7948 7982 7983 7994 8002 8062
+	}
+	local_supplies=0.0
+}

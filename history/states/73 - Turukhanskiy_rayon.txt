@@ -1,0 +1,15 @@
+state={
+	id=73
+	name="STATE_73" # Turukhanskiy rayon
+	manpower = 56420
+	state_category = pastoral
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 3876 2 }
+	}
+	provinces={
+		2901 3149 3239 3262 3534 3617 3618 3726 3771 3781 3803 3833 3848 3875 3876
+	}
+	local_supplies=0.0
+}

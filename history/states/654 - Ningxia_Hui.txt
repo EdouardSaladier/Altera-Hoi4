@@ -1,0 +1,19 @@
+state={
+	id=654
+	name="STATE_654" # Ningxia Hui
+	manpower = 11446169
+	state_category = large_city
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 8925 5 }
+		victory_points = { 8958 1 }
+		victory_points = { 9051 1 }
+		victory_points = { 9097 1 }
+		victory_points = { 9175 1 }
+	}
+	provinces={
+		8925 8958 9051 9097 9175
+	}
+	local_supplies=0.0
+}

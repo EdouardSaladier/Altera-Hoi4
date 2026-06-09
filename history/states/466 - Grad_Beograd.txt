@@ -1,0 +1,19 @@
+state={
+	id=466
+	name="STATE_466" # Grad Beograd
+	manpower = 2321929
+	state_category = large_town
+	history={
+		owner = SEI
+		add_core_of = SEI
+		victory_points = { 7516 20 }
+		victory_points = { 7565 10 }
+		victory_points = { 7675 10 }
+		victory_points = { 7676 10 }
+		victory_points = { 7721 10 }
+	}
+	provinces={
+		7516 7565 7675 7676 7721
+	}
+	local_supplies=0.0
+}

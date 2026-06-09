@@ -1,0 +1,15 @@
+state={
+	id=674
+	name="STATE_674" # Mojave
+	manpower = 9920
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9065 80 }
+	}
+	provinces={
+		9065
+	}
+	local_supplies=0.0
+}

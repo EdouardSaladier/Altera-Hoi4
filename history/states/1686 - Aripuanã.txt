@@ -1,0 +1,14 @@
+state={
+	id=1686
+	name="STATE_1686" # Aripuanã
+	manpower = 49943
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+	}
+	provinces={
+		14824 15001 15002 15003 15047 15080
+	}
+	local_supplies=0.0
+}

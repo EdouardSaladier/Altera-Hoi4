@@ -1,0 +1,15 @@
+state={
+	id=1216
+	name="STATE_1216" # Xinachcan
+	manpower = 2400
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12411 20 }
+	}
+	provinces={
+		12411
+	}
+	local_supplies=0.0
+}

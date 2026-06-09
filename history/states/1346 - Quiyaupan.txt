@@ -1,0 +1,15 @@
+state={
+	id=1346
+	name="STATE_1346" # Quiyaupan
+	manpower = 1520
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 13104 5 }
+	}
+	provinces={
+		13104
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=2019
+	name="STATE_2019" # Capital Territory
+	manpower = 1145
+	state_category = rural
+	history={
+		owner = TAS
+		add_core_of = TAS
+	}
+	provinces={
+		17210
+	}
+	local_supplies=0.0
+}

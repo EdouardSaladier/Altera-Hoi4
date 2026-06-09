@@ -1,0 +1,16 @@
+state={
+	id=1636
+	name="STATE_1636" # Witunan
+	manpower = 12000
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14597 1 }
+		victory_points = { 14727 5 }
+	}
+	provinces={
+		14597 14727
+	}
+	local_supplies=0.0
+}

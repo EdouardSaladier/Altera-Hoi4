@@ -1,0 +1,19 @@
+state={
+	id=1820
+	name="STATE_1820" # Chankanan
+	manpower = 13240
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15455 5 }
+		victory_points = { 15459 5 }
+		victory_points = { 15497 5 }
+		victory_points = { 15498 1 }
+		victory_points = { 15588 5 }
+	}
+	provinces={
+		15455 15459 15497 15498 15588
+	}
+	local_supplies=0.0
+}

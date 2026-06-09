@@ -1,0 +1,32 @@
+state={
+	id=524
+	name="STATE_524" # Liaoning
+	manpower = 11451023
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 7922 20 }
+		victory_points = { 7969 10 }
+		victory_points = { 8023 1 }
+		victory_points = { 8063 10 }
+		victory_points = { 8109 80 }
+		victory_points = { 8127 80 }
+		victory_points = { 8138 20 }
+		victory_points = { 8139 10 }
+		victory_points = { 8152 80 }
+		victory_points = { 8192 80 }
+		victory_points = { 8276 80 }
+		victory_points = { 8295 80 }
+		victory_points = { 8426 1 }
+		victory_points = { 8428 10 }
+		victory_points = { 8452 40 }
+		victory_points = { 8460 80 }
+		victory_points = { 8507 1 }
+		victory_points = { 8720 80 }
+	}
+	provinces={
+		7922 7969 8023 8063 8109 8127 8138 8139 8152 8191 8192 8276 8295 8336 8348 8366 8426 8428 8452 8460 8507 8720
+	}
+	local_supplies=0.0
+}

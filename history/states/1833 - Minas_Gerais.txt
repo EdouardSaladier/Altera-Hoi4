@@ -1,0 +1,44 @@
+state={
+	id=1833
+	name="STATE_1833" # Minas Gerais
+	manpower = 105590
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15515 5 }
+		victory_points = { 15569 5 }
+		victory_points = { 15570 5 }
+		victory_points = { 15598 10 }
+		victory_points = { 15599 10 }
+		victory_points = { 15606 5 }
+		victory_points = { 15695 5 }
+		victory_points = { 15696 10 }
+		victory_points = { 15742 40 }
+		victory_points = { 15743 20 }
+		victory_points = { 15780 10 }
+		victory_points = { 15846 5 }
+		victory_points = { 15918 40 }
+		victory_points = { 15929 40 }
+		victory_points = { 15933 20 }
+		victory_points = { 15939 80 }
+		victory_points = { 15947 5 }
+		victory_points = { 16001 10 }
+		victory_points = { 16011 5 }
+		victory_points = { 16030 5 }
+		victory_points = { 16031 40 }
+		victory_points = { 16037 5 }
+		victory_points = { 16059 80 }
+		victory_points = { 16076 10 }
+		victory_points = { 16095 5 }
+		victory_points = { 16111 10 }
+		victory_points = { 16139 5 }
+		victory_points = { 16155 10 }
+		victory_points = { 16179 20 }
+		victory_points = { 16233 5 }
+	}
+	provinces={
+		15515 15569 15570 15598 15599 15606 15695 15696 15742 15743 15780 15846 15918 15929 15933 15939 15947 16001 16011 16016 16030 16031 16037 16059 16076 16095 16111 16139 16155 16179 16233
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=219
+	name="STATE_219" # Kaluga
+	manpower = 1561080
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 5246 5 }
+		victory_points = { 5247 40 }
+		victory_points = { 5266 5 }
+		victory_points = { 5400 10 }
+		victory_points = { 5460 5 }
+		victory_points = { 5600 5 }
+	}
+	provinces={
+		5246 5247 5266 5400 5460 5600
+	}
+	local_supplies=0.0
+}

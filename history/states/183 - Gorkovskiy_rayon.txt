@@ -1,0 +1,20 @@
+state={
+	id=183
+	name="STATE_183" # Gor'kovskiy rayon
+	manpower = 1122107
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4807 5 }
+		victory_points = { 5111 5 }
+		victory_points = { 5182 80 }
+		victory_points = { 5294 2 }
+		victory_points = { 5362 5 }
+		victory_points = { 5465 5 }
+	}
+	provinces={
+		4807 5018 5111 5182 5294 5362 5465
+	}
+	local_supplies=0.0
+}

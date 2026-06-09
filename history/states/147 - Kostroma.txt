@@ -1,0 +1,22 @@
+state={
+	id=147
+	name="STATE_147" # Kostroma
+	manpower = 2246496
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4320 2 }
+		victory_points = { 4354 5 }
+		victory_points = { 4387 2 }
+		victory_points = { 4388 5 }
+		victory_points = { 4427 40 }
+		victory_points = { 4469 5 }
+		victory_points = { 4554 5 }
+		victory_points = { 4613 2 }
+	}
+	provinces={
+		4320 4354 4387 4388 4427 4469 4527 4554 4613 4696
+	}
+	local_supplies=0.0
+}

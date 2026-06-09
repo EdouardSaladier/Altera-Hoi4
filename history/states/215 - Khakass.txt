@@ -1,0 +1,18 @@
+state={
+	id=215
+	name="STATE_215" # Khakass
+	manpower = 704785
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 5278 10 }
+		victory_points = { 5295 2 }
+		victory_points = { 5446 1 }
+		victory_points = { 5659 10 }
+	}
+	provinces={
+		5204 5278 5295 5296 5446 5659 5746 6026 6044 6148
+	}
+	local_supplies=0.0
+}

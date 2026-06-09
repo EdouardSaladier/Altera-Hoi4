@@ -1,0 +1,14 @@
+state={
+	id=830
+	name="STATE_830" # Al Butnan
+	manpower = 21880
+	state_category = pastoral
+	history={
+		owner = MAR
+		add_core_of = MAR
+	}
+	provinces={
+		10072 10098 10314 10367 10562 10710 10722
+	}
+	local_supplies=0.0
+}

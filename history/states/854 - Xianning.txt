@@ -1,0 +1,16 @@
+state={
+	id=854
+	name="STATE_854" # Xianning
+	manpower = 6682098
+	state_category = large_city
+	history={
+		owner = TSU
+		add_core_of = TSU
+		victory_points = { 10235 10 }
+		victory_points = { 10300 80 }
+	}
+	provinces={
+		10235 10300
+	}
+	local_supplies=0.0
+}

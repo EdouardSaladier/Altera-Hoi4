@@ -1,0 +1,15 @@
+state={
+	id=1909
+	name="STATE_1909" # Chanqunan
+	manpower = 13970
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15999 20 }
+	}
+	provinces={
+		15999 16045 16057 16093 16208
+	}
+	local_supplies=0.0
+}

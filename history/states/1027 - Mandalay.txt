@@ -1,0 +1,15 @@
+state={
+	id=1027
+	name="STATE_1027" # Mandalay
+	manpower = 5052333
+	state_category = city
+	history={
+		owner = BUM
+		add_core_of = BUM
+		victory_points = { 11468 80 }
+	}
+	provinces={
+		11364 11468
+	}
+	local_supplies=0.0
+}

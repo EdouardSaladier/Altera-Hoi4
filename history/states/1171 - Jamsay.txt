@@ -1,0 +1,14 @@
+state={
+	id=1171
+	name="STATE_1171" # Jamsay
+	manpower = 28556
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+	}
+	provinces={
+		12174
+	}
+	local_supplies=0.0
+}

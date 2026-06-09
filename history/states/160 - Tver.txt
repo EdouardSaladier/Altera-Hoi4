@@ -1,0 +1,29 @@
+state={
+	id=160
+	name="STATE_160" # Tver'
+	manpower = 4146242
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4481 5 }
+		victory_points = { 4575 1 }
+		victory_points = { 4584 5 }
+		victory_points = { 4629 5 }
+		victory_points = { 4640 10 }
+		victory_points = { 4682 5 }
+		victory_points = { 4766 5 }
+		victory_points = { 4796 10 }
+		victory_points = { 4797 5 }
+		victory_points = { 4812 5 }
+		victory_points = { 4848 10 }
+		victory_points = { 4933 5 }
+		victory_points = { 4942 5 }
+		victory_points = { 4998 5 }
+		victory_points = { 5072 2 }
+	}
+	provinces={
+		4481 4575 4584 4629 4640 4682 4766 4796 4797 4812 4848 4933 4942 4943 4998 5072
+	}
+	local_supplies=0.0
+}

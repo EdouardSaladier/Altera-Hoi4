@@ -1,0 +1,15 @@
+state={
+	id=1777
+	name="STATE_1777" # Galedive
+	manpower = 80
+	state_category = rural
+	history={
+		owner = DZA
+		add_core_of = DZA
+		add_core_of = GAV
+	}
+	provinces={
+		15200
+	}
+	local_supplies=0.0
+}

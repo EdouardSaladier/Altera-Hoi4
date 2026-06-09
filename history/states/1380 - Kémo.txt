@@ -1,0 +1,16 @@
+state={
+	id=1380
+	name="STATE_1380" # Kémo
+	manpower = 496371
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		add_core_of = ANZ
+		victory_points = { 13385 5 }
+	}
+	provinces={
+		13342 13385
+	}
+	local_supplies=0.0
+}

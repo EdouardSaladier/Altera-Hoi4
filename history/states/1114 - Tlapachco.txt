@@ -1,0 +1,15 @@
+state={
+	id=1114
+	name="STATE_1114" # Tlapachco
+	manpower = 4510
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11878 5 }
+	}
+	provinces={
+		11878
+	}
+	local_supplies=0.0
+}

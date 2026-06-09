@@ -1,0 +1,14 @@
+state={
+	id=1696
+	name="STATE_1696" # Ascensions
+	manpower = 3186
+	state_category = rural
+	history={
+		owner = ASE
+		add_core_of = ASE
+	}
+	provinces={
+		14873 14906 14936
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=596
+	name="STATE_596" # Castellón
+	manpower = 938956
+	state_category = large_town
+	history={
+		owner = ARO
+		add_core_of = ARO
+		victory_points = { 8458 20 }
+	}
+	provinces={
+		8458
+	}
+	local_supplies=0.0
+}

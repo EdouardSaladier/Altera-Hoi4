@@ -1,0 +1,17 @@
+state={
+	id=1141
+	name="STATE_1141" # Raman
+	manpower = 6168379
+	state_category = large_city
+	history={
+		owner = BUM
+		add_core_of = BUM
+		add_core_of = RAM
+		victory_points = { 12004 80 }
+		victory_points = { 12029 80 }
+	}
+	provinces={
+		12004 12029
+	}
+	local_supplies=0.0
+}

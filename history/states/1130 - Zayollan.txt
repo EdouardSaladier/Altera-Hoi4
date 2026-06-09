@@ -1,0 +1,15 @@
+state={
+	id=1130
+	name="STATE_1130" # Zayollan
+	manpower = 2200
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11941 5 }
+	}
+	provinces={
+		11941
+	}
+	local_supplies=0.0
+}

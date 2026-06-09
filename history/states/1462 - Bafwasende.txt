@@ -1,0 +1,16 @@
+state={
+	id=1462
+	name="STATE_1462" # Bafwasende
+	manpower = 3539590
+	state_category = large_town
+	history={
+		owner = JAG
+		add_core_of = JAG
+		victory_points = { 13793 10 }
+		victory_points = { 13895 80 }
+	}
+	provinces={
+		13776 13783 13793 13794 13801 13802 13872 13877 13878 13895 13932 13993 13999
+	}
+	local_supplies=0.0
+}

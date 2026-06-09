@@ -1,0 +1,23 @@
+state={
+	id=2024
+	name="STATE_2024" # La Plata
+	manpower = 48290
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17360 1 }
+		victory_points = { 17364 1 }
+		victory_points = { 17379 5 }
+		victory_points = { 17396 10 }
+		victory_points = { 17397 5 }
+		victory_points = { 17402 1 }
+		victory_points = { 17455 20 }
+		victory_points = { 17467 20 }
+		victory_points = { 17535 10 }
+	}
+	provinces={
+		17360 17364 17379 17396 17397 17402 17455 17467 17535
+	}
+	local_supplies=0.0
+}

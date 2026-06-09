@@ -1,0 +1,23 @@
+state={
+	id=126
+	name="STATE_126" # Tomsk
+	manpower = 1085944
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4257 5 }
+		victory_points = { 4294 5 }
+		victory_points = { 4428 5 }
+		victory_points = { 4528 2 }
+		victory_points = { 4672 5 }
+		victory_points = { 4697 2 }
+		victory_points = { 4699 5 }
+		victory_points = { 4784 80 }
+		victory_points = { 4873 5 }
+	}
+	provinces={
+		4061 4250 4257 4258 4294 4306 4366 4367 4428 4474 4528 4600 4672 4697 4698 4699 4744 4784 4873 4902
+	}
+	local_supplies=0.0
+}

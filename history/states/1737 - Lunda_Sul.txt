@@ -1,0 +1,16 @@
+state={
+	id=1737
+	name="STATE_1737" # Lunda Sul
+	manpower = 1066146
+	state_category = town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 14993 10 }
+		victory_points = { 15153 2 }
+	}
+	provinces={
+		14993 15126 15132 15153
+	}
+	local_supplies=0.0
+}

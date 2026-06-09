@@ -1,0 +1,22 @@
+state={
+	id=612
+	name="STATE_612" # Nevada
+	manpower = 37210
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8584 2 }
+		victory_points = { 8585 5 }
+		victory_points = { 8586 2 }
+		victory_points = { 8595 5 }
+		victory_points = { 8596 80 }
+		victory_points = { 8597 10 }
+		victory_points = { 8711 20 }
+		victory_points = { 8850 5 }
+	}
+	provinces={
+		8584 8585 8586 8595 8596 8597 8711 8850
+	}
+	local_supplies=0.0
+}

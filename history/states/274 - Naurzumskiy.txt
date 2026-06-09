@@ -1,0 +1,14 @@
+state={
+	id=274
+	name="STATE_274" # Naurzumskiy
+	manpower = 463390
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+	}
+	provinces={
+		5827 6010 6136 6185 6214 6306 6331 6397
+	}
+	local_supplies=0.0
+}

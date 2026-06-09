@@ -1,0 +1,16 @@
+state={
+	id=1913
+	name="STATE_1913" # Alto Paraguay
+	manpower = 18188
+	state_category = rural
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16041 2 }
+		victory_points = { 16237 5 }
+	}
+	provinces={
+		16036 16041 16228 16237
+	}
+	local_supplies=0.0
+}

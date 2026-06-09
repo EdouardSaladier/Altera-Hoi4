@@ -1,0 +1,15 @@
+state={
+	id=1959
+	name="STATE_1959" # Canindeyú
+	manpower = 556005
+	state_category = town
+	history={
+		owner = ARU
+		add_core_of = ARU
+		victory_points = { 16410 5 }
+	}
+	provinces={
+		16410
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=396
+	name="STATE_396" # Suihua
+	manpower = 4967799
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 6924 1 }
+		victory_points = { 6977 10 }
+		victory_points = { 7085 40 }
+		victory_points = { 7113 10 }
+		victory_points = { 7197 40 }
+		victory_points = { 7311 20 }
+		victory_points = { 7312 20 }
+	}
+	provinces={
+		6924 6977 7085 7099 7113 7161 7197 7297 7311 7312
+	}
+	local_supplies=0.0
+}

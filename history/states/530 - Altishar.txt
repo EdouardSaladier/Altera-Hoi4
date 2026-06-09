@@ -1,0 +1,21 @@
+state={
+	id=530
+	name="STATE_530" # Altishar
+	manpower = 6540369
+	state_category = large_town
+	history={
+		owner = ALI
+		add_core_of = ALI
+		victory_points = { 8305 5 }
+		victory_points = { 8320 5 }
+		victory_points = { 8390 1 }
+		victory_points = { 8406 1 }
+		victory_points = { 8469 1 }
+		victory_points = { 8605 40 }
+		victory_points = { 8633 1 }
+	}
+	provinces={
+		7992 8107 8149 8259 8305 8306 8307 8320 8389 8390 8406 8469 8495 8558 8605 8633 8662
+	}
+	local_supplies=0.0
+}

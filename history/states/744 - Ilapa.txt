@@ -1,0 +1,15 @@
+state={
+	id=744
+	name="STATE_744" # Ilapa
+	manpower = 790
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9458 5 }
+	}
+	provinces={
+		9458
+	}
+	local_supplies=0.0
+}

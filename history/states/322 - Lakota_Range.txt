@@ -1,0 +1,17 @@
+state={
+	id=322
+	name="STATE_322" # Lakota Range
+	manpower = 23740
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 6338 1 }
+		victory_points = { 6621 1 }
+		victory_points = { 6741 2 }
+	}
+	provinces={
+		6338 6518 6610 6621 6741
+	}
+	local_supplies=0.0
+}

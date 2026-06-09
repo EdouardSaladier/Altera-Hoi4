@@ -1,0 +1,15 @@
+state={
+	id=1812
+	name="STATE_1812" # Wagima
+	manpower = 3840
+	state_category = rural
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = WAI
+	}
+	provinces={
+		15424
+	}
+	local_supplies=0.0
+}

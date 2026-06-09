@@ -1,0 +1,14 @@
+state={
+	id=1459
+	name="STATE_1459" # Pongfong
+	manpower = 219178
+	state_category = city
+	history={
+		owner = POG
+		add_core_of = POG
+	}
+	provinces={
+		13766
+	}
+	local_supplies=0.0
+}

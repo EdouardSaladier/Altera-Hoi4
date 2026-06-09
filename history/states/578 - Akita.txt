@@ -1,0 +1,18 @@
+state={
+	id=578
+	name="STATE_578" # Akita
+	manpower = 15152059
+	state_category = large_city
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 8310 40 }
+		victory_points = { 8323 40 }
+		victory_points = { 8485 10 }
+		victory_points = { 8593 40 }
+	}
+	provinces={
+		8310 8323 8485 8593
+	}
+	local_supplies=0.0
+}

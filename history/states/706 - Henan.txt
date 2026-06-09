@@ -1,0 +1,36 @@
+state={
+	id=706
+	name="STATE_706" # Henan
+	manpower = 57812958
+	state_category = metropolis
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 9269 80 }
+		victory_points = { 9281 10 }
+		victory_points = { 9413 80 }
+		victory_points = { 9443 40 }
+		victory_points = { 9453 1 }
+		victory_points = { 9512 80 }
+		victory_points = { 9525 80 }
+		victory_points = { 9543 80 }
+		victory_points = { 9580 80 }
+		victory_points = { 9601 80 }
+		victory_points = { 9602 80 }
+		victory_points = { 9630 1 }
+		victory_points = { 9645 20 }
+		victory_points = { 9669 20 }
+		victory_points = { 9721 1 }
+		victory_points = { 9733 20 }
+		victory_points = { 9746 10 }
+		victory_points = { 9776 1 }
+		victory_points = { 9787 10 }
+		victory_points = { 9820 80 }
+		victory_points = { 9830 1 }
+		victory_points = { 9892 80 }
+	}
+	provinces={
+		9269 9281 9413 9443 9453 9512 9525 9543 9580 9601 9602 9630 9645 9669 9721 9733 9746 9776 9787 9820 9830 9892
+	}
+	local_supplies=0.0
+}

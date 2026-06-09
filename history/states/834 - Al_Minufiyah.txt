@@ -1,0 +1,19 @@
+state={
+	id=834
+	name="STATE_834" # Al Minufiyah
+	manpower = 36976575
+	state_category = megalopolis
+	history={
+		owner = EGY
+		add_core_of = EGY
+		victory_points = { 10088 40 }
+		victory_points = { 10120 80 }
+		victory_points = { 10121 40 }
+		victory_points = { 10135 80 }
+		victory_points = { 10305 40 }
+	}
+	provinces={
+		10088 10120 10121 10135 10305 10316
+	}
+	local_supplies=0.0
+}

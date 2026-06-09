@@ -1,0 +1,16 @@
+state={
+	id=1930
+	name="STATE_1930" # Guanabara
+	manpower = 10070
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 16186 80 }
+		victory_points = { 16307 80 }
+	}
+	provinces={
+		16186 16307
+	}
+	local_supplies=0.0
+}

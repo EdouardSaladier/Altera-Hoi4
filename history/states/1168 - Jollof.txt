@@ -1,0 +1,19 @@
+state={
+	id=1168
+	name="STATE_1168" # Jollof
+	manpower = 250591
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12163 5 }
+		victory_points = { 12173 10 }
+		victory_points = { 12217 40 }
+		victory_points = { 12249 5 }
+		victory_points = { 12345 5 }
+	}
+	provinces={
+		12163 12173 12217 12249 12345 12369
+	}
+	local_supplies=0.0
+}

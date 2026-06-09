@@ -1,0 +1,15 @@
+state={
+	id=985
+	name="STATE_985" # Unorganized in Aswan
+	manpower = 2234003
+	state_category = city
+	history={
+		owner = EGY
+		add_core_of = EGY
+		victory_points = { 11068 40 }
+	}
+	provinces={
+		11068 11193
+	}
+	local_supplies=0.0
+}

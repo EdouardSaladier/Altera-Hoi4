@@ -1,0 +1,18 @@
+state={
+	id=1894
+	name="STATE_1894" # Urunan
+	manpower = 14180
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15916 20 }
+		victory_points = { 15958 5 }
+		victory_points = { 16067 5 }
+		victory_points = { 16137 1 }
+	}
+	provinces={
+		15916 15958 16067 16137 16191
+	}
+	local_supplies=0.0
+}

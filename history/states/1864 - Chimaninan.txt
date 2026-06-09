@@ -1,0 +1,20 @@
+state={
+	id=1864
+	name="STATE_1864" # Chimaninan
+	manpower = 13640
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15761 2 }
+		victory_points = { 15786 80 }
+		victory_points = { 15800 5 }
+		victory_points = { 15808 2 }
+		victory_points = { 15873 5 }
+		victory_points = { 15888 5 }
+	}
+	provinces={
+		15704 15725 15761 15786 15800 15808 15873 15888
+	}
+	local_supplies=0.0
+}

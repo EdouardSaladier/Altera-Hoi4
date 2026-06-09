@@ -1,0 +1,19 @@
+state={
+	id=2032
+	name="STATE_2032" # Curu
+	manpower = 58650
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17534 1 }
+		victory_points = { 17559 1 }
+		victory_points = { 17562 1 }
+		victory_points = { 17570 10 }
+		victory_points = { 17677 10 }
+	}
+	provinces={
+		17534 17552 17559 17562 17570 17605 17629 17677
+	}
+	local_supplies=0.0
+}

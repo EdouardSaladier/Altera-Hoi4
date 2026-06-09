@@ -1,0 +1,18 @@
+state={
+	id=169
+	name="STATE_169" # Kalmar
+	manpower = 510589
+	state_category = town
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = { 4639 5 }
+		victory_points = { 4741 10 }
+		victory_points = { 4833 2 }
+		victory_points = { 4997 5 }
+	}
+	provinces={
+		4639 4741 4833 4997
+	}
+	local_supplies=0.0
+}

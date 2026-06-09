@@ -1,0 +1,20 @@
+state={
+	id=476
+	name="STATE_476" # Wisconsin
+	manpower = 24200
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 7593 5 }
+		victory_points = { 7604 10 }
+		victory_points = { 7661 10 }
+		victory_points = { 7813 40 }
+		victory_points = { 7914 80 }
+		victory_points = { 7985 5 }
+	}
+	provinces={
+		7593 7604 7661 7813 7914 7985
+	}
+	local_supplies=0.0
+}

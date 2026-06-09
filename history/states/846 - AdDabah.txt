@@ -1,0 +1,14 @@
+state={
+	id=846
+	name="STATE_846" # Ad-Dab'ah
+	manpower = 2883221
+	state_category = large_town
+	history={
+		owner = EGY
+		add_core_of = EGY
+	}
+	provinces={
+		10172 10200 10304 10315 10368 10447 10464
+	}
+	local_supplies=0.0
+}

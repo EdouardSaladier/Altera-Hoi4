@@ -1,0 +1,16 @@
+state={
+	id=66
+	name="STATE_66" # Finnland
+	manpower = 170042
+	state_category = rural
+	history={
+		owner = FIN
+		add_core_of = FIN
+		victory_points = { 2720 5 }
+		victory_points = { 2728 2 }
+	}
+	provinces={
+		2720 2728 2814 2815
+	}
+	local_supplies=0.0
+}

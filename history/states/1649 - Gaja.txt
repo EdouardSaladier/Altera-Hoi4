@@ -1,0 +1,15 @@
+state={
+	id=1649
+	name="STATE_1649" # Gaja
+	manpower = 180
+	state_category = rural
+	history={
+		owner = SLB
+		add_core_of = SLB
+		add_core_of = GAJ
+	}
+	provinces={
+		14639 14668
+	}
+	local_supplies=0.0
+}

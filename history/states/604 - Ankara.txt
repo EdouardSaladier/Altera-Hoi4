@@ -1,0 +1,18 @@
+state={
+	id=604
+	name="STATE_604" # Ankara
+	manpower = 3977427
+	state_category = city
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = { 8538 20 }
+		victory_points = { 8705 20 }
+		victory_points = { 8786 20 }
+		victory_points = { 8817 1 }
+	}
+	provinces={
+		8538 8705 8786 8817
+	}
+	local_supplies=0.0
+}

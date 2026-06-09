@@ -1,0 +1,16 @@
+state={
+	id=61
+	name="STATE_61" # Vefsn
+	manpower = 256871
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 2696 5 }
+		victory_points = { 2891 5 }
+	}
+	provinces={
+		2696 2891
+	}
+	local_supplies=0.0
+}

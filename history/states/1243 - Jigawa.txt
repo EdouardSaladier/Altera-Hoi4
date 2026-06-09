@@ -1,0 +1,15 @@
+state={
+	id=1243
+	name="STATE_1243" # Jigawa
+	manpower = 5484727
+	state_category = large_city
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12580 40 }
+	}
+	provinces={
+		12580
+	}
+	local_supplies=0.0
+}

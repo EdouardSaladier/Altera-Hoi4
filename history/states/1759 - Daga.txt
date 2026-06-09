@@ -1,0 +1,15 @@
+state={
+	id=1759
+	name="STATE_1759" # Daga
+	manpower = 980
+	state_category = rural
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = DGA
+	}
+	provinces={
+		15093
+	}
+	local_supplies=0.0
+}

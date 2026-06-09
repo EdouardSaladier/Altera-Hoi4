@@ -1,0 +1,27 @@
+state={
+	id=293
+	name="STATE_293" # Voronezh
+	manpower = 3142488
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6055 80 }
+		victory_points = { 6095 5 }
+		victory_points = { 6096 5 }
+		victory_points = { 6107 10 }
+		victory_points = { 6131 5 }
+		victory_points = { 6198 5 }
+		victory_points = { 6228 10 }
+		victory_points = { 6241 5 }
+		victory_points = { 6242 2 }
+		victory_points = { 6330 10 }
+		victory_points = { 6396 5 }
+		victory_points = { 6480 5 }
+		victory_points = { 6491 5 }
+	}
+	provinces={
+		6055 6095 6096 6107 6131 6198 6228 6241 6242 6330 6396 6480 6491
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=1019
+	name="STATE_1019" # Phasania
+	manpower = 15610
+	state_category = pastoral
+	history={
+		owner = PHA
+		add_core_of = PHA
+	}
+	provinces={
+		11312 11370 11426 11443 11527
+	}
+	local_supplies=0.0
+}

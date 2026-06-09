@@ -1,0 +1,18 @@
+state={
+	id=363
+	name="STATE_363" # Kirovohrad
+	manpower = 1297174
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6684 20 }
+		victory_points = { 6716 5 }
+		victory_points = { 6772 5 }
+		victory_points = { 6847 5 }
+	}
+	provinces={
+		6684 6716 6772 6847
+	}
+	local_supplies=0.0
+}

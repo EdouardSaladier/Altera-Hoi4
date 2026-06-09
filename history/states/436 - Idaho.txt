@@ -1,0 +1,24 @@
+state={
+	id=436
+	name="STATE_436" # Idaho
+	manpower = 55820
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 7265 5 }
+		victory_points = { 7475 2 }
+		victory_points = { 7509 5 }
+		victory_points = { 7540 2 }
+		victory_points = { 7569 20 }
+		victory_points = { 7743 5 }
+		victory_points = { 7755 5 }
+		victory_points = { 7825 10 }
+		victory_points = { 7984 10 }
+		victory_points = { 8025 5 }
+	}
+	provinces={
+		7265 7475 7509 7540 7569 7743 7755 7825 7984 8025
+	}
+	local_supplies=0.0
+}

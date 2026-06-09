@@ -1,0 +1,22 @@
+state={
+	id=157
+	name="STATE_157" # Pskov
+	manpower = 2929623
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4490 2 }
+		victory_points = { 4553 5 }
+		victory_points = { 4628 5 }
+		victory_points = { 4662 40 }
+		victory_points = { 4811 2 }
+		victory_points = { 4834 5 }
+		victory_points = { 4924 5 }
+		victory_points = { 4961 20 }
+	}
+	provinces={
+		4448 4468 4490 4553 4574 4628 4662 4811 4822 4834 4924 4961
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=2048
+	name="STATE_2048" # Avalon
+	manpower = 51130
+	state_category = rural
+	history={
+		owner = AVA
+		add_core_of = AVA
+		victory_points = { 18303 2 }
+	}
+	provinces={
+		18177 18181 18183 18186 18187 18196 18198 18211 18240 18241 18246 18250 18275 18281 18282 18283 18284 18285 18288 18297 18303 18321 18335 18337 18351 18383 18390 18417 18418 18434
+	}
+	local_supplies=0.0
+}

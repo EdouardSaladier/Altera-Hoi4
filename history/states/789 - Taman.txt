@@ -1,0 +1,15 @@
+state={
+	id=789
+	name="STATE_789" # Taman
+	manpower = 1021376
+	state_category = large_town
+	history={
+		owner = TAM
+		add_core_of = TAM
+		victory_points = { 9761 20 }
+	}
+	provinces={
+		9761 9788
+	}
+	local_supplies=0.0
+}

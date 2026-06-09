@@ -1,0 +1,16 @@
+state={
+	id=1867
+	name="STATE_1867" # Aymaranan
+	manpower = 17360
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15735 80 }
+		victory_points = { 15896 1 }
+	}
+	provinces={
+		15735 15896 15946 16028
+	}
+	local_supplies=0.0
+}

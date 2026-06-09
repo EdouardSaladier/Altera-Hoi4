@@ -1,0 +1,18 @@
+state={
+	id=1347
+	name="STATE_1347" # Liberia
+	manpower = 4867227
+	state_category = city
+	history={
+		owner = LIB
+		add_core_of = LIB
+		victory_points = { 13213 2 }
+		victory_points = { 13219 5 }
+		victory_points = { 13275 10 }
+		victory_points = { 13323 5 }
+	}
+	provinces={
+		13107 13150 13213 13219 13275 13323 13328 13329
+	}
+	local_supplies=0.0
+}

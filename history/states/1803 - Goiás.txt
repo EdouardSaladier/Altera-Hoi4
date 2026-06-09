@@ -1,0 +1,30 @@
+state={
+	id=1803
+	name="STATE_1803" # Goiás
+	manpower = 60770
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15402 5 }
+		victory_points = { 15406 5 }
+		victory_points = { 15442 5 }
+		victory_points = { 15491 10 }
+		victory_points = { 15504 5 }
+		victory_points = { 15518 5 }
+		victory_points = { 15541 80 }
+		victory_points = { 15568 5 }
+		victory_points = { 15610 5 }
+		victory_points = { 15687 10 }
+		victory_points = { 15688 5 }
+		victory_points = { 15714 80 }
+		victory_points = { 15731 20 }
+		victory_points = { 15763 10 }
+		victory_points = { 15771 80 }
+		victory_points = { 15897 5 }
+	}
+	provinces={
+		15362 15402 15406 15412 15442 15491 15504 15518 15541 15568 15610 15687 15688 15714 15731 15763 15771 15897
+	}
+	local_supplies=0.0
+}

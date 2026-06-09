@@ -1,0 +1,31 @@
+state={
+	id=624
+	name="STATE_624" # Shaanxi
+	manpower = 61784373
+	state_category = large_city
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 9020 1 }
+		victory_points = { 9034 1 }
+		victory_points = { 9323 40 }
+		victory_points = { 9345 10 }
+		victory_points = { 9442 40 }
+		victory_points = { 9452 1 }
+		victory_points = { 9479 40 }
+		victory_points = { 9494 1 }
+		victory_points = { 9506 80 }
+		victory_points = { 9579 1 }
+		victory_points = { 9588 80 }
+		victory_points = { 9620 1 }
+		victory_points = { 9621 10 }
+		victory_points = { 9708 80 }
+		victory_points = { 9732 20 }
+		victory_points = { 9745 80 }
+		victory_points = { 9865 10 }
+	}
+	provinces={
+		8699 8778 8879 8937 9020 9034 9074 9205 9323 9345 9442 9452 9479 9494 9506 9579 9588 9620 9621 9644 9708 9732 9745 9865
+	}
+	local_supplies=0.0
+}

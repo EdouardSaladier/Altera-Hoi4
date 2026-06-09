@@ -1,0 +1,19 @@
+state={
+	id=438
+	name="STATE_438" # Harbin
+	manpower = 4506687
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 7298 10 }
+		victory_points = { 7325 80 }
+		victory_points = { 7364 10 }
+		victory_points = { 7417 20 }
+		victory_points = { 7507 20 }
+	}
+	provinces={
+		7276 7277 7285 7298 7325 7364 7417 7418 7464 7507 7618
+	}
+	local_supplies=0.0
+}

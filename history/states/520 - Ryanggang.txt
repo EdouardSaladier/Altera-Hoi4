@@ -1,0 +1,23 @@
+state={
+	id=520
+	name="STATE_520" # Ryanggang
+	manpower = 25628815
+	state_category = large_city
+	history={
+		owner = JOS
+		add_core_of = JOS
+		victory_points = { 7933 5 }
+		victory_points = { 8015 20 }
+		victory_points = { 8101 5 }
+		victory_points = { 8233 5 }
+		victory_points = { 8263 5 }
+		victory_points = { 8282 10 }
+		victory_points = { 8296 40 }
+		victory_points = { 8367 40 }
+		victory_points = { 8568 80 }
+	}
+	provinces={
+		7892 7933 8015 8101 8177 8233 8263 8282 8296 8367 8379 8408 8568
+	}
+	local_supplies=0.0
+}

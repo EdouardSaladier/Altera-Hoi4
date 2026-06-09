@@ -1,0 +1,15 @@
+state={
+	id=1119
+	name="STATE_1119" # Tchighozerine
+	manpower = 62680
+	state_category = rural
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 11923 20 }
+	}
+	provinces={
+		11897 11912 11923 11935 11981 12020 12118
+	}
+	local_supplies=0.0
+}

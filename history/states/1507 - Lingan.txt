@@ -1,0 +1,14 @@
+state={
+	id=1507
+	name="STATE_1507" # Lingan
+	manpower = 299012
+	state_category = city
+	history={
+		owner = LIA
+		add_core_of = LIA
+	}
+	provinces={
+		14049 14087
+	}
+	local_supplies=0.0
+}

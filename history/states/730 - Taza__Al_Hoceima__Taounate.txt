@@ -1,0 +1,18 @@
+state={
+	id=730
+	name="STATE_730" # Taza - Al Hoceima - Taounate
+	manpower = 4879049
+	state_category = city
+	history={
+		owner = MAU
+		add_core_of = MAU
+		victory_points = { 9384 20 }
+		victory_points = { 9460 40 }
+		victory_points = { 9546 1 }
+		victory_points = { 9635 80 }
+	}
+	provinces={
+		9384 9460 9546 9635
+	}
+	local_supplies=0.0
+}

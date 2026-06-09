@@ -1,0 +1,19 @@
+state={
+	id=576
+	name="STATE_576" # Basilicata
+	manpower = 7484011
+	state_category = city
+	history={
+		owner = ITL
+		add_core_of = ITL
+		victory_points = { 8300 20 }
+		victory_points = { 8386 10 }
+		victory_points = { 8401 10 }
+		victory_points = { 8536 20 }
+		victory_points = { 8590 10 }
+	}
+	provinces={
+		8300 8386 8401 8536 8590
+	}
+	local_supplies=0.0
+}

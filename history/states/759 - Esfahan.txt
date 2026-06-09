@@ -1,0 +1,24 @@
+state={
+	id=759
+	name="STATE_759" # Esfahan
+	manpower = 8465964
+	state_category = large_town
+	history={
+		owner = PES
+		add_core_of = PES
+		victory_points = { 9577 1 }
+		victory_points = { 9627 10 }
+		victory_points = { 9665 1 }
+		victory_points = { 9696 20 }
+		victory_points = { 9705 5 }
+		victory_points = { 9749 1 }
+		victory_points = { 9760 1 }
+		victory_points = { 9842 80 }
+		victory_points = { 9900 1 }
+		victory_points = { 9995 5 }
+	}
+	provinces={
+		9577 9587 9596 9627 9665 9696 9705 9749 9760 9842 9900 9995
+	}
+	local_supplies=0.0
+}

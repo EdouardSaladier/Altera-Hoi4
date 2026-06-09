@@ -1,0 +1,15 @@
+state={
+	id=1794
+	name="STATE_1794" # Benguela
+	manpower = 2132307
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15307 40 }
+	}
+	provinces={
+		15307 15386 15392
+	}
+	local_supplies=0.0
+}

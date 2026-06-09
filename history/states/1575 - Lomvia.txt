@@ -1,0 +1,16 @@
+state={
+	id=1575
+	name="STATE_1575" # Lomvia
+	manpower = 661787
+	state_category = large_town
+	history={
+		owner = LOV
+		add_core_of = LOV
+		victory_points = { 14337 5 }
+		victory_points = { 14350 20 }
+	}
+	provinces={
+		14337 14350 14379
+	}
+	local_supplies=0.0
+}

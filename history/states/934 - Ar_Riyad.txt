@@ -1,0 +1,22 @@
+state={
+	id=934
+	name="STATE_934" # Ar Riyad
+	manpower = 5390388
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10802 5 }
+		victory_points = { 10893 1 }
+		victory_points = { 11007 1 }
+		victory_points = { 11026 5 }
+		victory_points = { 11129 10 }
+		victory_points = { 11187 80 }
+		victory_points = { 11572 20 }
+		victory_points = { 11620 5 }
+	}
+	provinces={
+		10734 10802 10867 10893 10997 11007 11026 11062 11069 11129 11186 11187 11237 11247 11255 11269 11270 11314 11322 11330 11373 11429 11430 11445 11457 11462 11503 11529 11562 11572 11612 11620 11675 11696
+	}
+	local_supplies=0.0
+}

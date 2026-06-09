@@ -1,0 +1,19 @@
+state={
+	id=753
+	name="STATE_753" # Georgia
+	manpower = 24650
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9528 20 }
+		victory_points = { 9558 80 }
+		victory_points = { 9674 5 }
+		victory_points = { 9858 5 }
+		victory_points = { 9958 10 }
+	}
+	provinces={
+		9528 9558 9674 9858 9958
+	}
+	local_supplies=0.0
+}

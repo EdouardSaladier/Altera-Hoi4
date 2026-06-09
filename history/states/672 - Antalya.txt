@@ -1,0 +1,19 @@
+state={
+	id=672
+	name="STATE_672" # Antalya
+	manpower = 4646902
+	state_category = city
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = { 9047 20 }
+		victory_points = { 9083 80 }
+		victory_points = { 9092 20 }
+		victory_points = { 9110 20 }
+		victory_points = { 9159 5 }
+	}
+	provinces={
+		9047 9083 9092 9110 9159
+	}
+	local_supplies=0.0
+}

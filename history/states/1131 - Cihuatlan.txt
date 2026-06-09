@@ -1,0 +1,15 @@
+state={
+	id=1131
+	name="STATE_1131" # Cihuatlan
+	manpower = 2000
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11970 5 }
+	}
+	provinces={
+		11970
+	}
+	local_supplies=0.0
+}

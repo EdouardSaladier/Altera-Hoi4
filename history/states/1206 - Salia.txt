@@ -1,0 +1,21 @@
+state={
+	id=1206
+	name="STATE_1206" # Salia
+	manpower = 56640
+	state_category = pastoral
+	history={
+		owner = SAI
+		add_core_of = SAI
+		victory_points = { 12371 10 }
+		victory_points = { 12491 5 }
+		victory_points = { 12551 5 }
+		victory_points = { 12558 5 }
+		victory_points = { 12575 5 }
+		victory_points = { 12691 5 }
+		victory_points = { 12871 20 }
+	}
+	provinces={
+		12371 12462 12491 12551 12558 12575 12691 12725 12806 12846 12871
+	}
+	local_supplies=0.0
+}

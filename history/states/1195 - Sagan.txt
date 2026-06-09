@@ -1,0 +1,15 @@
+state={
+	id=1195
+	name="STATE_1195" # Sagan
+	manpower = 37695
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12305 1 }
+	}
+	provinces={
+		12305
+	}
+	local_supplies=0.0
+}

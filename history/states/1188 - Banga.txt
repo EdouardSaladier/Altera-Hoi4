@@ -1,0 +1,15 @@
+state={
+	id=1188
+	name="STATE_1188" # Banga
+	manpower = 64685
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12270 5 }
+	}
+	provinces={
+		12270
+	}
+	local_supplies=0.0
+}

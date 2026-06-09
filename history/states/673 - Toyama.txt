@@ -1,0 +1,17 @@
+state={
+	id=673
+	name="STATE_673" # Toyama
+	manpower = 8950320
+	state_category = metropolis
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9054 80 }
+		victory_points = { 9223 10 }
+		victory_points = { 9329 20 }
+	}
+	provinces={
+		9054 9223 9329
+	}
+	local_supplies=0.0
+}

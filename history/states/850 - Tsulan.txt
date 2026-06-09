@@ -1,0 +1,30 @@
+state={
+	id=850
+	name="STATE_850" # Tsulan
+	manpower = 35939372
+	state_category = large_city
+	history={
+		owner = TSU
+		add_core_of = TSU
+		victory_points = { 10213 1 }
+		victory_points = { 10284 80 }
+		victory_points = { 10382 80 }
+		victory_points = { 10403 1 }
+		victory_points = { 10404 80 }
+		victory_points = { 10426 10 }
+		victory_points = { 10523 1 }
+		victory_points = { 10555 2 }
+		victory_points = { 10597 80 }
+		victory_points = { 10666 20 }
+		victory_points = { 10667 80 }
+		victory_points = { 10674 80 }
+		victory_points = { 10713 20 }
+		victory_points = { 10786 80 }
+		victory_points = { 10798 20 }
+		victory_points = { 10799 1 }
+	}
+	provinces={
+		10213 10284 10382 10403 10404 10426 10523 10531 10555 10597 10609 10666 10667 10674 10713 10786 10798 10799
+	}
+	local_supplies=0.0
+}

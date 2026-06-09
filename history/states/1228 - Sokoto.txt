@@ -1,0 +1,19 @@
+state={
+	id=1228
+	name="STATE_1228" # Sokoto
+	manpower = 7726824
+	state_category = large_city
+	history={
+		owner = HAS
+		add_core_of = HAS
+		victory_points = { 12484 5 }
+		victory_points = { 12504 5 }
+		victory_points = { 12525 80 }
+		victory_points = { 12600 10 }
+		victory_points = { 12601 40 }
+	}
+	provinces={
+		12484 12504 12525 12600 12601
+	}
+	local_supplies=0.0
+}

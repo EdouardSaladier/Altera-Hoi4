@@ -1,0 +1,21 @@
+state={
+	id=1433
+	name="STATE_1433" # Parasia
+	manpower = 7105370
+	state_category = city
+	history={
+		owner = PAS
+		add_core_of = PAS
+		victory_points = { 13618 5 }
+		victory_points = { 13651 5 }
+		victory_points = { 13672 5 }
+		victory_points = { 13696 20 }
+		victory_points = { 13735 1 }
+		victory_points = { 13759 20 }
+		victory_points = { 13863 5 }
+	}
+	provinces={
+		13618 13634 13651 13672 13696 13735 13759 13848 13862 13863
+	}
+	local_supplies=0.0
+}

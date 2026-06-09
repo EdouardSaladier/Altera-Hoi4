@@ -1,0 +1,16 @@
+state={
+	id=319
+	name="STATE_319" # Ústecký
+	manpower = 2333201
+	state_category = city
+	history={
+		owner = BOH
+		add_core_of = BOH
+		victory_points = { 6319 20 }
+		victory_points = { 6440 20 }
+	}
+	provinces={
+		6319 6440
+	}
+	local_supplies=0.0
+}

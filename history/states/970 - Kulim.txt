@@ -1,0 +1,15 @@
+state={
+	id=970
+	name="STATE_970" # Kulim
+	manpower = 1460
+	state_category = pastoral
+	history={
+		owner = KUL
+		add_core_of = KUL
+		victory_points = { 10946 20 }
+	}
+	provinces={
+		10946
+	}
+	local_supplies=0.0
+}

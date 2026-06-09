@@ -1,0 +1,14 @@
+state={
+	id=89
+	name="STATE_89" # Krasnoyarsk
+	manpower = 48990
+	state_category = pastoral
+	history={
+		owner = CHE
+		add_core_of = CHE
+	}
+	provinces={
+		3240 3278 3284 3293 3334 3335 3390 3391 3431 3432 3568
+	}
+	local_supplies=0.0
+}

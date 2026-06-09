@@ -1,0 +1,20 @@
+state={
+	id=1189
+	name="STATE_1189" # Fula
+	manpower = 1208367
+	state_category = town
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12274 5 }
+		victory_points = { 12282 2 }
+		victory_points = { 12443 10 }
+		victory_points = { 12444 10 }
+		victory_points = { 12451 10 }
+		victory_points = { 12503 10 }
+	}
+	provinces={
+		12274 12282 12443 12444 12451 12503
+	}
+	local_supplies=0.0
+}

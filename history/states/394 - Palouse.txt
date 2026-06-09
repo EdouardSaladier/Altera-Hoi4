@@ -1,0 +1,24 @@
+state={
+	id=394
+	name="STATE_394" # Palouse
+	manpower = 37990
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 6912 1 }
+		victory_points = { 6957 5 }
+		victory_points = { 6995 5 }
+		victory_points = { 6996 10 }
+		victory_points = { 7007 40 }
+		victory_points = { 7069 20 }
+		victory_points = { 7101 20 }
+		victory_points = { 7102 10 }
+		victory_points = { 7128 5 }
+		victory_points = { 7215 2 }
+	}
+	provinces={
+		6912 6957 6995 6996 7007 7069 7101 7102 7128 7215 7366
+	}
+	local_supplies=0.0
+}

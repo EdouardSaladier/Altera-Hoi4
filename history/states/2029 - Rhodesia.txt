@@ -1,0 +1,14 @@
+state={
+	id=2029
+	name="STATE_2029" # Rhodesia
+	manpower = 9360
+	state_category = rural
+	history={
+		owner = RHO
+		add_core_of = RHO
+	}
+	provinces={
+		17416 17420 17424 17440 17443 17462
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=400
+	name="STATE_400" # Fejér
+	manpower = 1951896
+	state_category = large_town
+	history={
+		owner = HUN
+		add_core_of = HUN
+		victory_points = { 6933 20 }
+		victory_points = { 6986 5 }
+		victory_points = { 6999 20 }
+		victory_points = { 7167 5 }
+	}
+	provinces={
+		6933 6986 6999 7167
+	}
+	local_supplies=0.0
+}

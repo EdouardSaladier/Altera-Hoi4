@@ -1,0 +1,15 @@
+state={
+	id=1637
+	name="STATE_1637" # Zaire
+	manpower = 1732958
+	state_category = large_town
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 14709 5 }
+	}
+	provinces={
+		14599 14692 14708 14709 14783
+	}
+	local_supplies=0.0
+}

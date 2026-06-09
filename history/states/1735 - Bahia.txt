@@ -1,0 +1,39 @@
+state={
+	id=1735
+	name="STATE_1735" # Bahia
+	manpower = 99640
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 14982 5 }
+		victory_points = { 14991 40 }
+		victory_points = { 15011 5 }
+		victory_points = { 15065 5 }
+		victory_points = { 15073 2 }
+		victory_points = { 15124 10 }
+		victory_points = { 15125 5 }
+		victory_points = { 15149 5 }
+		victory_points = { 15156 5 }
+		victory_points = { 15186 10 }
+		victory_points = { 15208 5 }
+		victory_points = { 15240 5 }
+		victory_points = { 15241 80 }
+		victory_points = { 15251 20 }
+		victory_points = { 15284 20 }
+		victory_points = { 15320 5 }
+		victory_points = { 15339 10 }
+		victory_points = { 15385 20 }
+		victory_points = { 15403 10 }
+		victory_points = { 15425 5 }
+		victory_points = { 15468 10 }
+		victory_points = { 15510 10 }
+		victory_points = { 15600 5 }
+		victory_points = { 15655 20 }
+		victory_points = { 15794 5 }
+	}
+	provinces={
+		14982 14991 15011 15048 15065 15073 15124 15125 15149 15156 15186 15208 15240 15241 15251 15284 15311 15320 15339 15385 15403 15425 15468 15510 15600 15655 15794
+	}
+	local_supplies=0.0
+}

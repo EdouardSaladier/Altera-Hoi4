@@ -1,0 +1,16 @@
+state={
+	id=585
+	name="STATE_585" # Çorum
+	manpower = 1937577
+	state_category = large_town
+	history={
+		owner = TUR
+		add_core_of = TUR
+		add_core_of = GAL
+		victory_points = { 8358 20 }
+	}
+	provinces={
+		8358
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=343
+	name="STATE_343" # Normandie
+	manpower = 4602579
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 6473 10 }
+		victory_points = { 6537 10 }
+		victory_points = { 6561 5 }
+		victory_points = { 6591 5 }
+		victory_points = { 6613 5 }
+		victory_points = { 6725 5 }
+	}
+	provinces={
+		6473 6537 6561 6591 6613 6725
+	}
+	local_supplies=0.0
+}

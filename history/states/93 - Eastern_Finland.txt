@@ -1,0 +1,28 @@
+state={
+	id=93
+	name="STATE_93" # Eastern Finland
+	manpower = 1257195
+	state_category = town
+	history={
+		owner = FIN
+		add_core_of = FIN
+		victory_points = { 3344 2 }
+		victory_points = { 3361 5 }
+		victory_points = { 3379 5 }
+		victory_points = { 3479 2 }
+		victory_points = { 3499 5 }
+		victory_points = { 3512 2 }
+		victory_points = { 3531 5 }
+		victory_points = { 3541 10 }
+		victory_points = { 3603 2 }
+		victory_points = { 3614 10 }
+		victory_points = { 3668 1 }
+		victory_points = { 3794 5 }
+		victory_points = { 3873 2 }
+		victory_points = { 3930 5 }
+	}
+	provinces={
+		3344 3361 3379 3400 3414 3479 3499 3512 3531 3541 3603 3614 3668 3794 3816 3873 3913 3930 3957
+	}
+	local_supplies=0.0
+}

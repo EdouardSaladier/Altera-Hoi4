@@ -1,0 +1,15 @@
+state={
+	id=832
+	name="STATE_832" # Al-Muthannia
+	manpower = 955765
+	state_category = town
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10323 80 }
+	}
+	provinces={
+		10075 10089 10253 10307 10323
+	}
+	local_supplies=0.0
+}

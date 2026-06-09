@@ -1,0 +1,17 @@
+state={
+	id=492
+	name="STATE_492" # Vermont
+	manpower = 8840
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 7701 5 }
+		victory_points = { 7757 5 }
+		victory_points = { 7895 5 }
+	}
+	provinces={
+		7701 7757 7895
+	}
+	local_supplies=0.0
+}

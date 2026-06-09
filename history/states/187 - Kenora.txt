@@ -1,0 +1,19 @@
+state={
+	id=187
+	name="STATE_187" # Kenora
+	manpower = 510047
+	state_category = rural
+	history={
+		owner = MAI
+		add_core_of = MAI
+		victory_points = { 6155 5 }
+		victory_points = { 6273 2 }
+		victory_points = { 6450 5 }
+		victory_points = { 6497 1 }
+		victory_points = { 6622 5 }
+	}
+	provinces={
+		4877 4948 5098 5150 5168 5210 5301 5328 5339 5384 5385 5411 5436 5454 5489 5508 5553 5636 5652 5653 5654 5665 5712 5727 5751 5780 5794 5795 5807 5808 5833 5937 5961 5962 6048 6062 6126 6127 6143 6155 6221 6273 6283 6355 6356 6389 6406 6450 6458 6469 6497 6507 6519 6520 6521 6622
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,21 @@
+state={
+	id=171
+	name="STATE_171" # Lethland
+	manpower = 1228160
+	state_category = town
+	history={
+		owner = LET
+		add_core_of = LET
+		victory_points = { 4669 5 }
+		victory_points = { 4694 5 }
+		victory_points = { 4758 5 }
+		victory_points = { 4821 10 }
+		victory_points = { 4898 5 }
+		victory_points = { 4911 10 }
+		victory_points = { 4974 20 }
+	}
+	provinces={
+		4669 4694 4758 4821 4898 4911 4974
+	}
+	local_supplies=0.0
+}

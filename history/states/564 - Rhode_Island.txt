@@ -1,0 +1,15 @@
+state={
+	id=564
+	name="STATE_564" # Rhode Island
+	manpower = 1070
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8187 40 }
+	}
+	provinces={
+		8187
+	}
+	local_supplies=0.0
+}

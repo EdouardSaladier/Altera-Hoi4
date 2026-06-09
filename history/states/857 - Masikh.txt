@@ -1,0 +1,15 @@
+state={
+	id=857
+	name="STATE_857" # Masikh
+	manpower = 2690
+	state_category = pastoral
+	history={
+		owner = MSI
+		add_core_of = MSI
+		victory_points = { 10261 10 }
+	}
+	provinces={
+		10261
+	}
+	local_supplies=0.0
+}

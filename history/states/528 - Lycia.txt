@@ -1,0 +1,16 @@
+state={
+	id=528
+	name="STATE_528" # Lycia
+	manpower = 123350
+	state_category = town
+	history={
+		owner = CAC
+		add_core_of = CAC
+		add_core_of = LYC
+		victory_points = { 7957 20 }
+	}
+	provinces={
+		7957
+	}
+	local_supplies=0.0
+}

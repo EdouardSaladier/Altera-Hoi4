@@ -1,0 +1,16 @@
+state={
+	id=1270
+	name="STATE_1270" # Tairona
+	manpower = 1352030
+	state_category = large_town
+	history={
+		owner = TAO
+		add_core_of = TAO
+		victory_points = { 12785 10 }
+		victory_points = { 12852 40 }
+	}
+	provinces={
+		12748 12785 12852
+	}
+	local_supplies=0.0
+}

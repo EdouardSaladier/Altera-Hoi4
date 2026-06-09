@@ -1,0 +1,16 @@
+state={
+	id=2043
+	name="STATE_2043" # Humbria
+	manpower = 962206
+	state_category = town
+	history={
+		owner = HUM
+		add_core_of = HUM
+		victory_points = { 17880 2 }
+		victory_points = { 17974 5 }
+	}
+	provinces={
+		17874 17880 17935 17974 17979 18017 18038 18045 18190 18238 18259 18386
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=1937
+	name="STATE_1937" # Achikamanan
+	manpower = 20640
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16218 1 }
+		victory_points = { 16281 2 }
+		victory_points = { 16292 1 }
+		victory_points = { 16391 2 }
+	}
+	provinces={
+		16218 16281 16282 16292 16331 16391 16528 16534 16563
+	}
+	local_supplies=0.0
+}

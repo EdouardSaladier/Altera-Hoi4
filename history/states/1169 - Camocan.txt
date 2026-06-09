@@ -1,0 +1,15 @@
+state={
+	id=1169
+	name="STATE_1169" # Camocan
+	manpower = 1400
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12171 5 }
+	}
+	provinces={
+		12171
+	}
+	local_supplies=0.0
+}

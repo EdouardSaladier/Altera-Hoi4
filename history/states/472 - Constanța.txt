@@ -1,0 +1,18 @@
+state={
+	id=472
+	name="STATE_472" # Constanța
+	manpower = 1695905
+	state_category = large_town
+	history={
+		owner = DAC
+		add_core_of = DAC
+		victory_points = { 7530 20 }
+		victory_points = { 7609 2 }
+		victory_points = { 7703 10 }
+		victory_points = { 7704 40 }
+	}
+	provinces={
+		7530 7609 7703 7704
+	}
+	local_supplies=0.0
+}

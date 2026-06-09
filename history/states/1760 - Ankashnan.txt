@@ -1,0 +1,17 @@
+state={
+	id=1760
+	name="STATE_1760" # Ankashnan
+	manpower = 10520
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15095 20 }
+		victory_points = { 15198 10 }
+		victory_points = { 15214 10 }
+	}
+	provinces={
+		15095 15198 15214
+	}
+	local_supplies=0.0
+}

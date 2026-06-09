@@ -1,0 +1,23 @@
+state={
+	id=687
+	name="STATE_687" # Gyeongsangnam-do
+	manpower = 16047186
+	state_category = large_city
+	history={
+		owner = JOS
+		add_core_of = JOS
+		victory_points = { 9155 40 }
+		victory_points = { 9163 10 }
+		victory_points = { 9301 80 }
+		victory_points = { 9310 80 }
+		victory_points = { 9327 80 }
+		victory_points = { 9368 20 }
+		victory_points = { 9369 20 }
+		victory_points = { 9454 40 }
+		victory_points = { 9468 80 }
+	}
+	provinces={
+		9155 9163 9301 9310 9327 9368 9369 9454 9468 9604
+	}
+	local_supplies=0.0
+}

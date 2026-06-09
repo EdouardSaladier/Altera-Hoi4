@@ -1,0 +1,19 @@
+state={
+	id=1742
+	name="STATE_1742" # Alagoas
+	manpower = 9720
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15012 5 }
+		victory_points = { 15013 80 }
+		victory_points = { 15055 20 }
+		victory_points = { 15081 5 }
+		victory_points = { 15167 10 }
+	}
+	provinces={
+		15012 15013 15055 15081 15167
+	}
+	local_supplies=0.0
+}

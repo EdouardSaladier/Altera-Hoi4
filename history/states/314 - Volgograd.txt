@@ -1,0 +1,32 @@
+state={
+	id=314
+	name="STATE_314" # Volgograd
+	manpower = 4849759
+	state_category = town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6265 5 }
+		victory_points = { 6266 5 }
+		victory_points = { 6276 5 }
+		victory_points = { 6277 5 }
+		victory_points = { 6305 5 }
+		victory_points = { 6373 5 }
+		victory_points = { 6422 5 }
+		victory_points = { 6444 10 }
+		victory_points = { 6451 20 }
+		victory_points = { 6452 2 }
+		victory_points = { 6493 2 }
+		victory_points = { 6624 2 }
+		victory_points = { 6643 80 }
+		victory_points = { 6659 2 }
+		victory_points = { 6672 5 }
+		victory_points = { 6685 40 }
+		victory_points = { 6686 5 }
+		victory_points = { 6801 2 }
+	}
+	provinces={
+		6265 6266 6276 6277 6305 6373 6422 6444 6451 6452 6460 6493 6544 6624 6643 6659 6672 6685 6686 6801 6919 7041 7149
+	}
+	local_supplies=0.0
+}

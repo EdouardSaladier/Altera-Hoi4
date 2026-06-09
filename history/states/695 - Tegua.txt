@@ -1,0 +1,15 @@
+state={
+	id=695
+	name="STATE_695" # Tegua
+	manpower = 730
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9207 5 }
+	}
+	provinces={
+		9207
+	}
+	local_supplies=0.0
+}

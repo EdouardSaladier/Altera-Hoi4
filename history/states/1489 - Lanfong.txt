@@ -1,0 +1,15 @@
+state={
+	id=1489
+	name="STATE_1489" # Lanfong
+	manpower = 658995
+	state_category = city
+	history={
+		owner = LAF
+		add_core_of = LAF
+		victory_points = { 13943 1 }
+	}
+	provinces={
+		13943
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,14 @@
+state={
+	id=5
+	name="STATE_5" # Svalbard
+	manpower = 81430
+	state_category = pastoral
+	history={
+		owner = SVA
+		add_core_of = SVA
+	}
+	provinces={
+		140 151 153 194 201 213 235 243 277 306 331 342 348 379 396 440 460 475 476 482 529 542 646
+	}
+	local_supplies=0.0
+}

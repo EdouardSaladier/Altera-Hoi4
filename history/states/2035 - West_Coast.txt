@@ -1,0 +1,16 @@
+state={
+	id=2035
+	name="STATE_2035" # West Coast
+	manpower = 1049149
+	state_category = town
+	history={
+		owner = HUM
+		add_core_of = HUM
+		victory_points = { 17737 5 }
+		victory_points = { 17797 2 }
+	}
+	provinces={
+		17682 17705 17737 17748 17797 17831
+	}
+	local_supplies=0.0
+}

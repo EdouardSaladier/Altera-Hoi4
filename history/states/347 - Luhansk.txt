@@ -1,0 +1,18 @@
+state={
+	id=347
+	name="STATE_347" # Luhans'k
+	manpower = 1626618
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6511 20 }
+		victory_points = { 6543 5 }
+		victory_points = { 6658 80 }
+		victory_points = { 6717 20 }
+	}
+	provinces={
+		6511 6543 6658 6717
+	}
+	local_supplies=0.0
+}

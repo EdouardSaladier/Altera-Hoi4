@@ -1,0 +1,25 @@
+state={
+	id=1318
+	name="STATE_1318" # Antioquia
+	manpower = 7320018
+	state_category = city
+	history={
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 12960 10 }
+		victory_points = { 12987 2 }
+		victory_points = { 12998 40 }
+		victory_points = { 13040 5 }
+		victory_points = { 13133 10 }
+		victory_points = { 13143 10 }
+		victory_points = { 13236 5 }
+		victory_points = { 13253 5 }
+		victory_points = { 13265 10 }
+		victory_points = { 13283 80 }
+		victory_points = { 13320 10 }
+	}
+	provinces={
+		12960 12987 12998 13040 13133 13143 13236 13253 13265 13283 13320
+	}
+	local_supplies=0.0
+}

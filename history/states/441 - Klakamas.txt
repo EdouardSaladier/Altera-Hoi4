@@ -1,0 +1,19 @@
+state={
+	id=441
+	name="STATE_441" # Klakamas
+	manpower = 35260
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 7301 80 }
+		victory_points = { 7326 5 }
+		victory_points = { 7448 5 }
+		victory_points = { 7603 20 }
+		victory_points = { 7650 1 }
+	}
+	provinces={
+		7301 7326 7448 7603 7650
+	}
+	local_supplies=0.0
+}

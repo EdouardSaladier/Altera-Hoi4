@@ -1,0 +1,15 @@
+state={
+	id=1146
+	name="STATE_1146" # Mixtlan
+	manpower = 1880
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12042 40 }
+	}
+	provinces={
+		12042
+	}
+	local_supplies=0.0
+}

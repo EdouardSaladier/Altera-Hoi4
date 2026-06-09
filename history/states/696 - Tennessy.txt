@@ -1,0 +1,19 @@
+state={
+	id=696
+	name="STATE_696" # Tennessy
+	manpower = 26620
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9208 80 }
+		victory_points = { 9209 20 }
+		victory_points = { 9225 10 }
+		victory_points = { 9226 20 }
+		victory_points = { 9267 5 }
+	}
+	provinces={
+		9208 9209 9225 9226 9267
+	}
+	local_supplies=0.0
+}

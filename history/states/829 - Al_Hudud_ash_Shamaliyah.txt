@@ -1,0 +1,15 @@
+state={
+	id=829
+	name="STATE_829" # Al Hudud ash Shamaliyah
+	manpower = 89822
+	state_category = rural
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = { 10066 20 }
+	}
+	provinces={
+		10066 10295 10477
+	}
+	local_supplies=0.0
+}

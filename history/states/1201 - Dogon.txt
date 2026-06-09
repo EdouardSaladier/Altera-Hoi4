@@ -1,0 +1,15 @@
+state={
+	id=1201
+	name="STATE_1201" # Dogon
+	manpower = 59542
+	state_category = rural
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12335 20 }
+	}
+	provinces={
+		12334 12335
+	}
+	local_supplies=0.0
+}

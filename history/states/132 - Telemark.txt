@@ -1,0 +1,17 @@
+state={
+	id=132
+	name="STATE_132" # Telemark
+	manpower = 547094
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 4178 10 }
+		victory_points = { 4242 5 }
+		victory_points = { 4361 20 }
+	}
+	provinces={
+		4178 4242 4361
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,20 @@
+state={
+	id=601
+	name="STATE_601" # Ginsan
+	manpower = 24460
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 8499 5 }
+		victory_points = { 8533 5 }
+		victory_points = { 8609 5 }
+		victory_points = { 8730 40 }
+		victory_points = { 8791 10 }
+		victory_points = { 9264 10 }
+	}
+	provinces={
+		8499 8533 8609 8730 8791 9264
+	}
+	local_supplies=0.0
+}

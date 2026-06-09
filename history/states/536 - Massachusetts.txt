@@ -1,0 +1,16 @@
+state={
+	id=536
+	name="STATE_536" # Massachusetts
+	manpower = 5740
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8017 20 }
+		victory_points = { 8065 80 }
+	}
+	provinces={
+		8017 8065 8316
+	}
+	local_supplies=0.0
+}

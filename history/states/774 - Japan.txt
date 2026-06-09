@@ -1,0 +1,16 @@
+state={
+	id=774
+	name="STATE_774" # Japan
+	manpower = 7385891
+	state_category = large_city
+	history={
+		owner = JAA
+		add_core_of = JAA
+		victory_points = { 9671 80 }
+		victory_points = { 9778 80 }
+	}
+	provinces={
+		9671 9778 9847 10060
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,18 @@
+state={
+	id=1687
+	name="STATE_1687" # Acre
+	manpower = 394947
+	state_category = rural
+	history={
+		owner = XIN
+		add_core_of = XIN
+		victory_points = { 14830 20 }
+		victory_points = { 14899 5 }
+		victory_points = { 14962 5 }
+		victory_points = { 15100 40 }
+	}
+	provinces={
+		14830 14899 14962 15039 15100 15131
+	}
+	local_supplies=0.0
+}

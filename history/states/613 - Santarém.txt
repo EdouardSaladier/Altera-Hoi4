@@ -1,0 +1,15 @@
+state={
+	id=613
+	name="STATE_613" # Santarém
+	manpower = 1765956
+	state_category = city
+	history={
+		owner = POR
+		add_core_of = POR
+		victory_points = { 8587 20 }
+	}
+	provinces={
+		8587
+	}
+	local_supplies=0.0
+}

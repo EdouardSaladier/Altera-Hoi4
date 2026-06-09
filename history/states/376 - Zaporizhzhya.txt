@@ -1,0 +1,19 @@
+state={
+	id=376
+	name="STATE_376" # Zaporizhzhya
+	manpower = 1776190
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 6774 5 }
+		victory_points = { 6848 5 }
+		victory_points = { 7014 20 }
+		victory_points = { 7039 10 }
+		victory_points = { 7135 20 }
+	}
+	provinces={
+		6774 6848 7014 7039 7135
+	}
+	local_supplies=0.0
+}

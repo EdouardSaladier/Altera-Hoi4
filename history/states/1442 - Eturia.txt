@@ -1,0 +1,17 @@
+state={
+	id=1442
+	name="STATE_1442" # Eturia
+	manpower = 797634
+	state_category = large_town
+	history={
+		owner = ETR
+		add_core_of = ETR
+		victory_points = { 13684 5 }
+		victory_points = { 13734 5 }
+		victory_points = { 13818 20 }
+	}
+	provinces={
+		13684 13734 13813 13818
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=841
+	name="STATE_841" # Zahedan
+	manpower = 730547
+	state_category = town
+	history={
+		owner = TAY
+		add_core_of = TAY
+		add_core_of = CAA
+		victory_points = { 10270 80 }
+	}
+	provinces={
+		10151 10210 10270
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=1049
+	name="STATE_1049" # Guanajuato
+	manpower = 2559462
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 11522 80 }
+		victory_points = { 11545 5 }
+		victory_points = { 11559 5 }
+		victory_points = { 11641 80 }
+		victory_points = { 11690 10 }
+	}
+	provinces={
+		11522 11545 11559 11641 11690
+	}
+	local_supplies=0.0
+}

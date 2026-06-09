@@ -1,0 +1,16 @@
+state={
+	id=164
+	name="STATE_164" # Kalarskiy rayon
+	manpower = 85760
+	state_category = rural
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 4813 5 }
+		victory_points = { 5349 5 }
+	}
+	provinces={
+		4579 4601 4755 4813 4957 5006 5068 5145 5175 5194 5221 5349 5393 5431 5564
+	}
+	local_supplies=0.0
+}

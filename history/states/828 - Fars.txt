@@ -1,0 +1,22 @@
+state={
+	id=828
+	name="STATE_828" # Fars
+	manpower = 8757441
+	state_category = city
+	history={
+		owner = PES
+		add_core_of = PES
+		victory_points = { 10053 10 }
+		victory_points = { 10077 1 }
+		victory_points = { 10224 20 }
+		victory_points = { 10296 10 }
+		victory_points = { 10324 20 }
+		victory_points = { 10332 80 }
+		victory_points = { 10407 10 }
+		victory_points = { 10499 1 }
+	}
+	provinces={
+		10053 10077 10223 10224 10255 10296 10324 10332 10407 10434 10499
+	}
+	local_supplies=0.0
+}

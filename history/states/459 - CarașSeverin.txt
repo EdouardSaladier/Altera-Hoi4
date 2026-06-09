@@ -1,0 +1,16 @@
+state={
+	id=459
+	name="STATE_459" # Caraș-Severin
+	manpower = 1283950
+	state_category = large_town
+	history={
+		owner = SEI
+		add_core_of = SEI
+		victory_points = { 7470 20 }
+		victory_points = { 7685 10 }
+	}
+	provinces={
+		7470 7685
+	}
+	local_supplies=0.0
+}

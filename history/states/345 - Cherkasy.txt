@@ -1,0 +1,15 @@
+state={
+	id=345
+	name="STATE_345" # Cherkasy
+	manpower = 1393268
+	state_category = large_town
+	history={
+		owner = RUT
+		add_core_of = RUT
+		victory_points = { 6478 40 }
+	}
+	provinces={
+		6478
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,19 @@
+state={
+	id=636
+	name="STATE_636" # Virginia
+	manpower = 17110
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8765 40 }
+		victory_points = { 8862 2 }
+		victory_points = { 8883 5 }
+		victory_points = { 9010 10 }
+		victory_points = { 9056 10 }
+	}
+	provinces={
+		8765 8862 8883 9010 9056
+	}
+	local_supplies=0.0
+}

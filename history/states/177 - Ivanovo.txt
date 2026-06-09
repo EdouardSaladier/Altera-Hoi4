@@ -1,0 +1,17 @@
+state={
+	id=177
+	name="STATE_177" # Ivanovo
+	manpower = 1654023
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4735 20 }
+		victory_points = { 4768 10 }
+		victory_points = { 4805 80 }
+	}
+	provinces={
+		4735 4768 4805
+	}
+	local_supplies=0.0
+}

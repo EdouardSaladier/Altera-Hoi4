@@ -1,0 +1,14 @@
+state={
+	id=1044
+	name="STATE_1044" # Magania
+	manpower = 375918
+	state_category = town
+	history={
+		owner = MAG
+		add_core_of = MAG
+	}
+	provinces={
+		11481 11604
+	}
+	local_supplies=0.0
+}

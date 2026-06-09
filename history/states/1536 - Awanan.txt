@@ -1,0 +1,16 @@
+state={
+	id=1536
+	name="STATE_1536" # Awanan
+	manpower = 10450
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14172 20 }
+		victory_points = { 14219 40 }
+	}
+	provinces={
+		14172 14219
+	}
+	local_supplies=0.0
+}

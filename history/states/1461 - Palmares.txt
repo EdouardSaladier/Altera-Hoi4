@@ -1,0 +1,19 @@
+state={
+	id=1461
+	name="STATE_1461" # Palmares
+	manpower = 1352119
+	state_category = town
+	history={
+		owner = PAL
+		add_core_of = PAL
+		victory_points = { 14066 5 }
+		victory_points = { 14099 10 }
+		victory_points = { 14156 5 }
+		victory_points = { 14204 5 }
+		victory_points = { 14249 80 }
+	}
+	provinces={
+		13769 13799 13835 13844 13893 13902 13929 13982 13990 13997 14004 14066 14099 14137 14156 14188 14204 14249
+	}
+	local_supplies=0.0
+}

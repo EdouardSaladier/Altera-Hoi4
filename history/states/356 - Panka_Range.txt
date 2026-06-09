@@ -1,0 +1,16 @@
+state={
+	id=356
+	name="STATE_356" # Panka Range
+	manpower = 13870
+	state_category = pastoral
+	history={
+		owner = OCA
+		add_core_of = OCA
+		victory_points = { 6596 10 }
+		victory_points = { 6611 5 }
+	}
+	provinces={
+		6596 6611
+	}
+	local_supplies=0.0
+}

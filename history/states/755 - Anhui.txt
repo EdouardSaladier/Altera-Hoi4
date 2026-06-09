@@ -1,0 +1,32 @@
+state={
+	id=755
+	name="STATE_755" # Anhui
+	manpower = 39845205
+	state_category = metropolis
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 9554 80 }
+		victory_points = { 9656 1 }
+		victory_points = { 9670 80 }
+		victory_points = { 9709 1 }
+		victory_points = { 9722 80 }
+		victory_points = { 9777 80 }
+		victory_points = { 9802 80 }
+		victory_points = { 9844 20 }
+		victory_points = { 9845 1 }
+		victory_points = { 9846 80 }
+		victory_points = { 9866 80 }
+		victory_points = { 9986 1 }
+		victory_points = { 9987 80 }
+		victory_points = { 10028 80 }
+		victory_points = { 10035 80 }
+		victory_points = { 10125 1 }
+		victory_points = { 10141 1 }
+		victory_points = { 10178 1 }
+	}
+	provinces={
+		9554 9656 9670 9709 9722 9777 9802 9844 9845 9846 9866 9876 9986 9987 10028 10035 10125 10141 10178
+	}
+	local_supplies=0.0
+}

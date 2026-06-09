@@ -1,0 +1,14 @@
+state={
+	id=1537
+	name="STATE_1537" # Tikunanan
+	manpower = 9770
+	state_category = pastoral
+	history={
+		owner = PER
+		add_core_of = PER
+	}
+	provinces={
+		14180 14227
+	}
+	local_supplies=0.0
+}

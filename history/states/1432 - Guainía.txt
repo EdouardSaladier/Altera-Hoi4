@@ -1,0 +1,14 @@
+state={
+	id=1432
+	name="STATE_1432" # Guainía
+	manpower = 14649
+	state_category = rural
+	history={
+		owner = BOL
+		add_core_of = BOL
+	}
+	provinces={
+		13610 13628 13679 13709
+	}
+	local_supplies=0.0
+}

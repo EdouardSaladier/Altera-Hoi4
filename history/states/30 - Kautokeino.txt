@@ -1,0 +1,16 @@
+state={
+	id=30
+	name="STATE_30" # Kautokeino
+	manpower = 16480
+	state_category = pastoral
+	history={
+		owner = SWE
+		add_core_of = SWE
+		add_core_of = LAP
+		victory_points = { 1916 1 }
+	}
+	provinces={
+		1916
+	}
+	local_supplies=0.0
+}

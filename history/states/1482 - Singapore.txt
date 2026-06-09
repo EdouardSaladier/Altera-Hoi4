@@ -1,0 +1,15 @@
+state={
+	id=1482
+	name="STATE_1482" # Singapore
+	manpower = 5637180
+	state_category = megalopolis
+	history={
+		owner = SIO
+		add_core_of = SIO
+		victory_points = { 13896 1 }
+	}
+	provinces={
+		13896
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=1790
+	name="STATE_1790" # Huambo
+	manpower = 2266891
+	state_category = city
+	history={
+		owner = ANG
+		add_core_of = ANG
+		victory_points = { 15277 5 }
+		victory_points = { 15381 5 }
+	}
+	provinces={
+		15277 15286 15381
+	}
+	local_supplies=0.0
+}

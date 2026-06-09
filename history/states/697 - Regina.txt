@@ -1,0 +1,22 @@
+state={
+	id=697
+	name="STATE_697" # Regina
+	manpower = 27240
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 9210 40 }
+		victory_points = { 9211 5 }
+		victory_points = { 9227 80 }
+		victory_points = { 9228 1 }
+		victory_points = { 9275 2 }
+		victory_points = { 9314 10 }
+		victory_points = { 9331 20 }
+		victory_points = { 9409 40 }
+	}
+	provinces={
+		9210 9211 9227 9228 9275 9314 9331 9409
+	}
+	local_supplies=0.0
+}

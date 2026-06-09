@@ -1,0 +1,15 @@
+state={
+	id=1100
+	name="STATE_1100" # Ayahualco
+	manpower = 620
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 11871 20 }
+	}
+	provinces={
+		11827 11871
+	}
+	local_supplies=0.0
+}

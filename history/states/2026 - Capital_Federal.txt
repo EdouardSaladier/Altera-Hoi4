@@ -1,0 +1,15 @@
+state={
+	id=2026
+	name="STATE_2026" # Capital Federal
+	manpower = 660
+	state_category = rural
+	history={
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 17376 40 }
+	}
+	provinces={
+		17376
+	}
+	local_supplies=0.0
+}

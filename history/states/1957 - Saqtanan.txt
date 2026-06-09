@@ -1,0 +1,17 @@
+state={
+	id=1957
+	name="STATE_1957" # Saqtanan
+	manpower = 8930
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16392 10 }
+		victory_points = { 16423 5 }
+		victory_points = { 16441 10 }
+	}
+	provinces={
+		16392 16423 16441
+	}
+	local_supplies=0.0
+}

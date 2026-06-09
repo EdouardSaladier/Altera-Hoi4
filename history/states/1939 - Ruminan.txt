@@ -1,0 +1,15 @@
+state={
+	id=1939
+	name="STATE_1939" # Ruminan
+	manpower = 10770
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16245 5 }
+	}
+	provinces={
+		16245 16378 16404
+	}
+	local_supplies=0.0
+}

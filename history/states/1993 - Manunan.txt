@@ -1,0 +1,17 @@
+state={
+	id=1993
+	name="STATE_1993" # Manunan
+	manpower = 14510
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 16835 5 }
+		victory_points = { 16993 20 }
+		victory_points = { 17063 20 }
+	}
+	provinces={
+		16835 16993 17052 17063
+	}
+	local_supplies=0.0
+}

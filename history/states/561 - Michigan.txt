@@ -1,0 +1,20 @@
+state={
+	id=561
+	name="STATE_561" # Michigan
+	manpower = 30930
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+		victory_points = { 8183 10 }
+		victory_points = { 8207 40 }
+		victory_points = { 8248 20 }
+		victory_points = { 8267 40 }
+		victory_points = { 8464 80 }
+		victory_points = { 8640 20 }
+	}
+	provinces={
+		8183 8207 8248 8267 8464 8640
+	}
+	local_supplies=0.0
+}

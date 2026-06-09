@@ -1,0 +1,16 @@
+state={
+	id=1621
+	name="STATE_1621" # Chawinan
+	manpower = 6210
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 14536 5 }
+		victory_points = { 14542 5 }
+	}
+	provinces={
+		14536 14542
+	}
+	local_supplies=0.0
+}

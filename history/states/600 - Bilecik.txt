@@ -1,0 +1,18 @@
+state={
+	id=600
+	name="STATE_600" # Bilecik
+	manpower = 4666397
+	state_category = city
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = { 8492 10 }
+		victory_points = { 8516 80 }
+		victory_points = { 8599 5 }
+		victory_points = { 8647 5 }
+	}
+	provinces={
+		8492 8516 8599 8647
+	}
+	local_supplies=0.0
+}

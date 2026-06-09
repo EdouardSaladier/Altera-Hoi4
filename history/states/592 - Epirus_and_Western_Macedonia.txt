@@ -1,0 +1,18 @@
+state={
+	id=592
+	name="STATE_592" # Epirus and Western Macedonia
+	manpower = 2415799
+	state_category = large_town
+	history={
+		owner = GRC
+		add_core_of = GRC
+		victory_points = { 8431 10 }
+		victory_points = { 8745 5 }
+		victory_points = { 8796 20 }
+		victory_points = { 8933 1 }
+	}
+	provinces={
+		8431 8659 8745 8796 8933
+	}
+	local_supplies=0.0
+}

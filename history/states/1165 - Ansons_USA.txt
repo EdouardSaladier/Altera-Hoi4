@@ -1,0 +1,14 @@
+state={
+	id=1165
+	name="STATE_1165" # Ansons (USA)
+	manpower = 90
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+	}
+	provinces={
+		12149
+	}
+	local_supplies=0.0
+}

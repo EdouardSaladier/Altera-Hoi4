@@ -1,0 +1,16 @@
+state={
+	id=1799
+	name="STATE_1799" # Gulumirgin
+	manpower = 1270
+	state_category = rural
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = GLU
+		victory_points = { 15342 20 }
+	}
+	provinces={
+		15342
+	}
+	local_supplies=0.0
+}

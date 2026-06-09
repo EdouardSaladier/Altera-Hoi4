@@ -1,0 +1,20 @@
+state={
+	id=378
+	name="STATE_378" # Pays de la Loire
+	manpower = 5165627
+	state_category = city
+	history={
+		owner = FRN
+		add_core_of = FRN
+		victory_points = { 6821 10 }
+		victory_points = { 6822 5 }
+		victory_points = { 6832 5 }
+		victory_points = { 6948 20 }
+		victory_points = { 7034 10 }
+		victory_points = { 7179 5 }
+	}
+	provinces={
+		6821 6822 6832 6948 7034 7179
+	}
+	local_supplies=0.0
+}

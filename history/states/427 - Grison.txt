@@ -1,0 +1,17 @@
+state={
+	id=427
+	name="STATE_427" # Grison
+	manpower = 511815
+	state_category = town
+	history={
+		owner = ITL
+		add_core_of = ITL
+		add_core_of = HEL
+		victory_points = { 7202 5 }
+		victory_points = { 7267 20 }
+	}
+	provinces={
+		7202 7267
+	}
+	local_supplies=0.0
+}

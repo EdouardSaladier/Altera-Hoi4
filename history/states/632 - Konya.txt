@@ -1,0 +1,20 @@
+state={
+	id=632
+	name="STATE_632" # Konya
+	manpower = 5537837
+	state_category = city
+	history={
+		owner = TUR
+		add_core_of = TUR
+		victory_points = { 8746 10 }
+		victory_points = { 8755 10 }
+		victory_points = { 8772 1 }
+		victory_points = { 8854 10 }
+		victory_points = { 8866 10 }
+		victory_points = { 8980 20 }
+	}
+	provinces={
+		8746 8755 8772 8854 8866 8980
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,16 @@
+state={
+	id=910
+	name="STATE_910" # Yambu
+	manpower = 2240
+	state_category = pastoral
+	history={
+		owner = YAM
+		add_core_of = YAM
+		victory_points = { 10591 1 }
+		victory_points = { 10642 80 }
+	}
+	provinces={
+		10591 10642
+	}
+	local_supplies=0.0
+}

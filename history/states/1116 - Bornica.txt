@@ -1,0 +1,16 @@
+state={
+	id=1116
+	name="STATE_1116" # Bornica
+	manpower = 4453980
+	state_category = metropolis
+	history={
+		owner = BOI
+		add_core_of = BOI
+		victory_points = { 11881 20 }
+		victory_points = { 11882 40 }
+	}
+	provinces={
+		11881 11882
+	}
+	local_supplies=0.0
+}

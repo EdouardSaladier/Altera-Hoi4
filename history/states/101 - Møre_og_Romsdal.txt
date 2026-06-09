@@ -1,0 +1,15 @@
+state={
+	id=101
+	name="STATE_101" # Møre og Romsdal
+	manpower = 324931
+	state_category = town
+	history={
+		owner = THE
+		add_core_of = THE
+		victory_points = { 3529 10 }
+	}
+	provinces={
+		3529
+	}
+	local_supplies=0.0
+}

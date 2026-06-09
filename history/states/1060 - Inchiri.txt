@@ -1,0 +1,15 @@
+state={
+	id=1060
+	name="STATE_1060" # Inchiri
+	manpower = 799486
+	state_category = town
+	history={
+		owner = SEN
+		add_core_of = SEN
+		victory_points = { 11591 10 }
+	}
+	provinces={
+		11591 11592 11618
+	}
+	local_supplies=0.0
+}

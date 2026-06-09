@@ -1,0 +1,16 @@
+state={
+	id=1805
+	name="STATE_1805" # Qichwa
+	manpower = 4970
+	state_category = rural
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = { 15380 5 }
+		victory_points = { 15421 10 }
+	}
+	provinces={
+		15380 15421
+	}
+	local_supplies=0.0
+}

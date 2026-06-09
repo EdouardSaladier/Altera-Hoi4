@@ -1,0 +1,22 @@
+state={
+	id=626
+	name="STATE_626" # Gyeonggi-do
+	manpower = 18535025
+	state_category = large_city
+	history={
+		owner = JOS
+		add_core_of = JOS
+		victory_points = { 8721 40 }
+		victory_points = { 8823 1 }
+		victory_points = { 8834 5 }
+		victory_points = { 8948 80 }
+		victory_points = { 8949 10 }
+		victory_points = { 9003 80 }
+		victory_points = { 9075 80 }
+		victory_points = { 9249 10 }
+	}
+	provinces={
+		8721 8823 8834 8948 8949 9003 9075 9249
+	}
+	local_supplies=0.0
+}

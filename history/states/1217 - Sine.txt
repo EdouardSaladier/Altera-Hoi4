@@ -1,0 +1,15 @@
+state={
+	id=1217
+	name="STATE_1217" # Sine
+	manpower = 45365
+	state_category = town
+	history={
+		owner = NIG
+		add_core_of = NIG
+		victory_points = { 12412 20 }
+	}
+	provinces={
+		12412
+	}
+	local_supplies=0.0
+}

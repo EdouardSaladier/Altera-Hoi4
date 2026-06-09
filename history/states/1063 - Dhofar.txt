@@ -1,0 +1,15 @@
+state={
+	id=1063
+	name="STATE_1063" # Dhofar
+	manpower = 70114
+	state_category = rural
+	history={
+		owner = MAG
+		add_core_of = MAG
+		victory_points = { 11929 1 }
+	}
+	provinces={
+		11621 11708 11759 11913 11929 12013
+	}
+	local_supplies=0.0
+}

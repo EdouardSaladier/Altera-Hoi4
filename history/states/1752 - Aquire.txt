@@ -1,0 +1,18 @@
+state={
+	id=1752
+	name="STATE_1752" # Aquire
+	manpower = 68260
+	state_category = rural
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15177 20 }
+		victory_points = { 15527 2 }
+		victory_points = { 15609 5 }
+		victory_points = { 15684 20 }
+	}
+	provinces={
+		15072 15102 15109 15177 15206 15207 15230 15258 15283 15361 15384 15391 15428 15526 15527 15609 15684
+	}
+	local_supplies=0.0
+}

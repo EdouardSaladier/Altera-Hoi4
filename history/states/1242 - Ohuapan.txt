@@ -1,0 +1,16 @@
+state={
+	id=1242
+	name="STATE_1242" # Ohuapan
+	manpower = 4250
+	state_category = pastoral
+	history={
+		owner = NIC
+		add_core_of = NIC
+		victory_points = { 12579 5 }
+		victory_points = { 12587 10 }
+	}
+	provinces={
+		12579 12587
+	}
+	local_supplies=0.0
+}

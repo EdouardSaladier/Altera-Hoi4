@@ -1,0 +1,16 @@
+state={
+	id=1734
+	name="STATE_1734" # Sumina
+	manpower = 991172
+	state_category = large_city
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = SUI
+		victory_points = { 14980 10 }
+	}
+	provinces={
+		14980
+	}
+	local_supplies=0.0
+}

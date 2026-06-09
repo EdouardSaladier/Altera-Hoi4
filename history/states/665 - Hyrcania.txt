@@ -1,0 +1,16 @@
+state={
+	id=665
+	name="STATE_665" # Hyrcania
+	manpower = 1867999
+	state_category = city
+	history={
+		owner = HYR
+		add_core_of = HYR
+		victory_points = { 8998 10 }
+		victory_points = { 9114 40 }
+	}
+	provinces={
+		8998 9114
+	}
+	local_supplies=0.0
+}

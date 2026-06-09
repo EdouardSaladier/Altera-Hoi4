@@ -1,0 +1,15 @@
+state={
+	id=100
+	name="STATE_100" # Tungussko-Chunskiy rayon
+	manpower = 56040
+	state_category = pastoral
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 3783 2 }
+	}
+	provinces={
+		3527 3607 3640 3716 3741 3772 3783 3857 4092 4144
+	}
+	local_supplies=0.0
+}

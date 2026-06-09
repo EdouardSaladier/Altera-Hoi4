@@ -1,0 +1,16 @@
+state={
+	id=551
+	name="STATE_551" # Chengde
+	manpower = 1674242
+	state_category = large_town
+	history={
+		owner = MAJ
+		add_core_of = MAJ
+		victory_points = { 8090 1 }
+		victory_points = { 8309 1 }
+	}
+	provinces={
+		8090 8176 8281 8309
+	}
+	local_supplies=0.0
+}

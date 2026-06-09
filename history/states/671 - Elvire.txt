@@ -1,0 +1,16 @@
+state={
+	id=671
+	name="STATE_671" # Elvire
+	manpower = 2010758
+	state_category = city
+	history={
+		owner = ELV
+		add_core_of = ELV
+		victory_points = { 9043 10 }
+		victory_points = { 9131 5 }
+	}
+	provinces={
+		9043 9131
+	}
+	local_supplies=0.0
+}

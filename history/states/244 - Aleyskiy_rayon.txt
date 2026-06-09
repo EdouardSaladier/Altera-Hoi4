@@ -1,0 +1,37 @@
+state={
+	id=244
+	name="STATE_244" # Aleyskiy rayon
+	manpower = 3309045
+	state_category = town
+	history={
+		owner = CHE
+		add_core_of = CHE
+		victory_points = { 5445 5 }
+		victory_points = { 5466 10 }
+		victory_points = { 5480 5 }
+		victory_points = { 5562 2 }
+		victory_points = { 5591 10 }
+		victory_points = { 5606 80 }
+		victory_points = { 5615 5 }
+		victory_points = { 5629 5 }
+		victory_points = { 5630 2 }
+		victory_points = { 5631 2 }
+		victory_points = { 5642 5 }
+		victory_points = { 5643 2 }
+		victory_points = { 5644 5 }
+		victory_points = { 5658 2 }
+		victory_points = { 5788 5 }
+		victory_points = { 5829 40 }
+		victory_points = { 5850 5 }
+		victory_points = { 5884 5 }
+		victory_points = { 5903 2 }
+		victory_points = { 5982 5 }
+		victory_points = { 5983 20 }
+		victory_points = { 6011 5 }
+		victory_points = { 6059 5 }
+	}
+	provinces={
+		5445 5466 5480 5515 5562 5591 5606 5615 5629 5630 5631 5642 5643 5644 5658 5788 5829 5848 5849 5850 5868 5884 5903 5982 5983 6011 6059
+	}
+	local_supplies=0.0
+}

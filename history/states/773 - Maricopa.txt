@@ -1,0 +1,16 @@
+state={
+	id=773
+	name="STATE_773" # Maricopa
+	manpower = 5630
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 9659 20 }
+		victory_points = { 9811 2 }
+	}
+	provinces={
+		9659 9690 9811
+	}
+	local_supplies=0.0
+}

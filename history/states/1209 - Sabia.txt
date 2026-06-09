@@ -1,0 +1,21 @@
+state={
+	id=1209
+	name="STATE_1209" # Sabia
+	manpower = 7589209
+	state_category = city
+	history={
+		owner = SBI
+		add_core_of = SBI
+		victory_points = { 12382 1 }
+		victory_points = { 12400 10 }
+		victory_points = { 12416 10 }
+		victory_points = { 12447 5 }
+		victory_points = { 12472 1 }
+		victory_points = { 12487 5 }
+		victory_points = { 12531 1 }
+	}
+	provinces={
+		12382 12400 12416 12447 12472 12487 12531
+	}
+	local_supplies=0.0
+}

@@ -1,0 +1,15 @@
+state={
+	id=821
+	name="STATE_821" # Tipa
+	manpower = 5200
+	state_category = pastoral
+	history={
+		owner = ARI
+		add_core_of = ARI
+		victory_points = { 10205 5 }
+	}
+	provinces={
+		9982 10205 10206 10337
+	}
+	local_supplies=0.0
+}

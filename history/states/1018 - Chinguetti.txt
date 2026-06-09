@@ -1,0 +1,16 @@
+state={
+	id=1018
+	name="STATE_1018" # Chinguetti
+	manpower = 32469
+	state_category = rural
+	history={
+		owner = SEN
+		add_core_of = SEN
+		victory_points = { 11561 5 }
+		victory_points = { 11626 2 }
+	}
+	provinces={
+		11311 11356 11357 11461 11510 11525 11534 11553 11561 11565 11597 11626
+	}
+	local_supplies=0.0
+}

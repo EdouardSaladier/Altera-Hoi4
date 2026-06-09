@@ -1,0 +1,16 @@
+state={
+	id=929
+	name="STATE_929" # Wadi al Hayat
+	manpower = 323999
+	state_category = town
+	history={
+		owner = PHA
+		add_core_of = PHA
+		victory_points = { 10701 20 }
+		victory_points = { 10759 10 }
+	}
+	provinces={
+		10701 10759
+	}
+	local_supplies=0.0
+}

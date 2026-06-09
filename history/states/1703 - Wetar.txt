@@ -1,0 +1,15 @@
+state={
+	id=1703
+	name="STATE_1703" # Wetar
+	manpower = 18080
+	state_category = town
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = WET
+	}
+	provinces={
+		14884
+	}
+	local_supplies=0.0
+}

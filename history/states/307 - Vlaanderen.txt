@@ -1,0 +1,17 @@
+state={
+	id=307
+	name="STATE_307" # Vlaanderen
+	manpower = 8848377
+	state_category = large_city
+	history={
+		owner = FLA
+		add_core_of = FLA
+		victory_points = { 6193 80 }
+		victory_points = { 6210 20 }
+		victory_points = { 6260 40 }
+	}
+	provinces={
+		6193 6210 6260
+	}
+	local_supplies=0.0
+}

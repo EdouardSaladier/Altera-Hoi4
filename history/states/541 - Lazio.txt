@@ -1,0 +1,16 @@
+state={
+	id=541
+	name="STATE_541" # Lazio
+	manpower = 3770272
+	state_category = city
+	history={
+		owner = ITL
+		add_core_of = ITL
+		victory_points = { 8050 10 }
+		victory_points = { 8080 20 }
+	}
+	provinces={
+		8050 8080
+	}
+	local_supplies=0.0
+}

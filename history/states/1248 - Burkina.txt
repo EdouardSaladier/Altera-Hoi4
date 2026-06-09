@@ -1,0 +1,20 @@
+state={
+	id=1248
+	name="STATE_1248" # Burkina
+	manpower = 9263338
+	state_category = city
+	history={
+		owner = BUK
+		add_core_of = BUK
+		victory_points = { 12618 10 }
+		victory_points = { 12619 5 }
+		victory_points = { 12629 20 }
+		victory_points = { 12655 40 }
+		victory_points = { 12681 5 }
+		victory_points = { 12702 5 }
+	}
+	provinces={
+		12618 12619 12629 12655 12681 12702 12736 12757 12844
+	}
+	local_supplies=0.0
+}

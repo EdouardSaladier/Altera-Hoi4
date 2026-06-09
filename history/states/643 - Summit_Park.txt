@@ -1,0 +1,15 @@
+state={
+	id=643
+	name="STATE_643" # Summit Park
+	manpower = 160
+	state_category = pastoral
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = { 8835 1 }
+	}
+	provinces={
+		8835
+	}
+	local_supplies=0.0
+}

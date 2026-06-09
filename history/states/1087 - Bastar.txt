@@ -1,0 +1,16 @@
+state={
+	id=1087
+	name="STATE_1087" # Bastar
+	manpower = 4270
+	state_category = pastoral
+	history={
+		owner = MDR
+		add_core_of = MDR
+		add_core_of = BAT
+		victory_points = { 11765 20 }
+	}
+	provinces={
+		11765
+	}
+	local_supplies=0.0
+}

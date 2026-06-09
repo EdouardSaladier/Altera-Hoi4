@@ -1,0 +1,16 @@
+state={
+	id=269
+	name="STATE_269" # Zuid-Holland
+	manpower = 4033067
+	state_category = large_city
+	history={
+		owner = FLA
+		add_core_of = FLA
+		victory_points = { 5739 80 }
+		victory_points = { 5990 20 }
+	}
+	provinces={
+		5739 5990
+	}
+	local_supplies=0.0
+}

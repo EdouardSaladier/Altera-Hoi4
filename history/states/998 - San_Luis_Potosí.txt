@@ -1,0 +1,19 @@
+state={
+	id=998
+	name="STATE_998" # San Luis Potosí
+	manpower = 3344650
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 11161 20 }
+		victory_points = { 11252 5 }
+		victory_points = { 11328 5 }
+		victory_points = { 11402 80 }
+		victory_points = { 11486 5 }
+	}
+	provinces={
+		11161 11252 11328 11402 11486
+	}
+	local_supplies=0.0
+}

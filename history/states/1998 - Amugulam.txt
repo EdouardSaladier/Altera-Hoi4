@@ -1,0 +1,15 @@
+state={
+	id=1998
+	name="STATE_1998" # Amugulam
+	manpower = 5600
+	state_category = rural
+	history={
+		owner = DRV
+		add_core_of = DRV
+		add_core_of = AMU
+	}
+	provinces={
+		16940 16953
+	}
+	local_supplies=0.0
+}

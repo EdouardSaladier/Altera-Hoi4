@@ -1,0 +1,18 @@
+state={
+	id=947
+	name="STATE_947" # Sinaloa
+	manpower = 2612444
+	state_category = large_town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10808 5 }
+		victory_points = { 10926 40 }
+		victory_points = { 10959 80 }
+		victory_points = { 11170 5 }
+	}
+	provinces={
+		10808 10926 10959 11170
+	}
+	local_supplies=0.0
+}

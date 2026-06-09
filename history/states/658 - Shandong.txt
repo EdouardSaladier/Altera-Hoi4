@@ -1,0 +1,35 @@
+state={
+	id=658
+	name="STATE_658" # Shandong
+	manpower = 54506499
+	state_category = metropolis
+	history={
+		owner = CHN
+		add_core_of = CHN
+		victory_points = { 8959 1 }
+		victory_points = { 8971 80 }
+		victory_points = { 9040 80 }
+		victory_points = { 9053 80 }
+		victory_points = { 9063 20 }
+		victory_points = { 9098 20 }
+		victory_points = { 9099 20 }
+		victory_points = { 9126 80 }
+		victory_points = { 9154 80 }
+		victory_points = { 9162 40 }
+		victory_points = { 9198 20 }
+		victory_points = { 9237 80 }
+		victory_points = { 9248 20 }
+		victory_points = { 9261 20 }
+		victory_points = { 9270 80 }
+		victory_points = { 9326 80 }
+		victory_points = { 9339 10 }
+		victory_points = { 9392 20 }
+		victory_points = { 9417 80 }
+		victory_points = { 9418 40 }
+		victory_points = { 9495 80 }
+	}
+	provinces={
+		8959 8971 9040 9053 9063 9098 9099 9126 9154 9162 9198 9237 9248 9261 9270 9326 9339 9392 9417 9418 9495
+	}
+	local_supplies=0.0
+}

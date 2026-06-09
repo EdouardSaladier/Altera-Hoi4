@@ -1,0 +1,25 @@
+state={
+	id=1509
+	name="STATE_1509" # Pará
+	manpower = 142960
+	state_category = pastoral
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 14079 5 }
+		victory_points = { 14100 20 }
+		victory_points = { 14138 5 }
+		victory_points = { 14148 20 }
+		victory_points = { 14240 10 }
+		victory_points = { 14250 20 }
+		victory_points = { 14251 5 }
+		victory_points = { 14281 10 }
+		victory_points = { 14525 40 }
+		victory_points = { 14674 5 }
+		victory_points = { 14819 20 }
+	}
+	provinces={
+		14067 14068 14079 14100 14138 14148 14240 14250 14251 14281 14334 14348 14372 14398 14408 14445 14451 14493 14498 14524 14525 14543 14563 14608 14674 14690 14696 14718 14756 14766 14773 14774 14818 14819 14857 14934 14935
+	}
+	local_supplies=0.0
+}

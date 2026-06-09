@@ -1,0 +1,18 @@
+state={
+	id=972
+	name="STATE_972" # Taiwan
+	manpower = 21754469
+	state_category = metropolis
+	history={
+		owner = TAW
+		add_core_of = TAW
+		victory_points = { 10957 80 }
+		victory_points = { 11115 80 }
+		victory_points = { 11229 20 }
+		victory_points = { 11345 80 }
+	}
+	provinces={
+		10957 11115 11229 11345
+	}
+	local_supplies=0.0
+}

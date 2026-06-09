@@ -1,0 +1,24 @@
+state={
+	id=194
+	name="STATE_194" # Vladimir
+	manpower = 2051954
+	state_category = large_town
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = { 4925 5 }
+		victory_points = { 4953 10 }
+		victory_points = { 4975 2 }
+		victory_points = { 5000 20 }
+		victory_points = { 5001 5 }
+		victory_points = { 5026 5 }
+		victory_points = { 5051 5 }
+		victory_points = { 5063 5 }
+		victory_points = { 5139 10 }
+		victory_points = { 5160 5 }
+	}
+	provinces={
+		4925 4953 4975 5000 5001 5026 5051 5063 5139 5160
+	}
+	local_supplies=0.0
+}

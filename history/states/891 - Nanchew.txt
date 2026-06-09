@@ -1,0 +1,15 @@
+state={
+	id=891
+	name="STATE_891" # Nanchew
+	manpower = 23270
+	state_category = pastoral
+	history={
+		owner = NAN
+		add_core_of = NAN
+		victory_points = { 10470 80 }
+	}
+	provinces={
+		10470
+	}
+	local_supplies=0.0
+}

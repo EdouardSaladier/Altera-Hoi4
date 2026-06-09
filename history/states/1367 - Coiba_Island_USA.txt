@@ -1,0 +1,14 @@
+state={
+	id=1367
+	name="STATE_1367" # Coiba Island (USA)
+	manpower = 140
+	state_category = pastoral
+	history={
+		owner = AME
+		add_core_of = AME
+	}
+	provinces={
+		13235
+	}
+	local_supplies=0.0
+}

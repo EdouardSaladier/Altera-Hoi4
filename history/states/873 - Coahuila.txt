@@ -1,0 +1,26 @@
+state={
+	id=873
+	name="STATE_873" # Coahuila
+	manpower = 3871806
+	state_category = town
+	history={
+		owner = AZL
+		add_core_of = AZL
+		victory_points = { 10366 20 }
+		victory_points = { 10494 2 }
+		victory_points = { 10514 5 }
+		victory_points = { 10534 10 }
+		victory_points = { 10613 2 }
+		victory_points = { 10614 2 }
+		victory_points = { 10717 5 }
+		victory_points = { 10743 40 }
+		victory_points = { 10789 1 }
+		victory_points = { 10881 1 }
+		victory_points = { 10970 80 }
+		victory_points = { 10983 80 }
+	}
+	provinces={
+		10366 10494 10514 10534 10571 10613 10614 10659 10717 10743 10775 10789 10843 10881 10970 10983
+	}
+	local_supplies=0.0
+}

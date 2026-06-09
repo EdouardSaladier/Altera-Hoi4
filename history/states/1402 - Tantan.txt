@@ -1,0 +1,15 @@
+state={
+	id=1402
+	name="STATE_1402" # Tantan
+	manpower = 518050
+	state_category = city
+	history={
+		owner = TNT
+		add_core_of = TNT
+		victory_points = { 13467 5 }
+	}
+	provinces={
+		13467
+	}
+	local_supplies=0.0
+}
