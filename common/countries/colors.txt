@@ -4206,3 +4206,832 @@ ZUL = {
 	color = rgb { 64 159 162 }
 	color_ui = rgb { 64 159 162 }
 }
+
+
+
+JAP = {
+    color = rgb { 222 155 74 }
+    color_ui = rgb { 222 155 74 }
+}
+GER = {
+    color = rgb { 72 92 145 }
+    color_ui = rgb { 72 92 145 }
+}
+ENG = {
+    color = rgb { 169 49 117 }
+    color_ui = rgb { 169 49 117 }
+}
+SOV = {
+    color = rgb { 165 33 38 }
+    color_ui = rgb { 165 33 38 }
+}
+FRA = {
+    color = rgb { 49 109 141 }
+    color_ui = rgb { 49 109 141 }
+}
+MEN = {
+    color = rgb { 211 115 64 }
+    color_ui = rgb { 211 115 64 }
+}
+CHI = {
+    color = rgb { 172 79 73 }
+    color_ui = rgb { 172 79 73 }
+}
+PRC = {
+    color = rgb { 163 57 57 }
+    color_ui = rgb { 163 57 57 }
+}
+USA = {
+    color = rgb { 54 109 160 }
+    color_ui = rgb { 54 109 160 }
+}
+MAN = {
+    color = rgb { 192 154 105 }
+    color_ui = rgb { 192 154 105 }
+}
+ITA = {
+    color = rgb { 101 134 58 }
+    color_ui = rgb { 101 134 58 }
+}
+BLG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BYZ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CAC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CLN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DAC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DRV = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DMS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DZA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+IND = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MDR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MRL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+OKL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+OPH = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SLB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TNH = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+URL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+
+# Vanilla stub country colors (greyed out)
+ABK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ADU = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+AFA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+AFG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ALG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+AOI = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+AZR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BAY = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BEG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BHR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BLC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BLR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BLZ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BRN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BSK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+BYA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CBV = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CIN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CIP = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CKK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CMR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+COG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+COS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CRC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CSA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+CZE = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DDR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DEN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DJI = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DNZ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DOM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+DON = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ELS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+EQG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+EVE = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+EZO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+FIJ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+FSA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+FSM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GBA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GDC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GDL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GEO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GHA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GLC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GNA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GNB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GSM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+GXC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+HAN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+HBC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+HES = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+HOL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+HRZ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+IAS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+IMO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+INC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+INS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+INU = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+IRQ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ITZ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KBK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KHI = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KHL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KKP = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KLT = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KOS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KSH = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KUB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KUM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KUW = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+KYR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+LAO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+LAT = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+LBA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+LBV = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+LUX = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MEX = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MLD = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MLW = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MNT = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MPU = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MRT = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MYS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+MZB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NGA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NGR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NIR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NMB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NOA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NOR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NWF = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NXM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+NZL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+OCC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+OKN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+OMA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+OVO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PAP = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PLU = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PNG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PRE = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PRU = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PSH = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PSR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+PUE = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+QAT = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+QEM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RCG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RCO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RGB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RHD = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RIF = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RIG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RJP = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKH = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKI = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKO = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKT = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKU = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RKV = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RNA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RNG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ROA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ROM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+RWA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SAF = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SDL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SHL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SHX = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SKK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SLV = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SMI = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SND = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SOK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SOL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SPM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SPR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SRL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SUD = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+SWI = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TAJ = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TIB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TML = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TMS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TOS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TTS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+TZN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+UAE = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+UBD = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+UDM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+UGA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+UKR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+URG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+USB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+UZB = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+VGE = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+VIN = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+VLA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+VOL = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+WES = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+WGR = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+WLA = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+WLS = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+WPG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+XIC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+XSM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+YAK = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+YUC = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+YUG = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}
+ZIM = {
+    color = rgb { 128 128 128 }
+    color_ui = rgb { 128 128 128 }
+}

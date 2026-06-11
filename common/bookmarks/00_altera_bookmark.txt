@@ -1,0 +1,54 @@
+bookmarks = {
+bookmark = {
+name = "ALTERA_1936"
+desc = "ALTERA_1936_DESC"
+date = 1936.1.1
+picture = "GFX_select_date_1936"
+default_country = "JAP"
+default = yes
+JAP = {
+history = ""
+ideology = fascism
+}
+GER = {
+history = ""
+ideology = fascism
+}
+ENG = {
+history = ""
+ideology = democratic
+}
+SOV = {
+history = ""
+ideology = communism
+}
+FRA = {
+history = ""
+ideology = democratic
+}
+USA = {
+history = ""
+ideology = democratic
+}
+ITA = {
+history = ""
+ideology = fascism
+}
+CHI = {
+history = ""
+ideology = neutrality
+}
+MAN = {
+history = ""
+ideology = fascism
+}
+PRC = {
+history = ""
+ideology = communism
+}
+MEN = {
+history = ""
+ideology = fascism
+}
+}
+}
