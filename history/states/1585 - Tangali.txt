@@ -6,7 +6,7 @@ state={
 	history={
 		owner = DRV
 		add_core_of = DRV
-		add_core_of = TNA
+		add_core_of = TNH
 		victory_points = { 14382 1 }
 	}
 	provinces={

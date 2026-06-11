@@ -2,8 +2,6 @@ name="AlteraHoi4"
 version="1"
 replace_path="history/countries"
 replace_path="history/states"
-replace_path="history/general"
-replace_path="history/units"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
 tags={
@@ -11,4 +9,4 @@ tags={
 	"Utilities"
 }
 picture="Thumbnail.png"
-supported_version="1.14.*"
+supported_version="1.18.*"

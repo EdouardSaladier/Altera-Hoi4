@@ -1,4 +1,4 @@
-capital = 1
+capital = 874
 
 oob = "standard_templates"
 
