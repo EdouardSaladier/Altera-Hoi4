@@ -2,3 +2,12 @@ map/provinces.bmp.original
 map/States_Alpha.png
 map/*.pdn
 map/*.xcf
+
+# Generated/work files
+.agents/
+.codex_tmp/
+.vscode/
+scripts/
+map/mapgs files/
+map/high-res-maps/
+map/high_res_maps/
